@@ -9,9 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 愛媛で、いきてま
-tagline: Site Tagline
-author : Takeshi Kakeda
+title : 愛媛で、いきてま！
+author : 
   name : Takeshi Kakeda
   email : takeshi@giantech.jp
   github : kkd
