@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "little by little"
-description: ""
+description: "すこしづつ"
+source: 2013-03-31-little-by-little.md
 category: life
-tags: [tweet,]
+tags: [tweet]
 ---
 {% include JB/setup %}
 
