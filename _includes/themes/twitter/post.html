@@ -30,7 +30,7 @@
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
     <h4>Source</h4>
-    <span><a href="http://github.com/{{site.author.github}}/kkd.github.com/blob/master/_posts/{{page.source}}">{{page.title}}</a></span>
+    <span><a href="http://github.com/{{site.author.github}}/{{site.production_repo_name}}/blob/master/_posts/{{page.source}}">{{page.title}}</a></span>
 
   {% unless page.tags == empty %}
     <h4>Tags</h4>
