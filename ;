@@ -19,21 +19,12 @@ description: "I'm living at Ehime."
 {% endfor %}
 -->
 
-### Recent posts
+Recent posts
+
+-----------------------
 
 {% assign posts = site.posts %}
 {% assign listing_limit = 3 %}
 {% include post-listing.html %}
-
-
-<!--
-### Recent pages
-
-<ul>
-{% for page in site.pages offset: 0 limit: 3 %}
-  <li><a href="{{page.url}}">{{page.title}}</a></li>
-{% endfor %}
-</ul>
- -->
 
 <!--  {% include footer.html %} -->
