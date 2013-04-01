@@ -1,28 +1,18 @@
 ---
 layout: page
-title: "いきてまG"
+title: 
 description: "I'm living at Ehime."
 ---
 {% include JB/setup %}
 
-## ここはどこ？ / where is here?
-[@kkd](http://twitter.com/kkd)がお届けする雑多な日記。
+### ここはどこ？ / where is here?
+
+[@kkd](http://twitter.com/kkd)がお届けする雑多な日記。 詳しくは[ABOUT](about.html)へ
 
 ここ数年tweetばかりで長文執筆能力が低下したので頑張って日本語書かないと...
 
-
-<!--
-{% for post in site.posts offset: 0 limit: 3 %}
-  <h2>"{{ post.date | date: "%Y-%m-%d" }}"</h2>
-  <h2><a href="{{post.url}}">{{post.title}}</a></h2>
-  <p>{{ post.content }}</p>
-{% endfor %}
--->
-
-### Recent posts
-
 {% assign posts = site.posts %}
-{% assign listing_limit = 3 %}
+{% assign listing_limit = 5 %}
 {% include post-listing.html %}
 
 
@@ -36,4 +26,4 @@ description: "I'm living at Ehime."
 </ul>
  -->
 
-<!--  {% include footer.html %} -->
+<!-- {% include footer.html %}  -->
