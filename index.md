@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "いきてま in 愛媛"
-description: "I'm living at Ehime."
+title: "愛媛でいきてまG"
+description: "I'm living in Ehime."
 ---
 {% include JB/setup %}
 

@@ -62,9 +62,9 @@ h1, .h1 {
   letter-spacing: -1px;
 }
 h2, .h2 {
-  font-size: 42px;
-  line-height: 52px;
-  margin-top: 52px;
+  font-size: 36px;
+  line-height: 36px;
+  margin-top: 36px;
   margin-bottom: 26px;
   letter-spacing: -1px;
 }
@@ -85,6 +85,7 @@ ul,
 ol,
 dl,
 img {
+  font-family: serif;
   margin-top: 0;
   margin-bottom: 1.625em;
 }
@@ -101,7 +102,8 @@ blockquote cite {
   font-weight: normal;
 }
 strong {
-  font-weight: bold;
+  font-family: san-serif;
+  /*font-weight: bold;*/
 }
 em {
   font-weight: bold;
