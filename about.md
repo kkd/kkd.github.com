@@ -25,11 +25,9 @@ description: ""
 
 ### モットー/motto
 
-- Piecemeal Growth
-- Generate Quality
-- Think globally, Act locally, Ship globally
+Think globally, Act locally, Ship globally
 
-### 肩書
+### 肩書や役割/Title, Role
 
 - カルチャーカルティベータ/Culture Cultivator
 - アジャイルコーチ / Agile Coach
@@ -39,9 +37,14 @@ description: ""
 - 三児の父親 / Father of 3 kids
 - よき(?)夫 / Good(?) Husband
 
+### パーソナリティ/Personality
+
+- 思いたったら、試したい！
+- 整理が下手
+
 ### 興味対象/Interest
 
-- よりよいソフトウェア開発について(特にアジャイル)
+- よりよいソフトウェア開発について
     - アジャイルソフトウェア開発 / Agile Software Development
     - デザイン思考 / Design Thinking
 - 持続可能社会へ向けての活動・働きかけ
@@ -50,35 +53,28 @@ description: ""
     - パタン・ランゲージ/Pattern Language
     - コミュニティデザイン / Community Design
 
-### 略歴
+### 略歴/History
 
 - 1971年に生まれる。病院は都内だったが家は埼玉県。
-- 2000年よりフリーランスプログラマーとして独立。日本XPユーザー会の起ち上げに関わる。
+- 2000年よりフリーランスプログラマーとして独立。[日本XPユーザーグループ](http://xpjug.com/)の起ち上げに関わる。
 - 2003年12月より永和システムマネジメントに転職。アジャイル開発や開発技術のコンサルティング、オブジェクト倶楽部l(現オブラブ)の運営に関わる
 - 2006年よりチェンジビジョンに参画し製品開発(TRICHORD)に携わる。
-- 2008年にAgileConference2008において[Tangible Bug Tracking System with using BUGLEGO](http://www.slideshare.net/kkd/tangible-bug-tracking-using-lego-bricks-in-agile2008-toronto)を講演
-- 2009年より永和システムマネジメントにてアジャイル/プロジェクトファシリテーションのコンサルタントとして活動。
-- 2010年より東京から愛媛県松山市に拠点を移動。
-- 2010年よりアジャイルプロセス協議会四国支部を起ち上げ支部長に就任。
-- 現在はアジャイル／スクラム、プロジェクトファシリテーション、パタン・ランゲージなどの手法を用いて、顧客組織内に新しい文化を育て、価値提供能力を高めるお手伝いをしている。
+  - 2006/10/19 [第一回全日本腰リールカンファレンス](http://itpro.nikkeibp.co.jp/article/NEWS/20061020/251372/)を開催する
+  - 2007/04/07 [第二回全日本腰リールカンファレンス](http://goo.gl/T21LR)を開催する
+- 2008年にAgileConference2008において[Tangible Bug Tracking System with using BUGLEGO](http://www.slideshare.net/kkd/tangible-bug-tracking-using-lego-bricks-in-agile2008-toronto)を講演する。
+- 2009年より永和システムマネジメントにてアジャイル/プロジェクトファシリテーションのコンサルタントとして活動する。
+- 2010年より東京から愛媛県松山市に拠点を移動し独立する。(屋号: GianTech)。
+- 2010年より[アジャイルプロセス協議会四国支部](https://sites.google.com/site/agile459/)を起ち上げ支部長に就任する。
+- 2011年より[本橋正成](http://d.hatena.ne.jp/masanari/)氏と合同会社カルチャーワークスを設立する。
+- アジャイル／スクラム、プロジェクトファシリテーション、パタン・ランゲージなどの手法を用いて、顧客組織内に新しい文化を育て、価値提供能力を高めるお手伝いをしている。
 
-現在は、東京はもちろんのこと、大阪、広島、島根、愛媛など地方における活動を主体としている。
+### 過去の記事・連載/Articles
 
-### 過去の記事・連載
+記事寄稿多数あり。Webで参照できる連載は以下の通り。
 
 - [Happy Hacking Team](http://enterprisezine.jp/author/50) 
 - [Web2.0時代のソフトウェア開発手法](http://itpro.nikkeibp.co.jp/article/COLUMN/20060402/234199/)
-<!-- - Software Design -->
-<!-- - Java World -->
-<!-- - EM ZERO -->
-<!-- - IT Architect -->
 
 
-### Social accounts
 
-- [Twitter](http://twitter.com/kkd)
-- [Facebook](http://facebook.com/takeshi.kakeda)
-- [LinkedIn](http://jp.linkedin.com/in/takeshikakeda/)
-- [SlideShare](http://www.slideshare.net/kkd)
-- [CultureWorks](http://www.cultureworks.jp)
 
