@@ -10,7 +10,7 @@ tags: [purpose]
 
 ### 概要
 
-Lean Startupで知られるようになってきたMVP(Minimum Viable Product: 最小限の実用可能な製品)と、そのソリューション(どう実現するか)よりも先にMVPにおけるUVP(Unique Value Proposition: 独自の価値提案)を先に考え、MVPによって検証を繰り返しながらプロダクトを構築していくプロセスが、ソフトウェア開発におけるTDD(Test Driven Development : テスト駆動開発)におけるテストを先に書いて、実装して、リファクタリングするというプロセスに似ているのではないかと考えた。
+Lean Startupで知られるようになってきたMVP(Minimum Viable Product: 最小限の実用可能な製品)と、Running Leanで提唱されている独自の価値提案(Unique Value Proposition: UVP)について、ソリューション(どう実現するか)よりも先にUVPを先に考えMVPによって早期から検証を繰り返しながらプロダクトを構築していくプロセスが、ソフトウェア開発におけるTDD(Test Driven Development : テスト駆動開発)におけるテストを先に書いて、実装して、リファクタリングするというプロセスに似ているのではないかと考えた。
 
 ### 本文
 
