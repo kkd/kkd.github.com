@@ -3,7 +3,7 @@ layout: post
 title: "価値提案駆動 -- TDDとの類似点"
 description: ""
 category: essay
-soruce: 2013-04-04-value-proposition-driven.md
+source: 2013-04-04-value-proposition-driven.md
 tags: [purpose]
 ---
 {% include JB/setup %}
