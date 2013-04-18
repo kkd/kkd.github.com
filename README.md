@@ -1,16 +1,15 @@
 # いきてまG ; I'm living in Ehime, Japan.
 
-This is a repository of my blog contents which uses jekyll-bootstrap.
-If you'd like to send feedback to me, please fork me.
+This is a repository of [my blog](http://kkd.github.com) contents which uses jekyll-bootstrap.
+If you'd like to send feedback to me, please fork it.
 
-I'll write the following genre in my blog.
+I'll write articles in Japanese. If you'd like to translate into English, please contact me.
+
+Categories of articles in my blog are the following.
 
 * Agile/Lean/Scrum for  Software Development 
 * Pattern Language for software and organization development
-* Permaculture for responsible life of me
-* Book review
+* Permaculture for designing sustainable life, town and organization
+* Book review (mostly Japanese books)
 * Life log
 
-and so on...
-
-$Date$
