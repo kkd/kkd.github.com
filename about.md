@@ -31,8 +31,7 @@ description: ""
 
 - カルチャーカルティベータ/Culture Cultivator
 - アジャイルコーチ / Agile Coach
-- パーマカルチャリスト / Permaculturist
-  - 認定パーマカルチャーデザイナー / Certificated Permaculture Designer
+- パーマカルチャーデザイナー / Permaculture Designer
 - ファンランナー / Fun-Runner
 - 三児の父親 / Father of 3 kids
 - よき(?)夫 / Good(?) Husband
