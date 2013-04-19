@@ -25,7 +25,7 @@ description: ""
 
 ### モットー/motto
 
-Think globally, Act locally, Ship globally
+- Think globally, Act locally, Ship globally
 
 ### 肩書や役割/Title, Role
 
@@ -56,7 +56,8 @@ Think globally, Act locally, Ship globally
 ### 略歴/History
 
 - 1971年に生まれる。病院は都内だったが家は埼玉県。
-- 2000年よりフリーランスプログラマーとして独立。[日本XPユーザーグループ](http://xpjug.com/)の起ち上げに関わる。
+- 2000年よりフリーランスプログラマーとして独立。
+- 2001年より[日本XPユーザーグループ](http://xpjug.com/)の起ち上げに関わる。
 - 2003年12月より永和システムマネジメントに転職。アジャイル開発や開発技術のコンサルティング、オブジェクト倶楽部l(現オブラブ)の運営に関わる
 - 2006年よりチェンジビジョンに参画し製品開発(TRICHORD)に携わる。
   - 2006/10/19 [第一回全日本腰リールカンファレンス](http://itpro.nikkeibp.co.jp/article/NEWS/20061020/251372/)を開催する
