@@ -43,14 +43,24 @@ description: ""
 
 ### 興味対象/Interest
 
-- よりよいソフトウェア開発について
-    - アジャイルソフトウェア開発 / Agile Software Development
-    - デザイン思考 / Design Thinking
-- 持続可能社会へ向けての活動・働きかけ
-    - パーマカルチャー / Permaculture
-- 当事者参加型のまちづくり
-    - パタン・ランゲージ/Pattern Language
-    - コミュニティデザイン / Community Design
+- ソフトウェア開発について
+  - アジャイルソフトウェア開発 / Agile Software Development
+  - リーンスタートアップ
+-  モノ・コトのデザインについて
+  - デザイン思考 / Design Thinking
+  - パーマカルチャー / Permaculture
+  - パタン・ランゲージ/Pattern Language
+  - コミュニティデザイン / Community Design
+- 文具
+  - 万年筆、ノート
+
+### 趣味
+
+- ホームパーマカルチャーデザイン
+  - 食べられる庭、生態系がある庭、循環する家
+- ランニング
+  - 今はリハビリ中だが、来年の愛媛マラソンには出たい
+  - 今年はトレイルにもでたいなぁ...
 
 ### 略歴/History
 
