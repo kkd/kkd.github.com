@@ -21,6 +21,9 @@ author :
   linkedin : takeshikakeda
   slideshare : kkd
 
+facebook :
+  admin_id : 566704592
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -84,6 +87,7 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
+
 
   comments :
     provider : facebook
