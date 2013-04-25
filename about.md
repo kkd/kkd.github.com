@@ -31,7 +31,7 @@ description: ""
 
 - カルチャーカルティベータ/Culture Cultivator
 - アジャイルコーチ / Agile Coach
-- パーマカルチャーデザイナー / Permaculture Designer
+- パーマカルチャーデザイナー (パーマカルチャーデザインコース(PDC)修了)/ Permaculture Designer (Permaculture Design Certificate Course )
 - ファンランナー / Fun-Runner
 - 三児の父親 / Father of 3 kids
 - よき(?)夫 / Good(?) Husband
@@ -43,9 +43,9 @@ description: ""
 
 ### 興味対象/Interest
 
-- ソフトウェア開発について
+- ソフトウェアを通じた価値提供
   - アジャイルソフトウェア開発 / Agile Software Development
-  - リーンスタートアップ
+  - リーンスタートアップ / Lean Startup
 -  モノ・コトのデザインについて
   - デザイン思考 / Design Thinking
   - パーマカルチャー / Permaculture
