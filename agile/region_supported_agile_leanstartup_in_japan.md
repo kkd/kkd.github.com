@@ -7,6 +7,8 @@ description: ""
 
  地方で自治体が中心となってアジャイル、リーンスタートアップを支援(補助制度、研修、講演)している、あるいは実践している事例集を収集しています。もしも他県の事例をご存知の方がいらしたら、 [@kkd](http://twitter.com/kkd)に連絡を頂くか、pull request頂けると嬉しいです。
 
+ *Version: 20130511*
+
 ## 北海道
 
 * [北海道ITアジャイル戦略](http://www.hkd.meti.go.jp/hokim/h23itagile/index.htm)
