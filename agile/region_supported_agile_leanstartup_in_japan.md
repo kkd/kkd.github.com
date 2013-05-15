@@ -7,7 +7,7 @@ description: ""
 
  地方で自治体が中心となってアジャイル、リーンスタートアップを支援(補助制度、研修、講演)している、あるいは実践している事例集を収集しています。もしも他県の事例をご存知の方がいらしたら、 [@kkd](http://twitter.com/kkd)に連絡を頂くか、pull request頂けると嬉しいです。
 
- *Version: 20130511*
+ *Version: 20130515*
 
 ## 北海道
 
@@ -22,6 +22,15 @@ description: ""
 
 * [AgileJapan2010 官公庁でも取り組み始めたアジャイル！ 山形県庁](http://www.slideshare.net/AgileJapan/agilejapan2010)
   *  支援ではないが山形でのアジャイル事例
+
+## 埼玉県
+
+* [NPO法人埼玉ITCの「平成23年5月埼玉IT経営研修セミナー](http://www.saitama-itc.org/npo/modules/NPO/img/kaihou_201106.pdf)
+
+## 神奈川県
+
+* 一般社団法人 神奈川県情報サービス産業協会
+  * [アジャイルSEのリーダーシップとコミュニケーション](https://www.kia.or.jp/MAKE_JIMU/doc/event_detail/3975.html)
 
 ## 岐阜県
 
@@ -47,6 +56,10 @@ description: ""
 * [佐賀県庁でもできる！プロジェクトファシリテーション](http://www.slideshare.net/hiranabe/agilejapan2010-saga-prefecture-higashi)
   * 佐賀県庁でのプロジェクトファシリテーション事例(プロジェクトファシリテーションはアジャイルのサブセット)
 
+## 沖縄県
+
+* [沖縄県ビジネスインキュベーションセミナー](http://everevo.com/event/4334)
+ * リーン・スタートアップを活用したこれからのベンチャー創業支援について講演
 
 
 
