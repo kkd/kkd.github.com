@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "アジャイルやリーンスタートアップを支援している地方自治体"
+title: "アジャイルやリーンスタートアップを支援・実践している地方の事例集"
 description: ""
 ---
 {% include JB/setup %}
