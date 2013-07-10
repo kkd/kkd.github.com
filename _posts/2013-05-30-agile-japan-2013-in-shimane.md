@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-2013/05/30にAgile Japan 2013の島根サテライト、[**企業競争力強化セミナー 顧客により高い価値を提供するためには　～Agile Japan 2013 島根サテライト「地方企業×アジャイル」～』**](http://aj13shimane.herokuapp.com/)でワークショップを実施してきました。
+Agile Japan 2013の島根サテライト、**企業競争力強化セミナー 顧客により高い価値を提供するためには　～Agile Japan 2013 島根サテライト「地方企業×アジャイル」～』**でワークショップを実施してきました。
 
 元々、Facebook上でAgileJapan2013の中国地方(島根、広島、岡山)でのサテライト開催が発表された後、開催時期をずらすことで、可能であれば私が各サテライトに回ってヘルプしたいという話をしていました。これは地方だとコンテンツがどうしても不足してしまう傾向があるため、少しでもその負担を軽減できればよいな、という心づもりでした。
 
@@ -30,7 +30,9 @@ tags: []
 
 事前に意図していたのではないのですが、静社長の「リーンスタートアップ的」な話、吉岡社長の「顧客への価値」の話、そして私のワークと、それぞれがバラバラのように見えて、実はうまい流れで繋がっていたのではないかなと感じました。これはオーガナイザーの @tsurur グッジョブですね。
 
-時間が足りずにやりきれなかったのですが、続きがやりたかったと言って頂けたので、今度は十分な時間をもってまたワークショップの機会を設けてもらえると嬉しいです。それまでにもっと改善しておきます！ また呼んでください！
+時間が足りずにやりきれなかったのですが、続きがやりたかったと言って頂けたので、今度は十分な時間をもってまたワークショップの機会を設けてもらえると嬉しいです。それまでにもっと改善しておきます。
+
+
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/22247214" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/kkd/ss-22247214" title="価値提案から始める" target="_blank">価値提案から始める</a> </strong> from <strong><a href="http://www.slideshare.net/kkd" target="_blank">Takeshi Kakeda</a></strong> </div>
 
