@@ -15,7 +15,7 @@ Agile Japan 2013の島根サテライト、**企業競争力強化セミナー �
 
 島根県の皆さんとは、平成22年度の[Rubyビジネスモデル研究実証事業](http://www.pref.shimane.lg.jp/industry/syoko/sangyo/itsangyo/rubybiz_outcome.html)以来のお付き合いで、[Agile Shimane](http://agileshimane.tumblr.com/)の起ち上げセミナーなど、スポットで何度か顔を出させてもらっている馴染の場所でもあります。
 
-今回はエンジニア向けというよりも、会社経営者向けのセミナーにしたいという要望だったため、最近の私の着目テーマである「価値提案」を考えてみるというワークを設計しました。
+今回はエンジニア向けというよりも、会社経営者向けのセミナーにしたいという要望だったため、最近の私の着目テーマである「価値提案」を考えるというワークを設計しました。
 
 当日、他の講演者の方とお会いしてびっくりしたのは、お二人とも企業経営者であり、それぞれの経験談をお話されていたことでした。
 
@@ -26,9 +26,13 @@ Agile Japan 2013の島根サテライト、**企業競争力強化セミナー �
 
 お二人の話を受けての私のワークでは、まず最初に地方におけるアジャイルの位置づけが私の中で変ってきたという問題意識を提示した後、Running Leanワークショップをベースとして、顧客価値の定義を**体験**と位置づけ、身の回りの価値を体験として表現したり、困り毎をNVC(非暴力コミュニケーション)のフォーマットで表現した後に、共感マップ→リーンキャンバスに繋げていくワークにデザインしました。
 
+参加者が50名という大勢だったため、とてもすべてのグループを十分に回れなかったのですが、皆さん楽しそうにワークしてくれていました。参加者に助けられました。
+
 事前に意図していたのではないのですが、静社長の「リーンスタートアップ的」な話、吉岡社長の「顧客への価値」の話、そして私のワークと、それぞれがバラバラのように見えて、実はうまい流れで繋がっていたのではないかなと感じました。これはオーガナイザーの @tsurur グッジョブですね。
 
-時間が足りずにやりきれなかったのですが、続きがやりたかったと言って頂けたので、今度は十分な時間をもってまたワークショップの機会を設けてもらえると嬉しいです。それまでにもっと改善しておきますので。
+時間が足りずにやりきれなかったのですが、続きがやりたかったと言って頂けたので、今度は十分な時間をもってまたワークショップの機会を設けてもらえると嬉しいです。それまでにもっと改善しておきます。
+
+
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/22247214" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/kkd/ss-22247214" title="価値提案から始める" target="_blank">価値提案から始める</a> </strong> from <strong><a href="http://www.slideshare.net/kkd" target="_blank">Takeshi Kakeda</a></strong> </div>
 
