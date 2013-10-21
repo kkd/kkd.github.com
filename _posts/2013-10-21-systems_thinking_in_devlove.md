@@ -4,6 +4,7 @@ title: "DevLOVE 「システム思考を手に入れよう。」に向けて"
 description: ""
 category: event
 tags: [systemsthinking]
+source: 2013-10-21-systems_thinking_in_devlove.md
 ---
 {% include JB/setup %}
 
