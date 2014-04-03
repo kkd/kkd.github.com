@@ -4,7 +4,7 @@ title: "プロダクトオーナーステップアップセミナー開催"
 description: ""
 source: 2014-03-26-po-stepup-seminar.md
 category: Event
-tags: [Seminar, Agile, ProductOwner]
+tags: [Lecture, Agile, ProductOwner]
 ---
 {% include JB/setup %}
 
