@@ -8,6 +8,8 @@ tags: [agile, sendai, ipa]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/" width="500" height="375" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 3/19に、[仙台にお呼ばれ](http://goo.gl/E9inDE)して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の[ガイダンス](http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131)です。
 
 私の両親は岩手県一関市(大東町)出身で東北は私のルーツです。仙台は途中下車したことはなかったので初訪問となりました。
