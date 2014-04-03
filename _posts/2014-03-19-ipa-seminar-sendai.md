@@ -3,7 +3,8 @@ layout: post
 title: "仙台でアジャイル型開発におけるプラクティス活用リファレンスガイドセミナー開催"
 description: ""
 category: event
-tags: [agile, tohoku, ipa]
+source: 2014-03-19-ipa-seminar-sendai.md
+tags: [agile, sendai, ipa]
 ---
 {% include JB/setup %}
 
