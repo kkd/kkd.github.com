@@ -3,8 +3,8 @@ layout: post
 title: "プロダクトオーナーステップアップセミナー開催"
 description: ""
 source: 2014-03-26-po-stepup-seminar.md
-category: Event
-tags: [Lecture, Agile, ProductOwner]
+category: Agile
+tags: [Seminar, Event, ProductOwner]
 ---
 {% include JB/setup %}
 

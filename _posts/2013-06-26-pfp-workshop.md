@@ -3,8 +3,8 @@ layout: post
 title: "2013/06/26 PFP関東ワークショップを実施しました"
 description: "PFP関東にお呼ばれして、PF誕生秘話やワークショップを開催しました。"
 source: 2013-06-26-pfp-workshop.md
-category: projectfacilitation
-tags: [pf, pfp]
+category: PF
+tags: [pfp, event]
 ---
 {% include JB/setup %}
 

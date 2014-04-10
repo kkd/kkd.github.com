@@ -2,9 +2,9 @@
 layout: post
 title: "Agile Japan 2013 島根サテライト"
 description: "AgileJapan2013島根サテライトにお邪魔しました。"
-category: agile
+category: Agile
 source: 2013-05-30-agile-japan-2013-in-shimane.md
-tags: [agile, agilejapan2013, shimane]
+tags: [agile, agilejapan2013, shimane, event]
 ---
 {% include JB/setup %}
 

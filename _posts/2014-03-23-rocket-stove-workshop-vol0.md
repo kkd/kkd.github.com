@@ -2,9 +2,9 @@
 layout: post
 title: "ロケットストーブワークショップ in 松山"
 description: "念願のロケットストーブワークショップを開催した！"
-category: event
+category: permaculture
 source: 2014-03-32-rocket-stove-workshop-vol0.md
-tags: [workshop, permaculture, rocketstove]
+tags: [workshop, rocketstove, event]
 ---
 {% include JB/setup %}
 

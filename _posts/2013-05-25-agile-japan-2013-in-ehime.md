@@ -2,9 +2,9 @@
 layout: post
 title: "Agile Japan 2013 四国・愛媛サテライト開催"
 description: ""
-category: agile
+category: Agile
 source: 2013-05-25-agile-japan-2013-in-ehime.md
-tags: [agilejapan, agile459, ehime]
+tags: [agilejapan, agile459, ehime, event]
 ---
 {% include JB/setup %}
 
