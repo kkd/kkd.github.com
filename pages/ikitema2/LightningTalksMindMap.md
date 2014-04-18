@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "LT説明のマインドマップ"
 description: ""
 ---
 {% include JB/setup %}
