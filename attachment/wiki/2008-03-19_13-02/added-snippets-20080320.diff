@@ -1,0 +1,144 @@
+diff -r a35cbbf2ffd1 text-mode/date
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/date	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,3 @@
++#name : Current date
++# --
++`(format-time-string "%Y-%m-%d" (current-time))`
+diff -r a35cbbf2ffd1 text-mode/name
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/name	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,3 @@
++#name : full-name <user-mail-address>
++# --
++`user-full-name` <`user-mail-address`>
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/name.1
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/name.1	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,3 @@
++#name : full-name
++# --
++`user-full-name`
+diff -r a35cbbf2ffd1 text-mode/rst-mode/bib
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/bib	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,8 @@
++#name : Bibliographic Fields
++# --
++:Authors: ${1:`user-full-name`}
++:Address: ${2:`user-mail-address`}
++:Version: ${3:version}
++:Date: ${4:`(format-time-string "%Y-%m-%d" (current-time))`}
++:Copyright: ${5:copyright}
++
+diff -r a35cbbf2ffd1 text-mode/rst-mode/cit
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/cit	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,5 @@
++#name : Citations
++# --
++[${1:reference name}]_
++
++.. [$1] ${2:citation}
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/contents
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/contents	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,5 @@
++#name : Contents directive
++# --
++.. contents:: ${1:caption}
++  :depth: ${2:integer}
++  :backlinks : ${3:"entry" or "top" or "none"}
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/fig
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/fig	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,10 @@
++#name : Figure
++# --
++.. figure:: ${1:image}
++  :height: ${2:height}
++  :width: ${3:width}
++  :scale: ${4:scale}
++  :alt: ${5:alt}
++  :align: ${6:left}
++
++  ${7:caption}
+diff -r a35cbbf2ffd1 text-mode/rst-mode/foot
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/foot	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,6 @@
++#name : Footnote
++# --
++[${1:#}]_
++
++
++.. [$1] : ${2:Notation}
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/href
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/href	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,5 @@
++#name : Hyperlink
++# --
++ \`${1:label}\`_
++
++.. _${1:label} : ${2:link}
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/img
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/img	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,8 @@
++#name : Image
++# --
++.. image:: ${1:image}
++   :height: ${2:height}
++   :width: ${3:width}
++   :scale: ${4:scale}
++   :alt: ${5:alt}
++   :align: ${6:left}
+diff -r a35cbbf2ffd1 text-mode/rst-mode/sectnum
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/sectnum	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,6 @@
++#name : Section autonumbering directive
++.. sectnum::
++  :depth: ${1:integer}
++  :prefix: ${2:string}
++  :suffix: ${3:string}
++  :start: ${4:integer}
+diff -r a35cbbf2ffd1 text-mode/rst-mode/subsect
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/subsect	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,6 @@
++#name : Sub section title
++# --
++${1:Subsection}
++${1:$(make-string (string-width text) ?\`)}
++
++$0
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/subst
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/subst	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,6 @@
++#name : Substitution definition
++# --
++|${1:substitution text}|
++
++.. |$1| ${2:directive type}:: ${3:data}
++   ${4:directive block}
+\ No newline at end of file
+diff -r a35cbbf2ffd1 text-mode/rst-mode/subsubsect
+--- /dev/null	Thu Jan 01 00:00:00 1970 +0000
++++ b/text-mode/rst-mode/subsubsect	Thu Mar 20 04:42:51 2008 +0900
+@@ -0,0 +1,6 @@
++#name : Sub sub section title
++# --
++${1:Sub sub section}
++${1:$(make-string (string-width text) ?\')}
++
++$0
+\ No newline at end of file
