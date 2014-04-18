@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<album version="1.1">
+  <name>WaistreelConference2</name>
+  <description>第二回全日本腰リールカンファレンス 2007-04-06</description>
+  <author>KKD</author>
+  <created>2007 4 25</created>
+  <modified>2007 4 25</modified>
+  <theme>Radiant</theme>
+  <thumbnailDimensions>200 150</thumbnailDimensions>
+  <slideshowDimensions>600 400</slideshowDimensions>
+  <thumb path="img/album.jpg"/>
+  <subalbum>
+    <thumb path="img/1_thumb.jpg"/>
+    <name>腰カン</name>
+    <description>ふりかえりと集合写真</description>
+    <photo>
+      <description>ふりかえりTryと、技評野口さん</description>
+      <image>
+        <md5>05b63fe0274444350678a534bf81043d</md5>
+        <modified>2007 4 25 8 3 45 0</modified>
+      </image>
+      <slideshow>
+        <md5>1771c1247b94bfd6f44a520b51d5dd36</md5>
+        <modified>2007 4 25 8 3 46 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>b6aff8fc2a32a55c0be75ebf38dda1d8</md5>
+        <modified>2007 4 25 8 3 46 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>ふりかえりProblem</description>
+      <image>
+        <md5>f477a4385fa35e86357adb12f016abcd</md5>
+        <modified>2007 4 25 8 3 46 0</modified>
+      </image>
+      <slideshow>
+        <md5>8261836f5945ae1a1cc689546f8b40ce</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>fd5acba052b418b646151d36108ae61b</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>ふりかえりKeep</description>
+      <image>
+        <md5>db05b52dd3344791bad80168dcb826c9</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </image>
+      <slideshow>
+        <md5>eed8ffa8b23862cf05325dd666745fa2</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>843643c75266d64bebcbde7f271623c8</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>各自のメモを手にとり記念撮影</description>
+      <image>
+        <md5>05b17574d1687bb8b02e1ff93e04019d</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </image>
+      <slideshow>
+        <md5>2ce63ec124e07eb237f4fe11d13d7610</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>356fd243702ec6f8849ab50564d36653</md5>
+        <modified>2007 4 25 8 3 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>記念撮影その2。「少数はぁ〜」</description>
+      <image>
+        <md5>b349141bacffaf2f8742cbd02bc9c5cc</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>20c64ccdb2ecf26c21e783780fa8d31c</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>234fa35932a04aca8413d505402dded2</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </thumb>
+    </photo>
+  </subalbum>
+  <subalbum>
+    <thumb path="img/2_thumb.jpg"/>
+    <name>ワークショップ</name>
+    <description></description>
+    <photo>
+      <description>デジタルとアナログについて</description>
+      <image>
+        <md5>ac3cedb21de42a03faeea778118313f2</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>eb95274c500a0bcfac4437dc9c24f2f9</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>39cb6d53deef0ce7ad3cc34eb203cc79</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>とったメモはどうする？</description>
+      <image>
+        <md5>a94f9dbccf1e46b6ce1f16f0e1b0e39f</md5>
+        <modified>2007 4 25 8 3 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>5090d79bfe5275b73ee058f68282e05c</md5>
+        <modified>2007 4 25 8 3 49 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>1801fc85588b67d9a65182218ba8da48</md5>
+        <modified>2007 4 25 8 3 49 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>デジアナその2</description>
+      <image>
+        <md5>eadee0428b4293601020b73e89ecbf6e</md5>
+        <modified>2007 4 25 8 3 49 0</modified>
+      </image>
+      <slideshow>
+        <md5>f283e7a4a672b04eae1ba6aeaae4a6e4</md5>
+        <modified>2007 4 25 8 3 49 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>dc165b60615c3901e0549672ddb16fdd</md5>
+        <modified>2007 4 25 8 3 49 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>羽生田さんに聞きたい</description>
+      <image>
+        <md5>4fc9a679d9ea69a16574f3785ce931b8</md5>
+        <modified>2007 4 25 8 3 50 0</modified>
+      </image>
+      <slideshow>
+        <md5>f2612119b6c9377947530332548e2155</md5>
+        <modified>2007 4 25 8 3 50 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>62dc92e6489d72c13fed5d0d907028a2</md5>
+        <modified>2007 4 25 8 3 50 0</modified>
+      </thumb>
+    </photo>
+  </subalbum>
+</album>
