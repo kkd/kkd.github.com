@@ -31,6 +31,7 @@ source: 2014-04-18-i-talked-about-my-story-since-2010.md
 
 * [勉強会参加メモ：DevLOVE「とあるアジャイル実践者の愛媛での話」](http://araratakeshi.blogspot.jp/2014/04/devlove.html?)
 * [DevLOVE「とあるアジャイル実践者の愛媛での話」参加メモ](http://suzukima.hatenablog.com/entry/2014/04/17/001959)
+* [DEVLOVE- とある愛媛県の実践者に参加してきました](http://derabon.com/2014/04/16/devlove-%E3%81%A8%E3%81%82%E3%82%8B%E6%84%9B%E5%AA%9B%E7%9C%8C%E3%81%AE%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/)
 
 話の冒頭の質問については下記を参考にしてください。
 
