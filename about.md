@@ -87,10 +87,13 @@ description: ""
 - 2006年よりチェンジビジョンに参画し製品開発(TRICHORD)に携わる。
   - 2006/10/19 [第一回全日本腰リールカンファレンス](http://itpro.nikkeibp.co.jp/article/NEWS/20061020/251372/)を開催する
   - 2007/04/07 [第二回全日本腰リールカンファレンス](http://goo.gl/T21LR)を開催する
+- 2007年にJaSST(ソフトウェアテストシンポジウム)にて[ベストスピーカー賞受賞](http://jasst.jp/archives/jasst07e.html)する。
 - 2008年にAgileConference2008において[Tangible Bug Tracking System with using BUGLEGO](http://www.slideshare.net/kkd/tangible-bug-tracking-using-lego-bricks-in-agile2008-toronto)を講演する。
 - 2009年より永和システムマネジメントにてアジャイル/プロジェクトファシリテーションのコンサルタントとして活動する。
 - 2010年より東京から愛媛県松山市に拠点を移動し独立する。(屋号: GianTech)。
 - 2010年より[アジャイルプロセス協議会四国支部](https://sites.google.com/site/agile459/)を起ち上げ支部長に就任する。
+- 2010年8月より[Rubyビジネスモデル研究実証事業](http://www.pref.shimane.lg.jp/sangyo/it/2010_04_ruby_business_model.html)においてテクノプロジェクト様の支援に参画する
+  - [テクノプロジェクト様の報告書](http://www.tpj.co.jp/ruby/news/20110411.html)
 - 2011年より[本橋正成](http://d.hatena.ne.jp/masanari/)氏と合同会社カルチャーワークスを設立する。
 - 2011年にパーマカルチャーデザインコース修了
 - 2012年に[「非ウォーターフォール型開発の普及要因と適用領域の拡大に関する調査」報告書（国内の中・大規模プロジェクト事例）](http://goo.gl/sI9nAk)に携わる。
