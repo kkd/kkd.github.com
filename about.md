@@ -13,7 +13,7 @@ description: ""
 
 - [合同会社カルチャーワークス](http://wwww.cultureworks.jp/)  共同代表
   - CultureWorks, LLC Co-Founder
-- [アジャイルプロセス協議会四国支部 "Agile459"](https://sites.google.com/site/agile459/) 支部長
+- [アジャイルプロセス協議会 四国エリア "Agile459"](https://sites.google.com/site/agile459/) 代表
   - Japan Agile Process Association, Shikoku Branch, "Agile459" Representative
 - [プロジェクト・ファシリテーター協会](http://www.pf-i.org/) 理事
   - Project Facilitator Association, Director
