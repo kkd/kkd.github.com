@@ -9,13 +9,24 @@ tags: [agilejapan, tokushima]
 
 ## 神山ツアーについて
 
-徳島サテライトの最後は、神山町のサテライトオフィス見学だった。コワーキングスペースのダンクソフトさんのワークスペースや、[プラットイーズさんのえんがわオフィス](http://www.plat-ease.co.jp/%E3%81%88%E3%82%93%E3%81%8C%E3%82%8F%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9-%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/)、[Sansan](http://jp.sansan.com/)さんのサテライトオフィスを見学させて頂いた。
+徳島サテライトの本編終了後に、神山町のサテライトオフィスの見学を実施した。コワーキングスペースのダンクソフトさんのワークスペースや、[プラットイーズさんのえんがわオフィス](http://www.plat-ease.co.jp/%E3%81%88%E3%82%93%E3%81%8C%E3%82%8F%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9-%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/)、[Sansan](http://jp.sansan.com/)さんのサテライトオフィスを見学させて頂いた。
 
+### ダンクソフトのワークスペース
 ダンクソフト本橋さんの作業スペースは徹底して**リモートで仕事しやすい環境**に整えられていたという印象を持った。
+
+<iframe src="https://www.flickr.com/photos/kakeda/14537613814/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 目を引くのはチェーンソーと薪割り器。これは唯一の暖房器具である薪ストーブにくべる薪を作るためだそうだ。移住を支援しているNPO法人のグリーンバレーさんで講習会を開いてくれるので使い方を覚えるのも簡単そうだ。冷房はないそうだが、きっと窓を開けはなしての開放的な作業空間になるのだろう。
 
+
+### えんがわオフィス
+<iframe src="https://www.flickr.com/photos/kakeda/14537558234/in/set-72157645478604223/player/" width="331" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 続いて車で移動してのえんがわオフィスへ。まずオフィスの外装が「おっしゃれ〜」なのが印象的。中も古民家の梁を生かした作りになっていて素敵だ。若干、建物と比較して人が多い印象は持ったが窮屈というほどでもない。近くの演芸場にも案内してもらう。地域の交流の場がまだ残っているのは非常に価値がある。
+
+### Sansanサテライトオフィス
+
+<iframe src="https://www.flickr.com/photos/kakeda/14352480829/in/set-72157645478604223/player/" width="331" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 次にSansanさん(発音だと「さんさんさん」)のサテライトオフィスへ移動する。車で数分、一見普通の民家の佇まいだが、玄関を開けるとちゃんと会社のロゴが出迎えてくれるのですぐにわかる。
 
@@ -23,11 +34,17 @@ tags: [agilejapan, tokushima]
 
 このオフィスは母屋を中心に離や倉庫などもあり、今後もっといろいろな使い方が増えていくんではなかろうか、という可能性を感じるオフィスだった。(ハンモックには乗りました！)　そういえば、オフィスに立派な中華ドラがあったのが謎だった。（社内LTをやるの？）
 
+<iframe src="https://www.flickr.com/photos/kakeda/14352523438/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<iframe src="https://www.flickr.com/photos/kakeda/14537598184/in/set-72157645478604223/player/" width="331" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 えんがわオフィスさんは建築家が設計した、ある意味完成されたイメージのオフィスだったが、Sansanさんのオフィスは、これから働く人が自らが欲しい機能を発見し、プロの手を借りながら自分たちで実現していく、セルフデザインのオフィスが実現できるのではないだろうか。
 
 ### 懇親会にて
 
 懇親会は、えんがわオフィスの近くにあるカフェ オニヴァで行った。こちらも非常に雰囲気のいい店で、お酒もお料理もとても美味しかった。ここはキャッシュオンデリバリでビールを頼んだのだが、初めて飲むベルギービールだった。オーナーが以前輸入ビールを扱っていたらしい。
+
+<iframe src="https://www.flickr.com/photos/kakeda/14515997056/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 次の日に残るほど久しぶりに酒をのんでしまったので、覚えていることをつらつらと上げてみる。
 
@@ -57,4 +74,4 @@ tags: [agilejapan, tokushima]
 
 ちなみに、神山では**ワークインレジデンス**といって、町に移住したい人を単に募集するのではなく、**必要な職種、仕事を持つ人の条件を指定して町が移住者を募集する**という[形を取っている](http://www.in-kamiyama.jp/living/work-in-residence/)。
 
-町が求める人材が明確になっているということであるし、移住する人は仕事について明確なイメージを持つことができる。「くらし」と「しごと」を不可分で考えることができるよいシステムだと思う。神山町以外でもワークインレジデンスで募集している地域もあるようなので探してみるとおもしろいと思う。
+町が求める人材が明確になっているということであるし、移住する人は仕事について明確なイメージを持つことができる。「くらし」と「しごと」を不可分で考えることができるよいシステムだと思う。神山町以外でもワークインレジデンスで募集している地域もあるようなので探してみるとおもしろいのではないか。
