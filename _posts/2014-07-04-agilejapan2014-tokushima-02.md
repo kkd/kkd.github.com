@@ -18,10 +18,15 @@ source: 2014-07-04-agilejapan2014-tokushima-02.md
 
 <iframe src="https://www.flickr.com/photos/kakeda/14537613814/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+<iframe src="https://www.flickr.com/photos/kakeda/14559167933/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 目を引くのはチェーンソーと薪割り器。これは唯一の暖房器具である薪ストーブにくべる薪を作るためだそうだ。移住を支援しているNPO法人のグリーンバレーさんで講習会を開いてくれるので使い方を覚えるのも簡単そうだ。冷房はないそうだが、きっと窓を開けはなしての開放的な作業空間になるのだろう。
 
 
 ### えんがわオフィス
+
+<iframe src="https://www.flickr.com/photos/kakeda/14535667351/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 <iframe src="https://www.flickr.com/photos/kakeda/14537558234/in/set-72157645478604223/player/" width="331" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 続いて車で移動してのえんがわオフィスへ。まずオフィスの外装が「おっしゃれ〜」なのが印象的。中も古民家の梁を生かした作りになっていて素敵だ。若干、建物と比較して人が多い印象は持ったが窮屈というほどでもない。近くの演芸場にも案内してもらう。地域の交流の場がまだ残っているのは非常に価値がある。
@@ -29,6 +34,8 @@ source: 2014-07-04-agilejapan2014-tokushima-02.md
 ### Sansanサテライトオフィス
 
 <iframe src="https://www.flickr.com/photos/kakeda/14352480829/in/set-72157645478604223/player/" width="331" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<iframe src="https://www.flickr.com/photos/kakeda/14352449730/in/set-72157645478604223/player/" width="500" height="331" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 次にSansanさん(発音だと「さんさんさん」)のサテライトオフィスへ移動する。車で数分、一見普通の民家の佇まいだが、玄関を開けるとちゃんと会社のロゴが出迎えてくれるのですぐにわかる。
 
@@ -70,9 +77,9 @@ source: 2014-07-04-agilejapan2014-tokushima-02.md
 
 三好市は、四国の各県の県庁所在地に1.5時間以内で移動可能な利便性は、まさに*四国のへそ*だ。美波町は太平洋に面していてサーフィンができるそうだ。パタゴニアのように「*社員をサーフィンに行かせよう*」がリアルに実現できる場所らしい。
 
-徳島県は、全域にケーブルテレビを引いてあり光ネットワークを実現している。だからこそこのようなサテライトオフィスの誘致ができるという背景もあるのだが、単に「田舎で仕事する」というだけでなく、「どこで、どのような環境の中で、どんな生活をして、どのような作業環境で、どのような人たちと働きたいか」というより具体的なイメージがもてると、移住希望者にとって魅力的かどうかが伝わりやすいのかもしれない。
+徳島県は、全域にケーブルテレビを引いてあり光ネットワークを実現している。だからこそこのようなサテライトオフィスの誘致ができるという背景もあるのだが、単に「田舎で仕事する」というだけでなく、「どこで、どのような環境の中で、どんな生活をして、どのような作業環境で、どのような人たちと働きたいか」というより具体的なイメージがもてると、移住希望者にとって本当に魅力的かどうかがわかるのかもしれない。
 
-各地域で人を呼びたいと考える場合は、**地域の資源を生かして、どういう暮しができるか、どういう仕事の仕方が実現できるか**の具体的なストーリーが必要だということにも気づかされた。
+各地域で人を呼びたいと考える場合は、**地域の資源を生かして、どういう暮しができるか、どういう仕事の仕方が実現できるか**の具体的なストーリーが必要だということに気づかされた。
 
 ちなみに、神山では**ワークインレジデンス**といって、町に移住したい人を単に募集するのではなく、**必要な職種、仕事を持つ人の条件を指定して町が移住者を募集する**という[形を取っている](http://www.in-kamiyama.jp/living/work-in-residence/)。
 
