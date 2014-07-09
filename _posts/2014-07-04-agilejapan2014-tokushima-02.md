@@ -4,6 +4,8 @@ title: "AgileJapan2014 徳島サテライト感想(2)"
 description: ""
 category: event
 tags: [agilejapan, tokushima]
+source: 2014-07-04-agilejapan2014-tokushima-02.md
+
 ---
 {% include JB/setup %}
 
