@@ -11,7 +11,7 @@ description: ""
 
 ### 所属組織・団体/Company, Organization
 
-- [合同会社カルチャーワークス](http://wwww.cultureworks.jp/)  共同代表
+- [合同会社カルチャーワークス](http://www.cultureworks.jp/)  共同代表
   - CultureWorks, LLC Co-Founder
 - [アジャイルプロセス協議会 四国エリア "Agile459"](https://sites.google.com/site/agile459/) 代表
   - Japan Agile Process Association, Shikoku Branch, "Agile459" Representative
