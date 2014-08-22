@@ -4,6 +4,7 @@ title: "XP祭り2014で白本の参考文献について話してきます"
 description: ""
 category: news
 tags: [2014, xp, talk]
+source: 2014-08-22-i-am-going-to-talk-on-xpfestival-2014.md
 ---
 
 [XP祭り2014で講演することになりました](http://xpjug.com/xp2014-session-c6/)。
