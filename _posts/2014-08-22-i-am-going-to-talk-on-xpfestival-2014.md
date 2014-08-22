@@ -25,6 +25,9 @@ source: 2014-08-22-i-am-going-to-talk-on-xpfestival-2014.md
 
 ちょうど、今回は咳さんが[XPの話をする](http://xpjug.com/xp2014-session-a3/)そうなので楽しみです。
 
+### 追記
+
+これだけだと全然人が集まらない気がしたので、追加でエントリを書いてみました。 → [あなたがXP祭り2014でこのセッションを選ぶべき３つの理由](http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014/)
 
 
 
