@@ -6,6 +6,7 @@ category: news
 tags: [2014, xp, talk]
 source: 2014-08-22-three-reasons-why-you-should-choose-the-session-at-xpfestival-2014.md
 ---
+![xp2014 logo](http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png "xp2014 logo")
 
 今日、[XP祭り2014で白本の参考文献について話してきます](http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014/)というエントリを書いたのですが、これだけではさっぱり人が集まりそうもないので、もう少し補足したいと思います。
 
