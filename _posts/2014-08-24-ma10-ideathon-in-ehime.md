@@ -2,14 +2,14 @@
 layout: post
 title: "松山で行われたMA10のアイデアソンに参加してきた（ざっくり編）"
 description: ""
-category: essay
-tags: [2014, ideathon, ma10, ehime]
+category: life
+tags: [2014, ideathon, 松山, event, impression]
 source: 2014-08-24-ma10-ideathon-in-ehime.md
 ---
 
 8/20に松山で行われたMASHUP AWARDSの[アイデアソン](http://mashupawards.doorkeeper.jp/events/13539)に参加してきました。
 
-![](http://pbs.twimg.com/media/Bve5DlZCcAARcPh.jpg:small "集合写真")
+![](https://pbs.twimg.com/media/Bve5DlZCcAARcPh.jpg "集合写真")
 
 まとめは[こちら](http://togetter.com/li/708984?page=1)。
 
@@ -38,12 +38,12 @@ source: 2014-08-24-ma10-ideathon-in-ehime.md
 		* しまも一種類だけじゃマッシュアップではないね。
 	* Officeはなんでもできちゃうので、APIは制約としてからアイデア絞る方が絶対によい
 
-![](http://pbs.twimg.com/media/BvenGHWCYAAtgYs.jpg:small "談笑中の図")
+![](http://pbs.twimg.com/media/BvenGHWCYAAtgYs.jpg "談笑中の図")
 
 * アイデア（のび太の絵日記）は投票もらえてとりあえずほっとした
 	* うちのチームは皆真面目でおもしろ成分足りなかったかな？
 
-![](http://pbs.twimg.com/media/BveyGW2CcAEbae-.jpg:small "発表厨")
+![](http://pbs.twimg.com/media/BveyGW2CcAEbae-.jpg "発表厨")
 
 * 発表のドラえもんとのび太の寸劇は即興だった
 	* 発表の準備・練習の時間がとれてなかった。
