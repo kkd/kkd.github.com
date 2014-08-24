@@ -36,7 +36,7 @@ source: 2014-08-24-ma10-ideathon-in-ehime.md
 	* うちのチームはOfficeのAPIを使うことに。。。
 	* しかも使うAPIを勝手に決められてしまった。。。
 		* しまも一種類だけじゃマッシュアップではないね。
-	* Officeはなんでもできちゃうので、APIは制約としてからアイデア絞る方が絶対によい
+	* Officeはなんでもできちゃうので、APIを絞って制約としてからアイデア出す方が絶対によい
 
 ![](http://pbs.twimg.com/media/BvenGHWCYAAtgYs.jpg "談笑中の図")
 
