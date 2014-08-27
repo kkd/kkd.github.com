@@ -9,8 +9,9 @@ description: "Ultimate Agile Stories - Iteration 1 寄稿文"
 
 執筆
 :　2011/07/12
+
 掲載誌
-: Ultimate Agile Stories - Iteration 1
+: [Ultimate Agile Stories - Iteration 1](http://ultimateagilestories.web.fc2.com/bookcontents1.html)
 
 ## モノローグ
 
