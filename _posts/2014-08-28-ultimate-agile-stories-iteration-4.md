@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Ultimate Agile Stories - Iteration 4 に寄稿しました"
 description: ""
@@ -7,7 +7,7 @@ tags: [2014, UAS, agile]
 source: 2014-08-28-ultimate-agile-stories-iteration-4.md
 ---
 
-## UAS4に寄稿しました
+## UAS4が販売開始！！
 [Ultimate Agile Stries - Iteration 4](http://ultimateagilestories.web.fc2.com/bookcontents4.html)(UAS4)に寄稿しました。
 
 UASは大阪の細谷さんが発起人となって、東日本大震災への支援を目的に2011年より始められたアジャイル関係の同人誌です。ライターは全員ボランティアで、同人誌ということもあり毎回雑誌にはなかなか載らない濃い記事が掲載されています。
