@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "４年ぶりのAgile Tour Osaka 2014でパタン・ランゲージのワークショップを開催"
+title: "Agile Tour Osaka 2014でパタン・ランゲージのワークショップを担当しました"
 description: ""
 category: event
 tags: [2014, event, agileto]
