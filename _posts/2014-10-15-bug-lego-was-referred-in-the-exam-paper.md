@@ -9,15 +9,15 @@ source: 2014-10-15-bug-lego-was-referred-in-the-exam-paper.md
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/543145" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/265535" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
 ## バグレゴとはなにか？
 
 Agile2008で発表した、レゴを使ったバグタンジブルシステムのこと。JaSSTでベストスピーカー賞をもらったりもしたが、結局やめてしまったプラクティス。ちゃんとやめたことも考察して発表した。Agile2008で発表してから６年経過した。Googleでエゴサーチしてたら、意外なところで参照されていて面白かったので紹介しておく。
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/265535" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 ## マンチェスター大学の試験問題
 
-マンチェスター大学のソフトウェアサイエンスの中のアジャイルソフトウェアエンジニアリングの[2012年の試験問題](http://studentnet.cs.manchester.ac.uk/assessment/exam_papers/UG_sem1_2011/COMP33711.pdf)として、バグレゴが題材にされた問題があるのを発見した。Big Visible Chartの一例として紹介されているのが興味深い。
+マンチェスター大学のソフトウェアサイエンスの中のアジャイルソフトウェアエンジニアリングの[2012年の試験問題](http://studentnet.cs.manchester.ac.uk/assessment/exam_papers/UG_sem1_2011/COMP33711.pdf)として、バグレゴを題材にした問題があるのを発見した。Big Visible Chartの一例として紹介されているのが興味深い。是非日本でもやってほしいw
 
 以下、引用
 
@@ -31,7 +31,7 @@ Agile2008で発表した、レゴを使ったバグタンジブルシステム�
 
 [Physical visualization](http://edutechwiki.unige.ch/en/Physical_visualization)では、物理的視覚化の例として取り上げられていた。別のサイトでも同じく[Passive Physical Visualization](http://www.aviz.fr/Research/PassivePhysicalVisualizations)の一例としても紹介されていた。
 
- IoTの時代になると、こういったことが、もっと効率的にできるのだろう。例えば、レゴ一つ一つにセンサーや電極をとりつけて、何個積んでいるとかがわかるとか、色毎に識別子を変えて意味づけさせるとか。もう￼[Tangible Programming￼](https://extrasensoryobjects.wordpress.com/2013/07/27/tangible-programming/)も進んでるし。
+IoTの時代になると、こういったことが、もっと効率的にできるのだろう。例えば、レゴ一つ一つにセンサーや電極をとりつけて、何個積んでいるとかがわかるとか、色毎に識別子を変えて意味づけさせるとか。もう￼[Tangible Programming￼](https://extrasensoryobjects.wordpress.com/2013/07/27/tangible-programming/)も進んでるし。
 
 ### What is the best project management tool?
 
