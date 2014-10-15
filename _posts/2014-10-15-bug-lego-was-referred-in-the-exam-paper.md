@@ -27,11 +27,11 @@ Agile2008で発表した、レゴを使ったバグタンジブルシステム�
 
 > ii)  Is this approach to defect tracking one that can be applied successfully on a wide range of projects? Justify your answer, by describing the characteristics of a project for which it would be suitable and one for which it would not be appropriate. (4 marks)
 
-### 物理的な視覚化での紹介
+## 物理的な視覚化での紹介
 
 [Physical visualization](http://edutechwiki.unige.ch/en/Physical_visualization)では、物理的視覚化の例として取り上げられていた。別のサイトでも同じく[Passive Physical Visualization](http://www.aviz.fr/Research/PassivePhysicalVisualizations)の一例としても紹介されていた。
 
-IoTの時代になると、こういったことが、もっと効率的にできるのだろう。例えば、レゴ一つ一つにセンサーや電極をとりつけて、何個積んでいるとかがわかるとか、色毎に識別子を変えて意味づけさせるとか。もう￼[Tangible Programming￼](https://extrasensoryobjects.wordpress.com/2013/07/27/tangible-programming/)も進んでるし。
+IoTの時代になると、こういったことが、もっと効率的にできるのだろう。例えば、レゴ一つ一つにセンサーや電極をとりつけて、何個積んでいるとかがわかるとか、色毎に識別子を変えて意味づけさせるとか。[Tangible Programming](https://extrasensoryobjects.wordpress.com/2013/07/27/tangible-programming/)も進んでるしね。
 
 ### What is the best project management tool?
 
@@ -39,7 +39,7 @@ IoTの時代になると、こういったことが、もっと効率的にで�
 
 [http://www.bartvermijlen.com/what-is-the-best-project-management-tool/](http://www.bartvermijlen.com/what-is-the-best-project-management-tool/)
 
-## 　視覚だけでなく、五感を使うのが良かったのだけど...
+## 視覚だけでなく、五感を使うのが良かったのだけど...
 
 ちょうどAgile2008のバグレゴの資料を作っている時に、当時の同僚だった[@kakutani](http://twitter.com/kakutani)と話していて、単に視覚化ではない**Tangible**(触れる）という訳語を当て更に発表資料では音も含めた五感の利用をアピールしたつもりだけど、海外ではその部分にはあまり触れられていない気がする。このあたりは体験してみないとわからないからだろうなぁ。まぁ試す人は稀でしょうね。
 
