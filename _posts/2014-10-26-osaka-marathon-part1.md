@@ -7,7 +7,7 @@ tags: [running, marathon, race]
 source: 2014-10-26-osaka-marathon-part1
 ---
 
-![osakamarathonlogo](http://www.osaka-marathon.com/img/main_img01.jpg "Osaka Marathon Logo")
+![osakamarathonlogo](http://www.osaka-marathon.com/common/img/logo.jpg "Osaka Marathon Logo")
 
 ## 大阪マラソンに出場決定！
 
