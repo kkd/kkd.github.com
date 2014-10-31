@@ -26,6 +26,8 @@ source: 2014-10-26-osaka-marathon-part2
 
 ## 自分のペースがわからない！
 
+<iframe src="https://www.flickr.com/photos/kakeda/15055215073/in/set-72157649015664041/player/" width="320" height="230" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 困ったのがペース調整。今回は5:48/kmのペースで10kmまで抑えて走ろうと思ってたのだが、スタート直前の混乱を抜けてから自分のペースで走ろうとしても、どうしても周りのペースに影響されてしまう。
 
 GPSウォッチである[SUUNTO Ambit](#)でペースを確認しながら進むが、気がつくとペースが速すぎたり、遅すぎたりばらつきがおおい。その都度速度を調整しているがなかなか安定しない。
@@ -72,7 +74,7 @@ GPSウォッチである[SUUNTO Ambit](#)でペースを確認しながら進む
 
 ## やっとのことでゴール！！
 
-<iframe src="https://www.flickr.com/photos/kakeda/15471186207/in/set-72157649015664041/player/" width="320" height="320" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/kakeda/15488699889/in/set-72157649015664041/player/" width="320" height="230" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><iframe src="https://www.flickr.com/photos/kakeda/15471186207/in/set-72157649015664041/player/" width="320" height="320" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 後半の重い足取りを繰り返して、なんとかゴールのあるインテックス大阪付近へ。普段は最後のスパートを残り1kmはするのだけど、今回はギリギリまでスパートできなかった。それくらい足取りが重くなっていた。
 
