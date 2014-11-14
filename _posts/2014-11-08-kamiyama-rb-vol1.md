@@ -46,9 +46,7 @@ source: 2014-11-08-kamiyama-rb-vol1.md
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/41435521" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-予想通り、XPEを読んだことある人は殆どいなかった。そんな状況の中で話しをしたのだが、聴衆のどのくらいにどれだけ届いたかは正直わからない。
-
-ただ、主催の[@dany1486](http://twitter.com/dany1486)夫妻には届いたようなので、まぁいいかな。
+予想通り、XPEを読んだことある人は殆どいなかった。そんな状況の中で話しをしたのだが、聴衆のどのくらいの人々に、どれだけ届いたかは正直わからないけれど、主催の[@dany1486](http://twitter.com/dany1486)夫妻には喜んでいただけたそうなので救われました。
 
 ## XPは個人から始まる
 スライドに含めているXP-\>Scrum-\>Leanの図。これは変革がどこから始まるのかの図として理解している。そう、XPは**個人の変化から始まる**。
