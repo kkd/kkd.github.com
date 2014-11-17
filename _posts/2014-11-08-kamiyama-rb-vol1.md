@@ -72,7 +72,11 @@ source: 2014-11-08-kamiyama-rb-vol1.md
 
 また、[@dany1486](http://twitter.com/dany1486)さんの奥様naoさんの[LT](https://speakerdeck.com/dannao/kamiyama-dot-rb-number-1-lt)が個人的にはとてもよかった。Rubyには関係ないですが、田舎暮らし考えてる人はみるといいかも。
 
-あとは、プログラミングの学びについてのLTも考えさせられました。（資料公開されてないかな！？）
+あとは、プログラミングの学びについてのLTも考えさせられた。（資料公開されてないかな！？）
+
+![group_photo](/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg "group photo")
+(photo by @dany1486)
+
 
 ## 四国でコミュニティを主催する意味
 
