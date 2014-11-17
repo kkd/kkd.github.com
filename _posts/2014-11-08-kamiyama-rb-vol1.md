@@ -75,7 +75,7 @@ source: 2014-11-08-kamiyama-rb-vol1.md
 あとは、プログラミングの学びについてのLTも考えさせられた。（資料公開されてないかな！？）
 
 ![group_photo](/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg "group photo")
-(photo by @dany1486)
+(集合写真を頂いたので追加 2014/11/17)
 
 
 ## 四国でコミュニティを主催する意味
