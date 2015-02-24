@@ -10,7 +10,7 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 
 ## 何をやったかふりかえろう。
 
-大阪と比べていくつか新しい試みをしたが、うまくいったものも、失敗したものもあるので列挙する。
+[東京マラソン2015](../../../../2015/02/23/tokyo-marathon-2015)を走ってきたのだが、大阪と比べていくつか新しい試みをして、うまくいったもの、失敗したもの含めて列挙する。
 
 ## うまくいったこと
 
@@ -22,7 +22,7 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 
 過去２回は[非常識マラソンマネジメント](http://goo.gl/JlA0bv)したがって、当日の朝に切り餅を７個（実際には５個まで）食べていたのだが、どうも胃もたれしてしまうのと、味が単調飽きるのが難点だった。
 
-そのため、今回は餅ではなくおにぎりにしてみた。実家の母が赤飯おにぎりを握ってくれたので、それを朝食後に５つほど食べてみた。おかげで前半のエネルギー切れはなかったと思う。
+そのため、今回は餅ではなくおにぎりにしてみた。実家の母が赤飯おにぎりを握ってくれたので、それを朝食後に５つほど食べてみた。おかげで餅ほど飽きずに食べることができ、前半のエネルギー切れはなかったと思う。
 
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4797366486" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
@@ -38,6 +38,8 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00BF7WCN0" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 （とはいえ、非常識マラソンマネジメントは参考にしています）
+
+エネルギー補給については、マラソンの常識としては*炭水化物・糖質を摂取する*のだけど、次回以降は**自分の脂肪をできるだけ使って燃やすように**して糖質補給そのものを不要な体に仕上げていきたい。先は長いが普段の食生活から見直さないといけないなぁ。（2/25 追記)
 
 ### ポーチをTRベルトに変更した
 
@@ -58,6 +60,16 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/video.php?v=10153075120139593" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/video.php?v=10153075120139593">Post</a> by <a href="https://www.facebook.com/takeshi.kakeda">Takeshi Kakeda</a>.</div></div>
 
 次回は、もう少し簡単にスマフォで写真が撮れるようにしたい。（いちいち取り出すのは面倒だし、落としたら困るので）
+
+### ラップ表は印刷ではなくプラシートに油性マジック＆腕に貼る（2/25 追記)
+
+前回までは、5km毎のラップ表（ラップタイム、通過予想タイム、ペース、補給内容）をPCで作って印刷して、首に下げるタイプの名札ケースに入れてもっていったが、汗で濡れてくると印刷が滲んで見えづらかった。そのため、今回は透明のポリの袋（なんかの包装に使われているもの）に油性マジックでラップ表を書き込んで、表の部分を切り取って腕にテープで貼り付けておいた。(写真撮るの忘れた！)
+
+後半、ややテープが剥がれてきて見づらくはなったが、印刷の滲みよりはよく見えた。
+
+### GPSウォッチのオートラップは5kmラップ（2/25 追記)
+
+普段練習している時は1kmのオートラップの設定にしているが、フルのレースはオートラップの設定を5km似したほうがいいことがわかったので設定を変えておいた。当たり前なのかもしれないが、やっててよかったな。
 
 ## うまくいかなかったこと
 
@@ -86,5 +98,9 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 ## やっぱり自分で考え工夫するのが楽しいね。
 
 本やネットの情報を参考にもするけど、やっぱり自分で実践しながら考えて工夫していくのが楽しいね。来年は、シューズはもちろんグッズや補給食もいろいろ自作して、よりよいやり方を模索してみたいと思う。走ることだけでなく、「走る」の周辺でも楽しみたい。
+
+
+* 関連する記事
+  * [東京マラソン2015に参加して東京観光と青春を回想してきた](../../../../2015/02/23/tokyo-marathon-2015)
 
 
