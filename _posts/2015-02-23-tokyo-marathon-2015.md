@@ -119,3 +119,6 @@ source: 2015-02-23-tokyo-marathon-2015.md
 <iframe src="https://www.flickr.com/photos/kakeda/16611575035/in/album-72157650562639968/player/" width="320" height="240" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 そしていつか...**裸足でフルを完走**したいな。
+
+* 関連する記事
+  * [東京マラソン2015ふりかえり](../../../../2015/02/24/tokyo-marathon-2015-retrospectives)
