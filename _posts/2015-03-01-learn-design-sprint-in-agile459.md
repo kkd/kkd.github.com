@@ -2,8 +2,8 @@
 layout: post
 title: "Agile459でデザインスプリントを体験するワークショップをやってみた"
 description: ""
-category: 
-tags: [agile]
+category: event
+tags: [agile,agile459,ux,designthinking]
 ---
 {% include JB/setup %}
 
