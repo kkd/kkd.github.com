@@ -7,6 +7,8 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/50836463@N06/5023325968/player/" width="320" height="224" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## 失敗(2) ９品目ダイエットで痩せた！しかし…
 
 二度目は30代前半の頃(2001〜2002年くらい)だったでしょうか。食事の内容に着目して、[９品目ダイエット](http://sportsclub.nifty.com/ft_diet/0410130092/)にチャレンジしたことがありました。これは毎食９品目（肉、魚、貝、豆、卵、油、海藻、野菜）をとるというものでした。

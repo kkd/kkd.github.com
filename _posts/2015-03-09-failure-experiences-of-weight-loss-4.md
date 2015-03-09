@@ -7,6 +7,7 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/11121568@N06/4222533261/player/" width="320" height="224" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## 失敗(4) １日２食で一気に痩せた！しかし…
 

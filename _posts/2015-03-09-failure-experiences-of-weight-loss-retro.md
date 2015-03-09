@@ -7,6 +7,8 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/11375816@N04/6808412351/player/" width="220" height="360" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## これまでの学び
 
 10〜30代の頃の減量の失敗体験から学んだことは色々ありますが、まとめてみると次のようなものになります。

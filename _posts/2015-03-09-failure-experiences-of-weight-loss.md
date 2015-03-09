@@ -7,6 +7,8 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/53372763@N00/81255795/player/" width="320" height="224" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 以前、[やせる！KPT](http://giantech.jp/2014/08/29/yaseru-kpt/)の後でこそこそ書いていた、自分のこれまでの減量の失敗談の記事を今頃になって見つけたので、加筆編集してアップしてみました。
 
 思っていたよりもボリュームが増えてしまい、分割せざるを得なくなりました...

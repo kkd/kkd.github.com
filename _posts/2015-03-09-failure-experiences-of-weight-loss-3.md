@@ -7,6 +7,8 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/33114438@N00/6868364204/player/" width="320" height="224" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## 失敗(3) 自転車通勤で健康的に痩せた！！しかし…
 
 三度目は、長女が生まれた頃(2003年)でした。当時は自宅から片道6kmくらいの距離を自転車通勤していました。その頃は、ちょうどツーキニストという言葉が出始めた頃で、[TBSの疋田さん](http://ja.wikipedia.org/wiki/%E7%96%8B%E7%94%B0%E6%99%BA)の記事とかをよく読んで影響を受けていました。

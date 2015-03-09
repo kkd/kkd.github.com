@@ -7,6 +7,8 @@ tags: [weight-loss]
 ---
 {% include JB/setup %}
 
+<iframe src="https://www.flickr.com/photos/64636777@N03/8205030646/player/" width="320" height="224" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## 失敗(1) 若気の至りで食事制限！しかし…
 
 子供の頃から、食欲旺盛で、小学校６年生で167cm、60kgオーバーだった自分は、成長するにつれて、徐々に縦ではなく横に広がっていきましたｗ
