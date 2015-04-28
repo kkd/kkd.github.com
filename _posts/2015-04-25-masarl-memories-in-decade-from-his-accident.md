@@ -16,11 +16,11 @@ tags: [masarl,memories]
 
 助田さんのRubyUnitが自分とXPの出会いのきっかけであり、そのRubyUnitの誕生のきっかけとなっているのがまさーるさんだった。
 
-2000年に京都で行われたPerl/Ruby Conferenceでの[RubyUnit Tutorial - Part 1 : XP をはじめよう](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/xp-tutorial.html)に参加し、RubyUnitによるテストファースト・ユニットテスティングの実際や、XPの開発事例を聞きとても興奮し、多くの質問を投げかけた思い出がある。
+2000年に京都で行われたPerl/Ruby Conferenceで、[RubyUnit Tutorial](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/xp-tutorial.html)に参加し、RubyUnitによるユニットテスティングの実際や、XPの開発事例を聞きとても興奮し、多くの質問を投げかけた思い出がある。
 
 [Object Day 2001のXP談義](https://www.ogis-ri.co.jp/otc/hiroba/specials/oday2001/report/A3.html)においては、XP擁護派の立場で一貫して[開発者として、実践している経験として](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/object-day-2001-xp-talk.html)で発言されており、他の論者の発言と比べて説得力があったことを記憶している。
 
-まさーるさんは、XPの導入においても、教条主義ではなくまず今の自分が出来るところから始め改善をしていく、という現実的な視点を常に持っていた。この視点は今でも変わらず普遍的だ。
+まさーるさんは、XPの導入においても、教条主義ではなく、まず今の自分が出来るところから始め改善をしていく、という現実的な視点を常に持っていた。この視点は今でも変わらず普遍的だ。
 
 [Kent BeckのTesting Framework入門](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/testing-framework.htm)を読んで、JUnitのデザインパターンを理解することで、フレームワークの設計指針や、シンプルな設計のエレガントさについて深く理解することができた。
 
@@ -84,7 +84,7 @@ tags: [masarl,memories]
 * 心と体、仕事と家庭と趣味のバランスをとり続ける
 * うまくいく・うまくいかない自分を丸ごと受け入れる
 
-うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、gg精一杯生きていこう。
+うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、精一杯生きていこう。
 
 ## 番外
 
