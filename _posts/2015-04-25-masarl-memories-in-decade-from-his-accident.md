@@ -4,6 +4,7 @@ title: "まさーるさん没後10年に思うこと"
 description: ""
 category: essay
 tags: [masarl,memories]
+source: 2015-04-25-masarl-memories-in-decade-from-his-accsident.md
 ---
 {% include JB/setup %}
 <img src="/assets/images/masarl-eyecatch.jpg"/>
