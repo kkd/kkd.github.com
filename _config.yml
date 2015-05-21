@@ -34,6 +34,9 @@ facebook :
 #
 production_url : http://giantech.jp
 production_repo_name : kkd.github.com
+url : http://giantech.jp
+description : 愛媛で生きている@kkdがお送りする雑多な日記。ソフトウェア開発、アジャイル、パーマカルチャー、パタン・ランゲージ、ランニング、まちづくり、興味のあるものすべて。
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

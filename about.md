@@ -45,8 +45,6 @@ description: ""
 
 キーワード的には
 
-**ローカル**、**循環**、**コミュニティ**、**共有価値**、**幸せ**、かな？
-
 - 地域の自立経済、循環経済の構築
   - スモールスタートアップ
   - コミュニティデザイン
@@ -74,9 +72,11 @@ description: ""
   - 自作する生活道具
   - 自作するエネルギー
 - ランニング
-  - 初愛媛マラソン完走できました！(04:14:15)
-  - トレイルランニングに挑戦したい
-  - ベアフットランニングも挑戦したい
+  - 目標タイムは **Sub3.75**
+  - トレイルランニングに挑戦
+  - ベアフットランニングも挑戦
+  - ウルトラマラソン(100km)にも挑戦
+  - 四国を走って一周したい
 
 ### 略歴/History
 
@@ -107,7 +107,7 @@ description: ""
 
 - [Happy Hacking Team](http://enterprisezine.jp/author/50) 
 - [Web2.0時代のソフトウェア開発手法](http://itpro.nikkeibp.co.jp/article/COLUMN/20060402/234199/)
-
+- [アジャツール - Agileなツール紹介](http://www.objectclub.jp/technicaldoc/tools/agilertool/agilertool_top/)
 
 
 
