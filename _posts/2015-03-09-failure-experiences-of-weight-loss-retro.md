@@ -3,6 +3,7 @@ layout: post
 title: "減量失敗体験から学んだこと"
 description: "減量失敗体験から学んだことを整理してみた。キーワードは持続可能性、目的意識、楽しみ。"
 category: tips
+image: https://farm8.staticflickr.com/7150/6808412351_d8928f0240.jpg
 tags: [weight-loss]
 ---
 {% include JB/setup %}

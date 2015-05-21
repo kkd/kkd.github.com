@@ -3,6 +3,7 @@ layout: post
 title: "減量失敗体験を晒してみよう(2) ９品目ダイエットで痩せた！しかし…"
 description: ""
 category: tips
+image: https://www.flickr.com/photos/50836463@N06/5023325968/
 tags: [weight-loss]
 ---
 {% include JB/setup %}

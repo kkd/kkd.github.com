@@ -3,20 +3,20 @@
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
-<head>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>{{ page.title }}</title>
 	<meta name="author" content="{{ site.author.name }}">
-	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
-	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 	<meta property="fb:app_id" content="{{site.JB.comments.facebook.appid}}" />
 	<meta property="fb:admins" content="{{site.facebook.admin_id}}" />
+{% include ogp.html %}
+{% include twittercard.html %}
+	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
     <!-- for Ptengine -->
 	<script type="text/javascript">window._pt_lt = new Date().getTime();</script>
-{% include ogp.html %}
-{% include twittercard.html %}
 </head>
 <body>
 <!-- for Ptengine -->
