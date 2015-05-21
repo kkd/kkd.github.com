@@ -1,16 +1,6 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@kkd">
-{% if page.title %}
-	<meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-	<meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-{% if page.url %}
+	<meta name="twitter:title" content="{% include ogp_title.html %}">
 	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
 	<meta name="twitter:description" content="{% include desc.html  %}">
-{% if page.image %}
-	<meta name="twitter:image" content="{{ page.image }}">
-{% else %}
-	<meta name="twitter:image" content="{{ site.url }}/assets/logo.png">
-{% endif %}
+	<meta name="twitter:image" content="{% include ogp_image.html %}">

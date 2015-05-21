@@ -2,10 +2,7 @@
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 	<meta property="og:description" content="{% include desc.html %}" />
  	<meta property="og:site_name" content="{{ site.title }}" />
-	<meta property="og:title" content="{{ page.title }}" />
-{% if page.image %}
-	<meta property="og:image" content="{{ page.image }}" />
-{% endif %}
-	<meta property="og:image" content="{{ site.url }}/assets/logo.png"/>
+	<meta property="og:title" content="{% include ogp_title.html %}" />
+	<meta property="og:image" content="{% include ogp_image.html %}" />
 	<meta property="article:published_time" content="{% include date.html %}" />
 	<meta property="article:author" content="http://www.facebook.com/{{ site.author.facebook }}" />
