@@ -5,6 +5,7 @@ description: ""
 category: Agile
 source: 2014-03-19-ipa-seminar-sendai.md
 tags: [event, sendai, ipa]
+date: 2014-03-19 23:59:59
 ---
 {% include JB/setup %}
 

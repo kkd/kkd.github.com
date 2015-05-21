@@ -5,6 +5,7 @@ description: ""
 source: 2013-04-24-reconstruction-with-pattern-language.md
 category: essay
 tags: [pattern language, japan]
+date: 2013-04-24 23:59:59
 ---
 {% include JB/setup %}
 

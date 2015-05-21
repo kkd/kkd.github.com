@@ -5,6 +5,7 @@ description: "珍しく清水の舞台から飛び降りちゃった記念"
 category: Tool
 source: 2013-10-24-keynote_ver6.md
 tags: [Keynote, MacOSX, Marverick]
+date: 2013-10-24 23:59:59
 ---
 {% include JB/setup %}
 

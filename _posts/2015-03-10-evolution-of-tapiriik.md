@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "各種フィットネスサービスの自動同期サービスtapiriikが進化していた"
-description: ""
+description: "久しぶりにtapiriikをチェックしてみたら、対応サービスが凄いことになっていた。"
+image: http://giantech.jp/assets/images/tapiriik_201503_480x320.jpg
 category: Service
 tags: [running,fitness]
 ---

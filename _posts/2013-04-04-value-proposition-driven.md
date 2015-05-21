@@ -5,6 +5,7 @@ description: ""
 category: SoftwareDevelopment
 source: 2013-04-04-value-proposition-driven.md
 tags: [purpose, essay]
+date: 2013-04-04 23:59:59
 ---
 {% include JB/setup %}
 

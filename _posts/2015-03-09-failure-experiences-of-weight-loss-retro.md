@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "減量失敗体験から学んだこと"
-description: ""
+description: "減量失敗体験から学んだことを整理してみた。キーワードは持続可能性、目的意識、楽しみ。"
 category: tips
 tags: [weight-loss]
 ---

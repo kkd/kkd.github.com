@@ -4,6 +4,7 @@ title: "パーマカルチャー関西のメルマガに寄稿しました"
 description: ""
 category: Permaculture
 tags: [essay, announce, agile]
+date: 2014-04-10 23:59:59
 ---
 {% include JB/setup %}
 

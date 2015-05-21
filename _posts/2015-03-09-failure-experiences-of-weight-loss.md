@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "減量失敗体験を晒してみよう（イントロダクション）"
-description: ""
+description: "これまでのいろいろな減量の失敗体験を整理する機会があったので、いろいろまとめてみた。"
 category: tips
 tags: [weight-loss]
 ---

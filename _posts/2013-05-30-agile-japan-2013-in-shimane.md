@@ -5,6 +5,7 @@ description: "AgileJapan2013島根サテライトにお邪魔しました。"
 category: Agile
 source: 2013-05-30-agile-japan-2013-in-shimane.md
 tags: [agile, agilejapan2013, shimane, event]
+date: 2013-05-30 23:59:59
 ---
 {% include JB/setup %}
 

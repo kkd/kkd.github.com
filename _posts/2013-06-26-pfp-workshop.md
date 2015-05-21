@@ -5,6 +5,7 @@ description: "PFP関東にお呼ばれして、PF誕生秘話やワークショ�
 source: 2013-06-26-pfp-workshop.md
 category: PF
 tags: [pfp, event]
+date: 2013-06-26 23:59:59
 ---
 {% include JB/setup %}
 

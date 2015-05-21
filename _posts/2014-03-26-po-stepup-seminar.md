@@ -5,6 +5,7 @@ description: ""
 source: 2014-03-26-po-stepup-seminar.md
 category: Agile
 tags: [Seminar, Event, ProductOwner]
+date: 2014-03-26 23:59:59
 ---
 {% include JB/setup %}
 

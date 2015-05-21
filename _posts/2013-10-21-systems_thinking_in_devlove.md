@@ -5,6 +5,7 @@ description: ""
 category: SystemsThinking
 tags: [event, devlove]
 source: 2013-10-21-systems_thinking_in_devlove.md
+date: 2013-10-21 23:59:59
 ---
 {% include JB/setup %}
 

@@ -5,6 +5,7 @@ description: ""
 category: Agile
 source: 2013-05-25-agile-japan-2013-in-ehime.md
 tags: [agilejapan, agile459, ehime, event]
+date: 2013-05-25 23:59:59
 ---
 {% include JB/setup %}
 

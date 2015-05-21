@@ -4,6 +4,7 @@ title: "日記を再開"
 source: 2013-03-27-restart-blogging.md
 description: 
 category: life
+date: 2013-03-27 00:00:00
 tags: [tool, jekyll]
 ---
 {% include JB/setup %}

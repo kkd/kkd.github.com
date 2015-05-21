@@ -4,6 +4,7 @@ title: "sublime text 2を使いはじめた"
 description: ""
 source: 2013-04-01-start-to-use-sublime-text.md
 category: tool
+date: 2013-04-01 23:59:59
 tags: [editor, sublime text]
 ---
 {% include JB/setup %}
