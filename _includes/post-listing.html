@@ -14,7 +14,7 @@
   {% if post.description %}
   {{ post.description }}
   {% else %}
-  <p>{{ post.content | strip_html | truncate: 128 }}</p>
+  <p>{{ post.content | markdownify | strip_html | truncate: 256 }}</p>
   {% endif %}
   </a>
   <p><a href="{{ post.url }}">Read more...</a></p>

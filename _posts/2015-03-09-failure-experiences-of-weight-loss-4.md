@@ -3,7 +3,7 @@ layout: post
 title: "減量失敗体験を晒してみよう(4) １日２食で一気に痩せた！しかし…"
 description: ""
 category: tips
-image: https://www.flickr.com/photos/11121568@N06/4222533261/
+image: https://farm5.staticflickr.com/4003/4222533261_97e032f908_n.jpg
 tags: [weight-loss]
 ---
 {% include JB/setup %}
