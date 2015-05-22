@@ -1,13 +1,9 @@
 ---
 layout: page
 title: '沢田マンションに学ぶ"いきいきとした"モノ作り'
-description: ""
+description: "高知県にある世界最大級のセルフビルド建築「沢田マンション」を題材にして「いきいきとした」モノ作りの秘訣を探る。"
+image: http://giantech.jp/chrome/site/SawamanForEmZero/sawaman_whole.jpg
 ---
-{% include JB/setup %}
-
-沢田マンションに学ぶ"いきいきとした"モノ作り
-============================================
-
 Published
 :   2009/06/27
 
