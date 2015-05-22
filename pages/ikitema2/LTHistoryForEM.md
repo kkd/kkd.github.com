@@ -1,10 +1,8 @@
 ---
 layout: page
 title: "ライトニングトークスの歴史(original version)"
-description: "エンジニアマインドに寄稿したLTの歴史記事の元原稿をアップしています。"
-source: LTHistoryForEM.md
+description: "エンジニアマインドに寄稿したLT(ライトニングトークス)の歴史記事の元原稿をアップしています。"
 ---
-{% include JB/setup %}
 
 ## はじめに
 
