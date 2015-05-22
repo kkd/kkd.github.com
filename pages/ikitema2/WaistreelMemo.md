@@ -1,13 +1,9 @@
 ---
 layout: page
 title: "腰リールで始める携帯メモ生活"
-description: ""
+description: "腰に装着するキーチェーンリール＋小型メモ帳＋小型ペンで、どこでも快適メモ生活を実現する。"
+image: http://giantech.jp/attachment/wiki/WaistreelMemo/all.jpg
 ---
-{% include JB/setup %}
-
-腰リールで始める携帯メモ生活
-============================
-
 Contact
 :   Takeshi Kakeda (@kkd)
 
