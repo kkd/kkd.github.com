@@ -3,7 +3,7 @@ layout: post
 title: "皆で作り上げた、オフグリッドカフェ@MYJ 第一回"
 description: "わたし電力さんのオフグリッドカフェのコンセプトを愛媛県でもやってみた。ロケットストーブ、一斗缶オーブン、アルコールバーナーを使ってのオフグリッドなアウトドアカフェ体験。"
 category: Life
-image: /assets/images/20150524/stove_and_pot.jpg
+image: http://giantech.jp/assets/images/20150524/stove_and_pot.jpg
 tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 ---
 
