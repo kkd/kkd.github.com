@@ -7,7 +7,7 @@ image: /assets/images/20150524/stove_and_pot.jpg
 tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 ---
 
-![what's offgrid cafe?](/assets/images/20150524/stove_and_pot.jpg "オフグリッドカフェとは？")
+![what's offgrid cafe?](/assets/images/20150524/stove_and_pot.jpg "オフグリッドカフェとは？"){:.mid}
 
 ## オフグリッドカフェとは？
 
@@ -15,7 +15,7 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 オフグリッドカフェのコンセプトは、[わたし電力](http://wataden.org)さんの[森の中に電気もガスも使わない「オフグリッド・カフェ」を開く](http://wataden.org/feature/offgridcafe01/)を参考にさせて頂いた。
 
-<a href="http://wataden.org/feature/offgridcafe01/">![](http://v2.wataden.org/wp/wp-content/uploads/2014/07/diary_140717-187-840x560.jpg)</a>
+<a href="http://wataden.org/feature/offgridcafe01/">![](http://v2.wataden.org/wp/wp-content/uploads/2014/07/diary_140717-187-840x560.jpg){:.mid}</a>
 
 つまりは「**電気もガスもない森で、コーヒーを淹れ、ケーキを焼き、カフェをやってみる**」というコンセプト。
 
@@ -35,8 +35,8 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 ここは利用料がなんと無料。車がないと現地まで来るのが大変だが、一応電車でもこれるし、途中の坂がきついが自転車でいけないこともない。テーブルも椅子も多く、ゴミ箱もあり、立地としては恵まれていたと思う。集まったのは、これまでのロケットストーブイベントの参加者と、最近山で盛り上がってる友人たち。
 
-![えひめ森林公園](/assets/images/20150524/forest_park.jpg "えひめ森林公園の炊事棟")
-![オフグリッドカフェオープン！](/assets/images/20150524/open_cafe.jpg "オフグリッドカフェオープン！")
+![えひめ森林公園](/assets/images/20150524/forest_park.jpg "えひめ森林公園の炊事棟"){:.mid}
+![オフグリッドカフェオープン！](/assets/images/20150524/open_cafe.jpg "オフグリッドカフェオープン！"){:.mid}
 
 ## 実際にやったこと
 
@@ -44,13 +44,13 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 ピザは、事前に生地を作ってきてもらい、その場でトッピングをした。子供も参加して皆でワァワァとトッピングをしたものを焼いて食べるというのはとても楽しい。
 
-![トッピング](/assets/images/20150524/making_pizza.jpg "トッピングも自分たちで")
-![子供もトッピング](/assets/images/20150524/pizza_topped_by_kids.jpg "子供もトッピング")
+![トッピング](/assets/images/20150524/making_pizza.jpg "トッピングも自分たちで"){:.mid}
+![子供もトッピング](/assets/images/20150524/pizza_topped_by_kids.jpg "子供もトッピング"){:.mid}
 
 ピザはロケットストーブの上にフライパンを置いて焼いたが、最初の方は火加減がわからず底面が焦げてしまった。段々と火加減の調整がわかってきて焼き加減がうまくなっていくのがよくわかるのが面白い。火加減については、自在に火力を操る火遊びの達人がいると非常に心強いのも実感。
 
-![フライパンでピザ焼き](/assets/images/20150524/pizza.jpg "フライパンで焼きたてピザ")
-![ピザいっぱい](/assets/images/20150524/pizzas.jpg "ピザいっぱい")
+![フライパンでピザ焼き](/assets/images/20150524/pizza.jpg "フライパンで焼きたてピザ"){:.mid}
+![ピザいっぱい](/assets/images/20150524/pizzas.jpg "ピザいっぱい"){:.mid}
 
 
 ### パンにもチャレンジ
@@ -59,7 +59,7 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 ノブヒェン窯の材料となる使いふるしのフライパンがなかったため底面は中華鍋を使った。しかし中華鍋は底が平らでないため瓦（今回は植木鉢の欠片）が置けない。そこで破砕瓦を底面に敷いて底を平らにしてから、植木鉢の欠片を置いて、ボウルで二重の蓋をしてみた。（以下の写真：ロケットストーブの上に乗ってるのが窯）
 
-![](/assets/images/20150524/rocketstove.jpg "ノブヒェン窯もどき")
+![](/assets/images/20150524/rocketstove.jpg "ノブヒェン窯もどき"){:.mid}
 
 しかし思ったよりも熱が篭らないようで、最初のパンが焼けるのに１時間くらいもかかってしまった。ロケットストーブの火力自体は頑張っていたので、単純に窯の構造の問題だと思う。中華鍋→破砕瓦→植木鉢となったため熱源から遠くなりすぎたせいかもしれない。（確認で何度も開けたのもよくなかったか。。。）
 
@@ -71,16 +71,16 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 実際にお湯を沸かしたり、パンや芋を焼いたり、フライパンでマフィンを焼いたりもしていた。是非ともこのアイデアは研究してみたい。
 
-![お湯を沸かす](/assets/images/20150524/can_oven_3.jpg "マフィンを焼く")
-![焼き芋](/assets/images/20150524/can_oven_2.jpg "焼き芋を焼く")
-![パンと手作りジャム](/assets/images/20150524/diy_strawberry_jam_and_bread.jpg "パンと手作りジャム")
+![お湯を沸かす](/assets/images/20150524/can_oven_3.jpg "マフィンを焼く"){:.mid}
+![焼き芋](/assets/images/20150524/can_oven_2.jpg "焼き芋を焼く"){:.mid}
+![パンと手作りジャム](/assets/images/20150524/diy_strawberry_jam_and_bread.jpg "パンと手作りジャム"){:.mid}
 
 ### 挽きたてコーヒー
 
 いつもロケットオーブンイベントには、田中さんの手動ミルで挽きたてコーヒーを飲むのが定番だが、今回は不運にもミルを忘れて一転してピンチに！！しかし、コーヒー豆を様々な方法で破砕し、なんとか淹れることができた。
 
-![](/assets/images/20150524/coffee_and_jam.jpg "コーヒーとジャム")
-![](/assets/images/20150524/coffee.jpg "コーヒー")
+![](/assets/images/20150524/coffee_and_jam.jpg "コーヒーとジャム"){:.mid}
+![](/assets/images/20150524/coffee.jpg "コーヒー"){:.mid}
 
 その場における創意工夫（**ブリコラージュ**）でなんとかできるのだ、ということを、まざまざと見せつけられた気がした（そして道具の便利さ・偉大さも実感）。
 
@@ -90,7 +90,7 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 甘夏は爽やかな甘味でとても美味しく子供にも大人気だった。レモンバームとミントのフレッシュハーブティーも爽やかな風味がよく出ていた。ハーブは農園に自生しているものをお持ち頂いた。
 
-![](/assets/images/20150524/fresh_fruit_juice.jpg "搾りたて甘夏ジュース")
+![](/assets/images/20150524/fresh_fruit_juice.jpg "搾りたて甘夏ジュース"){:.mid}
 
 ### 小型アルコールバーナーでコーヒー
 
@@ -98,8 +98,8 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 清水さんは、子供にもその使い方をレクチャーしてくれて、お湯を沸かしてコーヒーを淹れてくれていた。山の上でコーヒーを飲みたいなら、軽量で持ち運びに便利なアルコールバーナーはよいお供になる。
 
-![自作アルコールバーナー](/assets/images/20150524/diy_alcohole_burner_2.jpg "自作アルコールバーナー")
-![アルコールバーナーのレクチャー](/assets/images/20150524/kids_and_mr_shimizu.jpg "アルコールバーナーのレクチャー")
+![自作アルコールバーナー](/assets/images/20150524/diy_alcohole_burner_2.jpg "自作アルコールバーナー"){:.mid}
+![アルコールバーナーのレクチャー](/assets/images/20150524/kids_and_mr_shimizu.jpg "アルコールバーナーのレクチャー"){:.mid}
 
 ## 燃料を自分で集める、道具を自分で作る、火を扱う
 
@@ -115,7 +115,7 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 イベントの時は、ついつい自分が（皆に早く料理をと思い）火の番をしてしまうが、もっと皆に火を扱う機会を持ってもらうことのほうが大事なのだろう。
 
-![](/assets/images/20150524/rocketstove_burned_by_girl2.jpg "ロケットストーブと少女")
+![](/assets/images/20150524/rocketstove_burned_by_girl2.jpg "ロケットストーブと少女"){:.mid}
 
 ## 改善点はあれどやってみてよかった！
 
@@ -123,7 +123,7 @@ tags: [offgridcafe, rocketstove, permaculture, event, MYJ]
 
 ピザの焼け具合や、パンの味（これは生地を作ったのが自分だったので反省しきり。。。）、ノブヒェン窯の構造など改善点もあるが、何より皆で持ち寄ってワイワイやれるのが楽しかった。また、子供やペットがいると雰囲気が和むという意見もあり、いろいろな世代がいるのがまたよいのだろうな。
 
-![子供と犬](/assets/images/20150524/kids_and_dog.jpg "子供と犬")
+![子供と犬](/assets/images/20150524/kids_and_dog.jpg "子供と犬"){:.mid}
 
 次回こそはロケットストーブ担当をローテーションにして、皆で火の番を体験したり、全員がもっと話ができる工夫をしたい。またやりましょう！！（そしてロケットストーブ自作WSも）
 

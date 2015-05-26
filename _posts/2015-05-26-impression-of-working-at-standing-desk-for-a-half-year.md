@@ -6,7 +6,7 @@ category: Hack
 image: /assets/images/20150526/standingdesk1.JPG
 tags: [standingdesk, workspace, life]
 ---
-![Standing Desk](/assets/images/20150526/standingdesk1.JPG "スタンディングデスクその１")
+![Standing Desk](/assets/images/20150526/standingdesk1.JPG "スタンディングデスクその１"){:.mid}
 
 昨年(2014年)末の大掃除の頃に、自宅のデスク環境をスタンディング環境仕様にした。その後の経過を踏まえて、半年経ってどうなのかをまとめてみる。
 
@@ -46,7 +46,7 @@ tags: [standingdesk, workspace, life]
 * 重ねた台の高さ： 33.7cm
 * デスクの高さ： 103.7cm
 
-![天板を重ねて高さ調整](/assets/images/20150526/adjustment_of_height.JPG "天板を重ねて高さ調整")
+![天板を重ねて高さ調整](/assets/images/20150526/adjustment_of_height.JPG "天板を重ねて高さ調整"){:.mid}
 
 ## スタンディング環境にしてよかったこと
 
@@ -64,7 +64,7 @@ tags: [standingdesk, workspace, life]
 
 今の作業空間は居間の一角にあるため、専用の部屋ではなくスペースは限られている（２〜３畳分くらい？）。椅子をどけたことによる、省スペース効果は予想以上で、ストレッチや自重トレーニングくらいできる程度のスペースが確保できた。
 
-![Standing Desk2](/assets/images/20150526/standingdesk2.JPG "スタンディングデスクとヨガマット")
+![Standing Desk2](/assets/images/20150526/standingdesk2.JPG "スタンディングデスクとヨガマット"){:.mid}
 
 ### 椅子に関する動作が不要で機敏に動ける
 
