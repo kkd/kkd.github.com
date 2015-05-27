@@ -2,12 +2,11 @@
 layout: post
 title: "東京マラソン2015に参加して東京観光と青春を回想してきた。"
 description: ""
-category: diary
+category: Running
+image: http://www.tokyo42195.org/2015/info/course/img/map.jpg
 tags: [running, marathon, race]
 source: 2015-02-23-tokyo-marathon-2015.md
 ---
-{% include JB/setup %}
-
 ## 東京マラソンに参加してきた
 
 東京マラソン2015に参加してきたので、まとめておくことにする。

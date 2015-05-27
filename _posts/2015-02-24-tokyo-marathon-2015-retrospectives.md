@@ -2,12 +2,9 @@
 layout: post
 title: "東京マラソン2015ふりかえり"
 description: ""
-category: diary
-tags: [running, marathon, race]
-source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
+category: Running
+tags: [running, marathon, race, ふりかえり]
 ---
-{% include JB/setup %}
-
 ## 何をやったかふりかえろう。
 
 [東京マラソン2015](../../../../2015/02/23/tokyo-marathon-2015)を走ってきたのだが、大阪と比べていくつか新しい試みをして、うまくいったもの、失敗したもの含めて列挙する。
@@ -69,7 +66,7 @@ source: 2015-02-24-tokyo-marathon-2015-retrospectives.md
 
 ### GPSウォッチのオートラップは5kmラップ（2/25 追記)
 
-普段練習している時は1kmのオートラップの設定にしているが、フルのレースはオートラップの設定を5km似したほうがいいことがわかったので設定を変えておいた。当たり前なのかもしれないが、やっててよかったな。
+普段練習している時は1kmのオートラップの設定にしているが、フルのレースはオートラップの設定を5kmにしたほうがいいことがわかったので設定を変えておいた。当たり前なのかもしれないが、やっててよかったな。
 
 ## うまくいかなかったこと
 
