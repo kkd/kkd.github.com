@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "生き物写真共有グループを一年運営して気づいた世界の魅力"
-description: "Facebook上で生き物写真の共有グループを@beakmarkとはじめて一年が経った。運営して気づいた、身近にひっそりと広がるが小さな世界の魅力は何か？"
+description: "Facebook上で生き物写真の共有グループを@beakmarkとはじめて一年が経った。運営して気づいた、身近にひっそりと広がる小さな世界の魅力は何か？"
 category: Life
 image: http://giantech.jp/assets/images/20150529/cover.jpg
 tags: [生き物, 写真, facebook, 自然, コミュニティ]
