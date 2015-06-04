@@ -3,7 +3,7 @@ layout: post
 title: "あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？"
 description: "SNSで話題になっていた「YOU LOVE IT & THE WORLD NEEDS IT & YOU ARE PAID FOR IT & YOU ARE GREAT AT IT = PURPOSE」の図はどこから来たのかを調べてみた。"
 category: WorkStyle
-image: https://pbs.twimg.com/media/CFSh3emUgAA57t_.jpg
+image: http://giantech.jp/assets/images/20150605/purpose_venn_diagram_ja.png
 tags: [仕事, 人生, 生きがい]
 ---
 
@@ -53,7 +53,7 @@ Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/Mee
 
 ちなみに、その後の[改訂版](http://bullshitelimination.com/purpose-driven-career/)では以下のような図に刷新しているようだ。
 
-![](http://bullshitelimination.com/wp-content/uploads/2014/12/The_Purpose_Driven_Career-600x648.jpg　"The Purpose Driven Career"){:.mid}
+![](http://bullshitelimination.com/wp-content/uploads/2014/12/The_Purpose_Driven_Career-600x648.jpg "The Purpose Driven Career"){:.mid}
 
 
 ## もうひとつのライン ー Forshay 2014/06/10
@@ -88,15 +88,19 @@ Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/Mee
 
 端的に言ってしまえば、大好きなこと、得意なこと（自分視点）と必要とされること、対価が支払われること（相手視点）をいかに重ねていけるかが、生きがい（purpose）、至福（bliss）へ近づくことなのだろう。
 
-ただ勘違いしてはいけないのは、いきなりこの４つの重なりを実現しようと思っても難しいことだ。
+ただ勘違いしてはいけないのは**いきなりこの４つの重なりを実現しようと思っても難しい**ということだ。
 
 Quoraで回答をしている Andrew R Coulson氏は次のようにコメントしている。
 
 > At my age, I can think of examples from my life of what each of the overlaps feels like. In particular, for 11 years I did a "that which you can be paid for" which didn't even make the cut as a vocation i.m.o. Other people thought I was good at it, but I knew that I wasn't. Then for 6 years I did a vocation. I quit that whole career path, and intentionally switched into the "love" circle. Phew. Spent 12 years in that little triangle to the right of the star, and for the last year or so, finally, I also get to focus on what I believe I''m really good at.
 
 
-氏は１１年間稼げる仕事をやってきたが、他の人は「うまくやれてる」と思えていた所を自分はそうでなないと気づいてしまい、その後６年間をVocation(稼げて、世界のニーズがある)の仕事を行ったそうだ。その後、すべてのキャリアパスを捨てて、意図的にLove（好きなこと）の領域に移った。１２年経って右側の△、つまり「好きなこと」かつ「世界のニーズがあること」で「稼ぐ」ことができた。そして遂に、自分が「うまくやれてる」と自信を持てる状態が見えてきたそうだ。
+氏は１１年間稼げる仕事をやってきたが、他の人は「うまくやれてる」と思えていた所を自分はそうでなないと気づいてしまい、その後６年間をVocation(稼げて、世間のニーズがある)の仕事を行ったそうだ。その後、すべてのキャリアパスを捨てて、意図的にLove（好きなこと）の領域に移った。１２年経って右側の△、つまり「好きなこと」かつ「世間のニーズがあること」で「稼ぐ」ことができた。そして遂に、自分が「うまくやれてる」と自信を持てる状態が見えてきたそうだ。
 
-この円をどうやって渡り歩き、重ねあわせていくかは、人それぞれだ。大事なのは、円を重ねあわせようとするプロセス自体そのものなのかもしれない。
+この円をどうやって渡り歩き、重ねあわせていくかは、人それぞれだ。大事なのは、自分がどこにいて何を大事にしているかに気づくことや、円を重ねあわせようとする（あるいはしない）プロセス自体そのものなのかもしれない。
 
-もちろん、好きなこと、得意なこと、稼ぐこと、世界に必要とされていることが分かれていてもいいと思う。しかし、もしそれらをひとつにを重ねられたとしたら、まさに**bliss（至福）の時**を過ごすことができるのだろう。自分もblissを目指そう。
+この図をみた上で、自分が納得した仕事ができているならば、まさに**bliss（至福）の時**を過ごすことができるのだろう。自分もblissを目指そう。
+
+最後に、日本語版をHUTSLE & GLIND版を元に作ったのでここに置いておきます。
+
+![Purpose Venn Diagram Ja](/assets/images/20150604/purpose_venn_diagram_ja.png "Purpose Venn Diagram 日本語版"){:.mid}
