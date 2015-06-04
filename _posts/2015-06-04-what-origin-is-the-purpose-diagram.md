@@ -2,9 +2,9 @@
 layout: post
 title: "あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？"
 description: "SNSで話題になっていた「YOU LOVE IT & THE WORLD NEEDS IT & YOU ARE PAID FOR IT & YOU ARE GREAT AT IT = PURPOSE」の図はどこから来たのかを調べてみた。"
-category: WorkStyle
+category: Life
 image: http://giantech.jp/assets/images/20150605/purpose_venn_diagram_ja.png
-tags: [仕事, 人生, 生きがい]
+tags: [仕事, 人生]
 ---
 
 今年の初め頃にSNSによく流れていたこんなベン図があった。
@@ -56,7 +56,7 @@ Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/Mee
 ![](http://bullshitelimination.com/wp-content/uploads/2014/12/The_Purpose_Driven_Career-600x648.jpg "The Purpose Driven Career"){:.mid}
 
 
-## もうひとつのライン ー Forshay 2014/06/10
+## もうひとつの系譜 ー Forshay 2014/06/10
 
 2014/06/10付の[What matters in doing your best work](http://forshay.com/what-matters-in-doing-your-best-work/)という記事に非常によく似た画像(DOING YOUR BEST WORK)が掲載されている。意味するところは大体同じだが、重なりあいの部分の言葉が若干異なる。
 
@@ -75,6 +75,8 @@ Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/Mee
 ![](http://1.bp.blogspot.com/-QDEEYQAchGw/TmznLS3lt4I/AAAAAAAAAFk/CG_z0YW9JdY/s1600/purpose.bmp "What I do"){:.mid}
 
 この画像は、2011/08/22にAri Bancale氏がg+上で公開した[三円の画像](https://plus.google.com/+AriBancale/posts/UuiwnFX8QDU)が元になっている。元々は、「What you love」、「What the world needs」、「What you are good at」だった。ここに「What the world will pay for」を足したのがDorothy版だ。
+
+![three circles](https://lh3.googleusercontent.com/-UphFN7WHDcY/TlE4SBOb8QI/AAAAAAAAA8M/a-v21JAP698/w506-h509/Infographic%2BEpic%2BWin.png "three circles venn diagram")
 
 ## 出自についてのまとめ
 
