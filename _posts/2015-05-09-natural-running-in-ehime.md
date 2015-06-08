@@ -2,9 +2,9 @@
 layout: post
 title: "ナチュラルランニングの講習に参加してわかった遥かなる道のり"
 description: "松山で行われたナチュラルランニングの講習に参加してきた。自分の身体に絶望しつつ、身体の可能性を改めて目の当たりにした。"
-category: life
+category: Running
 image: http://giantech.jp/assets/images/20150509/naturalrunning.jpg
-tags: [running, lifestyle, event, seminar]
+tags: [ライフスタイル, イベント, セミナー, 裸足ラン]
 source: 2015-05-09-natural-running-in-ehime.md
 ---
 {% include JB/setup %}
