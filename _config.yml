@@ -10,7 +10,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 愛媛でいきてまG
+title :　いきてま＠えひめ
 author : 
   name : Takeshi Kakeda
   email : takeshi@giantech.jp
@@ -35,7 +35,7 @@ facebook :
 production_url : http://giantech.jp
 production_repo_name : kkd.github.com
 url : http://giantech.jp
-description : 愛媛で生きている@kkdがお送りする雑多な日記。ソフトウェア開発、アジャイル、パーマカルチャー、パタン・ランゲージ、ランニング、まちづくり、興味のあるものすべて。
+description : 愛媛で生きている@kkdがお送りする雑多な日記。Creative & Green & Healthyな生活をお届けします。コンテンツは、ソフトウェア開発、アジャイル、パーマカルチャー、パタン・ランゲージ、ランニング、まちづくり、興味のあるものすべて。
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
