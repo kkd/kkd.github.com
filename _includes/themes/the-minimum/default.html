@@ -18,7 +18,6 @@
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
     <!-- for Ptengine -->
-	<script type="text/javascript">window._pt_lt = new Date().getTime();</script>
 </head>
 <body>
 <!-- for Ptengine -->
@@ -36,27 +35,11 @@
 	})();
 </script>
 <!-- for Ptengine -->
+
+{% include fb_root.html %}
        
 <div id="page" class="hentry">
-	<header class="the-header">
-		<div class="unit-head">
-			<div class="unit-inner unit-head-inner">
-				<p class="logo"><a href="{{ HOME_PATH }}"><img class="site_logo" src="{{site.url}}/assets/logo.png" /></a></p>
-				<nav class="nav-global">
-					<ul>
-						<li class="page"><a href="/about.html">about</a></li>
-						<li class="archive"><a href="/archive.html">過去のエントリ</a></li>
-						<li class="page"><a href="/archeological_pages.html">考古学的記事</a></li>
-						<li class="page"><a href="/pages.html">全記事</a></li>
-						<li class="category"><a href="/categories.html">カテゴリ</a></li>
-						<li class="tag"><a href="/tags.html">タグ</a></li>
-<!-- 						<li class="forkme"><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
-								allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></li>
- -->					</ul>
-				</nav>
-			</div><!-- unit-inner -->
-		</div><!-- unit-head -->
-	</header>
+	{% include header.html %}
 	<div class="body" role="main">
 		<div class="unit-body">
 			<div class="unit-inner unit-body-inner">
@@ -78,7 +61,7 @@
 						<li class="facebook"><a href="http://facebook.com/{{ site.author.facebook }}/" rel="me">Facebook</a></li>
 						<li class="linkedin"><a href="http://linkedin.com/in/{{ site.author.linkedin }}/" rel="me">LinkedIn</a></li>										
 						<li class="slideshare"><a href="http://slideshare.net/{{ site.author.slideshare }}/" rel="me">SlideShare(presentation</a></li>										
-						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
+						<li class="rss"><a href="{{ site.url }}/rss.xml">Subscribe to RSS Feed</a></li>
 					</ul>
 				</div><!-- misc -->
 				<p class="licence">

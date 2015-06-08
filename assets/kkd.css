@@ -22,3 +22,10 @@ img.site_logo {
   width: 350px;
 }
 
+.feedly-btn-horizontal img#feedly-follow{
+  width:60px;
+  height:20px;
+  border:0;
+  margin-bottom:0; /* これがないと縦の位置がずれてしまう */
+  vertical-align: middle;
+}

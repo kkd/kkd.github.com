@@ -1,26 +1,8 @@
 <div class="misc-content">
-<!--
-  <div class="social">
-    <ul class="list-linear">
-      <li><a href="http://b.hatena.ne.jp/entry/{{site.production_url}}{{page.url}}" class="hatena-bookmark-button" data-hatena-bookmark-title="いきてまG" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script> </li>
-      <li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="{{ site.author.twitter }}" data-lang="en">Tweet</a></div></li>
-      <li><div class="twitter-follow"><a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
-      <li><iframe src="http://www.facebook.com/plugins/like.php?href={{site.production_url}}/{{page.url}}/&amp;send=false&amp; layout=standard&amp;width=400&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida grande&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; widht:450px; height:31px;" allowTransparency="true"></iframe></li>
-    </ul>
-  </div>
--->
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <!-- いきてまG -->
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-9613785634594580"
-       data-ad-slot="9882222952"
-       data-ad-format="auto"></ins>
-  <script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-
-  <!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//giantech.jp&nsid=93895154733182801%3A%3A123600333694852915&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
-  {% include JB/comments %}
-</div>
+	{% include twitter_follow.html %}
+	{% include fb_follow.html %}
+	{% include feedly_follow.html %}
+	{% include strava_follow.html %}
+	{% include google_adsense.html %}
+	{% include zenback.html %}
 </div>
