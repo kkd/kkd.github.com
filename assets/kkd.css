@@ -30,7 +30,8 @@ img.site_logo {
   vertical-align: middle;
 }
 
-div.blogcard-1 {
+/* For blog card generator */
+div.bc-1 {
   width:100%;
   max-width:500px;
   margin:0 0 20px 0;
@@ -41,7 +42,7 @@ div.blogcard-1 {
   padding:12px;
 }
 
-div.blogcard-2 {
+div.bc-2 {
   width:100px;
   height:100px;
   float:right;
@@ -51,7 +52,7 @@ div.blogcard-2 {
   overflow:hidden;
 }
 
-a.blogcard-3 {
+a.bc-3 {
   position:absolute;
   width:1000%;
   left:50%;
@@ -59,7 +60,7 @@ a.blogcard-3 {
   text-align:center;
 }
 
-img.blogcard-4 {
+img.bc-4 {
   width:auto;
   height:100px;
   margin:0;
@@ -67,7 +68,7 @@ img.blogcard-4 {
   display:inline;
 }
 
-a.blogcard-5 {
+a.bc-5 {
   color:#333;
   font-weight:bold;
   text-decoration:none;
@@ -76,26 +77,26 @@ a.blogcard-5 {
   line-height:1.5;
 }
 
-p.blogcard-6 {
+p.bc-6 {
   margin:0;
   color:#666;
   font-size:11px;
   line-height:1.5;
 }
 
-div.blogcard-7 {
+div.bc-7 {
   border-top:1px solid#eee;
   clear:both;margin:10px 0 0 0;
   padding:0;
 }
 
-p.blogcard-8 {
+p.bc-8 {
   color:#999;
   margin:3px 0 0 0;
   font-size:11px;
 }
 
-img.blogcard-favicon {
+img.bc-favicon {
   margin:0 5px 0 0;
   padding:0;
   border:none;
@@ -103,7 +104,7 @@ img.blogcard-favicon {
   vertical-align:middle;
 }
 
-img.blogcard-hatebu {
+img.bc-hatebu {
   margin:0 0 0 5px;
   padding:0;
   border:none;
