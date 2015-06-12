@@ -61,6 +61,18 @@ task :deploy do
   end
 end
 
+# Usage: rake push source
+desc "Begin a push sources to Github"
+task :push_src do
+  puts "! Push to master branch of GitHub"
+  begin
+    sh "git push origin source"
+  rescue Exception => e
+    puts "! Error - git command abort"
+    exit -1
+  end
+end
+
 # Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
