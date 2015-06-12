@@ -1,0 +1,1 @@
+{% if page.title == site.title %}{% capture description %}{{ site.description }}{% endcapture %}{% else %}{% if page.description %}{% capture description %}{{ page.description }}{% endcapture %}{% else %}{% capture description %}{{ page.content | markdownify | strip_html | strip_newlines | truncate: 128  }}{% endcapture %}{% endif %}{% endif %}{{ description }}

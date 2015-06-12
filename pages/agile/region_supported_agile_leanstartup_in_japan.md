@@ -1,0 +1,65 @@
+---
+layout: page
+title: "アジャイルやリーンスタートアップを支援・実践している地方の事例集"
+description: ""
+---
+{% include JB/setup %}
+
+ 地方で自治体が中心となってアジャイル、リーンスタートアップを支援(補助制度、研修、講演)している、あるいは実践している事例集を収集しています。もしも他県の事例をご存知の方がいらしたら、 [@kkd](http://twitter.com/kkd)に連絡を頂くか、pull request頂けると嬉しいです。
+
+ *Version: 20130515*
+
+## 北海道
+
+* [北海道ITアジャイル戦略](http://www.hkd.meti.go.jp/hokim/h23itagile/index.htm)
+
+## 青森県
+
+* [Androidアプリ事業化研修](http://www.pref.aomori.lg.jp/release/2012/43522.html)
+  * アジャイル開発やビジネスモデルキャンバスを用いた研修
+
+## 山形県
+
+* [AgileJapan2010 官公庁でも取り組み始めたアジャイル！ 山形県庁](http://www.slideshare.net/AgileJapan/agilejapan2010)
+  *  支援ではないが山形でのアジャイル事例
+
+## 埼玉県
+
+* [NPO法人埼玉ITCの「平成23年5月埼玉IT経営研修セミナー](http://www.saitama-itc.org/npo/modules/NPO/img/kaihou_201106.pdf)
+
+## 神奈川県
+
+* 一般社団法人 神奈川県情報サービス産業協会
+  * [アジャイルSEのリーダーシップとコミュニケーション](https://www.kia.or.jp/MAKE_JIMU/doc/event_detail/3975.html)
+
+## 岐阜県
+
+* [”ソフトウェア開発現場の意識改革による現場力の向上”「イノベーションを生み出す　実践型プロジェクトマネジメントの新たな潮流」](http://www.softopia.or.jp/training/seminar20130604/)
+  * 岐阜県のNPOソフトピアの支援
+
+## 島根県
+
+地方自治体の支援のトップランナー。Rubyとの相乗効果を狙っている。
+
+* [パートナー型ビジネス創出支援補助事業の募集](http://www.pref.shimane.lg.jp/itsangyo/partner-business.html)
+* [Rubyビジネスモデル創出支援事業](http://www.pref.shimane.lg.jp/itsangyo/2013_05_ruby_biz_model.html)
+* [「リーン・スタートアップ手法を取り入れる」、島根県がビジネスモデル創出支援](http://itpro.nikkeibp.co.jp/article/NEWS/20120702/406943/)
+* [松江に行けば優秀なエンジニアに出会える——Ruby City MATSUE Project](http://www.ashita-lab.jp/special/925/)
+
+## 徳島県
+
+* [徳島県委託事業　平成24年度　第10回SOHOセミナー](http://www.lifeness.jp/1068)
+  *  リーンスタートアップのセミナー
+
+## 佐賀県
+
+* [佐賀県庁でもできる！プロジェクトファシリテーション](http://www.slideshare.net/hiranabe/agilejapan2010-saga-prefecture-higashi)
+  * 佐賀県庁でのプロジェクトファシリテーション事例(プロジェクトファシリテーションはアジャイルのサブセット)
+
+## 沖縄県
+
+* [沖縄県ビジネスインキュベーションセミナー](http://everevo.com/event/4334)
+ * リーン・スタートアップを活用したこれからのベンチャー創業支援について講演
+
+
+
