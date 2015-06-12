@@ -24,7 +24,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-family:  "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "游ゴシック", YuGothic, "メイリオ", Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
   font-size: 1em;
   line-height: 1.625em;
 }
@@ -51,14 +51,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-family:  "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "游ゴシック", YuGothic, "メイリオ", Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
   font-weight: bold;
 }
 h1, .h1 {
-  font-size: 28px;
+  font-size: 32px;
   line-height: 32px;
   margin-top: 32px;
-  margin-bottom: 32px;
+  margin-bottom: 10px;
   letter-spacing: -1px;
 }
 h2, .h2 {
@@ -69,7 +69,7 @@ h2, .h2 {
   letter-spacing: -1px;
 }
 h3, .h3 {
-  font-size: 20px;
+  font-size: 22px;
   line-height: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -85,8 +85,8 @@ ul,
 ol,
 dl,
 img {
-  font-family: serif;
   font-size: 14px;
+  line-height: 22px;  
   margin-top: 0;
   margin-bottom: 1.625em;
 }
@@ -103,11 +103,10 @@ blockquote cite {
   font-weight: normal;
 }
 strong {
-  font-family: san-serif;
-  /*font-weight: bold;*/
+  font-weight: bold;
 }
 em {
-  font-weight: bold;
+  font-style: italic;
 }
 /*
 Color schemes
@@ -186,7 +185,8 @@ html {
 /* LINK */
 a:link {
   /*color: #2d2d2d;*/
-  color: #2D163B;
+  /*color: #2D163B;*/
+  color: #058b7b;
   text-decoration: none;
 }
 a:visited {
@@ -194,8 +194,9 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #474747;
-  text-decoration: none;
+  /*color: #474747;*/
+  color: #058b7b;
+  text-decoration: underline;
 }
 /* HIGHLIGHTER */
 pre {
