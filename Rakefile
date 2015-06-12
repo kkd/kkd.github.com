@@ -40,6 +40,27 @@ module JB
   end #Path
 end #JB
 
+# Usage: rake deploy
+desc "Begin a push static file to GitHub"
+task :deploy do
+  puts "! Copy static file from _site to kkd.github.com.master"
+  sh "cp -a _site/* ../kkd.github.com.master/"
+  puts "! Change directory master"
+  cd "../kkd.github.com.master" do
+    puts "! Push to master branch of GitHub"
+    sh "git add *"
+    message = "deploy at #{Time.now}"
+    begin
+      sh "git commit -m \"#{message}\""
+      sh "git push origin master:master"
+      sh "cd ../kkd.github.com"
+    rescue Exception => e
+      puts "! Error - git command abort"
+      exit -1
+    end
+  end
+end
+
 # Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :post do
