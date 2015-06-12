@@ -1,1 +1,0 @@
-{% if page.date %}{% capture page_date %}{{page.date | date_to_xmlschema}}{% endcapture %}{% else %}{% capture page_date %}{{site.time | date_to_xmlschema}}{% endcapture %}{% endif %}{{ page_date }}
