@@ -9,6 +9,8 @@ description: ""
 
 懸田 剛 / Takeshi Kakeda
 
+{% include blogcard.html site="iwp-ehime.com" url="http://iwp-ehime.com/post-cultureworks/" image="http://iwp-ehime.com/iwp/wp-content/uploads/2014/09/i-cath-cultureworks2.jpg" title="「早く失敗しろ」 | INTERVIEW　WITH　PRESIDENT" desc="インタビューを受けた記事" %}
+
 ### 所属組織・団体/Company, Organization
 
 - [合同会社カルチャーワークス](http://www.cultureworks.jp/)  共同代表
@@ -105,9 +107,11 @@ description: ""
 
 記事寄稿多数あり。Webで参照できる連載は以下の通り。
 
-- [Happy Hacking Team](http://enterprisezine.jp/author/50) 
-- [Web2.0時代のソフトウェア開発手法](http://itpro.nikkeibp.co.jp/article/COLUMN/20060402/234199/)
-- [アジャツール - Agileなツール紹介](http://www.objectclub.jp/technicaldoc/tools/agilertool/agilertool_top/)
+{% include blogcard.html site="enterprisezine.jp" url="http://enterprisezine.jp/author/50" image="http://enterprisezine.jp/static/common/images/logo.png" title="appy Hacking Team" desc="EnterpriseZine（EZ）は、翔泳社が運営するデータテクノロジー/企業セキュリティの最新動向を発信するITリーダー向け専門メディアです。IT部門のリーダー層中心に、ビジネス部門でIT活用を推進する方々にも実践的で役立つ情報を提供します。" %}
+
+{% include blogcard.html site="itpro.nikkeibp.co.jp" url="http://itpro.nikkeibp.co.jp/article/COLUMN/20060402/234199/" image="http://itpro.nikkeibp.co.jp/images/itpro/2011/leaf/itprosns.png" title="連載 Web 2.0時代のソフトウエア開発手法---目次" desc="　Web2.0とは何かを定義するのは難しいが，大きな流れとしてテクノロジからビジネスへと多くのエンジニアが視点を移していることは間違いないだろう。" %}
+
+{% include blogcard.html site="www.objectclub.jp" url="http://www.objectclub.jp/technicaldoc/tools/agilertool/agilertool_top/" image="http://capture.heartrails.com/100x100/?http://www.objectclub.jp/technicaldoc/tools/agilertool/agilertool_top/" title="- アジャツール - Agileなツール紹介" desc="" %}
 
 
 
