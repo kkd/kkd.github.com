@@ -2,8 +2,8 @@
 layout: post
 title: "DevLOVE 「システム思考を手に入れよう。」に向けて"
 description: ""
-category: SystemsThinking
-tags: [event, devlove]
+category: Lively
+tags: [SystemsThinking, システム思考, event, イベント, devlove]
 source: 2013-10-21-systems_thinking_in_devlove.md
 date: 2013-10-21 23:59:59
 ---

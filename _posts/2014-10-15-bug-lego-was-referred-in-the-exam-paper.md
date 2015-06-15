@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "【驚愕】バグレゴが試験問題になった話"
-description: ""
-category: news
-tags: [buglego, practice, agile]
+description: "マンチェスター大学のソフトウェアサイエンスの中のアジャイルソフトウェアエンジニアリングの2012年の試験問題としてバグレゴを題材にした問題があるのを発見した。"
+category: Creative
+tags: [buglego, バグレゴ,practice, プラクティス, agile, アジャイル]
 source: 2014-10-15-bug-lego-was-referred-in-the-exam-paper.md
 ---
 

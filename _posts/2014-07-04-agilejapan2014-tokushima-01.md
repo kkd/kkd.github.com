@@ -2,8 +2,8 @@
 layout: post
 title: "AgileJapan2014 徳島サテライト感想(1)"
 description: ""
-category: event
-tags: [agilejapan, tokushima]
+category: Lively
+tags: [agilejapan, アジャイルジャパン, 徳島, tokushima, agile, 地方, local, リモートワーク]
 source: 2014-07-04-agilejapan2014-tokushima-01.md
 ---
 {% include JB/setup %}

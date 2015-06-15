@@ -45,6 +45,11 @@ task :build do
   sh "jekyll build -t"
 end
 
+desc "Clean _site"
+task :clean do
+  sh "rm -rf _site/*"
+end
+
 # Usage: rake deploy
 desc "Begin a push static file to GitHub"
 task :deploy do

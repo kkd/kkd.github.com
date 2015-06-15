@@ -2,8 +2,8 @@
 layout: post
 title: "あなたがXP祭り2014でこのセッションを選ぶべき３つの理由"
 description: ""
-category: news
-tags: [2014, xp, talk]
+category: News
+tags: [XP祭り, XP, 登壇, presentation, 宣伝, XP白本]
 source: 2014-08-22-three-reasons-why-you-should-choose-the-session-at-xpfestival-2014.md
 ---
 ![xp2014 logo](http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png "xp2014 logo")

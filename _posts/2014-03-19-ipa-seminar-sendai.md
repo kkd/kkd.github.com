@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "仙台でアジャイル型開発におけるプラクティス活用リファレンスガイドセミナー開催"
-description: ""
-category: Agile
-source: 2014-03-19-ipa-seminar-sendai.md
-tags: [event, sendai, ipa]
+description: "IPAのアジャイルリファレンスガイドのセミナーを仙台で開催させて頂いた。"
+category: Lively
+tags: [ソフトウェア開発, software development, event, イベント, sendai, 仙台, ipa, 登壇, presentation, agile, アジャイル]
 date: 2014-03-19 23:59:59
 ---
 {% include JB/setup %}

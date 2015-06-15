@@ -4,8 +4,8 @@ title: "little by little"
 description: "すこしづつ"
 source: 2013-03-31-little-by-little.md
 date: 2013-03-31 23:59:59
-category: life
-tags: [tweet]
+category: Lively
+tags: [tool, ツール, jekyll]
 ---
 {% include JB/setup %}
 

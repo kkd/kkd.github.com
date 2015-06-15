@@ -2,9 +2,9 @@
 layout: post
 title: "減量失敗体験を晒してみよう（イントロダクション）"
 description: "これまでのいろいろな減量の失敗体験を整理する機会があったので、いろいろまとめてみた。"
-category: tips
+category: Healthy
 image: https://www.flickr.com/photos/53372763@N00/81255795/
-tags: [weight-loss]
+tags: [weight loss, diet, ダイエット, 減量, failure story, 失敗談]
 ---
 {% include JB/setup %}
 

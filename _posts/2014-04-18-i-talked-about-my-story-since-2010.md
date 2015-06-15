@@ -2,8 +2,8 @@
 layout: post
 title: "DevLOVE 「とあるアジャイル実践者の愛媛での話。」で登壇させて頂きました"
 description: ""
-category: Life
-tags: [agile, seminar]
+category: Lively
+tags: [agile, アジャイル, 登壇, presentation, 東京, Tokyo, 地方]
 source: 2014-04-18-i-talked-about-my-story-since-2010.md
 ---
 {% include JB/setup %}

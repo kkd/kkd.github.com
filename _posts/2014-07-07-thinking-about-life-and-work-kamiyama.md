@@ -2,8 +2,8 @@
 layout: post
 title: "神山町に行っていろいろ考えた「しごと」と「くらし」"
 description: ""
-category: essay
-tags: [agilejapan, tokushima]
+category: Lively
+tags: [agilejapan, アジャイルジャパン, 徳島, tokushima, agile, 地方, local, リモートワーク, workstyle, ワークスタイル, lifestyle, ライフスタイル]
 ---
 {% include JB/setup %}
 

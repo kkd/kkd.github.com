@@ -2,8 +2,8 @@
 layout: post
 title: "XP祭り2014で白本の参考文献について話してきます"
 description: ""
-category: news
-tags: [2014, xp, talk]
+category: News
+tags: [XP祭り, XP, 登壇, presentation, 宣伝, 書籍]
 source: 2014-08-22-i-am-going-to-talk-on-xpfestival-2014.md
 ---
 ![xp2014 logo](http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png "xp2014 logo")

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "パーマカルチャー関西のメルマガに寄稿しました"
-description: ""
-category: Permaculture
-tags: [essay, announce, agile]
+description: "デザインコースの卒業生近況として、パーマカルチャー関西のメルマガに寄稿しました。"
+category: Green
+tags: [essay, エッセイ, agile, アジャイル, permaculture, パーマカルチャー]
 date: 2014-04-10 23:59:59
 ---
 {% include JB/setup %}

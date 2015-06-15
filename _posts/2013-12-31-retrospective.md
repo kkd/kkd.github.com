@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "retrospective"
-description: ""
-category: 
-tags: [retrospective, 2013]
+title: "2013年のふりかえり"
+description: "ざっくり2013年のふりかえりをしてみた。"
+category: Lively
+tags: [retrospective, ふりかえり, 2013年]
 ---
 {% include JB/setup %}
 

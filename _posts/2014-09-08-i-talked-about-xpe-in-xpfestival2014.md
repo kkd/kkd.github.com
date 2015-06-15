@@ -2,8 +2,8 @@
 layout: post
 title: "XP祭り2014でXP厨ぶりをアピールしてきました"
 description: ""
-category: event
-tags: [2014, event, XP祭り]
+category: Creative
+tags:  [XP祭り, XP, Agile, アジャイル, 登壇, presentation, 書籍, Book, XP白本, tokyo, 東京]
 source: 2014-09-08-i-talked-about-xpe-in-xpfestival2014.md
 ---
 <iframe src="//www.slideshare.net/slideshow/embed_code/38768205" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

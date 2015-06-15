@@ -2,8 +2,8 @@
 layout: post
 title: "大阪マラソンで初の都市型マラソンを堪能した話（後編）"
 description: ""
-category: diary
-tags: [running, marathon, race]
+category: Healthy
+tags: [running, ランニング, marathon, マラソン, race, レース, Osaka, 大阪, report, レポート]
 source: 2014-10-26-osaka-marathon-part2
 ---
 

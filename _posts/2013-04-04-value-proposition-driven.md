@@ -2,9 +2,9 @@
 layout: post
 title: "価値提案駆動 -- TDDとの類似点"
 description: ""
-category: SoftwareDevelopment
+category: Creative
 source: 2013-04-04-value-proposition-driven.md
-tags: [purpose, essay]
+tags: [software development, ソフトウェア開発, Essay, エッセイ, "Running Lean",TDD]
 date: 2013-04-04 23:59:59
 ---
 {% include JB/setup %}

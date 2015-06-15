@@ -2,8 +2,8 @@
 layout: post
 title: "まさーるさん没後10年に思うこと"
 description: "まさーるさん（石井勝さん）が福知山線の事故で亡くなられてから１０年が過ぎた。まさーるさんの思い出と人の生き方について考えた。"
-category: essay
-tags: [masarl,memories]
+category: Creative
+tags: [masarl,まさーるさん, memories, 思い出, 福知山線事故, アジャイル, agile, ソフトウェア開発, software development, コミュニティ, community]
 image: http://giantech.jp/assets/images/masarl-eyecatch.jpg
 source: 2015-04-25-masarl-memories-in-decade-from-his-accsident.md
 ---

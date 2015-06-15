@@ -3,7 +3,7 @@ layout: post
 title: "２年ぶりにブログの名前を変えてみた"
 description: "2013/03/27に復活したこのサイトの名前を変えてみた。サブタイトルに思い入れがあるその訳は..."
 category: News
-tags: [お知らせ]
+tags: [お知らせ, blog]
 ---
 
 ![ロゴ](/assets/logo_cghll.png "新しいロゴ"){:.mid}

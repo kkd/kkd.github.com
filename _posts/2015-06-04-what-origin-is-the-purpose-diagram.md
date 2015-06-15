@@ -2,9 +2,9 @@
 layout: post
 title: "あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？"
 description: "SNSで話題になっていた「YOU LOVE IT & THE WORLD NEEDS IT & YOU ARE PAID FOR IT & YOU ARE GREAT AT IT = PURPOSE」の図はどこから来たのかを調べてみた。"
-category: Life
+category: Lively
 image: http://giantech.jp/assets/images/20150604/purpose_venn_diagram_ja.png
-tags: [仕事, 人生]
+tags: [仕事, works, 人生, Life, ダイアグラム, diagram, ビジュアルシンキング, Visual Thinking, 生きがい, purpose]
 ---
 
 今年の初め頃にSNSによく流れていたこんなベン図があった。

@@ -2,8 +2,8 @@
 layout: post
 title: "松山で行われたMA10のアイデアソンに参加してきた（ざっくり編）"
 description: ""
-category: life
-tags: [2014, ideathon, 松山, event, impression]
+category: Creative
+tags: [ideathon, アイデアソン, 松山, matsuyama, ehime, 愛媛, event, イベント, レポート,report]
 source: 2014-08-24-ma10-ideathon-in-ehime.md
 ---
 

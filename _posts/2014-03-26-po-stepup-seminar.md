@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "プロダクトオーナーステップアップセミナー開催"
-description: ""
+description: "プロダクトオーナーについてのセミナーを開催しました。"
 source: 2014-03-26-po-stepup-seminar.md
-category: Agile
-tags: [Seminar, Event, ProductOwner]
+category: News
+tags: [Seminar, セミナー, Event, イベント, ProductOwner, プロダクトオーナー]
 date: 2014-03-26 23:59:59
 ---
 {% include JB/setup %}

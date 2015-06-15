@@ -2,9 +2,9 @@
 layout: post
 title: "タンポポコーヒーを庭のタンポポから自作してみた"
 description: "カフェイン断食したいなと思ってる時に庭のタンポポを見て思いついた。「そうだ、タンポポコーヒーを自作したらどうだろう？」あえて買わずに自作にチャレンジしてはみたが目的は達成されるのか？"
-category: DIY
+category: Green
 image: http://giantech.jp/assets/images/20150608/dandelions.jpg
-tags: [家庭菜園, 雑草, Permaculture]
+tags: [家庭菜園, Home Gardening, 雑草, Weed, Permaculture, パーマカルチャー, DIY, 自作]
 ---
 ## カフェインを控えよう...
 以前に一度カフェイン断ちをしたことがあったのだが、最近、ふたたびカフェイン断ちを思い立った。

@@ -2,8 +2,8 @@
 layout: post
 title: "第一回 神山.rbでXP祭り2014のXP白本話をする意味とは？"
 description: ""
-category: event
-tags: [xp, 神山, 2014]
+category: Lively
+tags: [xp, agile, kamiyama, 神山, 徳島, tokushima, XP白本, 登壇, presantation, kaimyama.rb]
 source: 2014-11-08-kamiyama-rb-vol1.md
 ---
 

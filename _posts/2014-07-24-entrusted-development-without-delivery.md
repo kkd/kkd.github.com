@@ -2,8 +2,8 @@
 layout: post
 title: "「「納品」をなくせばうまくいく」はアジャイルを生かした顧客志向のビジネスモデルの解説書"
 description: ""
-category: book
-tags: [agile, startup, community]
+category: Creative
+tags: [book, 書籍, review, レビュー, agile, アジャイル, startup, スタートアップ, community, コミュニティ]
 ---
 
 ソニックガーデンの倉貫さんに、「「納品」をなくせばうまくいく」を献本頂いた。

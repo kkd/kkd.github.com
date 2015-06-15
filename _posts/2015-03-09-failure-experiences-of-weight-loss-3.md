@@ -2,9 +2,9 @@
 layout: post
 title: "減量失敗体験を晒してみよう(3) 自転車通勤で健康的に痩せた！！しかし…"
 description: ""
-category: tips
+category: Healthy
 image: https://www.flickr.com/photos/33114438@N00/6868364204/
-tags: [weight-loss]
+tags: [weight loss, diet, ダイエット, 減量, failure story, 失敗談, cycling, サイクリング, 自転車, 運動, fitness, 自転車通勤]
 ---
 {% include JB/setup %}
 

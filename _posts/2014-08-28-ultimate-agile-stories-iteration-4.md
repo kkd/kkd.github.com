@@ -2,8 +2,8 @@
 layout: post
 title: "Ultimate Agile Stories - Iteration 4 に寄稿しました"
 description: ""
-category: news
-tags: [2014, UAS, agile]
+category: Lively
+tags: [UAS, Ultimate Agile Stories, agile, アジャイル, アジャイル同人誌, 寄稿, 記事]
 source: 2014-08-28-ultimate-agile-stories-iteration-4.md
 ---
 

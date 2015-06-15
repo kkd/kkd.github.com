@@ -2,9 +2,9 @@
 layout: post
 title: "Jekyll on Github に OGP/TwitterCardを対応させた"
 description: "このサイトはながらくOGP対応しておらず、fb上で悲しい表示しかされていなかったので、JekyllベースのブログにOGPと（TwitterCard）の対応をした。"
-category: Hack
+category: Creative
 image: http://giantech.jp/assets/images/20150521/sns.jpg
-tags: [jekyll, OGP, Tool]
+tags: [jekyll, OGP, Tool, ツール, facebook, web]
 ---
 
 <img src="/assets/images/20150521/sns.jpg" alt="Eyecatch"/>

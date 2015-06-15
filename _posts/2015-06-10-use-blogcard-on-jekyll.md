@@ -2,9 +2,9 @@
 layout: post
 title: "自分のサイト上で外部リンクをFacebookの画像つきリンクっぽく表示する方法"
 description: "サイトをOGP対応にしたので、SNSから格好良くリンクされるようになった。しかし自分の記事から外部のリンクを同じように素敵に表示する方法はないのか調べてみた。"
-category: Web
+category: Creative
 image: http://giantech.jp/assets/images/20150610/blogcard_hatena.png
-tags: [Hack, Jekyll, OGP, JavaScript, BlogCard]
+tags: [Hack, ハック, Jekyll, OGP, JavaScript, BlogCard, ブログカード]
 ---
 
 ## 自分のサイトでもOGPを取得してリンクを格好よく表示させたい！

@@ -2,8 +2,8 @@
 layout: post
 title: "東京マラソン2015ふりかえり"
 description: ""
-category: Running
-tags: [running, marathon, race, ふりかえり]
+category: Healthy
+tags: [running, ランニング, marathon, マラソン, race, レース, Osaka, 大阪, report, レポート, ふりかえり, retrospective]
 ---
 ## 何をやったかふりかえろう。
 

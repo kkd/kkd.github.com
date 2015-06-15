@@ -2,9 +2,9 @@
 layout: post
 title: "減量失敗体験を晒してみよう(1) 若気の至りで食事制限！しかし…"
 description: ""
-category: tips
+category: Healthy
 image: https://www.flickr.com/photos/64636777@N03/8205030646
-tags: [weight-loss]
+tags: [weight loss, diet, ダイエット, 減量, failure story, 失敗談]
 ---
 {% include JB/setup %}
 

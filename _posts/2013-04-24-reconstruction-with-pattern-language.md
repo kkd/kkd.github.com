@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "パタン・ランゲージによる震災復興"
-description: ""
+description: "中埜さん以外にパタン・ランゲージを震災復興に使っている例があった。"
 source: 2013-04-24-reconstruction-with-pattern-language.md
-category: essay
-tags: [pattern language, japan]
+category: Lively
+tags: [pattern language, パタン・ランゲージ, 震災]
 date: 2013-04-24 23:59:59
 ---
 {% include JB/setup %}

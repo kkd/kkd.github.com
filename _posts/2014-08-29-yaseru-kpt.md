@@ -2,8 +2,8 @@
 layout: post
 title: "やせる！KPTで気づかされたダイエットの秘訣"
 description: ""
-category: event
-tags: [2014, kpt, diet]
+category: Healthy
+tags: [kpt, diet, 減量, weight loss, ふりかえり, 登壇, presantation]
 source: 2014-08-29-yaseru-kpt.md
 ---
 ## リモートで基調講演（？）

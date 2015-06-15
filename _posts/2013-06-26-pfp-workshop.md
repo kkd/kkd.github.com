@@ -3,8 +3,8 @@ layout: post
 title: "2013/06/26 PFP関東ワークショップを実施しました"
 description: "PFP関東にお呼ばれして、PF誕生秘話やワークショップを開催しました。"
 source: 2013-06-26-pfp-workshop.md
-category: PF
-tags: [pfp, event]
+category: Lively
+tags: [pfp, プロジェクトファシリテーション, event, イベント, 登壇, presentation, Tokyo, 東京]
 date: 2013-06-26 23:59:59
 ---
 {% include JB/setup %}
