@@ -40,6 +40,11 @@ module JB
   end #Path
 end #JB
 
+desc "Build all posts and pages."
+task :build do
+  sh "jekyll build -t"
+end
+
 # Usage: rake deploy
 desc "Begin a push static file to GitHub"
 task :deploy do
