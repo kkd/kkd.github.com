@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - local</title>
+ <link href="http://giantech.jp/tags/local.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/local.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/local.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>神山町に行っていろいろ考えた「しごと」と「くらし」</title>
+   <link href="http://giantech.jp/2014/07/07/thinking-about-life-and-work-kamiyama"/>
+   <updated>2014-07-07T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2014/07/07/thinking-about-life-and-work-kamiyama</id>
+   <content type="html">
+&lt;h2 id=&quot;section&quot;&gt;ワークスタイルとライフスタイル&lt;/h2&gt;
+&lt;p&gt;神山に行ってみて、見て、話を聞いて、考えたこと。&lt;/p&gt;
+
+&lt;p&gt;徳島サテライトの感想は、&lt;a href=&quot;http://kkd.github.io/2014/07/04/agilejapan2014-tokushima-01/&quot;&gt;感想（１）&lt;/a&gt;と&lt;a href=&quot;http://kkd.github.io/2014/07/04/agilejapan2014-tokushima-02/&quot;&gt;感想（２）&lt;/a&gt;に書いてみたが、ここではその後にいろいろ考えたことをつらつら書いてみる。&lt;/p&gt;
+
+&lt;p&gt;自分の場合は、どうしようもない事情があって、愛媛に移り生活をはじめた。様々な試行錯誤の中で（いまも最中）、自分がどのように生きて、どのように働きたいのか、というイメージを東京に住んでいた頃と比べて徐々に変わってきて今に至っている。&lt;/p&gt;
+
+&lt;p&gt;自分のように、理由があって地方に移る（戻る）人は、やむを得ない事情があり、そのような現実と向き合う中で「そこでどのように暮らしていくか」「どのように働くか」を考えるという順序になる。&lt;/p&gt;
+
+&lt;p&gt;他方、場所には縛られないが、生き方や働き方について迷いがある人、「こんな暮し、こんな環境で仕事がしたい」というビジョンがある人もいるだろう。「ビジョン」という確固たるものがなくても「地元に戻りたい」というイメージを持つ人は一定数いると思う。&lt;/p&gt;
+
+&lt;p&gt;「事情駆動」で移住するのか、「ビジョン駆動」で移住するのか、それはその人次第だが、大事なのは&lt;strong&gt;「しごと」と「くらし」は不可分である&lt;/strong&gt;ということだろうか。&lt;/p&gt;
+
+&lt;p&gt;今回の徳島や神山で働いている人々の周囲の環境を見たり聞いたりしていると、少なくとも一部の職種に関して言うと「しごと」と「くらし」の両方ひっくるめて&lt;em&gt;いいかんじ&lt;/em&gt;に過ごしているように見えた。&lt;/p&gt;
+
+&lt;p&gt;「いいかんじ」は「便利」とは同義ではないので、不満がないというわけではない。産直セッションの時にも、本屋がないからamazon頼みだという話があった。買い物だって街まで行かないと買えないものもあるだろう。冬の寒さはキツく、虫が至る所にいるなんてのも当たり前という話もあった。だからといって、それが嫌でたまらない、というのではなく、&lt;strong&gt;小さな不満もひっくるめての「くらし」と「しごと」の全体を楽しむ&lt;/strong&gt;のが大事なのだろう。&lt;/p&gt;
+
+&lt;p&gt;短い人生、「くらし」も「しごと」もいいかんじに過ごしていきたい。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AgileJapan2014 徳島サテライト感想(2)</title>
+   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-02"/>
+   <updated>2014-07-04T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2014/07/04/agilejapan2014-tokushima-02</id>
+   <content type="html">
+&lt;h2 id=&quot;section&quot;&gt;神山ツアーについて&lt;/h2&gt;
+
+&lt;p&gt;徳島サテライトの本編終了後に、神山町のサテライトオフィスの見学を実施した。コワーキングスペースのダンクソフトさんのワークスペースや、&lt;a href=&quot;http://www.plat-ease.co.jp/%E3%81%88%E3%82%93%E3%81%8C%E3%82%8F%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9-%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/&quot;&gt;プラットイーズさんのえんがわオフィス&lt;/a&gt;、&lt;a href=&quot;http://jp.sansan.com/&quot;&gt;Sansan&lt;/a&gt;さんのサテライトオフィスを見学させて頂いた。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;ダンクソフトのワークスペース&lt;/h3&gt;
+&lt;p&gt;ダンクソフト本橋さんの作業スペースは徹底して&lt;strong&gt;リモートで仕事しやすい環境&lt;/strong&gt;に整えられていたという印象を持った。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14537613814/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14559167933/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;目を引くのはチェーンソーと薪割り器。これは唯一の暖房器具である薪ストーブにくべる薪を作るためだそうだ。移住を支援しているNPO法人のグリーンバレーさんで講習会を開いてくれるので使い方を覚えるのも簡単そうだ。冷房はないそうだが、きっと窓を開けはなしての開放的な作業空間になるのだろう。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;えんがわオフィス&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14535667351/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14537558234/in/set-72157645478604223/player/&quot; width=&quot;331&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;続いて車で移動してのえんがわオフィスへ。まずオフィスの外装が「おっしゃれ〜」なのが印象的。中も古民家の梁を生かした作りになっていて素敵だ。若干、建物と比較して人が多い印象は持ったが窮屈というほどでもない。近くの演芸場にも案内してもらう。地域の交流の場がまだ残っているのは非常に価値がある。&lt;/p&gt;
+
+&lt;h3 id=&quot;sansan&quot;&gt;Sansanサテライトオフィス&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14352480829/in/set-72157645478604223/player/&quot; width=&quot;331&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14352449730/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;次にSansanさん(発音だと「さんさんさん」)のサテライトオフィスへ移動する。車で数分、一見普通の民家の佇まいだが、玄関を開けるとちゃんと会社のロゴが出迎えてくれるのですぐにわかる。&lt;/p&gt;
+
+&lt;p&gt;見学に行った時には、&lt;a href=&quot;https://twitter.com/dany1468&quot;&gt;Dan&lt;/a&gt;さんが唯一の駐在社員だったが、&lt;a href=&quot;http://jp.corp-sansan.com/kamiyama/2014/140702.html&quot;&gt;最近もう一人神山サテライトに加わった&lt;/a&gt;らしい。寂しくなくなってよかったですね。&lt;/p&gt;
+
+&lt;p&gt;このオフィスは母屋を中心に離や倉庫などもあり、今後もっといろいろな使い方が増えていくんではなかろうか、という可能性を感じるオフィスだった。(ハンモックには乗りました！)　そういえば、オフィスに立派な中華ドラがあったのが謎だった。（社内LTをやるの？）&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14352523438/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14537598184/in/set-72157645478604223/player/&quot; width=&quot;331&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;えんがわオフィスさんは建築家が設計した、ある意味完成されたイメージのオフィスだったが、Sansanさんのオフィスは、これから働く人が自らが欲しい機能を発見し、プロの手を借りながら自分たちで実現していく、セルフデザインのオフィスが実現できるのではないだろうか。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;懇親会にて&lt;/h3&gt;
+
+&lt;p&gt;懇親会は、えんがわオフィスの近くにあるカフェ オニヴァで行った。こちらも非常に雰囲気のいい店で、お酒もお料理もとても美味しかった。ここはキャッシュオンデリバリでビールを頼んだのだが、初めて飲むベルギービールだった。オーナーが以前輸入ビールを扱っていたらしい。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/14515997056/in/set-72157645478604223/player/&quot; width=&quot;500&quot; height=&quot;331&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;次の日に残るほど久しぶりに酒をのんでしまったので、覚えていることをつらつらと上げてみる。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;神山で永和システムマネジメントの話題&lt;/h4&gt;
+
+&lt;p&gt;偶然にも、SansanのDanさんは、私の東京の&lt;a href=&quot;http://www.esm.co.jp/&quot;&gt;前職&lt;/a&gt;の同僚たち(@koic, @chibamem, @kenchan, @takkanm)と一緒に仕事をしていたそうだ。更には、自分が&lt;a href=&quot;http://kkd.github.io/2014/04/18/i-talked-about-my-story-since-2010/&quot;&gt;4月に東京で話した&lt;/a&gt;地方での話も聞きに来てくれていたらしい。遠く離れた徳島の地で、元同僚達の話題をしている非日常的な感覚が不思議でたまらなかった。世間って狭いな。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-5&quot;&gt;家賃1万円&lt;/h4&gt;
+
+&lt;p&gt;本橋さんに伺ったのは、&lt;strong&gt;家賃が1万円&lt;/strong&gt;ということだった。正確に言うと、&lt;em&gt;3万円の家を3人でシェアしているから実質1万&lt;/em&gt;ということなのだが、神山では一軒家は高くても5万円の家賃で借りれるそう。(現在は空き屋待ち行列があるくらい人気だそうだ。)&lt;/p&gt;
+
+&lt;p&gt;彼が話していたのは&lt;strong&gt;家賃の差額で毎月iPadが購入できる&lt;/strong&gt;というエピソードだった。家賃の話は私も先日調べたのだが、差額でiPadが買えるという喩えはとてもわかりやすい。以前調べた70-80平米のマンションの家賃は、吉祥寺（15.5万)と松山(6.8万）の差額は&lt;strong&gt;8.7万円&lt;/strong&gt;だった。これが1万の家賃だと、&lt;strong&gt;14万&lt;/strong&gt;の差額にもなる。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;iPadどころか、MacBook Proが毎月買えてしまう…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;いずれにせよ 家賃が(1万とはいわずとも)3万とか5万になったら暮しはどうなるだろう？を想像してみるのは面白いかもしれない。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-6&quot;&gt;神山以外にもあるサテライトオフィスの動き&lt;/h4&gt;
+
+&lt;p&gt;徳島県では、神山町以外にもサテライトオフィスの誘致に動いているエリアがいくつかあるそうだ。&lt;a href=&quot;http://tokushima-workingstyles.com/home.html&quot;&gt;Tokushima Working Style&lt;/a&gt;によると、三好市(池田高校がある所)や、美波町もサテライトオフィスの実証実験がされているそうだ。&lt;/p&gt;
+
+&lt;p&gt;三好市は、四国の各県の県庁所在地に1.5時間以内で移動可能な利便性は、まさに&lt;em&gt;四国のへそ&lt;/em&gt;だ。美波町は太平洋に面していてサーフィンができるそうだ。パタゴニアのように「&lt;em&gt;社員をサーフィンに行かせよう&lt;/em&gt;」がリアルに実現できる場所らしい。&lt;/p&gt;
+
+&lt;p&gt;徳島県は、全域にケーブルテレビを引いてあり光ネットワークを実現している。だからこそこのようなサテライトオフィスの誘致ができるという背景もあるのだが、単に「田舎で仕事する」というだけでなく、「どこで、どのような環境の中で、どんな生活をして、どのような作業環境で、どのような人たちと働きたいか」というより具体的なイメージがもてると、移住希望者にとって本当に魅力的かどうかがわかるのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;各地域で人を呼びたいと考える場合は、&lt;strong&gt;地域の資源を生かして、どういう暮しができるか、どういう仕事の仕方が実現できるか&lt;/strong&gt;の具体的なストーリーが必要だということに気づかされた。&lt;/p&gt;
+
+&lt;p&gt;ちなみに、神山では&lt;strong&gt;ワークインレジデンス&lt;/strong&gt;といって、町に移住したい人を単に募集するのではなく、&lt;strong&gt;必要な職種、仕事を持つ人の条件を指定して町が移住者を募集する&lt;/strong&gt;という&lt;a href=&quot;http://www.in-kamiyama.jp/living/work-in-residence/&quot;&gt;形を取っている&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;町が求める人材が明確になっているということであるし、移住する人は仕事について明確なイメージを持つことができる。「くらし」と「しごと」を不可分で考えることができるよいシステムだと思う。神山町以外でもワークインレジデンスで募集している地域もあるようなので探してみるとおもしろいのではないか。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AgileJapan2014 徳島サテライト感想(1)</title>
+   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-01"/>
+   <updated>2014-07-04T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2014/07/04/agilejapan2014-tokushima-01</id>
+   <content type="html">
+&lt;h2 id=&quot;agilejapan2014-&quot;&gt;AgileJapan2014 徳島サテライト感想&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://agile459.doorkeeper.jp/events/12006&quot;&gt;AgileJapan2014の徳島サテライト&lt;/a&gt;を開催した。当日は主催者としての裏方作業に追われてゆっくり話を聞く余裕がなく、コンテンツについては断片的な記憶しかない。主にその時に聞こえてきた内容にフォーカスして思うところも含めてとりとめもなく書き留めることにする。&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;徳島サテライト実施までの経緯&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.agilejapan.org/&quot;&gt;AgileJapan2014&lt;/a&gt;が今年も開催されると聞いた直後に、実行委員の羽生田さんから産直セッションの企画と実施依頼があった。更には、今注目の徳島県神山町からの中継をお願いされた。先日、&lt;a href=&quot;http://www.in-kamiyama.jp/market/15928/&quot;&gt;未来ダイアログ in 神山&lt;/a&gt;のイベントに参加しそこねていたので、個人的にはチャンスだと思い羽生田さんの提案に飛びついた。&lt;/p&gt;
+
+&lt;p&gt;最初は産直セッションだけ、という話にして、松山からAgile459の面子だけで神山に伺って、産直セッションだけ実施しようとしていた。松山から神山町までは車で3時間半ほどであり、移動時間だけでAMを費やしてしまうからだ。&lt;/p&gt;
+
+&lt;p&gt;しかし話を進めていくうちに、せっかく徳島に行くのだからサテライト名義でやらないともったいないという気がしてきた。愛媛サテライトは、AgileJapanがサテライト開催をはじめた2011年からずっと開催していたこともあり、四国でのサテライト開催の歴史を止めたくなかった。&lt;/p&gt;
+
+&lt;p&gt;集客などはそれほどせずにサテライト開催で参加者を募ったところ、関西から馴染みの方々が来てくれたり、徳島県在住の方も来ていただけた。結果的には、無理やりだがサテライト開催にしてよかった。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;産直セッションについて&lt;/h3&gt;
+
+&lt;p&gt;私は司会と拠点とのSkype連絡なども同時にやっていたため、話を聞くことにあまり集中できていなかった。そのため詳細の部分については割愛するがが、リモートワークという観点で登壇者の皆さんの話を聞いた印象は&lt;strong&gt;拠点が離れていることを制約条件と受け入れて、徹底的に仕事上のインペディメント(障害となるもの)を発見し改善し続けている&lt;/strong&gt;という印象を持った。どちらかの拠点が我慢するのではなく、両者が課題をつまびらかにした上で御互いに寄り添って改善していく。この地道な繰り返しが、ストレスのないリモートワークを実現したのではないか。&lt;/p&gt;
+
+&lt;p&gt;「プロジェクトがリモートで行われるから、その間に必要な設備を整えよう」という短期的視点ではなく、長い目で互いが快適に仕事をして成果をだすための設備投資のように思える。&lt;strong&gt;リモートワークにどこまで本気で取り組んでいるか&lt;/strong&gt;という姿勢の現れなのだろう。&lt;/p&gt;
+
+&lt;p&gt;その姿勢の現れとして本気の設備投資が求められる。ダンクソフトの本橋さんのワークスペースには、東京の状況を常時映し出すするスクリーン、プロジェクター、スピーカーシステムがあった。逆に神山の状況を常に表示するカメラも設置されている。コンセプトは&lt;em&gt;スクリーンの向こうに別拠点のオフィスがある&lt;/em&gt;だそうだ。&lt;/p&gt;
+
+&lt;p&gt;この様子は、&lt;a href=&quot;http://www.slideshare.net/ogin_s57/ss-30716035&quot;&gt;Agile459の荻野さんの事例&lt;/a&gt;と比較すると面白い。荻野さんの場合は、愛媛に移住した荻野さんが「愛媛でリモートワークをさせてもらっている」という恩義を会社に対して感じている状況の中で、本人が主体的に状況に適応し変化していった事例だ。ダンクソフトさんの場合は東京、徳島、神山の3拠点全体として変化していった事例と受けとった。両者に共通なのは&lt;strong&gt;リモートワークをうまくいかない理由にしないよう、妥協せず改善し続けた&lt;/strong&gt;という点だろう。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;広島サテライトの中継について&lt;/h3&gt;
+
+&lt;p&gt;こちらも、回線品質の調整などのため裏方作業をしていてちゃんと聞けていなかったのだが、シャープさんが部署としてアジャイルに取り組む事例で非常に興味深いし、大きな組織の中でのチャレンジは様々な御苦労があったと思う。&lt;/p&gt;
+
+&lt;p&gt;ただ、その前の産直セッションである徳島のリモートワークへの取り組み事例と比較して感じたのは、徳島の事例はあくまでも「リモート拠点間で仕事をしないといけない」という状況の中で、少しずつ改善を積み重ねての現在があると感じたのだが、広島の事例は、「価値創造」という大きな御題目があり、その中でアジャイルの狙いは列挙されてはいたが、&lt;strong&gt;なぜそのプラクティスを実践する必要があったのか&lt;/strong&gt; についてはそれほど深く言及されていなかったと感じた。&lt;/p&gt;
+
+&lt;p&gt;言い替えると、徳島の事例はベイビーステップで改善する理由があって、その都度階段を登ってきた自然なイメージを受けたが、広島の事例は、いきなり多くの階段を用意してしまい、無理矢理よじ登っていったようなイメージを受けた。&lt;/p&gt;
+
+&lt;p&gt;例えば、スタートアップ界隈で使われている、&lt;a href=&quot;http://www.javelin.com/experiment-board.html&quot;&gt;Experiment Board&lt;/a&gt;というツールがある。これはビジネスモデルにおける仮設検証をスムーズに進めるためのツールだ。例えば開発プロセスの改善においても、このボードを使うことで、抱える課題に対しての改善、つまり「現在の課題に対しての解決策」を仮説として実施することで検証を積み重ねいったらどうだろうか？などということを想起した。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;徳島県庁の事例について&lt;/h3&gt;
+
+&lt;p&gt;徳島サテライトの独自コンテンツは、徳島県庁の山住さんの事例発表だった。&lt;em&gt;徳島県のシステム開発のプロポーザル案件に「アジャイル開発」という言葉がある&lt;/em&gt;という話を&lt;a href=&quot;https://twitter.com/kamatamadai&quot;&gt;鎌玉さん&lt;/a&gt;から聞いたので、徳島の鎌玉さんを通じて登壇をお願いしたという経緯があった。詳細は資料参照のこと。&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/36443883&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/kenjiyamasumi/20140627-agilejapan2014inkamiyama&quot; title=&quot;徳島県とアジャイル&quot; target=&quot;_blank&quot;&gt;徳島県とアジャイル&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kenjiyamasumi&quot; target=&quot;_blank&quot;&gt;Kenji Yamasumi&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.pref.tokushima.jp/docs/2014042500129/files/3.pdf&quot;&gt;徳島県オープンデータポータルサイト(Our-Stat（仮称）)構築事業委託業務 概要説明書&lt;/a&gt;のP8を見ると、以下のような記述がある。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(1) アジャイルソフトウェア開発手法により行うこと。&lt;/p&gt;
+
+  &lt;p&gt;(2) 作業工程毎に，作業内容，作業担当者，成果物，レビュー方法，懸念事項，開始・終了条件を明確にすること。&lt;/p&gt;
+
+  &lt;p&gt;(3) 県担当者と調整し，月 2 回以上の進捗会議を設置すること。&lt;/p&gt;
+
+  &lt;p&gt;(4) 稼働前にダミーデータ，ツールを用い，機能確認，性能試験（負荷試験）を実施すること。その際発見された問題について対応し解消すること。&lt;/p&gt;
+
+  &lt;p&gt;(5) セキュリティ問題に対する十分なテストを行い，安全性について確認すること。&lt;/p&gt;
+
+  &lt;p&gt;(6) 各設計書，各機能確認結果の報告は共同レビューとすること。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(1)〜(3)については、特にアジャイル的な進行の特徴を示していると言えるだろう。ただ、P2の全体概略スケジュールをみると、一ヶ月のシステム設計フェーズの後で、5ヶ月ほどのシステム開発フェーズ（アジャイル方式）の後、3ヶ月のテスト及びドキュメント作成フェーズがあり納品という形になっているのには着目しておきたい。（いわゆるハイブリッドタイプに近い）&lt;/p&gt;
+
+&lt;p&gt;徳島がOSSを採用する中で、RubyやRoRと出会い、2008年から結果的にアジャイル的な進め方になったそうだ。講演資料にもある「発注者として気をつけないといけないところ」は、いわゆるアジャイルの誤解でもあり、発注者も受注者も意識していないと「単にスコープが肥大化するだけ」「繰り返しても結局全部やるんでしょ」問題に陥ってしまう。この辺はまだまだまだ改善の余地があるだろう。（具体的には「目的や狙いの最小化とゴール設定」「やらないことを決める」など。）&lt;/p&gt;
+
+&lt;p&gt;山住さんのお話で印象に残ったのは二点。&lt;/p&gt;
+
+&lt;p&gt;一つ目は既存の県の制度の制約の中で&lt;strong&gt;「できない理由」を探すのではなく「できる部分」を少しずつ実施して、ありたい姿に一歩一歩近づけている&lt;/strong&gt;という点だ。（こんな言い方はされてはいなかったが、私はこう解釈した）素晴らしい取り組みだと思う。こういう先駆者の試行錯誤の経緯が公開されてると、他の自治体が取り組む際の参考になる気がした。&lt;/p&gt;
+
+&lt;p&gt;二つ目は、山住さんが、倉貫さんの以下の言葉を大事にしているというエピソード。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TwitterやFacebookやGoogleはWFではなくAgileだからこそ生まれた&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;是非とも更なるチャレンジをし続けて頂きたいと切に願う。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;セッション全体まとめ&lt;/h3&gt;
+
+&lt;p&gt;徳島県という地においてもリモートワークやアジャイル開発が少しずつ浸透し始めているということを実感できた。ある程度の商業規模があるため危機感が薄い（？）愛媛県の方が、この点はむしろ遅れているのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;Agile459と行っておきながら、愛媛県外でイベントを開催したのは初めてだったので、今後の四国圏内での開催のきっかけになればとよいと思う。「名前負け」状態から脱しないといけないな。&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

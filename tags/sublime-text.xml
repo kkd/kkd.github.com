@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - sublime text</title>
+ <link href="http://giantech.jp/tags/sublime-text.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/sublime text.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/sublime text.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>sublime text 2を使いはじめた</title>
+   <link href="http://giantech.jp/2013/04/02/start-to-use-sublime-text"/>
+   <updated>2013-04-02T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/04/02/start-to-use-sublime-text</id>
+   <content type="html">
+&lt;p&gt;最近は、保存する必要があるちょっとしたテキスト編集は、&lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvAlt&lt;/a&gt;一択だった。ファイル保存先を考えるのは面倒だし、Evernoteは重いのでSimplenote連携のあるnvAltは、自分のユースケースにぴったりだった。ファイルシステム上に保存するテキストを書く頻度がめっきり減り、結果的にMacVimの出番も減っていた。(Emacsも当然のこと…)&lt;/p&gt;
+
+&lt;p&gt;しかしJekyllでblogを書くとなると、エディタを頻繁に使う必要性がまた出てきた。Jekyllは独自のディレクトリ階層中のファイルを編集する。そのためツリービューを備えたSublime Text2を使ってみようと考えたのだ。Sublime Text2は以前噂になっていたのでインストールはしたが、あまりパっとしなく(そんなに調べてもおらず)ピンとこなくて使わなかった記憶がある。今回は調べていたら、パッケージ管理プラグインを使うことで、エディタからプラグインを入れることができるのがわかった。試しに入れてみたら、あらあら、これは楽だ。&lt;/p&gt;
+
+&lt;p&gt;おまけにCmd+Shit+Pのコマンドウィンドウや、Cmd+PのQuick Openとか便利な操作も覚えた。なるほどSublimeに乗り換えるわけだ…
+Vintage, VintageExを入れたら、Vimっぽくも使えている(完全ではないけど)&lt;/p&gt;
+
+&lt;p&gt;そんなわけで、しばらくSublime Text2を使ってみよう。&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

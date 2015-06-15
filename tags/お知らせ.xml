@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - お知らせ</title>
+ <link href="http://giantech.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/お知らせ.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/お知らせ.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>２年ぶりにブログの名前を変えてみた</title>
+   <link href="http://giantech.jp/2015/06/09/i-changed-the-blog-name"/>
+   <updated>2015-06-09T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2015/06/09/i-changed-the-blog-name</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/logo_cghll.png&quot; alt=&quot;ロゴ&quot; title=&quot;新しいロゴ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;２年ぶり（？）に、ブログの名称を変えてみた。&lt;/p&gt;
+
+&lt;p&gt;シンプルに&lt;strong&gt;いきてま＠えひめ&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;元々は「生きてます」の末尾が抜け落ちて「生きてま」だったのですけどね。&lt;/p&gt;
+
+&lt;p&gt;サブタイトルは&lt;strong&gt;Creative, Green, Healthy and Lively Life&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;最近はこのあたりにすべてが集約されている気がする。&lt;/p&gt;
+
+&lt;p&gt;そして、大事なものは実はすぐ目の前にある、そんな気がするのです。&lt;/p&gt;
+
+&lt;p&gt;まぁ、自分の場合は Profitable というのも重要なんですけどね。&lt;/p&gt;
+
+&lt;p&gt;そんなことを考えながら、これからもまだまだ生きていきます。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

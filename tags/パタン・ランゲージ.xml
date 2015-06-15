@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - パタン・ランゲージ</title>
+ <link href="http://giantech.jp/tags/%E3%83%91%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%B3%E3%82%B2%E3%83%BC%E3%82%B8.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/パタン・ランゲージ.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/パタン・ランゲージ.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Agile Tour Osaka 2014でパタン・ランゲージのワークショップを担当しました</title>
+   <link href="http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage"/>
+   <updated>2014-10-11T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage</id>
+   <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;h2 id=&quot;agile-tour-osaka-&quot;&gt;Agile Tour Osaka は４年ぶり&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kokucheese.com/event/index/215376/&quot;&gt;Agile Tour Osaka 2014&lt;/a&gt;(agileto)にお呼ばれして行ってきました。agiletoは４年ぶり。前回は2010年で、長瀬さん、牛尾さん達と一緒に登壇して、多分日本で一番最初に&lt;a href=&quot;http://www.slideshare.net/kkd/user-story-mapping-for-agile-team&quot;&gt;ユーザーストーリーマッピング&lt;/a&gt;について紹介してきたのですが、会場の反応が薄くてあれれな感じだったのを思い出しますｗ。前回は発表だけでしたが、今回はワークショップということで、かなり会場で楽しんできました。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;「パタン・ランゲージのワークショップをやってほしい」との依頼&lt;/h2&gt;
+
+&lt;p&gt;主催者の細谷さんからは、以前からパタン・ランゲージについて大阪でイベントやりたいというお話を頂いていましたが、なかなか実現に至りませんでした。なので今回はとてもよい機会を頂いたという気持ちで一杯です。&lt;/p&gt;
+
+&lt;p&gt;細谷さんと「どんなワークショップにしたいか」ということを話していた時に「パタンを書くよりも、むしろ既存のパタンをどう使うかに重きをおきたい」との話がありました。&lt;/p&gt;
+
+&lt;p&gt;そのため、私の師匠である&lt;a href=&quot;http://ces.mitohorin.com/&quot;&gt;中埜博&lt;/a&gt;さんに学んだプロセスを参考にかなり簡略化した２時間のワークに仕立てました。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;どう「書く」よりも、どう「使う」か&lt;/h2&gt;
+
+&lt;p&gt;パタン・ランゲージについては、ここ最近の、相次ぐパターン本（&lt;a href=&quot;http://www.amazon.co.jp/gp/product/462108786X/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=462108786X&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;Fearless Change&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798128449/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798128449&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;組織パターン&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798121967/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798121967&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;エリック・エヴァンスのドメイン駆動設計&lt;/a&gt;の出版や書籍に関するイベント、Cope御大の来日機会が増えている、数年続けて開催されている&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/&quot;&gt;AsianPLoP&lt;/a&gt;、そして業界を超えた&lt;a href=&quot;http://web.sfc.keio.ac.jp/~iba/&quot;&gt;SFCの井庭研&lt;/a&gt;を率いる井庭さん達の活躍、&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot;&gt;IPAのアジャイル型開発におけるプラクティス活用事例調査のパターン形式による調査報告書&lt;/a&gt;などによって、自分が&lt;a href=&quot;http://objectclub.jp/event/2010alexander/&quot;&gt;アレグザンダー祭り&lt;/a&gt;や&lt;a href=&quot;http://kokucheese.com/event/index/1610/&quot;&gt;参加のまちづくり入門&lt;/a&gt;に関わっていた2009〜2010年頃よりもずっと露出度が高くなってきたと感じます。&lt;/p&gt;
+
+&lt;p&gt;しかし、実際にパタンをどう使うかについては、あまり情報がないのではないかという気がしています（私の気のせいかもしれませんが）。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;中埜さんに教えて頂いたこと&lt;/h2&gt;
+
+&lt;p&gt;私が2009年に中埜博さんの&lt;a href=&quot;http://ces.mitohorin.com/?p=389&quot;&gt;参加のまちづくり入門演習&lt;/a&gt;に参加して鮮烈なインパクトを受けたのは、&lt;strong&gt;パタンの元を当事者の間から生成しながら、当事者参加で未来のビジョンや戦略をランゲージとして紡ぎ上げ、当事者達がそれを用いて未来を生成させていくプロセス&lt;/strong&gt;でした。この部分については、パタンを書いたり、既存のパタンを使ったりする文脈と比較して遅れている領域だと感じていました（井庭さんの&lt;a href=&quot;http://web.sfc.keio.ac.jp/~iba/sb/log/eid406.html&quot;&gt;フューチャーランゲージ&lt;/a&gt;という手法は、この部分をアレンジしたものと捉えています）。&lt;/p&gt;
+
+&lt;p&gt;このプロセスの概要自体は本橋さんらが中心にまとめた&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2011/asianplop2011_submission_25.pdf&quot;&gt;パタン・ランゲージからプロジェクト・ランゲージへ&lt;/a&gt;という論文や、中埜さんがPLoPで投稿された&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2010/19-QualityProcess.pdf&quot;&gt;A Search for
+ a Process getting “Quality”&lt;/a&gt;論文に述べられています。&lt;/p&gt;
+
+&lt;p&gt;その具体例や本質的な解説は中埜さんの参加のまちづくり入門演習で伝えていたのですが、その参加のまちづくり入門演習も、諸事情によりここ数年は開催自体が止まっています。&lt;/p&gt;
+
+&lt;h2 id=&quot;ws&quot;&gt;今回のWSのポイントは「パタンを作り、使って、物語るところ」&lt;/h2&gt;
+
+&lt;p&gt;今回は２時間という時間枠の中でどうまとめるかだけを考えた結果、講義部分はほぼなしに、ワークのなかでプロセスを体験してもらうことに注力しました。&lt;/p&gt;
+
+&lt;p&gt;具体的には、あるテーマの文脈の元、大事にしたい所、変えたい所と、それを妨げる力の衝突（フォース）を超えた解決策を導き出し、更にそこから一番注力したい部分をセンターとして、複数のパタン（候補）を使って物語りを作るというプロセスを体験してもらいました。&lt;/p&gt;
+
+&lt;p&gt;本来の演習では、まち歩きからはじめて参加者全員のコンテキストを合わせる必要があるのですが、今回の時間の中ではコンテキストを参加者で共有することが難しいため、仮想人格のAさんに登場してもらって、彼の生々しい状況を説明して共有してもらうことで、健康的な生活改善について参加者で考えてもらうことにしました。&lt;/p&gt;
+
+&lt;p&gt;このネタの意図としては、ある個人も１つの修復すべきシステムであると捉え、システムを漸進的に構造保存変容していくという意味において適切ではないかと考えたためです。そして個人というシステムも、結局は回りの環境と不可分なのです。&lt;/p&gt;
+
+&lt;p&gt;説明を省いてワークに注力したため、言葉が足りない所もあったと思いますが「使い方がわかった」という意見も頂いてひとまずはほっとしました。今後も更なる改善を行っていきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;具体的にはスケールの設定を見直すこと、解決策を検討する部分をもう少し噛み砕いてステップを踏んでいく方向に倒したほうがよいと感じました。（時間が短いのは最初からわかっているところなので、フルセット版はまだまだ検討の余地ありです）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;日本におけるパタン・ランゲージの第二次隆盛がきている？&lt;/h2&gt;
+
+&lt;p&gt;私のワークショップ後に、&lt;a href=&quot;https://twitter.com/Posaune&quot;&gt;@Posaune&lt;/a&gt;さんが&lt;a href=&quot;https://github.com/KenColle/AutomationPatternLanguage&quot;&gt;テスト自動化のパターンランゲージ&lt;/a&gt;の発表されていました。&lt;/p&gt;
+
+&lt;p&gt;この発表を聞いていて感じたのは、自分達でパタンをまとめ、Githubに置いてフィードバックをもらえるようにして、どんどんコラボレーションし改善していく、これこそまさに、数年前から構想していて(未だ心が折れてできていない)&lt;strong&gt;現場パタン構想(GembaPLoP)&lt;/strong&gt;のひとつの現れなのかしれない、ということです。他にもチケット駆動のパタン・ランゲージを&lt;a href=&quot;http://twitter.com/akipii&quot;&gt;@akipii&lt;/a&gt;さんがまとめているという話も聞きました。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;人々が自分の経験をパタンにまとめてネット上で公開し、様々な人のフィードバックを受けながら洗練させていく。そうやって洗練されたパタンたちが、PLoPに論文として提出され、シェパーディングやライターズワークショップのようなPLoP独自の文化に触れて更に洗練され、結果として論文として永続的に保管される。人々の間でそれらが言語として共有され、それぞれのコンテキストで全体性を生み出すために使われていく。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;そんな&lt;strong&gt;世はパタン時代&lt;/strong&gt;になりつつあるのかもしれないです（ちょっとトリコ風味）。&lt;/p&gt;
+
+&lt;p&gt;日本でのパタン・ランゲージを取り巻くコミュニティは、建築方面はよく知りませんが、ソフトウェアピープルの文脈だと&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/japanplop/index.htm&quot;&gt;JPLoP&lt;/a&gt;が生まれて盛り上がって解体した後、鷲崎さんや羽生田さんらが&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/index.html&quot;&gt;パターンワーキンググループ&lt;/a&gt;を運営し続けてきた道をきっかけとして、新しい世代や、様々な業界の人々がコラボレーションして二周目を回っている最中だと認識しています。これからどんな大パタン時代がくるのか楽しみですね。&lt;/p&gt;
+
+&lt;p&gt;今回のイベントでは、私自身も新しい発見や次の展開などいろいろ得るものが大きかったです。大阪（正確には兵庫か）の皆さま、ありがとうございました！！&lt;/p&gt;
+
+&lt;h2 id=&quot;a&quot;&gt;おまけ（１）：A氏のその後について…&lt;/h2&gt;
+
+&lt;p&gt;資料の最後に、A氏のその後がどうなったかをP52で記載していますが、このページは正確に言うとまだパタンにはしておらずに、単にキーワードとして書き出したものを掲載しているだけです。ただ書き出してみると、かなり色々なことをやってきたのがよくわかります。一度パタンの種として書き出してみると面白いかもしれない、と思いました。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;おまけ（２）：アンチパターンと結果について&lt;/h2&gt;
+
+&lt;p&gt;当日のイベントで「&lt;strong&gt;アンチパターンはパタンランゲージにいれるべきか？&lt;/strong&gt;」という話題がありました。私は「アンチパターンは状態であり、パタンは行為であるので、パタンの結果の一形態としてアンチパターンの状態になりうる可能性を書けばよいのではないか？」という発言をしました。&lt;/p&gt;
+
+&lt;p&gt;しかし、ここでちょっと説明が足りていませんでしたが、パタンの名前は本来的には行為の名前ではなく、&lt;strong&gt;行為の結果として、変化したシステムの状態（形）の名前&lt;/strong&gt;であるべきです。例えば組織パターンの防火壁というパタンは、「チームを外部からのやりとりから守る」という行為そのものではなく、その結果として出来た、組織の形に準じた名前になっています。&lt;/p&gt;
+
+&lt;p&gt;解決策は単に行動するのではなく、結果として元のコンテキストを変容させます。その変更した結果が、想定通りの変化の場合もあれば、同時に想定していない変化の場合もあります。その想定していない変化が関係者からみてアンチパターンとなることもあり、そのコンテキストに対しての新たな解決策によって、また違うパタンが生まれるのだという理解です。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>パタン・ランゲージによる震災復興</title>
+   <link href="http://giantech.jp/2013/04/25/reconstruction-with-pattern-language"/>
+   <updated>2013-04-25T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/04/25/reconstruction-with-pattern-language</id>
+   <content type="html">
+&lt;p&gt;こんな資料を見つけた。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.hearts-design.com/staff/img/ronko_sinsai.pdf&quot;&gt;復興まちづくりのビジョン形成と共有（パタン・ランゲージを用いて）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;復興に必要なビジョンを住民参加型で作り出し、自分達の希望と未来をデザインする有効な方法のひとつがパタン・ランゲージだ。
+&lt;a href=&quot;http://ces.mitohorin.com/&quot;&gt;中埜さん&lt;/a&gt;が何度もご苦労しながら東北に赴き現地で支援しているのもそのためだ。しかし行政はボトムアップのビジョニングをなかなか認めないという課題もちらほら聞いている。まさにBattleで言うところのAシステムとBシステムの対立構造が生じている。&lt;/p&gt;
+
+&lt;p&gt;Hearts Designの中の人の&lt;a href=&quot;http://www.hearts-design.com/staff/index.html&quot;&gt;プロフィール&lt;/a&gt;みたら、早稲田の建築、バークレー…ああ、中埜−アレグザンダーラインの直系の方なのかな。話を聞いてみたいなぁ。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

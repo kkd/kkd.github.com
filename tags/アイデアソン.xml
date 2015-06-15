@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - アイデアソン</title>
+ <link href="http://giantech.jp/tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%BD%E3%83%B3.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/アイデアソン.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/アイデアソン.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>松山で行われたMA10のアイデアソンに参加してきた（ざっくり編）</title>
+   <link href="http://giantech.jp/2014/08/24/ma10-ideathon-in-ehime"/>
+   <updated>2014-08-24T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2014/08/24/ma10-ideathon-in-ehime</id>
+   <content type="html">&lt;p&gt;8/20に松山で行われたMASHUP AWARDSの&lt;a href=&quot;http://mashupawards.doorkeeper.jp/events/13539&quot;&gt;アイデアソン&lt;/a&gt;に参加してきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/Bve5DlZCcAARcPh.jpg&quot; alt=&quot;&quot; title=&quot;集合写真&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;まとめは&lt;a href=&quot;http://togetter.com/li/708984?page=1&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;ざっくりと書いてしまうと、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;よくシステム化されたイベントだった
+    &lt;ul&gt;
+      &lt;li&gt;進行がこなれていた&lt;/li&gt;
+      &lt;li&gt;メモやブレストの方法までテンプレ化
+        &lt;ul&gt;
+          &lt;li&gt;マンダラートのシートが配られた&lt;/li&gt;
+          &lt;li&gt;メモやアイデア出しはこれでやってね&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「アイデアに価値はない」には納得
+    &lt;ul&gt;
+      &lt;li&gt;実現してナンボだよね。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アイデアソンって競技だったのか！
+    &lt;ul&gt;
+      &lt;li&gt;やっぱり「課題先行型」じゃないと難しいなぁ。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;３時間で行うのはかなり厳しかった
+    &lt;ul&gt;
+      &lt;li&gt;タイムボックスとして最初のフィードバックをもらう時間としてはよいかも&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;マンダラートが制約になるのは個人的に厳しい
+    &lt;ul&gt;
+      &lt;li&gt;指定しないと、ブレストがうまくいかないという過去の事例があったのかも
+        &lt;ul&gt;
+          &lt;li&gt;アイデアソンへの参加者がアイデア出しの訓練・実践が足りない場合は有効なのかもしれない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;そもそもマンダラートの使い方知らない人もいるよね
+        &lt;ul&gt;
+          &lt;li&gt;マインドマップならいいのか、というわけでもないとおもう。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;付箋と模造紙がやっぱりいいよね。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;マッシュアップにOfficeは相性悪いなぁ
+    &lt;ul&gt;
+      &lt;li&gt;うちのチームはOfficeのAPIを使うことに。しかも勝手に決められてしまった。。。
+        &lt;ul&gt;
+          &lt;li&gt;一種類だけじゃ&lt;em&gt;マッシュアップ&lt;/em&gt;ではない…。&lt;/li&gt;
+          &lt;li&gt;Officeははっきりいってなんでもできちゃうので、使うAPIを絞って制約としてからアイデア出す方が絶対によい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;今回は&lt;strong&gt;２つのサービスのAPIを必ず使う&lt;/strong&gt;という制約でよかったのではないか？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://pbs.twimg.com/media/BvenGHWCYAAtgYs.jpg&quot; alt=&quot;&quot; title=&quot;談笑中の図&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイデア（のび太の絵日記）は投票もらえてとりあえずほっとした
+    &lt;ul&gt;
+      &lt;li&gt;うちのチームは皆真面目でおもしろ成分足りなかったかな？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://pbs.twimg.com/media/BveyGW2CcAEbae-.jpg&quot; alt=&quot;&quot; title=&quot;発表厨&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;発表のドラえもんとのび太の寸劇は即興だった
+    &lt;ul&gt;
+      &lt;li&gt;発表の準備・練習の時間がとれてなかった。&lt;/li&gt;
+      &lt;li&gt;もう少しちゃんとしたかったのが心残り&lt;/li&gt;
+      &lt;li&gt;ドラえもんのひみつ道具の登場音が古いって。。。。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;最後に
+    &lt;ul&gt;
+      &lt;li&gt;主催者の皆さまありがとうございました。
+        &lt;ul&gt;
+          &lt;li&gt;飲食物の準備など本当に助かりました。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;こういう機会はもっとやったほうがいいね
+        &lt;ul&gt;
+          &lt;li&gt;アイデア出しとか、整理とか、グループ意思決定とか練習を一杯したほうがいいと思う。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+</feed>

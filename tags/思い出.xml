@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - 思い出</title>
+ <link href="http://giantech.jp/tags/%E6%80%9D%E3%81%84%E5%87%BA.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/思い出.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/思い出.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>まさーるさん没後10年に思うこと</title>
+   <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident"/>
+   <updated>2015-04-25T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident</id>
+   <content type="html">
+&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;あれから10年&lt;/h2&gt;
+
+&lt;p&gt;毎年、この時期になると、ニュースでキーワードを目にして思い出す。&lt;/p&gt;
+
+&lt;p&gt;2005年4月25日の福知山線の事故から10年が経った。その事故でまさーる（石井勝）さんが亡くなってから同じく10年が経つ。「十年一昔」とは言うけど、時の流れるのはあっという間だったなと思う。&lt;/p&gt;
+
+&lt;p&gt;助田さんのRubyUnitが自分とXPの出会いのきっかけであり、そのRubyUnitの誕生のきっかけとなっているのがまさーるさんだった。&lt;/p&gt;
+
+&lt;p&gt;2000年に京都で行われたPerl/Ruby Conferenceで、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/xp-tutorial.html&quot;&gt;RubyUnit Tutorial&lt;/a&gt;に参加し、RubyUnitによるユニットテスティングの実際や、XPの開発事例を聞きとても興奮し、多くの質問を投げかけた思い出がある。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ogis-ri.co.jp/otc/hiroba/specials/oday2001/report/A3.html&quot;&gt;Object Day 2001のXP談義&lt;/a&gt;においては、XP擁護派の立場で一貫して&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/object-day-2001-xp-talk.html&quot;&gt;開発者として、実践している経験として&lt;/a&gt;で発言されており、他の論者の発言と比べて説得力があったことを記憶している。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんは、XPの導入においても、教条主義ではなく、まず今の自分が出来るところから始め改善をしていく、という現実的な視点を常に持っていた。この視点は今でも変わらず普遍的だ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/testing-framework.htm&quot;&gt;Kent BeckのTesting Framework入門&lt;/a&gt;を読んで、JUnitのデザインパターンを理解することで、フレームワークの設計指針や、シンプルな設計のエレガントさについて深く理解することができた。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;まさーるさんは自分にとってはXPやソフトウェア設計についてより深い理解へと導いてくれた導師だった&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;そして、事故当時まで残してくれていた、まさーるさんのコンテンツは、可能な部分においては&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/&quot;&gt;オブラブのサイト&lt;/a&gt;で引き受けており、今でも閲覧することができる。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんの友人が公開していたミラーサイトがない今、このようにメモリアル記事が書けるのも、この10年間ずっとまさーるコンテンツを閲覧可能にしてくれている&lt;a href=&quot;http://www.objectclub.jp&quot;&gt;オブラブ&lt;/a&gt;の皆さんのおかげだ。改めて感謝の気持ちを伝えたいです。（そして、取り扱いにくい形でデータを残してしまってごめんなさい…）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;自分にできること&lt;/h2&gt;
+
+&lt;p&gt;実は、まさーるさんと会って話した回数はそれほどはない。それはまさーるさんが関西にお住まいだったためであり、何かイベントで上京される時のタイミングの時だったからだ。&lt;/p&gt;
+
+&lt;p&gt;それでも自分が大きな影響を受けているのは、まさーるさんの残してくれた記事、登壇された時の発表、MLやSNSでのやりとりがあったからだ。&lt;/p&gt;
+
+&lt;p&gt;自分も今は愛媛在住で、東京にいる時ほど多くの人たちと出会うこともなくなってきた。だからこそ、人との出会いを大事にして行きたいし、自分にできることがあれば誰かの役に立ちたいと思う。いつ誰かの役に立つかわからないけど、これまで学んできたことを、いろいろ書き残しておきたいとも思う。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;15年を越えて…組織パターン&lt;/h2&gt;
+
+&lt;p&gt;まさーるさんの記事群の中に、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/org-process-pattern.html&quot;&gt;組織パターンのコンテンツ&lt;/a&gt;がある。この記事は1999年に書かれたものだ。&lt;/p&gt;
+
+&lt;p&gt;その後、2004年にオリジナルのOrg Patternsの書籍が出版され、その後９年の時を経て日本で&lt;a href=&quot;http://www.amazon.co.jp/%E7%B5%84%E7%B9%94%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-Object-Oriented-SELECTION-Coplien/dp/4798128449&quot;&gt;組織パターンの邦訳版&lt;/a&gt;が和智さんらの尽力により出版された。まさーるさんが記事を書いてから14年後のことだった。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんの先見性を再認識すると共に、日本でも組織パターンの認知が高まっていることは素晴らしいと思う。&lt;/p&gt;
+
+&lt;p&gt;組織パターンの著者の一人であるJames. O. Coplien氏は、2010年のアレグザンダー祭り以降、毎年日本に来てくれている。TDD否定派の彼とまさーるさんを引きあわせたらどんな議論がされるのだろう？穏やかにかつ的確にCopeと議論をするまさーるさんを想像するとちょっと楽しい。&lt;/p&gt;
+
+&lt;h2 id=&quot;if&quot;&gt;if…&lt;/h2&gt;
+
+&lt;p&gt;まさーるさんは、福知山線事故の2005年以降に、日本でもアジャイル特にスクラムが浸透してきたこと、RoRがブームを通り越して世界で最も使われるWebフレームワークの１つになったこと、Githubを中心にソーシャルコーディングのスタイルがメインになったこと、AsianPLoPが毎年開催され日本で第二次パターンコミュニティが形成されていること、などなど、この10年の変化は知るはずもない。&lt;/p&gt;
+
+&lt;p&gt;もしも、まさーるさんが存命であれば今年で47歳のはずだ。&lt;/p&gt;
+
+&lt;p&gt;きっと、熟練した達人プログラマーとして、ソーシャルコーディングの世界で大いに活躍し、若いプログラマーの目標となり、エンジニアとしてもアジャイルを用いて成果を出し、AsianPLoPにおいては、素晴らしいパタン・ランゲージを残してくれていただろうと思う。&lt;/p&gt;
+
+&lt;p&gt;今頃、草葉の陰で「プログラマにとっていい時代になりましたね。僕もソーシャルコーディングしたい！」と言ってる気がする。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;人はいつか死ぬ&lt;/h2&gt;
+
+&lt;p&gt;人は死して何を残すのだろう？ まさーるさんが亡くなってから、そういうことを徐々に考えるようになった。&lt;/p&gt;
+
+&lt;p&gt;そして、先月末に松山に来てから知り合った知人が亡くなった。その方とはお会いした回数はそう多くはないのだけど、会う度に色々なことを語り合い、その方の大きな懐の中で、未来の夢を見て、実現に向けての勇気やヒントをくれる、そんな方だった。&lt;/p&gt;
+
+&lt;p&gt;そこで改めて感じたのは&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;人はいつか死ぬ。そしてその時はいつ来るかもわからない。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ということだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;タイムボックスをどう生きるか&lt;/h2&gt;
+
+&lt;p&gt;人生という名のタイムボックスは、厄介なことに終わりの予測がつかない。最大サイズはある程度予測できるが、どこで終了となるかは予測できないのだ。&lt;/p&gt;
+
+&lt;p&gt;そういう不確実性の中で、人ができることとは、何だろうか。&lt;/p&gt;
+
+&lt;p&gt;きっと、後悔ないように、日々を精一杯・充実して生きることこそが、唯一のできることではなかろうか。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
+  &lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
+  &lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
+  &lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
+  &lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、精一杯生きていこう。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;番外&lt;/h2&gt;
+
+&lt;p&gt;「まさーるさん没後ちょうど10年だから何かしようよ」と声をかけて、乗ってくれたのが&lt;a href=&quot;http://t-wada.hatenablog.jp&quot;&gt;t-wada&lt;/a&gt;さんでした。&lt;a href=&quot;http://t-wada.hatenablog.jp/entry/masarl-memories&quot;&gt;彼のエントリ&lt;/a&gt;はきっちり4/25にアップされたのだけど、それを見ないで（影響受けてしまいたくない）この記事を書きました。&lt;/p&gt;
+
+&lt;p&gt;t-wadaさんらしく、素晴らしいエントリでした。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

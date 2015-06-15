@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - 震災</title>
+ <link href="http://giantech.jp/tags/%E9%9C%87%E7%81%BD.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/震災.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/震災.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>パタン・ランゲージによる震災復興</title>
+   <link href="http://giantech.jp/2013/04/25/reconstruction-with-pattern-language"/>
+   <updated>2013-04-25T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/04/25/reconstruction-with-pattern-language</id>
+   <content type="html">
+&lt;p&gt;こんな資料を見つけた。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.hearts-design.com/staff/img/ronko_sinsai.pdf&quot;&gt;復興まちづくりのビジョン形成と共有（パタン・ランゲージを用いて）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;復興に必要なビジョンを住民参加型で作り出し、自分達の希望と未来をデザインする有効な方法のひとつがパタン・ランゲージだ。
+&lt;a href=&quot;http://ces.mitohorin.com/&quot;&gt;中埜さん&lt;/a&gt;が何度もご苦労しながら東北に赴き現地で支援しているのもそのためだ。しかし行政はボトムアップのビジョニングをなかなか認めないという課題もちらほら聞いている。まさにBattleで言うところのAシステムとBシステムの対立構造が生じている。&lt;/p&gt;
+
+&lt;p&gt;Hearts Designの中の人の&lt;a href=&quot;http://www.hearts-design.com/staff/index.html&quot;&gt;プロフィール&lt;/a&gt;みたら、早稲田の建築、バークレー…ああ、中埜−アレグザンダーラインの直系の方なのかな。話を聞いてみたいなぁ。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

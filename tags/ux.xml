@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - ux</title>
+ <link href="http://giantech.jp/tags/ux.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/ux.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/ux.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Agile459でデザインスプリントを体験するワークショップをやってみた</title>
+   <link href="http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459"/>
+   <updated>2015-03-01T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459</id>
+   <content type="html">
+&lt;h2 id=&quot;section&quot;&gt;デザインスプリントってなんだろう？&lt;/h2&gt;
+
+&lt;p&gt;2015/03/01に&lt;a href=&quot;http://agile459.github.io&quot;&gt;Agile459&lt;/a&gt;にて、デザインスプリントを体験するワークショップを開催してみた。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gv.com/sprint/&quot;&gt;デザインスプリント&lt;/a&gt;とは、Google Venturesで多くの実績がある、特にUXにフォーカスした５日間１セットでビジネスのクリティカルな疑問をデザイン〜プロトタイピング〜ユーザー検証までを一気に行うプロセスフレームワークだ。&lt;/p&gt;
+
+&lt;p&gt;名前は昨年くらいからなんとなく知っていたのだが、ちゃんと調べていなかった。最近再び話題になっているのに気づいて調べてみたら、非常に面白そうなのでとりあえず試してみたくなった。（気になったら試してみたい病）ちょうどAgile459の勉強会のテーマを探していたので実施してみることにした。&lt;/p&gt;
+
+&lt;p&gt;最初は&lt;a href=&quot;http://www.slideshare.net/takaumada/design-sprint&quot;&gt;公開されている資料&lt;/a&gt;を読み合うくらいにしようと思ったが、恐らく参加者も自分もピンとこないか、わかったつもりになるので、実際に試すことをを中心にワークを考えてみた。主催側なので自分は参加するというより、ファシリテートに専念することにした。&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/45294031&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;最初のトピック選択が非常に重要なのだが、今回はトピック選択の部分は、解決したいテーマ選択という形にした。今回の場合、実際のワークを始めてから、内容を検討したところ問題解決に画面が不要だと判断してテーマを変えるというアクシデントがあった。これは改善が必要なところ。。。&lt;/p&gt;
+
+&lt;p&gt;ワークについては、&lt;a href=&quot;http://www.slideshare.net/yukio.andoh/html5-conference-2015-design-sprint&quot;&gt;安藤さんのデザインスプリント風ワーク&lt;/a&gt;を参考にしようとしたが、結局&lt;a href=&quot;http://www.slideshare.net/takaumada/design-sprint-process&quot;&gt;馬田さんのデザインスプリントのプロセス資料&lt;/a&gt;や、&lt;a href=&quot;http://www.gv.com/sprint/&quot;&gt;オリジナル記事&lt;/a&gt;から辿れるブログを参考にしてみた。計算上は３日分のワークをできると思っっていたが、説明などもあり２日分でさすがに時間が尽きたのはご愛嬌。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;やってみたら案外できた！？&lt;/h2&gt;
+
+&lt;p&gt;タイムボックスによって漸進＆高速にフィードバックループを回す重要性と、そのために個人ワークを中心に置くという発想は、思ったよりもずっとしっくり来た。特に&lt;a href=&quot;http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard&quot;&gt;CrazyEights&lt;/a&gt;は &lt;strong&gt;5分で8画面をスケッチする&lt;/strong&gt;(1画面につき40秒) という非常にタイトなワーク。今回は二周してみたがそれでも1画面につき80秒で時間を計って「はい、次」とどんどん先に進むというプレッシャーがある。それでも全員なんとか画面のデザインできてたのに驚いた。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109062494/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;（Crazy Eights中）&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16730162791/in/set-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;（ストーリーボード作成中）&lt;/p&gt;
+
+&lt;p&gt;デザインスプリントは主にUI/UXに関しての実験が目的なのでコードは基本書かない。そのため、どんなロールの人でも全工程参加しやすいというメリットがある。「UXデザイナにおまかせ」という役割分担ではなく、
+関係者全員の頭を使ってUXを検討していくという姿勢はスクラムぽさを感じた。(スプリントだしね)&lt;/p&gt;
+
+&lt;p&gt;今回は時間の都合上、本来なら５日間のうち２日間かけてやるプロセスを、２時間くらいに凝縮した。かなり無理があったのだが、それでも時間を区切って進めることで、思ったよりもずっとできることがわかった。（参加者視点だとまた違う印象があるかもしれないけど…)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16705480606/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;（投票のための説明中）&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109068564/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;（投票結果）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;問題に対するアプローチの違い&lt;/h2&gt;
+
+&lt;p&gt;デザインスプリントの問題意識としては&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイデアの質を高めるためのグループワークは時間がかかりがち&lt;/li&gt;
+  &lt;li&gt;グループワークの成功はよいファシリテート依存する&lt;/li&gt;
+  &lt;li&gt;個人ワーク中心に進めれば進行は早いがアイデアの質を高めるのは困難&lt;/li&gt;
+  &lt;li&gt;エッジなアイデアはグループワークの中で排除されがち&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;というものがあり、その解決策として、デザインスプリントは&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;個人ワークを中心とした最低限のグループワーク&lt;/li&gt;
+  &lt;li&gt;厳格なタイムボックスによる時間制約&lt;/li&gt;
+  &lt;li&gt;フィードバックループによるアイデアの洗練&lt;/li&gt;
+  &lt;li&gt;素早い意思決定プロセス（投票と責任者による決定）&lt;/li&gt;
+  &lt;li&gt;最終日のユーザー検証に駆動されるゴール駆動&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;という手法をとったのだろう。&lt;/p&gt;
+
+&lt;p&gt;参加者の感想では、個人ワーク中心というプロセスに対して、&lt;strong&gt;自分の意見がブラッシュアップされることなく選ばれることへの不安&lt;/strong&gt; という意見もあった。&lt;/p&gt;
+
+&lt;p&gt;チームの多様性を生かし、互いの意見を交換することで１人では思いもよらないものを創発するプロセスを採用しようとする場合、合意形成に時間がかかる場合が多い。（意思決定プロセスを明確にしたり、タイムボックスを導入することで時間は短縮されるが、それでも相互の意見交換・議論の時間はある程度かかる）&lt;/p&gt;
+
+&lt;p&gt;この辺りのジレンマを、デザインスプリントでは、&lt;strong&gt;個人がそれぞれ考えたよいアイデアを素早く選択、実現、検証することでフィードバックを受けて創発する&lt;/strong&gt;というプロセスを採用して解決しようとしている、と捉えた。&lt;/p&gt;
+
+&lt;p&gt;デザインスプリントを行うのであれば、根底にある &lt;strong&gt;いくら時間をかけてアイデアについて話し合ったり作っても、結局はユーザーに使ってもらわないとわからない。仮説に過ぎない。&lt;/strong&gt; という不確実性についての問題意識を共有できていないといけないだろう。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;画面中心の弊害？&lt;/h2&gt;
+
+&lt;p&gt;とはいえ、疑問に感じたこともある。画面中心で考えるため、&lt;strong&gt;そもそも解決したい問題はなにか？&lt;/strong&gt;というそもそも論が置いておかれてしまう傾向があるのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;参加者の気づきでも「デザインした内容が、直接”解決したい課題”と繋がっていない感じ」という意見があった。(といっても、こちらのワークの進め方の問題だった可能性が高いが)&lt;/p&gt;
+
+&lt;p&gt;デザインをする対象のコンセプトやビジネスモデルが明らかになっていることが前提であり、その上でデザイン上の課題についてデザインスプリントを実施する必要がある。そうでなければ、デザインスプリントを実施しても表面上のデザイン検証に陥ってしまうのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;そのため、デザインスプリントを実際に実施する際は、&lt;a href=&quot;http://www.slideshare.net/takaumada/lean-startup-design-sprint&quot;&gt;こちらの資料のP12&lt;/a&gt;にあるように他のやり方と組み合わせる必要があると思う。今回はワークとしてコンセプトがない状態から始めてしまったので、特にそう感じたのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;また、最初に選択するトピックによっては、5日間という時間制約はそのままに、異なるプロセスを実施する必要があるとも感じた。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109069394/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;（ふりかえり）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;もっと短くてもいいかも？&lt;/h2&gt;
+
+&lt;p&gt;今回は、２時間で２日分を詰め込むというかなり強引なワークを実施したが、これをやって思ったのは、１〜２日でやりきるデザインスプリントを一週間で複数回繰り返してみたらどうか？ということだった。もちろん、プロトタイプ作成が大変かもしれないし、ユーザー検証の人数は減ってしまうが、案外いけるかもしれない。よくあるアイデアソンやハッカソンのように、２日間１セットでのプロセスデザインを試してみたいと思った。&lt;/p&gt;
+
+&lt;p&gt;まぁ、業務でもコミュニティでも１人でもいいので、気になる人は試してみたらいいんじゃないでしょうか。&lt;/p&gt;
+
+&lt;p&gt;そして、無茶ぶりワークに参加してくれた皆さん、ありがとうございました〜。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16545270629/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
+ 
+</feed>

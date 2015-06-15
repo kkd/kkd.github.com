@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - 島根</title>
+ <link href="http://giantech.jp/tags/%E5%B3%B6%E6%A0%B9.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/島根.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/島根.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Agile Japan 2013 島根サテライト</title>
+   <link href="http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane"/>
+   <updated>2013-05-31T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane</id>
+   <content type="html">
+&lt;p&gt;2013/05/30にAgile Japan 2013の島根サテライト、&lt;a href=&quot;http://aj13shimane.herokuapp.com/&quot;&gt;&lt;strong&gt;企業競争力強化セミナー 顧客により高い価値を提供するためには　～Agile Japan 2013 島根サテライト「地方企業×アジャイル」～』&lt;/strong&gt;&lt;/a&gt;へお邪魔してワークショップを実施してきました。&lt;/p&gt;
+
+&lt;p&gt;元々、Facebook上でAgileJapan2013の中国地方(島根、広島、岡山)でのサテライト開催が発表された後、開催時期をずらすことで、可能であれば私が各サテライトに回ってヘルプしたいという話をしていました。これは地方だとコンテンツがどうしても不足してしまう傾向があるため、少しでもその負担を軽減できればよいな、という心づもりでした。&lt;/p&gt;
+
+&lt;p&gt;しかし、広島、岡山については&lt;a href=&quot;http://kuranuki.sonicgarden.jp/&quot;&gt;倉貫さん&lt;/a&gt;がサテライトを梯子してくれるという話になったため、島根サテライトにのみお手伝いするようになりました。(倉貫さんありがとう！)&lt;/p&gt;
+
+&lt;p&gt;島根県の皆さんとは、平成22年度の&lt;a href=&quot;http://www.pref.shimane.lg.jp/industry/syoko/sangyo/itsangyo/rubybiz_outcome.html&quot;&gt;Rubyビジネスモデル研究実証事業&lt;/a&gt;以来のお付き合いで、&lt;a href=&quot;http://agileshimane.tumblr.com/&quot;&gt;Agile Shimane&lt;/a&gt;の起ち上げセミナーなど、スポットで何度か顔を出させてもらっている馴染の場所でもあります。&lt;/p&gt;
+
+&lt;p&gt;今回はエンジニア向けというよりも、会社経営者向けのセミナーにしたいという要望だったため、最近の私の着目テーマである「価値提案」を考えるというワークを設計しました。&lt;/p&gt;
+
+&lt;p&gt;当日、他の講演者の方とお会いしてびっくりしたのは、お二人とも企業経営者であり、それぞれの経験談をお話されていたことでした。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ashidachi.co.jp/&quot;&gt;足立石灰工業&lt;/a&gt;の静社長は、本業とは全く異なる、新しい事業(になるのかもわからないアイデア)の取り組みを、リーンスタートアップ的に少しづつフィードバックループを回していきながら実現していく体験談を講演されていました。(その成果が&lt;a href=&quot;http://www.toiletas.jp/&quot;&gt;といれたす&lt;/a&gt;です) 
+実は一番驚いたのが、静社長が以前自社のシステムを独学で開発したエピソードでした。その時参考にした本が「アジャイルソフトウェア開発の奥義」とか「リファクタリング」だそうで、そのセンスに衝撃！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.rakuten.co.jp/molokheiya/&quot;&gt;株式会社いづも屋&lt;/a&gt;の吉岡社長からは、ディズニーランドで学んだ顧客サービスの経験を元に、顧客を感動させるサービスとは何かという貴重な講演をされていました。ディズニーのサービスに関する本は私も持っていますが、実経験から得られる話は本よりずっと心に響きました。&lt;/p&gt;
+
+&lt;p&gt;お二人の話を受けての私のワークでは、まず最初に地方におけるアジャイルの位置づけが私の中で変ってきたという問題意識を提示した後、Running Leanワークショップをベースとして、顧客価値の定義を&lt;strong&gt;体験&lt;/strong&gt;と位置づけ、身の回りの製品のもつ価値を体験として表現し、困り毎をNVC(非暴力コミュニケーション)のフォーマットで表現した後に、共感マップ→リーンキャンバスに繋げていくワークにデザインしました。&lt;/p&gt;
+
+&lt;p&gt;参加者が50名という大勢だったため、とてもすべてのグループを十分に回れなかったのですが、皆さん楽しそうにワークしてくれていました。参加者の皆さんに大いに助けられました。&lt;/p&gt;
+
+&lt;p&gt;事前に意図していたのではないのですが、静社長の「リーンスタートアップ的」な話、吉岡社長の「顧客への価値」の話、そして私のワークと、それぞれがバラバラのように見えて、実はうまい流れで繋がっていたのではないかなと感じました。これはオーガナイザーの @tsurur グッジョブですね。&lt;/p&gt;
+
+&lt;p&gt;時間が足りずにやりきれなかったのですが、続きがやりたかったと言って頂けたので、今度は十分な時間をもってまたワークショップの機会を設けてもらえると嬉しいです。それまでにもっと改善しておきます！ また呼んでください！&lt;/p&gt;
+
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22247214&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/ss-22247214&quot; title=&quot;価値提案から始める&quot; target=&quot;_blank&quot;&gt;価値提案から始める&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+</content>
+ </entry>
+ 
+</feed>

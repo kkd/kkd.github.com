@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - 2013年</title>
+ <link href="http://giantech.jp/tags/2013%E5%B9%B4.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/2013年.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/2013年.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>2013年のふりかえり</title>
+   <link href="http://giantech.jp/2013/12/31/retrospective"/>
+   <updated>2013-12-31T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2013/12/31/retrospective</id>
+   <content type="html">
+&lt;p&gt;2013年のふりかえり。&lt;/p&gt;
+
+&lt;p&gt;今年は一言でいうと「松山でのつながりが加速した一年」でした。東京からこっちに移って早や三年がたちましたが、初年度から出張中心で仕事をしてきたので、地元の知り合いが非常に少ない状況でした。昨年の10月近辺に、コワーキングスペースが松山に立て続けにできてから状況が変わりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://citrusjapan.weebly.com/&quot;&gt;シトラス・スペース・カンパニー&lt;/a&gt;と&lt;a href=&quot;http://www.d-cross.biz/&quot;&gt;ダイヤモンドクロス&lt;/a&gt;に仕事でも勉強会でも御世話になり、そこを中心に様々な方々と繋がることができました。これは私のような県外出身者には本当にありがたいことです。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://agile459.github.io/&quot;&gt;Agile459&lt;/a&gt;も三年目を迎えて、新しい仲間が増え、コミュニティをスタッフ運営制に移行し、実際の現場でのアジャイル実践者も増えてきました。来年が愉しみです。&lt;/p&gt;
+
+&lt;p&gt;また、今年は東京時代のアジャイリスト仲間が何人も松山に来てくれました。10月には @ebacky_ja、 11月には @kuranuki, @sandayu, @kussy_y, @kumat, http://www.xfder.com/の中の人、 12月には @kakutani, @kdmsnr と松山で会うことができたのは愉しかったです。特に11月の皆とは松山観光も一緒に巡ることができ、新たな愉しみを見つけることができました。こういう形で松山に観光のついでにイベントで話してもいいよ、という人がいたら是非お声がけくださいww。&lt;/p&gt;
+
+&lt;p&gt;IT&amp;amp;アジャイルつながり、愛媛スタートアップつながり、パーマカルチャー的つながり、コワーキングつながり…数は少ないかもしれませんが、より多様な人と触れる機会が増えて、いろいろと考える所が多かった年でした。&lt;/p&gt;
+
+&lt;p&gt;自分が今いる場所、時期、課題、自分のできること、自分がやりたいこと、周囲の人たち、これまで培ってきた人との繋がり。こういったコンテキストの中で、今まで見えていなかったことが見えてきた気がしています。来年はこのコンテキストの中で、様々な人との関りの中から、様々な出来事が生成されるのではないかとワクワクしています。&lt;/p&gt;
+
+&lt;p&gt;健康面で言うと、1月に副鼻腔炎の手術で入院をしたり、走り過ぎで腸脛靭帯炎で通院した他は、風邪でダウンしたくらいでなんとか後厄も乗り切った感じです。もちろん油断は禁物ですが、仕事と健康を切り離すことなく、全体として持続可能にするために今年も適度に走っていきます。2月は初の愛媛マラソンのチャレンジもあり、ランつながりの仲間を増やしたいな〜。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

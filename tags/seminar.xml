@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - Seminar</title>
+ <link href="http://giantech.jp/tags/seminar.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/Seminar.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/Seminar.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>プロダクトオーナーステップアップセミナー開催</title>
+   <link href="http://giantech.jp/2014/03/27/po-stepup-seminar"/>
+   <updated>2014-03-27T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2014/03/27/po-stepup-seminar</id>
+   <content type="html">
+&lt;p&gt;3/26に永和システムマネジメントさまとコラボして、&lt;a href=&quot;http://goo.gl/KmQhj9&quot;&gt;プロダクトオーナーステップアップセミナー&lt;/a&gt;を開催しました。&lt;/p&gt;
+
+&lt;p&gt;当日は申込みは10名、会場には7名の方に来て頂きました。&lt;/p&gt;
+
+&lt;p&gt;セミナーは二部構成になっていて、まず最初は&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot;&gt;アジャイル型開発におけるプラクティス活用事例調査&lt;/a&gt;の事例から、プロダクトオーナーに強く関係しそうないくつかの事例の課題と対応策について紹介し、そこから何を学ぶのか、という話をさせてもらいました。&lt;/p&gt;
+
+&lt;p&gt;次のパートでは、プロダクトオーナーがチームのお荷物にならないためのポイントを簡単に紹介しました。私の経験上、POはバリューストリームにおいてはボトルネックになりやすい部分にも関わらず、開発メンバーと比べてあまり目を向けられていないのではないかと感じています。開発側だけの最適化では、バリューストリーム全体を考えた時には部分最適になりかねません。プロダクトオーナーに目を向けて改善していくことは必要不可欠です。&lt;/p&gt;
+
+&lt;p&gt;4/16にも同じく永和システムマネジメントさまで、&lt;a href=&quot;http://esminc.doorkeeper.jp/events/10210&quot;&gt;同様のセミナー&lt;/a&gt;を開催します。年度末過ぎて余裕のある方は是非ご参加ください。&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

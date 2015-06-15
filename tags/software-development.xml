@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - software development</title>
+ <link href="http://giantech.jp/tags/software-development.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/software development.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/software development.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>まさーるさん没後10年に思うこと</title>
+   <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident"/>
+   <updated>2015-04-25T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident</id>
+   <content type="html">
+&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;あれから10年&lt;/h2&gt;
+
+&lt;p&gt;毎年、この時期になると、ニュースでキーワードを目にして思い出す。&lt;/p&gt;
+
+&lt;p&gt;2005年4月25日の福知山線の事故から10年が経った。その事故でまさーる（石井勝）さんが亡くなってから同じく10年が経つ。「十年一昔」とは言うけど、時の流れるのはあっという間だったなと思う。&lt;/p&gt;
+
+&lt;p&gt;助田さんのRubyUnitが自分とXPの出会いのきっかけであり、そのRubyUnitの誕生のきっかけとなっているのがまさーるさんだった。&lt;/p&gt;
+
+&lt;p&gt;2000年に京都で行われたPerl/Ruby Conferenceで、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/xp-tutorial.html&quot;&gt;RubyUnit Tutorial&lt;/a&gt;に参加し、RubyUnitによるユニットテスティングの実際や、XPの開発事例を聞きとても興奮し、多くの質問を投げかけた思い出がある。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ogis-ri.co.jp/otc/hiroba/specials/oday2001/report/A3.html&quot;&gt;Object Day 2001のXP談義&lt;/a&gt;においては、XP擁護派の立場で一貫して&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/object-day-2001-xp-talk.html&quot;&gt;開発者として、実践している経験として&lt;/a&gt;で発言されており、他の論者の発言と比べて説得力があったことを記憶している。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんは、XPの導入においても、教条主義ではなく、まず今の自分が出来るところから始め改善をしていく、という現実的な視点を常に持っていた。この視点は今でも変わらず普遍的だ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/testing-framework.htm&quot;&gt;Kent BeckのTesting Framework入門&lt;/a&gt;を読んで、JUnitのデザインパターンを理解することで、フレームワークの設計指針や、シンプルな設計のエレガントさについて深く理解することができた。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;まさーるさんは自分にとってはXPやソフトウェア設計についてより深い理解へと導いてくれた導師だった&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;そして、事故当時まで残してくれていた、まさーるさんのコンテンツは、可能な部分においては&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/&quot;&gt;オブラブのサイト&lt;/a&gt;で引き受けており、今でも閲覧することができる。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんの友人が公開していたミラーサイトがない今、このようにメモリアル記事が書けるのも、この10年間ずっとまさーるコンテンツを閲覧可能にしてくれている&lt;a href=&quot;http://www.objectclub.jp&quot;&gt;オブラブ&lt;/a&gt;の皆さんのおかげだ。改めて感謝の気持ちを伝えたいです。（そして、取り扱いにくい形でデータを残してしまってごめんなさい…）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;自分にできること&lt;/h2&gt;
+
+&lt;p&gt;実は、まさーるさんと会って話した回数はそれほどはない。それはまさーるさんが関西にお住まいだったためであり、何かイベントで上京される時のタイミングの時だったからだ。&lt;/p&gt;
+
+&lt;p&gt;それでも自分が大きな影響を受けているのは、まさーるさんの残してくれた記事、登壇された時の発表、MLやSNSでのやりとりがあったからだ。&lt;/p&gt;
+
+&lt;p&gt;自分も今は愛媛在住で、東京にいる時ほど多くの人たちと出会うこともなくなってきた。だからこそ、人との出会いを大事にして行きたいし、自分にできることがあれば誰かの役に立ちたいと思う。いつ誰かの役に立つかわからないけど、これまで学んできたことを、いろいろ書き残しておきたいとも思う。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;15年を越えて…組織パターン&lt;/h2&gt;
+
+&lt;p&gt;まさーるさんの記事群の中に、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/org-process-pattern.html&quot;&gt;組織パターンのコンテンツ&lt;/a&gt;がある。この記事は1999年に書かれたものだ。&lt;/p&gt;
+
+&lt;p&gt;その後、2004年にオリジナルのOrg Patternsの書籍が出版され、その後９年の時を経て日本で&lt;a href=&quot;http://www.amazon.co.jp/%E7%B5%84%E7%B9%94%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-Object-Oriented-SELECTION-Coplien/dp/4798128449&quot;&gt;組織パターンの邦訳版&lt;/a&gt;が和智さんらの尽力により出版された。まさーるさんが記事を書いてから14年後のことだった。&lt;/p&gt;
+
+&lt;p&gt;まさーるさんの先見性を再認識すると共に、日本でも組織パターンの認知が高まっていることは素晴らしいと思う。&lt;/p&gt;
+
+&lt;p&gt;組織パターンの著者の一人であるJames. O. Coplien氏は、2010年のアレグザンダー祭り以降、毎年日本に来てくれている。TDD否定派の彼とまさーるさんを引きあわせたらどんな議論がされるのだろう？穏やかにかつ的確にCopeと議論をするまさーるさんを想像するとちょっと楽しい。&lt;/p&gt;
+
+&lt;h2 id=&quot;if&quot;&gt;if…&lt;/h2&gt;
+
+&lt;p&gt;まさーるさんは、福知山線事故の2005年以降に、日本でもアジャイル特にスクラムが浸透してきたこと、RoRがブームを通り越して世界で最も使われるWebフレームワークの１つになったこと、Githubを中心にソーシャルコーディングのスタイルがメインになったこと、AsianPLoPが毎年開催され日本で第二次パターンコミュニティが形成されていること、などなど、この10年の変化は知るはずもない。&lt;/p&gt;
+
+&lt;p&gt;もしも、まさーるさんが存命であれば今年で47歳のはずだ。&lt;/p&gt;
+
+&lt;p&gt;きっと、熟練した達人プログラマーとして、ソーシャルコーディングの世界で大いに活躍し、若いプログラマーの目標となり、エンジニアとしてもアジャイルを用いて成果を出し、AsianPLoPにおいては、素晴らしいパタン・ランゲージを残してくれていただろうと思う。&lt;/p&gt;
+
+&lt;p&gt;今頃、草葉の陰で「プログラマにとっていい時代になりましたね。僕もソーシャルコーディングしたい！」と言ってる気がする。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;人はいつか死ぬ&lt;/h2&gt;
+
+&lt;p&gt;人は死して何を残すのだろう？ まさーるさんが亡くなってから、そういうことを徐々に考えるようになった。&lt;/p&gt;
+
+&lt;p&gt;そして、先月末に松山に来てから知り合った知人が亡くなった。その方とはお会いした回数はそう多くはないのだけど、会う度に色々なことを語り合い、その方の大きな懐の中で、未来の夢を見て、実現に向けての勇気やヒントをくれる、そんな方だった。&lt;/p&gt;
+
+&lt;p&gt;そこで改めて感じたのは&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;人はいつか死ぬ。そしてその時はいつ来るかもわからない。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ということだ。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;タイムボックスをどう生きるか&lt;/h2&gt;
+
+&lt;p&gt;人生という名のタイムボックスは、厄介なことに終わりの予測がつかない。最大サイズはある程度予測できるが、どこで終了となるかは予測できないのだ。&lt;/p&gt;
+
+&lt;p&gt;そういう不確実性の中で、人ができることとは、何だろうか。&lt;/p&gt;
+
+&lt;p&gt;きっと、後悔ないように、日々を精一杯・充実して生きることこそが、唯一のできることではなかろうか。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
+  &lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
+  &lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
+  &lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
+  &lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、精一杯生きていこう。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-5&quot;&gt;番外&lt;/h2&gt;
+
+&lt;p&gt;「まさーるさん没後ちょうど10年だから何かしようよ」と声をかけて、乗ってくれたのが&lt;a href=&quot;http://t-wada.hatenablog.jp&quot;&gt;t-wada&lt;/a&gt;さんでした。&lt;a href=&quot;http://t-wada.hatenablog.jp/entry/masarl-memories&quot;&gt;彼のエントリ&lt;/a&gt;はきっちり4/25にアップされたのだけど、それを見ないで（影響受けてしまいたくない）この記事を書きました。&lt;/p&gt;
+
+&lt;p&gt;t-wadaさんらしく、素晴らしいエントリでした。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>仙台でアジャイル型開発におけるプラクティス活用リファレンスガイドセミナー開催</title>
+   <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
+   <updated>2014-03-20T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
+   <content type="html">
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;3/19に、&lt;a href=&quot;http://goo.gl/E9inDE&quot;&gt;仙台にお呼ばれ&lt;/a&gt;して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の&lt;a href=&quot;http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131&quot;&gt;ガイダンス&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;私の両親は岩手県一関市(大東町)出身で東北は私のルーツです。仙台は途中下車したことはなかったので初訪問となりました。&lt;/p&gt;
+
+&lt;p&gt;この「アジャイルプラクティスリファレンスガイド」のセミナーはこれで4回目(東京、福岡、愛媛、宮城)なのですが、毎回少しづつ内容を変えています。&lt;/p&gt;
+
+&lt;p&gt;今回は、これまで話していた「事例の話」をカットして、参加者の現場の課題を全員で考えヒントを持ち帰ってもらうという部分をゴールに実施しました。理由としては、特に地方における困り事は「(アジャイルを導入して)XXXがうまくいかない」という以前に「(アジャイルは導入していないが)XXXに困っている」というケースが多いことをこれまでのセミナーで実感しているからです。&lt;/p&gt;
+
+&lt;p&gt;これまでのセミナーの中でもダイアログとして参加者同士が話し合うという内容は取り入れていましたが、どうしても話に踏み込めないケースがでていました。今回はチャレンジとして「全員が全員の課題について考え、フィードバックを与えよう」というスタイルをとりました。この手法は、以前オブラブで行った @kompiroの &lt;a href=&quot;http://goo.gl/Wl5Doo&quot;&gt;Help Me&lt;/a&gt; のワークなどにも類似しています。&lt;/p&gt;
+
+&lt;p&gt;ワークショップ部分は @motohasi ＆ @papanda のお２人が中心となって、パターンランゲージの手法を元に、問題を深掘り、HelpMe的に全員でフォースや対立を越えた解決策をフィードバックしあうという構成になりました。短時間でしたが、参加者全員が、何らかのフィードバックをもらって、自分事の課題についての考えを深めるヒントになっていれば嬉しいです。&lt;/p&gt;
+
+&lt;p&gt;最後に少し話をさせてもらったのですが、「自分たちの現場も、反復漸進的に進めて、顧客に早期に見てもらおう」と決意してプロセスを変えることは、それ自体は素晴しい前進です。しかしすぐに次の壁にぶちあたるはずです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない…&lt;/li&gt;
+  &lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない…&lt;/li&gt;
+  &lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;結局の所、&lt;strong&gt;何かを変えても、次の壁に必ずぶち当り、それらをひとつひとつ越えて行かなければ、本当に目指すべき所には辿りつけない&lt;/strong&gt; です。価値あるソフトウェアを漸進的に作りあげていくように、&lt;strong&gt;チームも組織も少しづつ漸進的に改善して成長し続けることを選択&lt;/strong&gt;しなければ、志し半ばで挫けてしまうでしょう。&lt;/p&gt;
+
+&lt;p&gt;今回のセミナーに来て頂いた方には、この場だけでなく、自分の現場に戻っても「自分たちは、どのような未来を作りたいのか？」、「次に越えるべき壁は何か？」という問いをチームで考え続け、そのための一歩一歩の改善を続けて頂きたいと願ってやみません。心が折れそうになったら、コミュニティのイベントでお互いに勇気を貰えばよいと思います。仙台はコミュニティも元気そうですしね。&lt;/p&gt;
+
+&lt;p&gt;震災以降、震災ボランティアで遠野や陸前高田に行ったきりの東北と関わりが持てたことをとても嬉しく思います。愛媛からは距離が離れており、伺う機会はなかなかないのですが、ルーツを東北に持つものとして、今回のような形でもお役に立てることができていたらとても幸せです。&lt;/p&gt;
+
+&lt;p&gt;お呼び頂いた、JASA東北支部、東北経済産業局の皆様、本当にありがとうございました。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>価値提案駆動 -- TDDとの類似点</title>
+   <link href="http://giantech.jp/2013/04/05/value-proposition-driven"/>
+   <updated>2013-04-05T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/04/05/value-proposition-driven</id>
+   <content type="html">
+&lt;h3 id=&quot;section&quot;&gt;概要&lt;/h3&gt;
+
+&lt;p&gt;Lean Startupで知られるようになってきたMVP(Minimum Viable Product: 最小限の実用可能な製品)と、Running Leanで提唱されている独自の価値提案(Unique Value Proposition: UVP)について、ソリューション(どう実現するか)よりも先にUVPを先に考えMVPによって早期から検証を繰り返しながらプロダクトを構築していくプロセスが、ソフトウェア開発におけるTDD(Test Driven Development : テスト駆動開発)におけるテストを先に書いて、実装して、リファクタリングするというプロセスに似ているのではないかと考えた。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;本文&lt;/h3&gt;
+
+&lt;p&gt;最近、Running Leanのワークショップを@kdmsnrさんと一緒に開催したり、実際に自分でリーンキャンバスを書く機会が増えたため、ソリューションより先に独自の価値提案(UVP)を先に考えることに慣れてきた。これまでにも「プロダクトのビジョン、コンセプト」を先に考えるということはしてきたが、今考えてみると、ソリューションを先に思いつき、それに合わせて価値提案を作っていたのでは？という気がしてならない。&lt;/p&gt;
+
+&lt;p&gt;先にUVPを考えるということは ，はじめにゴールを達成した後の状態である「誰にどのような素晴しい未来が待っているのか」を考えることだ。
+UVPを考えその後にUVPを満たすソリューションを作りあげていくプロセスは、TDDと同様に，ゴールを設定してからそこに向う道を進んでいくという点で似ている。逆に言うと「はじめにソリューションありきのプロダクトづくり」は&lt;strong&gt;プロダクトコードありきのテストと同じ&lt;/strong&gt;ということだ。&lt;/p&gt;
+
+&lt;p&gt;またゴール設定という意味で考えても、仕様的ゴール(=XXX という機能があって、このような条件を満たしている)ではなく、プロダクトを受け取った人がどのように感じ、どのように利益を得るのかという、&lt;strong&gt;ユーザー体験的ゴール&lt;/strong&gt;という点が重要だ。&lt;/p&gt;
+
+&lt;p&gt;UVPとTDDと比較して異なる点は、あくまでもUVPそのものが仮説であるという点だ。いくらUVPを満たすソリューションをもつ製品を作ったとしても、それが顧客にとって正しいプロダクトかどうかは作る段階ではわからない。もちろんTDDが満たそうとするゴール(=テスト)もその後のプロダクトへのフィードバックの結果によって変わりうる。結局ある時点でのゴールと考えるものは、どれもこれも「いずれ変更される可能性はある当面のゴール」でしかないということに気づく。&lt;/p&gt;
+
+&lt;p&gt;ここで「Validation(正しく製品を作っているか）」と「Verification(正しい製品を作っているか)」の違いについて思い出した。(参考:&lt;a href=&quot;http://lise.me.sophia.ac.jp/kktm/Essay/validation_verification.htm&quot;&gt;validation and verification: 確認と検証&lt;/a&gt;)
+UVPを検証するという行為は、「正しい製品」を探索することに等しい。「「正しい製品」が正しいか」を最初から定義することはできない。だから、早くUVP(を含めたビジネスモデル)が対象顧客にとって正しいものか(=価値のあるものか)という仮説を、MVPを使って検証しないといけない。そのためUVPが価値があるものらしいという手応えを感じるまでは、作り込んではいけない。なぜなら&lt;strong&gt;UVPが正しくなければ作ったものがムダになる&lt;/strong&gt;ためだ。TDDにおいても、まずはテストを満たすシンプルなコードを書き、テストをパスさせた上でリファクタリングする。テストを満たす最小限のコード(仮にMinimum Viable Codeと呼ぶ)は、最初にUVPを実現し検証するMVPに類似しているのではないか。&lt;/p&gt;
+
+&lt;p&gt;MVPについて考えた時には&lt;a href=&quot;https://sites.google.com/site/techdmba/kanomodel&quot;&gt;狩野モデル&lt;/a&gt;における当たり前品質(あっても魅力にはならないが、なければ困る機能)はどうなるのか、という疑問が生じる。言い換えると「MVPに当たり前品質のフィーチャが必要か？」という疑問である。これはMVPの種類にもよるが、できるだけ「作らないようにする」のがよいだろう。MVPで検証したいのは、&lt;strong&gt;魅力品質を満たす(であろうという未踏の仮説)&lt;/strong&gt;フィーチャであるからだ。MVPを構築する上で、当たり前品質の機能を作らないといけない、という状況もあるかもしれない。その場合は「できるだけ作らないで検証できるMVPはどのようなものか？」という問いに変えたほうがよい。&lt;/p&gt;
+
+&lt;p&gt;TDDにおいても、コードの当たり前品質をプログラマーにとっての当たり前品質として考えるとクリーンコード(リーダブル、DRY、etc)やカバレッジのようなものになるのではないか。TDDでまず検証したいのはクリーンコードではなくテストを満たしているかどうかだ。(これをプログラマー的な魅力的品質と呼ぶのはちょっと抵抗があるが,…)&lt;/p&gt;
+
+&lt;p&gt;まとめると、まず最優先で検証したい事柄(仮説)を設定し、それを検証するために最低限の実現方法を用いて実現し、その成果の結果を測定して、実現内容をブラッシュアップしていくか、次の仮説検証に取り組むかの判断を行うという仮説検証プロセスモデルは、コードレベルからプロダクト/サービスレベルにまで通じるプロセスモデルである、という話でした。&lt;/p&gt;
+
+&lt;iframe src=&quot;http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4873115914&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+</feed>

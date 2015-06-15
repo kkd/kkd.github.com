@@ -476,8 +476,8 @@ pre {
 }
 .layout-page .tag_box li {
   display: inline;
-  line-height: normal;
-  vertical-align: middle;
+  /*line-height: normal;*/
+  /*vertical-align: middle;*/
 }
 .layout-page .tag_box a {
   background-color: #99cc99;

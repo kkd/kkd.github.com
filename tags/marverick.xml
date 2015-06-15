@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - Marverick</title>
+ <link href="http://giantech.jp/tags/marverick.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/Marverick.html"/>
+ <updated>2015-06-15T16:02:37+09:00</updated>
+ <id>http://giantech.jp/tags/Marverick.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Keynote Version 6をインストールして気づいた違い</title>
+   <link href="http://giantech.jp/2013/10/25/keynote_ver6"/>
+   <updated>2013-10-25T08:59:59+09:00</updated>
+   <id>http://giantech.jp/2013/10/25/keynote_ver6</id>
+   <content type="html">
+&lt;h3 id=&quot;section&quot;&gt;はじめに&lt;/h3&gt;
+&lt;p&gt;自分としては珍しく、早々にMacOSXをアップデートした。その際に、合わせて最新バージョンが公開されているKeynoteもアップデートしようか迷ったのだけど、インスペクションがウィンドウに組込まれた、という事前情報があり購入に踏み切った。&lt;/p&gt;
+
+&lt;p&gt;Keynote ver6の変更点については、早速&lt;a href=&quot;http://blog.narusura.com/keynote-6.html&quot;&gt;なるスラ&lt;/a&gt;さんにレポートが上っていたので事前に確認しておいた。&lt;/p&gt;
+
+&lt;p&gt;個人的には、アニメーションはそれほど使わないので、あまり気にならないのだが、図形編集回りがKeynoteは不便だと感じていたので、その辺りが気になっている。ちょっと触ってっみて、気づいた点をまとめておく。主にあまりメジャーじゃないものを中心に。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;(1) 図形同士の接続線が複数追加可能に&lt;/h3&gt;
+
+&lt;p&gt;Keynoteでは図形同士を線で繋げるためには、オブジェクト同士を選択して「接続線を追加」というオペレーションをしなければならない。PPTのような線オブジェクトとは別に存在する。&lt;/p&gt;
+
+&lt;p&gt;Keynote Ver5.xでは、この接続線が関係毎に1本しか設定できなかった。そのため、たとえば、二つの図形の間に相互関係を示す線を追加しようと思っても、二本の線で繋げることができなくて困っていた。最新版では図形間の接続線は何本でも追加できるようになっていた。&lt;/p&gt;
+
+&lt;p&gt;Keynote単体で図を描画をしようとする人にとっては嬉しい変更だと思う。
+(有名な所では、図形の演算もできるようになった。)&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;(2) ペンで線描画がベジェからマウスの軌跡で描けるように&lt;/h3&gt;
+
+&lt;p&gt;なるスラさんでも指摘されていたが、ペンでの線の自由描画のデフォルトがベジェ曲線ではなく、マウスの軌跡を使ってスムージングするタイプの図形描画に変った。自分のようなベジェ弱者には嬉しい変更だ。設定で元のベジェ曲線のスタイルの描画に変えることもできる。&lt;/p&gt;
+
+&lt;p&gt;このスタイルの自由描画は、&lt;a href=&quot;http://www.eazydraw.com&quot;&gt;EazyDraw&lt;/a&gt;で使っていて楽だったので、Keynoteでサポートしてくれたのは個人的にポイント高い。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;(3) コメントがオブジェクト単位で追加可能に&lt;/h3&gt;
+
+&lt;p&gt;前バージョンまでのKeynoteでは、コメント追加という機能はあったが、単に付箋っぽい非表示オブジェクトとしてノートを追加できるというだけだった。&lt;/p&gt;
+
+&lt;p&gt;新しいKeynoteでは、コメントはオブジェクト単位で追加することが可能になった。更にはアドレス帳にアクセスして、記載者の名前も付記している。これはiCloudベースのiWorkの共同編集の際のコメントの仕様をそのまま使っていると思われる。Google Docs上でスライドを共同編集している人達にはお馴染ではあるが、共同編集を見越すと必須な機能と言える。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;(4) オブジェクトにハイパーリンクが追加可能に&lt;/h3&gt;
+
+&lt;p&gt;各オブジェクトに「リンクを追加」というメニューが追加されました。これを指定すると、オブジェクトからスライド内、Web、メーラの起動といったハイパーリンクを設定することができる。&lt;/p&gt;
+
+&lt;p&gt;このハイパーリンクを上手く使うことで、いわゆるシーケンシャルなスライド表示のプレゼンスタイルから、ハイパーリンクを駆使したスライドの順番に囚われないプレゼンができるようだ。うまい使い方はあまりイメージはできていないけどもw&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;(5) シェイプ、テキストのスタイルが設定可能に&lt;/h3&gt;
+
+&lt;p&gt;図形のシェイプやテキストのスタイルを設定・利用することができるようになった。スタイルはページマスタとは別に定義できるため、(MS Wordっぽいが)スタイルを事前に登録しておくことにより、柔軟に素早くテキストや図形のスタイルを変更できるようになったのは嬉しい。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;(6) プレゼンテーションの共有(と共同編集)&lt;/h3&gt;
+
+&lt;p&gt;スライドをiCloudにアップロードして他人と共有することが簡単にできるようになった。iCloud上でbeta版のiWorksで共同編集もできるらしい。個人的には編集権限を除いたリードオンリーでの公開や、共有先に&lt;a href=&quot;http://slideshare.com/&quot;&gt;SlideShare&lt;/a&gt;などの既存サービスへの共有をサポートしてほしい(無理かなー)。スライドの共同編集はまだ試してないけど、一度やってみたい。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;今後も気づいた点があれば追記していく予定。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;おわりに&lt;/h3&gt;
+
+&lt;p&gt;前バージョンのKeynoteをインストール済みであれば、そちらは残したまま最新バージョンのKeynoteを使うことができるので、もし気に入らなかったり不具合があったとしても旧版を使うことができる。このため比較的安心して導入できるのではなかろうか。&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>
