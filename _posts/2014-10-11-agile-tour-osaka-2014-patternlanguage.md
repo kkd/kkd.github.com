@@ -3,7 +3,7 @@ layout: post
 title: "Agile Tour Osaka 2014でパタン・ランゲージのワークショップを担当しました"
 description: ""
 category: Creative
-tags: [event, イベント, 登壇, presantation, Agile Tour Osaka, パタン・ランゲージ, pattern language, agile, Agile, osaka, 大阪]
+tags: [event, イベント, 登壇, presantation, Agile Tour Osaka, パタン・ランゲージ, pattern language, agile, osaka, 大阪]
 source: 2014-10-11-agile-tour-osaka-2014-patternlanguage.md
 ---
 

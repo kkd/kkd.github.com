@@ -3,13 +3,8 @@ layout: default
 ---
 <h2>{{ page.tag }}</h2>
 <ul>
-{% for post in page.posts %}
+{% assign tagged_posts = page.posts %}
+{% for post in tagged_posts %}
   <li>{{ post.date | date: "%Y/%m/%d"  }} 『<a href="{{ post.url }}">{{ post.title }}</a>』({{ post | tags }})</li>
 {% endfor %}
 </ul>
-
-<!--
-<div id="tag-cloud">
-  {{ site | tag_cloud }}
-</div>
--->
