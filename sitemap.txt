@@ -389,7 +389,14 @@ http://giantech.jp/tags/blogcard.html
 http://giantech.jp/tags/blogcard.xml
 http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.html
 http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.xml
+http://giantech.jp/tags/local.html
+http://giantech.jp/tags/local.xml
+http://giantech.jp/tags/matsuyama.html
+http://giantech.jp/tags/matsuyama.xml
+http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E6%89%8B%E6%AE%B5.html
+http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E6%89%8B%E6%AE%B5.xml
 
+http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama
 http://giantech.jp/2015/06/10/use-blogcard-on-jekyll
 http://giantech.jp/2015/06/09/i-changed-the-blog-name
 http://giantech.jp/2015/06/08/i-made-dandelion-coffee-myself
