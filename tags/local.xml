@@ -3,7 +3,7 @@
  <title>Your Title - Local</title>
  <link href="http://giantech.jp/tags/local.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Local.html"/>
- <updated>2015-06-17T08:22:58+09:00</updated>
+ <updated>2015-06-17T08:54:31+09:00</updated>
  <id>http://giantech.jp/tags/Local.html</id>
  <author>
    <name>Author Here</name>
@@ -14,7 +14,24 @@
    <link href="http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama"/>
    <updated>2015-06-16T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama</id>
-   <content type="html">
+   <content type="html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;動機&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-1&quot; id=&quot;markdown-toc-section-1&quot;&gt;文脈：松山市とは？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-2&quot; id=&quot;markdown-toc-section-2&quot;&gt;お城下が栄える&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#jr&quot; id=&quot;markdown-toc-jr&quot;&gt;JRと市駅の違い！？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#km&quot; id=&quot;markdown-toc-km&quot;&gt;5km圏内に多くの人が住んでいる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-3&quot; id=&quot;markdown-toc-section-3&quot;&gt;中心部への移動手段比較&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-4&quot; id=&quot;markdown-toc-section-4&quot;&gt;バスで行く&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-5&quot; id=&quot;markdown-toc-section-5&quot;&gt;郊外電車で行く&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-6&quot; id=&quot;markdown-toc-section-6&quot;&gt;車で行く&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-7&quot; id=&quot;markdown-toc-section-7&quot;&gt;自転車で行く&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-8&quot; id=&quot;markdown-toc-section-8&quot;&gt;歩いて行く&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-9&quot; id=&quot;markdown-toc-section-9&quot;&gt;走って行く&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-10&quot; id=&quot;markdown-toc-section-10&quot;&gt;松山市の移動手段まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;section&quot;&gt;動機&lt;/h2&gt;
 
 &lt;p&gt;2010年に東京都板橋区から、愛媛県松山市に越してきて、今年の１月で５年目を迎えました。&lt;/p&gt;
@@ -33,9 +50,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/20150616/matsuyama.png&quot; alt=&quot;松山市&quot; title=&quot;松山市&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;面積は429.37平方キロで、横浜市の面積(437.4平方キロ）とほぼ同等、東京23区の合計621平方キロよりもやや小さいくらいの広さです。そこに住む人口は約51.6万人で、同程度の横浜の人口（371.8万人）の1/7になります。&lt;/p&gt;
+&lt;p&gt;面積は429.37平方キロで、横浜市の面積(437.4平方キロ）とほぼ同等、東京23区の合計621平方キロよりもやや小さいくらいの広さです。そこに住む人口は約51.6万人で、同程度の広さの横浜の人口（371.8万人）の1/7になります。&lt;/p&gt;
 
-&lt;p&gt;また山手線を市内中心部に重ねると、ちょうど山手線沿線の面積（65平方キロ）を同じくらいなのがわかります。&lt;/p&gt;
+&lt;p&gt;また、山手線を市内中心部に重ねると、ちょうど山手線沿線の面積（65平方キロ）にすっぽり収まってしまうくらいの広さです。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/20150616/yamanoteline_and_matsuyama.png&quot; alt=&quot;松山市と山手線&quot; title=&quot;松山市と山手線&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
@@ -149,7 +166,7 @@
 
 &lt;p&gt;雨の日には、普段自転車で向かう人が車に乗るためか、道路が渋滞しがちです。私も、雨の日の子供の幼稚園への送迎などに車を利用しますが、ピーク時にはそれなりに渋滞します。市内の駐車場問題は、郊外にある大型ショッピングモールへの流出問題にも関わってくるのですが、それはまた別の機会にでも。&lt;/p&gt;
 
-&lt;p&gt;ちなみに、松山市は中心部はスクランブル交差点が、少し離れると歩車分離式信号を採用しているケースが多く、県外から越してくると面食らうことがあります。ドライバーからすると待ち時間が長くなって不満がでますが、歩行者の安全に配慮しているためのようです。&lt;/p&gt;
+&lt;p&gt;ちなみに、松山市の中心部の交差点は一部がスクランブル交差点、それ以外は歩車分離式信号を採用しています。歩行者もドライバーも県外から越してきた人は面食らうことがあります。ドライバーからすると待ち時間が長いような気がして不満がでますが、これは歩行者の安全に配慮しているためです。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
 	&lt;div class=&quot;bc-2&quot;&gt;
@@ -196,7 +213,18 @@
 
 &lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/326250327/embed/7bdaca8e16aaac9f0261a234976d6dcbac15e4ee&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;デメリットは中心部の駐輪問題です。歩道に公式な駐輪スペースがあることはほとんどありません。アーケードの大街道・銀天街については、自転車での乗り入れが禁止されており押して移動しなければなりません。また、店の前に駐輪できないため、離れた駐輪場に停めてから店に行かなければなりません。このあたりは、放置自転車の問題・安全面の問題などがあり難しいところですが、自転車の利用をより推進するためには解決しなければならない課題だと感じます。&lt;/p&gt;
+&lt;p&gt;デメリットは中心部の駐輪問題です。歩道に公式な駐輪スペースがあることはほとんどありません。アーケードの大街道・銀天街については、自転車での乗り入れが禁止されており押して移動しなければなりません。また、店の前に駐輪できないため、離れた駐輪場に停めてから店に行かなければなりません。このあたりは、放置自転車の問題・安全面の問題などがあり難しいところです。市内での自転車の利用を推進するためにはもう少し改善してほしいところです。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html&quot; class=&quot;bc-5&quot;&gt;大街道・銀天街周辺の駐輪場と自転車等放置禁止区域　松山市ホームページ&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html&quot; class=&quot;bc-favicon&quot; /&gt;www.city.matsuyama.ehime.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;また、雨の日はカッパ着用で通勤・通学する強者もいますが、殆どの人は車、バスなどを利用しているのではないでしょうか。&lt;/p&gt;
 
