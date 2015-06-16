@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "松山市への移住レポート：市内移動編"
-description: "東京から愛媛県松山市に移住して５年目に入りました。記憶が薄れる前に、今まで住んできた中で移住してきて気づいたことを少しづつまとめてみようと思いました。今回は交通手段について気づいたことを書きます。"
+title: "松山市への移住レポート：市内の交通移動編"
+description: "東京から愛媛県松山市に移住して５年目に入りました。記憶が薄れる前に、今まで住んできた中で移住してきて気づいたことを少しづつまとめてみようと思いました。今回は市内の交通事情について気づいたことを書きます。"
 category: Lively
-image: 
+image: http://giantech.jp/assets/images/20150616/yamanoteline_and_matsuyama.png
 tags: [地方, Local, 松山, 愛媛, Ehime, Matsuyama, 交通手段]
 ---
 
@@ -134,9 +134,9 @@ tags: [地方, Local, 松山, 愛媛, Ehime, Matsuyama, 交通手段]
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/326250327/embed/7bdaca8e16aaac9f0261a234976d6dcbac15e4ee'></iframe>
 
-デメリットは中心部の駐輪問題です。歩道に公式な駐輪スペースがあることはほとんどありません。アーケードの大街道・銀天街については、自転車での乗り入れが禁止されており押して移動しなければならず、店の前に駐輪できないため、離れた駐輪場に停めに行かなければなりません。このあたりは、放置自転車の問題・安全面の問題などがあり難しいところですが、自転車の利用をより推進するためには解決しなければならない課題だと感じます。
+デメリットは中心部の駐輪問題です。歩道に公式な駐輪スペースがあることはほとんどありません。アーケードの大街道・銀天街については、自転車での乗り入れが禁止されており押して移動しなければなりません。また、店の前に駐輪できないため、離れた駐輪場に停めてから店に行かなければなりません。このあたりは、放置自転車の問題・安全面の問題などがあり難しいところですが、自転車の利用をより推進するためには解決しなければならない課題だと感じます。
 
-また、雨の日の対策も課題です。カッパ着用で通勤・通学する強者もいますが、殆どの人は車、バスなどを利用しているのではないでしょうか。
+また、雨の日はカッパ着用で通勤・通学する強者もいますが、殆どの人は車、バスなどを利用しているのではないでしょうか。
 
 ### 歩いて行く
 
@@ -154,7 +154,7 @@ tags: [地方, Local, 松山, 愛媛, Ehime, Matsuyama, 交通手段]
 
 また、歩いて移動する普段通っている道も違った風景で見えてきます。新しい店、新しい景色、そういったものを発見するために、歩くという行為を積極的に取り入れることをオススメします。
 
-また、松山市はウォーキングを推進しており、歩くことは案外流行りなのかもしれません。
+また、松山市はウォーキングを推進しており、歩くことは案外市内で流行っているかもしれません。
 
 {% include blogcard.html site="www.city.matsuyama.ehime.jp" url="https://www.city.matsuyama.ehime.jp/kurashi/iryo/zukuri/walking/matsuyamawalkingmap.html" image="http://capture.heartrails.com/100x100/?https://www.city.matsuyama.ehime.jp/kurashi/iryo/zukuri/walking/matsuyamawalkingmap.html" title="まつやまスマイル（笑顔）ウォーキングマップ　松山市ホームページ" desc="" %}
 
