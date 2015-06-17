@@ -389,12 +389,14 @@ http://giantech.jp/tags/blogcard.html
 http://giantech.jp/tags/blogcard.xml
 http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.html
 http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.xml
+http://giantech.jp/tags/%E5%9C%B0%E6%96%B9%E3%83%8D%E3%82%BF.html
+http://giantech.jp/tags/%E5%9C%B0%E6%96%B9%E3%83%8D%E3%82%BF.xml
 http://giantech.jp/tags/local.html
 http://giantech.jp/tags/local.xml
 http://giantech.jp/tags/matsuyama.html
 http://giantech.jp/tags/matsuyama.xml
-http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E6%89%8B%E6%AE%B5.html
-http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E6%89%8B%E6%AE%B5.xml
+http://giantech.jp/tags/%E7%A7%BB%E5%8B%95%E6%89%8B%E6%AE%B5.html
+http://giantech.jp/tags/%E7%A7%BB%E5%8B%95%E6%89%8B%E6%AE%B5.xml
 
 http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama
 http://giantech.jp/2015/06/10/use-blogcard-on-jekyll
