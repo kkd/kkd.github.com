@@ -128,6 +128,7 @@ tags: [地方ネタ, Local, 松山, Matsuyama, 愛媛, Ehime, 移動手段]
 
 {% include blogcard.html site="www.ehime-np.co.jp" url="http://www.ehime-np.co.jp/news/local/20130301/news20130301094.html" image="http://capture.heartrails.com/100x100/?http://www.ehime-np.co.jp/news/local/20130301/news20130301094.html" title="遺族らの願い届く　松山の交差点、歩車分離へ　愛媛新聞ONLINE" desc="" %}
 
+
 ### 自転車で行く
 
 松山市の中心部は道後平野に面し、平坦な場所なので自転車の利用も多いです。特に通学時間帯、通勤時間帯は、道路の脇を列をなして走っていく学生、サラリーマンの姿をよく見かけます。（車に乗っているとちょっとドキドキします）
@@ -147,6 +148,27 @@ tags: [地方ネタ, Local, 松山, Matsuyama, 愛媛, Ehime, 移動手段]
 {% include blogcard.html site="www.city.matsuyama.ehime.jp" url="https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html" image="http://capture.heartrails.com/100x100/?https://www.city.matsuyama.ehime.jp/kurashi/kurashi/seibi/jitensha/ookaido-tyuurinnjyou.html" title="大街道・銀天街周辺の駐輪場と自転車等放置禁止区域　松山市ホームページ" desc="" %}
 
 また、雨の日はカッパ着用で通勤・通学する強者もいますが、殆どの人は車、バスなどを利用しているのではないでしょうか。
+
+**6/18追記**
+
+Tweetで@patrashさんから以下のようなTipsが公開されていました。
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="ja"><p lang="ja" dir="ltr">自転車は伊予鉄高島屋の地下駐輪場が利用できるのと、大街道入口裏のモンキー（有料）と、三番町の駐輪場（有料）があるので、金はかかるけれど動きやすい。 | 松山市への移住レポート：中心部への移動手段編 <a href="http://t.co/E2qMQjQq1e">http://t.co/E2qMQjQq1e</a> <a href="https://twitter.com/hashtag/Zenback?src=hash">#Zenback</a> <a href="https://twitter.com/kkd">@kkd</a>さんから</p>&mdash; 尾古 豊明(パトラッシュ) (@patorash) <a href="https://twitter.com/patorash/status/610971962064666624">2015, 6月 17</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 原付・単車で行く（6/18追記）
+
+個人的には原付や単車は利用していないのですが、Facebook上で実際に利用されている方のコメントがあったので追記しておきます。
+
+> 単車・原付も自転車と同じ印象です！
+駐車できる場所がさらに限られてくるので、安く停められそうな場所をいくつか頭の中に入れておくと良いですね
+
+> 「自転車のみ」とか「車はOKだけど、バイクNG」とかあって面倒だったりします＞＜
+自分は三越の裏辺りの駐車場(何箇所かあります)が多いですね〜
+
+> 原付はお城の向こう側に行くなど長距離の移動や川（天井川なのでUpDownが激しい）を渡るにはいいのですが、街中は一方通行も多く意外と不便ですね。（１０年乗ってないけど）
+
+原付は中途半端に制約があるようですね。自転車の方が便利な印象を持ちました。
 
 ### 歩いて行く
 
