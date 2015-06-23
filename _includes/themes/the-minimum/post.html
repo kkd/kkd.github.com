@@ -11,14 +11,17 @@
 
 			<div class="bd">
 				<div class="entry-content">
+					<div class="misc-content">
+						{% include google_adsense.html %}
+					</div>
 					{{ content }}
 					<div class="meta">
 						<p class="date-publish">
 							Published: 
 							<date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
-							<span class="month"><abbr>{{ page.date | date: '%m' }}</abbr></span>
-							<span class="day">{{ page.date | date: '%d' }}</span>
-							<span class="year">{{ page.date | date: '%Y' }}</span>
+							<span class="month"><abbr>{{ page.date | date: '%Y' }}</abbr></span>/
+							<span class="day">{{ page.date | date: '%m' }}</span>/
+							<span class="year">{{ page.date | date: '%d' }}</span>
 							</date>
 						</p>
 						<p>Source on Github: {% include source.html %}</p>
