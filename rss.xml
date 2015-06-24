@@ -5,10 +5,156 @@
         <description>いきてま＠えひめ - Takeshi Kakeda</description>
         <link>http://giantech.jp</link>
         <link>http://giantech.jp</link>
-        <lastBuildDate>2015-06-19T10:11:44+09:00</lastBuildDate>
-        <pubDate>2015-06-19T10:11:44+09:00</pubDate>
+        <lastBuildDate>2015-06-25T06:01:40+09:00</lastBuildDate>
+        <pubDate>2015-06-25T06:01:40+09:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>エクストリームプログラミング新訳刊行によせて</title>
+                <description>&lt;h2 id=&quot;section&quot;&gt;ついに新訳が刊行！！&lt;/h2&gt;
+
+&lt;p&gt;昨年のXP祭りから、私も何度か話題にしていた&lt;strong&gt;エクストリームプログラミング&lt;/strong&gt;がようやく、新訳として出版されることになりました。&lt;/p&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4274217620&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;元々の出版元のピアソンが技術書の取り扱いをやめてしまい、もう手に入らないことを嘆いていた矢先、翻訳者の&lt;a href=&quot;https://twitter.com/kdmsnr&quot;&gt;@kdmsnr&lt;/a&gt;さんから翻訳の情報を耳にしていました。&lt;/p&gt;
+
+&lt;p&gt;その時から「レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;ファーストエイジから、セカンドエイジによせて&lt;/h2&gt;
+
+&lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;筋金入りのファーストエイジ&lt;/strong&gt;です。&lt;/p&gt;
+
+&lt;p&gt;各所でも書かれているように、本書で紹介されているプラクティスは、今では当たり前どころかよりエクストリームになっている所もあります。&lt;/p&gt;
+
+&lt;p&gt;第二版が出版されてからのこの10年で、アジャイルのプロセスやチームワークについては国内でスクラムが広まり、エンジニアリング環境についてもGithub、Jenkins、DevOps、仮想化技術の進歩など、XPで提唱しているプラクティスが当たり前のようにできる環境が生み出され進化してきました。&lt;/p&gt;
+
+&lt;p&gt;昨年の講演の中で、私は&lt;strong&gt;XPはAgileの細胞として様々な場所に偏在するにいたった&lt;/strong&gt;と主張しました。プラクティスレベルではこの主張は異論はないところでしょう。&lt;/p&gt;
+
+&lt;p&gt;開発プロセス、チームづくり、技術プラクティス、契約など、ソフトウェア開発に関する網羅的な領域において、イノベーションの文脈でよく言われる&lt;strong&gt;未来の当たり前&lt;/strong&gt;を提供したのがXPではないでしょうか。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;古典だから読む？&lt;/h2&gt;
+
+&lt;p&gt;出版社のオーム社のブログにはこんなことが書かれていました。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ohmsha.co.jp/kaihatsu/assets_c/2015/06/beckXP-cover-thumb-400x266-3851.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-5&quot;&gt;Kent Beck＋角征典『エクストリームプログラミング 』完全新訳、6月26日発売 - オーム社書籍編集局&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-favicon&quot; /&gt;www.ohmsha.co.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;単なる歴史的な名著を超えて、自分の目の前にいまある問題への糸口になるような本当の意味での古典になっています。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;これはそのとおりだと思います。&lt;/p&gt;
+
+&lt;p&gt;ただ「古典だから読む価値がある」というだけでは、セカンドエイジが本書を読む動機付けとしてはいささか弱いのではないかと思います。きっと古典を辿るような真面目な開発者しか手に取らないのではなかろうかという気がします。&lt;/p&gt;
+
+&lt;p&gt;これまでXPに触れたことがないセカンドエイジの皆さんには、何を持って本書をおすすめすればいいのだろうか、というのを考えてみたいと思います。&lt;/p&gt;
+
+&lt;h2 id=&quot;xp&quot;&gt;XPはプラクティス集ではない&lt;/h2&gt;
+
+&lt;p&gt;本書は&lt;em&gt;プラクティス集ではありません&lt;/em&gt;。第一版はそうであったかもしれませんが、本書のプラクティスはあくまでも実証済みのものを紹介しているのであり、そこに囚われる必要はありません。もちろん、仮説として試してみるのは、どんどんやってみるのが良いでしょう。&lt;/p&gt;
+
+&lt;p&gt;ただし、&lt;strong&gt;自分で新しいプラクティスを編み出していくこと、プラクティスだけでなく、原則や価値においても自分自身で考え生み出していくこと&lt;/strong&gt;こそがXPの真髄です。&lt;/p&gt;
+
+&lt;p&gt;このことは、XP祭り2014の咳さんのキーノートでも改めて言及されています。&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;fa93521018b9013204767e04cf6bc9f6&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;XPのこの特性は&lt;strong&gt;パーマカルチャー&lt;/strong&gt;（注釈付き参考文献の「哲学」の欄参照）の影響も受けているのではないかと推測します。&lt;/p&gt;
+
+&lt;p&gt;パーマカルチャーも&lt;em&gt;倫理・原理・実践&lt;/em&gt;の構成になっており、様々な有名な実践（チキントラクター：ニワトリを地面のカゴの中で飼育しながら除草、糞による施肥、耕起を行う、スパイラルガーデン：螺旋状の花壇で水はけや日当たりなどの微気象の違いを作り本来寄せ植えできないようなハーブを寄せ植えする）があります。&lt;/p&gt;
+
+&lt;p&gt;しかしそれらを何も考えずに実践するのではなく、倫理や原則をヒントにして、&lt;strong&gt;その場を観察し、その場に適したデザイン（＝プラクティス）を創意工夫の元実現していくこと&lt;/strong&gt;が重要なのです。&lt;/p&gt;
+
+&lt;p&gt;本書には、&lt;em&gt;プラクティスは通過視点にすぎない&lt;/em&gt;、&lt;em&gt;プラクティスは自分たちで作り出す&lt;/em&gt;、&lt;em&gt;プラクティスは仮説&lt;/em&gt;というような記述が繰り返しでてきます。これは初版の「XPはこうあるべき」という教条主義になりがちだった反省があるのでしょう。&lt;/p&gt;
+
+&lt;p&gt;XP自体も常にフィードバックサイクルを回しながら、その場に適したものへの変容を仮説検証しながら実現していくというメッセージなのです。&lt;/p&gt;
+
+&lt;p&gt;私も、2012年度のIPAのアジャイルプラクティスの調査に携わり現場のさまざまな工夫を多数目にしました。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ipa.go.jp/files/000000605.gif&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-5&quot;&gt;「アジャイル型開発におけるプラクティス活用事例調査」の報告書とリファレンスガイドを公開：IPA 独立行政法人 情報処理推進機構&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-favicon&quot; /&gt;www.ipa.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;様々な方法論やフレームワークがありますが、「なんかうちの文脈には合わないな」「本の通りにやってもうまくいかない」そんな経験のある方は、本書を読んで「自分たちでプラクティスを作り出す」とはどういうことをかを考えてみてはいかがでしょうか。&lt;/p&gt;
+
+&lt;h2 id=&quot;tdd&quot;&gt;人生におけるTDD&lt;/h2&gt;
+
+&lt;p&gt;昨年(2014年)の9月から11月にかけて、本書の旧約版を元に、注釈付き参考文献で紹介されている本についての講演をしました。&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/DdoDRlXyjwIneL&quot; width=&quot;340&quot; height=&quot;290&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;その講演のために、本書の旧約版や参考文献を読みなおして改めて気づいたのは、この本はXPの解説だけでなく、&lt;strong&gt;著者のKent Beck氏の価値と現実を一致させる旅の軌跡&lt;/strong&gt;であったということでした。&lt;/p&gt;
+
+&lt;p&gt;本書を呼んでいて気づいたのは、価値、原則、プラクティスという構造は、これ自体がTDDと同じ構造になっているのではないかと仮説です。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;価値、つまり「自分やチームが大事にすること」というのは、その人やチームが常に満足するべき条件であり、原則は満足条件が達成できているかを確認するためのテストであり、プラクティスつまり実際の現実世界の行動はプロダクトコードである。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;価値が明確でないということは、よい仕事・人生を送る上での満足条件が明確でないということになります。&lt;/p&gt;
+
+&lt;p&gt;もしも、価値と行動がずれている場合は、満足条件を満たしていないということになります。その場合、いくら行動を積み重ねても、自分が満足する結果にはなりません。&lt;/p&gt;
+
+&lt;p&gt;価値と現実を一致させるということは、&lt;strong&gt;自分自身の満足条件を明確にして、そこを満足させるテストを書き、そのテストをパスするプロダクトコードを書き、常にフィードバックサイクルを回しながら、満足条件がみたされるように振る舞いし続ける&lt;/strong&gt;ということ同義ではないでしょうか。&lt;/p&gt;
+
+&lt;p&gt;Kent Beckは、XPという本を書き、自分のやり方を世間に向けて公開するにあたって、必然的に価値を明示することになりました。そして、自分の明示した価値(=満足条件)、原則(=テスト)を満たすようなプラクティス(=プロダクトコード)を書き続ける、人生のテスト駆動開発、&lt;strong&gt;価値駆動人生&lt;/strong&gt;(Value Driven Life: 造語です)をパスさせるのに苦心した初版からの５年の旅だったのではないかと、本書を読んで感じたのです。&lt;/p&gt;
+
+&lt;p&gt;Kentは本を書くことで自分の価値や原則をまとめたのですが、そうやって自分の価値を明示する機会がない人はどうすればいいのでしょう？&lt;/p&gt;
+
+&lt;p&gt;Kentは本書の結論でこう述べています。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;今すぐに始めよう。自分の価値について考えてみよう。その価値と調和した生き方を意識的に選択しよう。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;準備なんて必要ないのです。今日から、そして今からできるのです。&lt;/p&gt;
+
+&lt;p&gt;ソフトウェア・ITに関わる仕事に携わり、それらを含めた自分の人生を考え、よりよく生きたい人は、本書を読んでみて、自分から変わり、身近なところが変化していくために何が必要かを探してみてはいかがでしょうか。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;「何度も読む」は伊達じゃない&lt;/h2&gt;
+
+&lt;p&gt;最後に、オーム社のブログにはこう書かれていました。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;プログラマーをはじめとしたソフトウェア開発に直接携わる方々はもちろん、コンピュータを使って生産的な仕事をしているすべての人に、何度でも読んでいただきたい一冊です。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;これはただの売り文句ではありません。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;実際に、私が（初版を含めて）この１５年間、自分の仕事のステージが変わる度に何度も本書を読み返し、注釈つき参考文献をひも解くことで、自分のステージにあった新しい発見がありました。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;他の人にそのまま当てはまるかは別ですが、ソフトウェア開発に関わるすべての人々：プログラマー、チームリーダー、マネージャー、経営者に至るまで、それぞれの視点、ステージに合った発見ができると信じています。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;本書は時を超えて読み継がれる古典です。私は以下のような方々にオススメします。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ソフトウェア開発の現場をよりよく改善したい人&lt;/li&gt;
+  &lt;li&gt;よりよい仕事・よりよい人生を送りたい人&lt;/li&gt;
+  &lt;li&gt;ソフトウェアエンジニアであったが仕事のステージが変わって悩んでいる人&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+                <link>http://giantech.jp/2015/06/25/xpe-2nd-renewal</link>
+                <guid>http://giantech.jp/2015/06/25/xpe-2nd-renewal</guid>
+                <pubDate>2015-06-25T00:00:00+09:00</pubDate>
+        </item>
 
         <item>
                 <title>松山市への移住レポート：中心部への移動手段編</title>

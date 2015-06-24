@@ -398,6 +398,7 @@ http://giantech.jp/tags/matsuyama.xml
 http://giantech.jp/tags/%E7%A7%BB%E5%8B%95%E6%89%8B%E6%AE%B5.html
 http://giantech.jp/tags/%E7%A7%BB%E5%8B%95%E6%89%8B%E6%AE%B5.xml
 
+http://giantech.jp/2015/06/25/xpe-2nd-renewal
 http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama
 http://giantech.jp/2015/06/10/use-blogcard-on-jekyll
 http://giantech.jp/2015/06/09/i-changed-the-blog-name
