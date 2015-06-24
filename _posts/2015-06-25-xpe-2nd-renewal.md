@@ -4,7 +4,7 @@ title: "エクストリームプログラミング新訳刊行によせて"
 description: "レビューに参加した、オーム社から出版される「エクストリームプログラミング」の新訳について、ファーストエイジからセカンドエイジに向けての見どころを書いてみました。"
 category: Lively
 tags: [agile, アジャイル, ソフトウェア開発, xp, book]
-image: http://giantech.jp/assets/image/20150625/xpe-book.jpeg
+image: http://giantech.jp/assets/images/20150625/xpe-book.jpeg
 ---
 
 ## ついに新訳が刊行！！
