@@ -271,6 +271,7 @@ pre {
 
 .unit-article .entry-content h2 {
   border-bottom: solid 1px gray;
+  margin-top: 1.625em;
 }
 
 .unit-article .entry-content h3 {
@@ -306,8 +307,8 @@ pre {
   color: #474747;
   border: 0;
 }
-.unit-article .entry-content:first-child h2,
-.unit-article .entry-content:first-child h3,
+/*.unit-article .entry-content:first-child h2,*/
+.unit-article .entry-content:first-child h3
 .unit-article .entry-content:first-child h4,
 .unit-article .entry-content:first-child h5,
 .unit-article .entry-content:first-child h6 {
@@ -588,6 +589,7 @@ pre {
   width: 15em;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
 }
 .unit-article .unit-head-inner .meta {
   margin-bottom: 1.625em;
