@@ -9,13 +9,15 @@ image: http://giantech.jp/assets/images/20150625/xpe-book.jpeg
 
 ## ついに新訳が刊行！！
 
-昨年のXP祭りから、私も何度か話題にしていた**エクストリームプログラミング**がようやく、新訳として出版されることになりました。
+昨年のXP祭りから、私も何度か話題にしていた**エクストリームプログラミング**(XPE)が、新訳版としてオーム社より出版されることになりました。
 
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4274217620" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
-元々の出版元のピアソンが技術書の取り扱いをやめてしまい、もう手に入らないことを嘆いていた矢先、翻訳者の[@kdmsnr](https://twitter.com/kdmsnr)さんから翻訳の情報を耳にしていました。
+元々の邦訳版の出版元であるピアソン桐原（当時）が2013年8月に技術書の取り扱いをやめてしまい（ピアソンショック）、XPEの邦訳版はもう手に入らないと嘆いていました。
 
-その時から「レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。
+{% include blogcard.html site="www.publickey1.jp" url="http://www.publickey1.jp/blog/13/post_233.html" image="http://www.publickey1.jp/fbico_pblky.png" title="ピアソンの技術書は書店在庫限りとの見通し。ピアソン桐原社がピアソングループ離脱で（追記あり）" desc="「プレゼンテーションZen」や「Objective-C プログラミング」など、英国ピアソングループの技術書を国内で出版していたピアソン桐原は、ピアソングループか" %}
+
+そんな矢先、翻訳者の[@kdmsnr](https://twitter.com/kdmsnr)さんから、XPEを翻訳しなおすとの情報を耳にしました。その時から「是非レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。
 
 ## ファーストエイジから、セカンドエイジによせて
 
