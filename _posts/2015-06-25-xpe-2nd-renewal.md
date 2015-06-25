@@ -53,7 +53,7 @@ image: http://giantech.jp/assets/images/20150625/xpe-book.jpeg
 
 このことは、XP祭り2014の咳さんのキーノートでも改めて言及されています。
 
-<script async class="speakerdeck-embed" data-id="fa93521018b9013204767e04cf6bc9f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include blogcard.html site="speakerdeck.com" url="https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote" image="https://speakerd.s3.amazonaws.com/presentations/fa93521018b9013204767e04cf6bc9f6/slide_0.jpg" title="XP-matsuri 2014 Keynote" desc="XP祭り2014のキーノート。投げ銭版はこちらです。 https://gumroad.com/l/txWz" %}
 
 XPのこの特性は**パーマカルチャー**（注釈付き参考文献の「哲学」の欄参照）の影響も受けているのではないかと推測します。
 
@@ -75,7 +75,7 @@ XP自体も常にフィードバックサイクルを回しながら、その場
 
 昨年(2014年)の9月から11月にかけて、本書の旧約版を元に、注釈付き参考文献で紹介されている本についての講演をしました。
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/DdoDRlXyjwIneL" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+{% include blogcard.html site="www.slideshare.net" url="http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3" image="http://cdn.slidesharecdn.com/ss_thumbnails/aboutannotatedbibliographyinxpver3-141111203342-conversion-gate02-thumbnail-4.jpg?cb=1415945465" title="人生で大事なことはXP白本と参考文献に教わった IN 神山" desc="2014/11/07 神山.rb 第一回にて XP祭り2014の再演の資料。ESM版からの資料の修正加筆あり。 http://kamiyamarb.doorkeeper.jp/events/16452" %}
 
 その講演のために、本書の旧約版や参考文献を読みなおして改めて気づいたのは、この本はXPの解説だけでなく、**著者のKent Beck氏の価値と現実を一致させる旅の軌跡**であったということでした。
 
