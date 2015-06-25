@@ -3,7 +3,7 @@
  <title>Your Title - agile</title>
  <link href="http://giantech.jp/tags/agile.xml" rel="self"/>
  <link href="http://giantech.jp/tag/agile.html"/>
- <updated>2015-06-25T10:00:45+09:00</updated>
+ <updated>2015-06-25T12:43:04+09:00</updated>
  <id>http://giantech.jp/tags/agile.html</id>
  <author>
    <name>Author Here</name>
@@ -35,7 +35,7 @@
 
 &lt;p&gt;そんな矢先、翻訳者の&lt;a href=&quot;https://twitter.com/kdmsnr&quot;&gt;@kdmsnr&lt;/a&gt;さんから、XPEを翻訳しなおすとの情報を耳にしました。その時から「是非レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;第一世代から、第二世代によせて&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;第一世代から、第二世代へ&lt;/h2&gt;
 
 &lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;XP第一世代&lt;/strong&gt;です。&lt;/p&gt;
 
@@ -114,7 +114,7 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;様々な方法論やフレームワークがありますが、「なんかうちの文脈には合わないな」「本の通りにやってもうまくいかない」そんな経験のある方は、本書を読んで「自分たちでプラクティスを作り出す」とはどういうことをかを考えてみてはいかがでしょうか。&lt;/p&gt;
+&lt;p&gt;様々な方法論やフレームワークがありますが、「なんかうちの文脈には合わないな」「本の通りにやってもうまくいかない」そんな経験のある方や、ついつい教条主義「こうあるべき」になってしまいがちな方は、本書を読んで「自分たちでプラクティスを作り出す」とはどういうことをかを考えてみてはいかがでしょうか。&lt;/p&gt;
 
 &lt;h2 id=&quot;tdd&quot;&gt;人生におけるTDD&lt;/h2&gt;
 
