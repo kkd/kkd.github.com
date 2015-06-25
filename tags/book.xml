@@ -3,7 +3,7 @@
  <title>Your Title - book</title>
  <link href="http://giantech.jp/tags/book.xml" rel="self"/>
  <link href="http://giantech.jp/tag/book.html"/>
- <updated>2015-06-25T08:17:19+09:00</updated>
+ <updated>2015-06-25T09:09:38+09:00</updated>
  <id>http://giantech.jp/tags/book.html</id>
  <author>
    <name>Author Here</name>
@@ -28,9 +28,9 @@
 
 &lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;筋金入りのファーストエイジ&lt;/strong&gt;です。&lt;/p&gt;
 
-&lt;p&gt;各所でも書かれているように、本書で紹介されているプラクティスは、今では当たり前どころかよりエクストリームになっている所もあります。&lt;/p&gt;
+&lt;p&gt;他の方もブログなどで書かれているように、本書で紹介されているプラクティスは、今では当たり前どころか、現在の方がもっとエクストリームになっている部分も多数あります。&lt;/p&gt;
 
-&lt;p&gt;第二版が出版されてからのこの10年で、アジャイルのプロセスやチームワークについては国内でスクラムが広まり、エンジニアリング環境についてもGithub、Jenkins、DevOps、仮想化技術の進歩など、XPで提唱しているプラクティスが当たり前のようにできる環境が生み出され進化してきました。&lt;/p&gt;
+&lt;p&gt;第二版が出版されてからのこの10年で、アジャイルのプロセスやチームワークについては、国内でアジャイルサムライが出版されたり、スクラムが広まってきた状況があり、エンジニアリング環境についてもGithub、Jenkins、DevOps、仮想化技術の進歩など、XPで提唱しているプラクティスが当たり前のようにできる環境が整ってきました。&lt;/p&gt;
 
 &lt;p&gt;昨年の講演の中で、私は&lt;strong&gt;XPはAgileの細胞として様々な場所に偏在するにいたった&lt;/strong&gt;と主張しました。プラクティスレベルではこの主張は異論はないところでしょう。&lt;/p&gt;
 
