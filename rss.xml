@@ -5,26 +5,37 @@
         <description>いきてま＠えひめ - Takeshi Kakeda</description>
         <link>http://giantech.jp</link>
         <link>http://giantech.jp</link>
-        <lastBuildDate>2015-06-25T09:20:07+09:00</lastBuildDate>
-        <pubDate>2015-06-25T09:20:07+09:00</pubDate>
+        <lastBuildDate>2015-06-25T09:35:55+09:00</lastBuildDate>
+        <pubDate>2015-06-25T09:35:55+09:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>エクストリームプログラミング新訳刊行記念：ファーストエイジからの推薦状</title>
+                <title>エクストリームプログラミング新訳刊行記念：第一世代からの推薦状</title>
                 <description>&lt;h2 id=&quot;section&quot;&gt;ついに新訳が刊行！！&lt;/h2&gt;
 
-&lt;p&gt;昨年のXP祭りから、私も何度か話題にしていた&lt;strong&gt;エクストリームプログラミング&lt;/strong&gt;がようやく、新訳として出版されることになりました。&lt;/p&gt;
+&lt;p&gt;昨年のXP祭りから、私も何度か話題にしていた&lt;strong&gt;エクストリームプログラミング&lt;/strong&gt;（XPE）が、新訳版としてオーム社より出版されることになりました。&lt;/p&gt;
 
 &lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4274217620&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;元々の出版元のピアソンが技術書の取り扱いをやめてしまい、もう手に入らないことを嘆いていた矢先、翻訳者の&lt;a href=&quot;https://twitter.com/kdmsnr&quot;&gt;@kdmsnr&lt;/a&gt;さんから翻訳の情報を耳にしていました。&lt;/p&gt;
+&lt;p&gt;元々の邦訳版の出版元であるピアソン桐原（当時）が2013年8月に技術書の取り扱いをやめてしまい（ピアソンショック）、XPEの邦訳版はもう手に入らないと嘆いていました。&lt;/p&gt;
 
-&lt;p&gt;その時から「レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。&lt;/p&gt;
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.publickey1.jp/fbico_pblky.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-5&quot;&gt;ピアソンの技術書は書店在庫限りとの見通し。ピアソン桐原社がピアソングループ離脱で（追記あり）&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;「プレゼンテーションZen」や「Objective-C プログラミング」など、英国ピアソングループの技術書を国内で出版していたピアソン桐原は、ピアソングループか&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-favicon&quot; /&gt;www.publickey1.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ファーストエイジから、セカンドエイジによせて&lt;/h2&gt;
+&lt;p&gt;そんな矢先、翻訳者の&lt;a href=&quot;https://twitter.com/kdmsnr&quot;&gt;@kdmsnr&lt;/a&gt;さんから、XPEを翻訳しなおすとの情報を耳にしました。その時から「是非レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。&lt;/p&gt;
 
-&lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;筋金入りのファーストエイジ&lt;/strong&gt;です。&lt;/p&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;第一世代から、第二世代によせて&lt;/h2&gt;
+
+&lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;XP第一世代&lt;/strong&gt;です。&lt;/p&gt;
 
 &lt;p&gt;他の方もブログなどで書かれているように、本書で紹介されているプラクティスは、今では当たり前どころか、現在の方がもっとエクストリームになっている部分も多数あります。&lt;/p&gt;
 
@@ -55,9 +66,9 @@
 
 &lt;p&gt;これはそのとおりだと思います。&lt;/p&gt;
 
-&lt;p&gt;ただ「古典だから読む価値がある」というだけでは、セカンドエイジが本書を読む動機付けとしてはいささか弱いのではないかと思います。きっと古典を辿るような真面目な開発者しか手に取らないのではなかろうかという気がします。&lt;/p&gt;
+&lt;p&gt;ただ「古典だから読む価値がある」というだけでは、第二世代が本書を読む動機付けとしてはいささか弱いのではないかと思います。きっと古典を辿るような真面目な開発者しか手に取らないのではなかろうかという気がします。&lt;/p&gt;
 
-&lt;p&gt;これまでXPに触れたことがないセカンドエイジの皆さんには、何を持って本書をおすすめすればいいのだろうか、というのを考えてみたいと思います。&lt;/p&gt;
+&lt;p&gt;これまでXPに触れたことがない第二世代の皆さんには、何を持って本書をおすすめすればいいのだろうか、というのを考えてみたいと思います。&lt;/p&gt;
 
 &lt;h2 id=&quot;xp&quot;&gt;XPはプラクティス集ではない&lt;/h2&gt;
 
