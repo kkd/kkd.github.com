@@ -738,19 +738,27 @@ pre {
   .unit-article .entry-content,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
-    width: 26.25em;
+    /*width: 26.25em;*/
+    margin-right: auto;
+    margin-left: auto;
   }
   .unit-article .unit-foot .gotop {
     margin-top: 1.625em;
   }
   .layout-page .unit-body .unit-body-inner {
-    width: 26.25em;
+    margin-right: auto;
+    margin-left: auto;
+    /*width: 26.25em;*/
   }
   .layout-page .unit-body .article-list {
-    width: 26.25em;
+    margin-right: auto;
+    margin-left: auto;
+    /*width: 26.25em;*/
   }
   .the-footer .unit-foot {
-    width: 26.25em;
+    margin-right: auto;
+    margin-left: auto;
+    /*width: 26.25em;*/
   }
   .adsense {
     width: 300px;
