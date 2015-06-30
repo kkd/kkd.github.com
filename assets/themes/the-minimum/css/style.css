@@ -752,6 +752,10 @@ pre {
   .the-footer .unit-foot {
     width: 26.25em;
   }
+  .adsense {
+    width: 300px;
+    height: 250px;
+  }
 }
 /*
 	Tablet
@@ -786,6 +790,10 @@ pre {
   }
   .the-footer .unit-foot {
     width: 43.125em;
+  }
+ .adsense {
+    width: 300px;
+    height: 250px;
   }
 }
 /*
@@ -833,6 +841,11 @@ pre {
   .the-footer .unit-foot {
     width: 60em;
   }
+ .adsense {
+    width: 728px;
+    height: 90px;
+  }
+
 }
 /*
 	Huge-screen layout 
@@ -885,4 +898,9 @@ pre {
     margin-left: 360px;
     margin-right: 360px;
   }
+ .adsense {
+    width: 728px;
+    height: 90px;
+  }
+
 }
