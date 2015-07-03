@@ -695,6 +695,19 @@ pre {
   img {
     max-width: 100%;
   }
+
+  .mid {
+    width: 300px;
+    max-width : 100% ;
+    height : auto ;
+  }
+
+  .unit-article .unit-head-inner,
+  .unit-article .entry-content,
+  .unit-article .misc-content,
+  .unit-article .unit-foot-inner {
+    width: 100%;
+  }
 }
 /*
 	Wide Smartphone
@@ -764,6 +777,13 @@ pre {
     width: 300px;
     height: 250px;
   }
+
+ .mid {
+    width: 300px;
+    max-width : 100% ;
+    height : auto ;
+  }
+
 }
 /*
 	Tablet
