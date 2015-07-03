@@ -695,6 +695,13 @@ pre {
   img {
     max-width: 100%;
   }
+  .unit-article .unit-head-inner,
+  .unit-article .entry-content,
+  .unit-article .misc-content,
+  .unit-article .unit-foot-inner {
+    width: 100%;
+  }
+
 }
 /*
 	Wide Smartphone
