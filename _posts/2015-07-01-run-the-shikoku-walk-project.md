@@ -6,6 +6,10 @@ category: Lively
 tags: [ランニング,四国のみち,トレイルランニング]
 ---
 
+## 四国のみちを走る
+
+先日、四国のみちを走って回るというプロジェクト「R459W」(Running the Shikoku Walk）開始した。「四国のみち」とはなにか、動機、進め方の予定についてまとめてみる。
+
 ## 四国のみちとは？
 
 {% include blogcard.html site="www.env.go.jp" url="http://www.env.go.jp/nature/nats/shizenhodo/sikoku/" image="http://www.env.go.jp../images/hodo\_title.gif" title="NATS 自然大好きクラブ｜長距離自然歩道を歩こう！｜四国自然歩道" desc="" %}
