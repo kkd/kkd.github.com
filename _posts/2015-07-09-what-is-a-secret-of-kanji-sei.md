@@ -3,7 +3,7 @@ layout: post
 title: "あなたは「生」という漢字の秘密を知っているか？"
 description: "ブログのタイトル（いきてま＠えひめ）にもなっている「生」という字について、ふとしたきっかけて調べてみたら、驚くべき秘密が隠されていた。"
 category: Lively
-images: http://giantech.jp/assets/images/20150709/sei.jpg
+image: http://giantech.jp/assets/images/20150709/sei.jpg
 tags: [漢字,日本語]
 ---
 
