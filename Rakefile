@@ -40,6 +40,9 @@ module JB
   end #Path
 end #JB
 
+desc "All deploy"
+task :alldeploy => [:push_src, :clean, :build, :deploy]
+
 desc "Build all posts and pages."
 task :build do
   sh "jekyll build -t"
