@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cusotomer Product Matrixでプロダクトの居場所を知って戦略を立てる"
+title: "Cusotomer Product Matrixでプロダクトの現在地を知り戦略を立てる"
 description: "顧客開発と製品開発のプロセスをマトリックスで表すことで、プロダクトがどの状況にいるのかがわかる図を考えてみたので解説してみる。役に立つかは皆さんのフィードバック次第です..."
 category: Creative
 image: http://giantech.jp/assets/images/20150710/cpm_failure.png
