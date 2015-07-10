@@ -405,7 +405,16 @@ http://giantech.jp/tags/%E6%BC%A2%E5%AD%97.html
 http://giantech.jp/tags/%E6%BC%A2%E5%AD%97.xml
 http://giantech.jp/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E.html
 http://giantech.jp/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E.xml
+http://giantech.jp/tags/%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97.html
+http://giantech.jp/tags/%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97.xml
+http://giantech.jp/tags/leanstartup.html
+http://giantech.jp/tags/leanstartup.xml
+http://giantech.jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA.html
+http://giantech.jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA.xml
+http://giantech.jp/tags/%E9%A1%A7%E5%AE%A2%E9%96%8B%E7%99%BA.html
+http://giantech.jp/tags/%E9%A1%A7%E5%AE%A2%E9%96%8B%E7%99%BA.xml
 
+http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are
 http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei
 http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project
 http://giantech.jp/2015/06/25/xpe-2nd-renewal
