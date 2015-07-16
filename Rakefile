@@ -2,6 +2,7 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+require 'mini_magick'
 
 SOURCE = "."
 CONFIG = {
@@ -116,6 +117,39 @@ task :post do
     post.puts "{% include JB/setup %}"
   end
 end # task :post
+
+def progress(result)
+  if result
+    print "o"
+  else
+    print "."
+  end
+end
+
+def resize(image_path)
+  image = MiniMagick::Image.open(image_path)
+  c_width = image.width
+  ratio = 480.0 / c_width
+  if ratio >= 1.0
+    return false
+  end
+
+  image.resize "480x#{ratio*image.height}"
+  # image.write "test/#{image_path.pathmap("%n%x")}"
+  image.write image_path
+  return true
+end
+
+desc "Resize images to 480px width."
+task :resize_image do
+
+  IMAGES = FileList["assets/images/**/*.jpg","assets/images/**/*.png"]
+  puts "The count of image  is #{IMAGES.size}"
+  IMAGES.each do |path|
+    progress resize path
+  end
+  puts "done."
+end
 
 # Usage: rake page name="about.html"
 # You can also specify a sub-directory path.
@@ -350,6 +384,10 @@ def get_stdin(message)
   print message
   STDIN.gets.chomp
 end
+
+
+
+
 
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
