@@ -2,7 +2,7 @@
 layout: post
 title: "四国のみちを走って回るプロジェクトを始めた"
 description: "先日、四国のみちを走って回るというプロジェクト「R459M」(Running the Shikoku no Michi）開始した。「四国のみち」とはなにか、動機、進め方の予定についてまとめてみる。"
-category: Lively, Healthy
+category: Healthy
 image: http://giantech.jp/assets/images/20150701/road459_whole.png
 tags: [ランニング,四国のみち,トレイルランニング]
 ---
