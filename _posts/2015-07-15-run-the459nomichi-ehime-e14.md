@@ -4,7 +4,7 @@ title: "四国のみちを走ってきた（愛媛14番：高縄山探鳥のみ�
 description: "R459M(Run the shikoku,459,no Michi)プロジェクトの第一弾として、2015年6月に走ってきた愛媛14番の記録をしたためておくことにした。初めての挑戦、初めての山の単独行、などなど失敗から得るものが沢山ありました...。"
 image: http://giantech.jp/assets/images/20150715/ehime_k14_result.png
 category: Healthy
-tags: [Running, ランニング, 四国のみち, R459M, トレイルランニング]
+tags: [Running, ランニング, 四国のみち, R459M, トレイルランニング, 山]
 ---
 
 R459Mプロジェクト(Run the shikoku no michi)の第一弾として、高縄山探鳥のみちを走ったレポートをまとめておくことにする。
