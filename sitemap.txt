@@ -413,7 +413,14 @@ http://giantech.jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E
 http://giantech.jp/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA.xml
 http://giantech.jp/tags/%E9%A1%A7%E5%AE%A2%E9%96%8B%E7%99%BA.html
 http://giantech.jp/tags/%E9%A1%A7%E5%AE%A2%E9%96%8B%E7%99%BA.xml
+http://giantech.jp/tags/running.html
+http://giantech.jp/tags/running.xml
+http://giantech.jp/tags/r459m.html
+http://giantech.jp/tags/r459m.xml
+http://giantech.jp/tags/%E5%B1%B1.html
+http://giantech.jp/tags/%E5%B1%B1.xml
 
+http://giantech.jp/2015/07/15/run-the459nomichi-ehime-e14
 http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are
 http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei
 http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project
