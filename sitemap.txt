@@ -419,7 +419,12 @@ http://giantech.jp/tags/r459m.html
 http://giantech.jp/tags/r459m.xml
 http://giantech.jp/tags/%E5%B1%B1.html
 http://giantech.jp/tags/%E5%B1%B1.xml
+http://giantech.jp/tags/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0.html
+http://giantech.jp/tags/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0.xml
+http://giantech.jp/tags/%E8%B5%B7%E6%A5%AD.html
+http://giantech.jp/tags/%E8%B5%B7%E6%A5%AD.xml
 
+http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012
 http://giantech.jp/2015/07/15/run-the459nomichi-ehime-e14
 http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are
 http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei
