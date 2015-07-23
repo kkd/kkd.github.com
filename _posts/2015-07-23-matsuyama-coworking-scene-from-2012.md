@@ -56,13 +56,13 @@ Wikipediaの「コワーキング」の項目を見ると、場所の共有、�
 
 {% include blogcard.html site="ja.wikipedia.org" url="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0" image="http://upload.wikimedia.org/wikipedia/donate/thumb/c/c8/I-blue.svg/20px-I-blue.svg.png" title="コワーキング - Wikipedia" desc="" %}
 
-### 2012年に３箇所オープン
+## 2012年に３箇所オープン
 
 話を戻して、商工会議所に説明に行ってから、しばらくはコワーキングスペースについては忘れていました。しかし2012年になって、立て続けにコワーキングスペースが松山市内にオープンしていることに気づいたのです。
 
 個人的に**2012年は松山コワーキング元年**と位置づけています。
 
-#### たねらぼ
+### たねらぼ
 
 国際支援などで活動されているNGO「たねとも」が設立した**たねらぼ**は、2012年５月にオープンしました。松山城横のロープウェイ街にあって、立地的にはとても良い場所でした。
 
