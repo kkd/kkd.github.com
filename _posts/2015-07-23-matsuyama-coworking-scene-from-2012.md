@@ -50,7 +50,9 @@ image: http://giantech.jp/assets/images/20150723/citrus.jpg
 
 では、コワーキングスペースとシェアオフィスの違いはなんでしょうか？
 
-Wikipediaの「コワーキング」の項目を見ると、場所の共有、コミュニティ育成、仕事上の相乗効果、インフォーマルさ、という観点が重要なようです。
+Wikipediaの「コワーキング」の項目を見ると、場所の共有、コミュニティ育成、仕事上の相乗効果、インフォーマルさ、という観点が重要なようです。このあたりは、人によって「コワーキング」という言葉の捉え方が異なりますので、あまり深堀はしないでおきます。
+
+個人的に、コワーキングスペースは**コミュニティ運営**、**オーナーの個性・魅力**、**インフォーマルなイベント**が重要な気がしています。
 
 {% include blogcard.html site="ja.wikipedia.org" url="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0" image="http://upload.wikimedia.org/wikipedia/donate/thumb/c/c8/I-blue.svg/20px-I-blue.svg.png" title="コワーキング - Wikipedia" desc="" %}
 
