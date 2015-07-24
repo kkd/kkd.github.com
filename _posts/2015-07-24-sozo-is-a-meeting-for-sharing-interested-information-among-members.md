@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sozo -- 目的を持たない情報交換会が何をもたらすか？"
-description: "「sozo」というミーティング手法についてまとめてみた。なぜsozoが解説してみる。"
+description: "「sozo」というミーティング手法についてまとめてみた。なぜ情報交換だけが目的のsozoが興味深いのかを解説してみる。"
 category: Creative
 image: http://giantech.jp/assets/images/20150724/people-417979.jpg
 tags: [sozo, ミーティング,創発,創造]
