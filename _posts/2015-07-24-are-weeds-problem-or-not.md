@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "草が畑に生えているのは問題だ！？"
+title: "草が畑に生えているのは問題だ！？　具体例で理解する問題解決アプローチの違い"
 description: "畑に草が生えているという状態を例題にして、問題解決についてのアプローチのバリエーションの例をあげてみました。あなたなは普段どのような問題解決をしていますか？"
 category: Lively
 image: http://giantech.jp/assets/images/20150724/road-sign-663368.jpg
