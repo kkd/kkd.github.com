@@ -435,7 +435,12 @@ http://giantech.jp/tags/%E5%89%B5%E7%99%BA.html
 http://giantech.jp/tags/%E5%89%B5%E7%99%BA.xml
 http://giantech.jp/tags/%E5%89%B5%E9%80%A0.html
 http://giantech.jp/tags/%E5%89%B5%E9%80%A0.xml
+http://giantech.jp/tags/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0.html
+http://giantech.jp/tags/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0.xml
+http://giantech.jp/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.html
+http://giantech.jp/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.xml
 
+http://giantech.jp/2015/08/05/user-story-mapping-book
 http://giantech.jp/2015/07/24/what-emerge-from-sozo
 http://giantech.jp/2015/07/24/are-weeds-problem-or-not
 http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012
