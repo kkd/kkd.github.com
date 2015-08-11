@@ -22,7 +22,7 @@ image: http://giantech.jp/assets/images/20150811/weight-running-distance.png
 
 ### 走行距離
 
-走行距離は、[STRAVA](https://www.strava.com/)に格納してあるアクティビティログをAPIで取得し月別の合計値を算出しました。
+走行距離は、[STRAVA](https://www.strava.com/)に格納してあるアクティビティログをAPIで取得し月毎の合計値を算出しました。
 
 {% include blogcard.html site="www.strava.com" url="https://www.strava.com/" image="http://capture.heartrails.com/100x100/?https://www.strava.com/" title="ランニング & サイクリングGPSトラッカー、パフォーマンス分析、地図、クラブ、または試合 | Strava" desc="" %}
 
