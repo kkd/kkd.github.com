@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ランニングの走行距離と体重の３年間の変化をグラフ化してわかったこと"
+title: "3年間のランニングと体重の変化をグラフ化してのふりかえり"
 description: "2012年からランニングを始めて3年が経ちました。ここまでの3年間のランニングの記録と体重をグラフにして初めて気づいたこと、ここまで続けられてきたポイントは何かをふりかえってみます。"
 category: Healthy
 tags: [ランニング,減量,ヘルシープログラマー]
-image: http://giantech.jp/assets/images/20150807/weight-running-distance.png
+image: http://giantech.jp/assets/images/20150811/weight-running-distance.png
 ---
 
 ## ランニングを始めて３年経過のふりかえり
