@@ -98,6 +98,8 @@ JR四国は四国山脈を避けるように**線路を四国の海岸線に沿�
 
 表だといまいち見辛いので、視覚的に分析してみた結果を[四国内の相互交流量を分析してわかった３つのこと](/2015/08/17/traffic-interchange-in-shikoku-area/)として別にまとめました。
 
+{% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" image="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" title="四国内の相互交流量を分析してわかった３つのこと" desc="国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？" %}
+
 ## まとめ
 
 個人的な印象を元に、四国内の移動時間を調べてみました。

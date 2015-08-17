@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "四国内の相互交流量を分析してわかった３つのこと"
-description: "国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのか？"
+description: "国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？"
 category: Lively
 tags: [四国,愛媛,ローカル,交通事情,相互交流]
 image: http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png
@@ -10,6 +10,8 @@ image: http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png
 ## はじめに
 
 [四国は小さいと思ったら大間違い](/2015/08/13/shikoku-is-larger-than-i-thought/)という記事で、松山からの電車・自動車の移動時間についての印象を書きました。
+
+{% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought" image="http://giantech.jp/assets/images/20150813/matsuyama_to_kouchi_routes.png" title="四国は小さいと思ったら大間違い" desc="東京から移住してみてわかった事実のひとつが、四国は広いということでした。移動時間という切り口で見た時の四国の広さとは？" %}
 
 いろいろ調べていく中で、[四国のWikipedia](https://ja.wikipedia.org/wiki/四国)には、**以前よりも四国内での相互移動が活発になった**との記載がありました。この記載は[国土交通省・第5回全国幹線旅客純流動データ](http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html)を元した分析結果で表も記載してありました。
 
