@@ -441,7 +441,15 @@ http://giantech.jp/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.html
 http://giantech.jp/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3.xml
 http://giantech.jp/tags/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC.html
 http://giantech.jp/tags/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC.xml
+http://giantech.jp/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB.html
+http://giantech.jp/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB.xml
+http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%83%85.html
+http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%83%85.xml
+http://giantech.jp/tags/%E7%9B%B8%E4%BA%92%E4%BA%A4%E6%B5%81.html
+http://giantech.jp/tags/%E7%9B%B8%E4%BA%92%E4%BA%A4%E6%B5%81.xml
 
+http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area
+http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought
 http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012
 http://giantech.jp/2015/08/05/user-story-mapping-book
 http://giantech.jp/2015/07/24/what-emerge-from-sozo
