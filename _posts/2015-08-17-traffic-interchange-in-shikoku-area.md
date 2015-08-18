@@ -17,6 +17,8 @@ image: http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png
 
 元データはWebサイト上でExcelで公開してあるため、もっとビジュアルにデータ分析してみることにしました。
 
+
+
 ## データ分析について
 
 使ったデータは[国土交通省が調査した生活圏流動表](http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html)で、ここに公開されている各ExcelデータをRubyの[Graphviz](http://www.graphviz.org/)ライブラリである[Gviz](https://github.com/melborne/Gviz)を使って流動数マップを作成しました。
@@ -30,6 +32,8 @@ image: http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png
 全国の生活圏対象データをGraphvizを使ってそのまま表示すると大変なことになるので、開始地は四国のみに限定し、目的地はアクセス量の多い順に各TOP10まで絞り込んだ後にマップ化しています。
 
 四国のWikipediaではTOP15を表にしていましたがノードが多く見辛いためTOP10に変更しました。（各目的地へのアクセス数や流動数は、TOP10内のアクセスの総数になるため、全データを対象にするとまた合計数が変わることはご承知ください。）
+
+（訂正[8/18]：8/17公開のデータはスクリプトのミスによりTOP11までが対象になっていたため、TOP10までのデータに各種グラフ・マップを変更しました。）
 
 ## 四国の生活圏
 
