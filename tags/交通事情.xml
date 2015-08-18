@@ -3,7 +3,7 @@
  <title>Your Title - 交通事情</title>
  <link href="http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%83%85.xml" rel="self"/>
  <link href="http://giantech.jp/tag/交通事情.html"/>
- <updated>2015-08-18T11:19:19+09:00</updated>
+ <updated>2015-08-18T13:41:53+09:00</updated>
  <id>http://giantech.jp/tags/交通事情.html</id>
  <author>
    <name>Author Here</name>
@@ -64,6 +64,8 @@
 &lt;p&gt;全国の生活圏対象データをGraphvizを使ってそのまま表示すると大変なことになるので、開始地は四国のみに限定し、目的地はアクセス量の多い順に各TOP10まで絞り込んだ後にマップ化しています。&lt;/p&gt;
 
 &lt;p&gt;四国のWikipediaではTOP15を表にしていましたがノードが多く見辛いためTOP10に変更しました。（各目的地へのアクセス数や流動数は、TOP10内のアクセスの総数になるため、全データを対象にするとまた合計数が変わることはご承知ください。）&lt;/p&gt;
+
+&lt;p&gt;（訂正[8/18]：8/17公開のデータはスクリプトのミスによりTOP11までが対象になっていたため、TOP10までのデータに各種グラフ・マップを変更しました。）&lt;/p&gt;
 
 &lt;h2 id=&quot;section-2&quot;&gt;四国の生活圏&lt;/h2&gt;
 
