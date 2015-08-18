@@ -94,7 +94,7 @@ JR四国は四国山脈を避けるように**線路を四国の海岸線に沿�
 
 松山から一番近い高松までの距離を関東に重ねると**筑波から河口湖**までの距離に相当します。一番時間のかかる松山〜徳島間だと**銚子から箱根**までの距離に相当します。単に時間がかかるだけでなく**単純に距離が離れている**ということですね。
 
-![松山〜高松・徳島](/assets/images/20150813/matsuyama_to_takamatsu_tokushima.png "松山〜高松・徳島"){:.mid}
+![松山〜高松・徳島](/assets/images/20150813/matsuyama_to_tokushima_takamatsu.png "松山〜高松・徳島"){:.mid}
 
 ![松山〜高松・徳島間を関東に重ねる](/assets/images/20150813/matsuyama_to_tokushima_on_kanto.png "松山〜高松・徳島間を関東に重ねる"){:.mid}
 
