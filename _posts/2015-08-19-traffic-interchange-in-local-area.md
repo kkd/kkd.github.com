@@ -3,6 +3,7 @@ layout: post
 title: "生活圏流動数の視覚化マップ（各地域版）"
 description: "国土交通省が調査した生活圏流動表を元に、地域内の相互交流の量を、全国の各地域で可視化してみた。それぞれの地域の特色が反映された結果になっている。あなたの住んでる地域はどうですか？"
 category: Lively
+image: http://giantech.jp/assets/images/20150819/dest_中部_2010.png
 tags: [ローカル,交通事情,Graphviz,Gviz,Gruff]
 ---
 
