@@ -447,7 +447,14 @@ http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%83%85.html
 http://giantech.jp/tags/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%83%85.xml
 http://giantech.jp/tags/%E7%9B%B8%E4%BA%92%E4%BA%A4%E6%B5%81.html
 http://giantech.jp/tags/%E7%9B%B8%E4%BA%92%E4%BA%A4%E6%B5%81.xml
+http://giantech.jp/tags/graphviz.html
+http://giantech.jp/tags/graphviz.xml
+http://giantech.jp/tags/gviz.html
+http://giantech.jp/tags/gviz.xml
+http://giantech.jp/tags/gruff.html
+http://giantech.jp/tags/gruff.xml
 
+http://giantech.jp/2015/08/19/traffic-interchange-in-local-area
 http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area
 http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought
 http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012
