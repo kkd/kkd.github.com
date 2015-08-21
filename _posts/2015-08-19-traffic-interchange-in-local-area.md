@@ -8,7 +8,9 @@ tags: [ローカル,交通事情,Graphviz,Gviz,Gruff]
 
 四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。
 
-元データは[国土交通省が調査した生活圏流動表](http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html)の2010年版（新調査）です。ここに公開されている各ExcelデータをRubyの[Graphviz](http://www.graphviz.org/)ライブラリである[Gviz](https://github.com/melborne/Gviz)を使って流動数マップを作成しました。今回は[Gruff](https://github.com/topfunky/gruff)の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。
+{% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" image="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" title="四国内の相互交流量を分析してわかった３つのこと" desc="国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？" %}
+
+元データは[国土交通省が調査した生活圏流動表](http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html)の2010年版（新調査）になります。ここに公開されているExcelデータをRubyの[Graphviz](http://www.graphviz.org/)ライブラリである[Gviz](https://github.com/melborne/Gviz)を使って流動数マップを作成しました。今回は[Gruff](https://github.com/topfunky/gruff)の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。
 
 {% include blogcard.html site="www.mlit.go.jp" url="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" image="http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" title="総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省" desc="" %}
 
