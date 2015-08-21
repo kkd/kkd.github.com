@@ -5,8 +5,8 @@
         <description>いきてま＠えひめ - Takeshi Kakeda</description>
         <link>http://giantech.jp</link>
         <link>http://giantech.jp</link>
-        <lastBuildDate>2015-08-21T23:06:15+09:00</lastBuildDate>
-        <pubDate>2015-08-21T23:06:15+09:00</pubDate>
+        <lastBuildDate>2015-08-21T23:28:39+09:00</lastBuildDate>
+        <pubDate>2015-08-21T23:28:39+09:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -25,7 +25,7 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;元データは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;の2010年版（新調査）になります。ここに公開されているExcelデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。今回は&lt;a href=&quot;https://github.com/topfunky/gruff&quot;&gt;Gruff&lt;/a&gt;の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。&lt;/p&gt;
+&lt;p&gt;元データは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;の2010年版（新調査）になります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
 	&lt;div class=&quot;bc-2&quot;&gt;
@@ -35,6 +35,19 @@
 	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
 	&lt;div class=&quot;bc-7&quot;&gt;
 		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-favicon&quot; /&gt;www.mlit.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ここに公開されているExcelデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。今回は&lt;a href=&quot;https://github.com/topfunky/gruff&quot;&gt;Gruff&lt;/a&gt;の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。集計する単位は八地方区分にて分類してあります。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-5&quot;&gt;日本の地域 - Wikipedia&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-favicon&quot; /&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
