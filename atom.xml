@@ -4,7 +4,7 @@
  <title>いきてま＠えひめ</title>
  <link href="http://giantech.jp/" rel="self"/>
  <link href="http://giantech.jp"/>
- <updated>2015-08-21T23:28:39+09:00</updated>
+ <updated>2015-08-23T09:25:09+09:00</updated>
  <id>http://giantech.jp</id>
  <author>
    <name>Takeshi Kakeda</name>
@@ -224,7 +224,7 @@
 
 &lt;h2 id=&quot;section-1&quot;&gt;データ分析について&lt;/h2&gt;
 
-&lt;p&gt;使ったデータは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;で、ここに公開されている各ExcelデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。&lt;/p&gt;
+&lt;p&gt;使ったデータは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;に公開されている、&lt;strong&gt;207生活圏間流動表（出発地から目的地）【交通機関別流動表】&lt;/strong&gt;の2010年度のデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
 	&lt;div class=&quot;bc-2&quot;&gt;
@@ -254,7 +254,11 @@
 
 &lt;p&gt;四国のWikipediaではTOP15を表にしていましたがノードが多く見辛いためTOP10に変更しました。（各目的地へのアクセス数や流動数は、TOP10内のアクセスの総数になるため、全データを対象にするとまた合計数が変わることはご承知ください。）&lt;/p&gt;
 
-&lt;p&gt;（訂正[8/18]：8/17公開のデータはスクリプトのミスによりTOP11までが対象になっていたため、TOP10までのデータに各種グラフ・マップを変更しました。）&lt;/p&gt;
+&lt;p&gt;訂正(8/18)：8/17公開のデータはスクリプトのミスによりTOP11までが対象になっていたため、TOP10までのデータに各種グラフ・マップを変更しました。&lt;/p&gt;
+
+&lt;p&gt;訂正(8/22):8/17公開時点で対象にした1990年度の調査データ（旧手法）と、2010年度の調査データ（新手法）のまとめ方が変わるため単純な比較はできないことがわかりました。&lt;/p&gt;
+
+&lt;p&gt;該当サイトに旧手法での2010年度調査が公開されていたため、旧手法によるデータで1990年と2010年を比較しなおしました。そのため比較の分析・数値に若干の変更があることをご承知ください。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-2&quot;&gt;四国の生活圏&lt;/h2&gt;
 
@@ -361,9 +365,9 @@
 &lt;img src=&quot;/assets/images/20150817/traffic_map_2010_四国.png&quot; alt=&quot;2010年の四国圏内流動数マップ&quot; title=&quot;2010年の四国圏内流動数マップ&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;2010年になると流動数は大きく変わりました。まず1990年時点で最も多かった&lt;strong&gt;岡山県南への流動数が30%以上も減りました&lt;/strong&gt;。その代わりに増えたのが&lt;strong&gt;香川東部&lt;/strong&gt;、&lt;strong&gt;香川西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;です。他にも&lt;strong&gt;新居浜・西条&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;も大きく流動数を増やしています。&lt;/p&gt;
+&lt;p&gt;2010年になると流動数は大きく変わりました。まず1990年時点で最も多かった&lt;strong&gt;岡山県南への流動数が大幅に減りました&lt;/strong&gt;。その代わりに増えたのが&lt;strong&gt;香川東部&lt;/strong&gt;、&lt;strong&gt;香川西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;です。他にも&lt;strong&gt;新居浜・西条&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;も流動数を大きく増やしています。&lt;/p&gt;
 
-&lt;p&gt;生活圏人口が最も多い愛媛：松山は、流動数は1990年との比較では倍増になりますが、他地域の流動数と比べると若干控えめの印象です。&lt;/p&gt;
+&lt;p&gt;生活圏人口が最も多い愛媛：松山は、流動数は1990年との比較では増加してはいますが、他地域の流動数と比べると若干控えめの印象です。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-5&quot;&gt;1990年と2010年の比較でわかること&lt;/h2&gt;
 
@@ -379,11 +383,9 @@
 
 &lt;p&gt;グラフ化して特に目立ったのは、2010年での&lt;strong&gt;香川県東部・西部&lt;/strong&gt;への流動数です。1990年と比較して倍以上に増えており、他の地域への流動数と比べても頭ひとつ抜けています。続いて&lt;strong&gt;徳島：徳島&lt;/strong&gt;は、1990年と比較して&lt;strong&gt;3倍を越える増加率&lt;/strong&gt;になります。香川東部と徳島は&lt;strong&gt;相互交流が非常に盛んなこと&lt;/strong&gt;が流動数マップからも見て取れます。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;高知：中央&lt;/strong&gt;も、1990年と比較して&lt;strong&gt;3倍以上の増加率&lt;/strong&gt;を誇り、外部から多くの人が移動していることがわかります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高知：中央&lt;/strong&gt;も、1990年と比較して&lt;strong&gt;倍以上の増加率&lt;/strong&gt;になっています。愛媛県では、&lt;strong&gt;愛媛：新居浜・西条&lt;/strong&gt;も100万人増えており、特に&lt;strong&gt;香川西部&lt;/strong&gt;との相互交流が盛んです。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;愛媛：新居浜・西条&lt;/strong&gt;も&lt;strong&gt;2倍近い増加率&lt;/strong&gt;になっており、特に&lt;strong&gt;香川西部&lt;/strong&gt;との相互交流が盛んです。&lt;/p&gt;
-
-&lt;p&gt;一方で、&lt;strong&gt;岡山県南&lt;/strong&gt;、&lt;strong&gt;大阪：大阪&lt;/strong&gt;、&lt;strong&gt;広島：広島&lt;/strong&gt;といった周辺の都市への流動数は軒並み減少していますが、唯一、&lt;strong&gt;東京：23区&lt;/strong&gt;への移動は微増しています。2015年時点ではLCCの就航もあり更に増えていることが予想されます。&lt;/p&gt;
+&lt;p&gt;一方で、&lt;strong&gt;岡山県南&lt;/strong&gt;、&lt;strong&gt;大阪：大阪&lt;/strong&gt;、&lt;strong&gt;広島：広島&lt;/strong&gt;といった周辺の都市への流動数は軒並み減少していますが、唯一、&lt;strong&gt;東京：23区&lt;/strong&gt;への移動は微増しています。2015年時点ではLCCの就航もあり、東京へ移動する流れは更に増えていることが予想されます。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-7&quot;&gt;出発地の出発者数の変化&lt;/h3&gt;
 
@@ -393,7 +395,7 @@
 
 &lt;p&gt;他方、四国の各生活圏から他の生活圏に出発する流動数の変化も見てみました。&lt;/p&gt;
 
-&lt;p&gt;ここでも、&lt;strong&gt;香川東部・西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;が積極的に外部へ移動しているのがよくわかります。愛媛：松山は微増というところでしょうか。&lt;/p&gt;
+&lt;p&gt;ここでも、&lt;strong&gt;香川東部・西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;が積極的に外部へ移動しているのがよくわかります。他方、愛媛は新居浜・西条、八幡浜・大洲エリアは増加していますが、&lt;strong&gt;宇和島、今治、松山は逆に減少&lt;/strong&gt;しています。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-8&quot;&gt;データの視覚化からわかったこと&lt;/h2&gt;
 
@@ -428,9 +430,9 @@
 
 &lt;h3 id=&quot;section-11&quot;&gt;松山は人口の割に流動数が少ない&lt;/h3&gt;
 
-&lt;p&gt;1990年に比べて倍増しているとは言え、他の地域と比較して&lt;strong&gt;松山が四国圏内の相互交流数が少ない&lt;/strong&gt;という結果は意外でした。&lt;/p&gt;
+&lt;p&gt;私が住んでいる松山エリアは、1990年に比べて流動数は微増、出発数が減少しているように、他の地域と比較して&lt;strong&gt;松山が四国圏内の相互交流数が少なめ&lt;/strong&gt;という結果は意外でした。&lt;/p&gt;
 
-&lt;p&gt;同じ愛媛の新居浜・西条は、香川西部との相互交流を深めているのに対し、良くも悪くも&lt;strong&gt;松山は他の四国の地域との依存性が低い&lt;/strong&gt;と言えるでしょう。&lt;/p&gt;
+&lt;p&gt;同じ愛媛の新居浜・西条は、香川西部との相互交流を深めているのに対し、&lt;strong&gt;松山は他の四国の地域との関わりが少ない&lt;/strong&gt;と言えるでしょう。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/2015/08/13/shikoku-is-larger-than-i-thought/&quot;&gt;四国は思ったよりもずっと広かった&lt;/a&gt;でも触れましたが、高松・徳島・高知と松山との位置関係でみると、どの拠点からも若干距離が離れており、他の３拠点と比較して相互交流が進みづらい地理的制約があるとも言えます。&lt;/p&gt;
 
@@ -890,7 +892,7 @@
 
 &lt;h3 id=&quot;section-12&quot;&gt;半年毎の怪我&lt;/h3&gt;
 
-&lt;p&gt;このグラフを見ると、&lt;strong&gt;半年に一回は怪我・痛みでランニングを休止している&lt;/strong&gt;のがわかりました。サステナブルなペースで続ける・怪我しづらい身体の使い方・走り方を身に付けることは改めて大事だと再確認しました。もう少し身体の柔軟性、裸足ランのような柔らかい走りを身につけたいと思います。&lt;/p&gt;
+&lt;p&gt;このグラフを見ると、&lt;strong&gt;半年に一回は怪我・痛みでランニングを休止している&lt;/strong&gt;のがわかりました。持続可能なペースで続ける・怪我しづらい身体の使い方・走り方を身に付けることは改めて大事だと再確認しました。もう少し身体の柔軟性、裸足ランのような柔らかい走りを身につけたいと思います。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-13&quot;&gt;まとめ&lt;/h2&gt;
 
