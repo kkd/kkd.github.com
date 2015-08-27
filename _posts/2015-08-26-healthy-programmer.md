@@ -6,7 +6,6 @@ category: Healthy
 image: http://giantech.jp/assets/images/20150826/healthy_prog.jpg
 tags: [健康,ランニング,アジャイル,ライフハック,ライフスタイル,改善]
 ---
-目次
 <!-- MarkdownTOC -->
 
 - はじめに
