@@ -1,7 +1,20 @@
 <h3>[関連する記事]</h3>
-<ul>
-{% for post in site.related_posts limit:8 %}
-  <li>{{ post.date | date: "%Y/%m/%d" }}　<a href="{{ post.url }}">{{ post.title }}</a></li>
+
+<ul class="related_post">
+{% for post in site.related_posts limit:3 %}
+  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+<ul class="related_post">
+{% for post in site.related_posts limit:3 offset:4 %}
+  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+<ul class="related_post">
+{% for post in site.related_posts limit:3 offset:6 %}
+  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
 </p>

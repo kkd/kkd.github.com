@@ -95,6 +95,22 @@ p.bc-8 {
   font-size:11px;
 }
 
+ul.related_post  {
+  display:table;
+  table-layout: fixed;
+  width:100%;
+}
+
+ul.related_post li{
+  display:table-cell;
+  vertical-align:top;
+  text-align:left;
+  padding:2;
+  font-size: 12px;
+  margin: 0 5px 0 0;
+}
+
+
 img.bc-favicon {
   margin:0 5px 0 0;
   padding:0;

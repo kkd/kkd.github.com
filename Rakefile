@@ -143,7 +143,9 @@ end
 desc "Resize images to 480px width."
 task :resize_image do
 
-  IMAGES = FileList["assets/images/**/*.jpg","assets/images/**/*.png"]
+  IMAGES = FileList["assets/images/**/*.jpg","assets/images/**/*.png","assets/images/**/*.jpeg"]
+  IMAGES.exclude("assets/images/**/*_fixed.*")
+  
   puts "The count of image  is #{IMAGES.size}"
   IMAGES.each do |path|
     progress resize path

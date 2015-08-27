@@ -2,9 +2,9 @@
 layout: post
 title: "スタンディング環境を半年続けてわかったこと"
 description: "自宅の作業環境をスタンディング環境（スタンディングデスク）に変えてから約半年が過ぎた。今の時点で気づいたこと（よい点、困った点）をまとめてみる。"
-category: Creative
+category: Healthy
 image: http://giantech.jp/assets/images/20150526/standingdesk1.JPG
-tags: [ライフハック, Life Hack, スタンディングデスク, Standing Desk, ワークスペース, workspace, 改善, Hack]
+tags: [ライフハック, Life Hack, スタンディングデスク, Standing Desk, ワークスペース, workspace, 改善, Hack, 健康]
 ---
 ![Standing Desk](/assets/images/20150526/standingdesk1.JPG "スタンディングデスクその１"){:.mid}
 
