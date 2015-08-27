@@ -1,20 +1,33 @@
 <h3>[関連する記事]</h3>
 
 <ul class="related_post">
-{% for post in site.related_posts limit:3 %}
-  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in site.related_posts limit:2 %}
+	{% if post.image %}
+		{% capture post_image %}{{post.image}}{% endcapture %}
+	{% else %}
+		{% capture post_image %}{{site.url}}/assets/logo_cghll.png{% endcapture %}
+	{% endif %}
+  <li><a href="{{ post.url }}"><img src="{{post_image}}" width="142" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/>{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 <ul class="related_post">
-{% for post in site.related_posts limit:3 offset:4 %}
-  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in site.related_posts limit:2 offset:3 %}
+	{% if post.image %}
+		{% capture post_image %}{{post.image}}{% endcapture %}
+	{% else %}
+		{% capture post_image %}{{site.url}}/assets/logo_cghll.png{% endcapture %}
+	{% endif %}
+  <li><a href="{{ post.url }}"><img src="{{post_image}}" width="142" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/>{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 <ul class="related_post">
-{% for post in site.related_posts limit:3 offset:6 %}
-  <li><img src="{{post.image}}" width="120" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in site.related_posts limit:2 offset:5 %}
+	{% if post.image %}
+		{% capture post_image %}{{post.image}}{% endcapture %}
+	{% else %}
+		{% capture post_image %}{{site.url}}/assets/logo_cghll.png{% endcapture %}
+	{% endif %}
+  <li><a href="{{ post.url }}"><img src="{{post_image}}" width="142" height="100"/>{{ post.date | date: "%Y/%m/%d" }}<br/>{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-
 </p>
