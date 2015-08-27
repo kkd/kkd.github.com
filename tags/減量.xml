@@ -3,7 +3,7 @@
  <title>Your Title - 減量</title>
  <link href="http://giantech.jp/tags/%E6%B8%9B%E9%87%8F.xml" rel="self"/>
  <link href="http://giantech.jp/tag/減量.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/減量.html</id>
  <author>
    <name>Author Here</name>
@@ -14,48 +14,48 @@
    <link href="http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012"/>
    <updated>2015-08-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012</id>
-   <content type="html">&lt;h2 id=&quot;section&quot;&gt;ランニングを始めて３年経過のふりかえり&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;ランニングを始めて３年経過のふりかえり&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/weight-running-distance.png&quot; alt=&quot;体重と走行距離グラフ&quot; title=&quot;体重と走行距離グラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/weight-running-distance.png&quot; alt=&quot;体重と走行距離グラフ&quot; title=&quot;体重と走行距離グラフ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;2012年5月から突然走りだして３年が経過しました。これまで手動・自動を含めて体重やランニングのログをとり続けてきたので試しに集計・統合してみたところ、これまで気づかないことが見えてきました。3年をふりかえりながら、視覚化してみてのフィードバックをまとめてみます。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;体重&lt;/h3&gt;
+&lt;h3&gt;体重&lt;/h3&gt;
 
 &lt;p&gt;体重は当初はタニタの体重計での計測結果をExcelに記録していましたが、途中からオムロンのAndroidスマフォで連携可能な&lt;a href=&quot;http://www.amazon.co.jp/gp/product/B0093E9OQK/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=B0093E9OQK&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;HBF-252F&lt;/a&gt;を使い、オムロンの提供しているサービスであるウェルネスリンク（現在は&lt;a href=&quot;https://www.watashi-move.jp/&quot;&gt;わたしムーブ&lt;/a&gt;内のサービス）に転送している記録をCSVファイルに出力し、月毎の平均値を算出しました。測定タイミングは風呂に入る前と、朝ラン後にシャワーを浴びる前の大体2回です。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-5&quot;&gt;ウェルネスリンクサービス一覧 | ウェルネスリンク - WellnessLINK&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-favicon&quot; /&gt;www.wellnesslink.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-5&quot;&gt;ウェルネスリンクサービス一覧 | ウェルネスリンク - WellnessLINK&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-favicon&quot;&gt;www.wellnesslink.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;走行距離&lt;/h3&gt;
+&lt;h3&gt;走行距離&lt;/h3&gt;
 
 &lt;p&gt;走行距離は、&lt;a href=&quot;https://www.strava.com/&quot;&gt;STRAVA&lt;/a&gt;に格納してあるアクティビティログをAPIで取得し月毎の合計値を算出しました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.strava.com/&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-5&quot;&gt;ランニング &amp;amp; サイクリングGPSトラッカー、パフォーマンス分析、地図、クラブ、または試合 | Strava&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.strava.com/&quot; class=&quot;bc-favicon&quot; /&gt;www.strava.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.strava.com/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.strava.com/&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-5&quot;&gt;ランニング &amp; サイクリングGPSトラッカー、パフォーマンス分析、地図、クラブ、または試合 | Strava&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.strava.com/&quot; class=&quot;bc-favicon&quot;&gt;www.strava.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.strava.com/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;きっかけ&lt;/h2&gt;
+&lt;h2&gt;きっかけ&lt;/h2&gt;
 
 &lt;p&gt;ちょうど、走り始めて半年後のFacebookに、&lt;a href=&quot;https://www.facebook.com/takeshi.kakeda/posts/313646045420112&quot;&gt;なぜはじめたかの動機&lt;/a&gt;を書いてありました。走り始める以前から歩数計は買っていて、1万歩/日を目標にしていましたが、松山に住んでいるとなかなか1万歩/日を達成するのは難しかったのを思い出します。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;きっかけに「これ」というものはなく、本当になんとなくだった。ただ、そこに至る小さな兆しは、いくつかあった。愛媛マラソンに普通の人たちが大勢走っているのを見たこと、スポーツやるならトレイルランニングをやりたいなと思っていたこと、嫁さんが活動量計を使って毎日楽しそうに歩いてダイエットしていたこと、体重を落したいなぁと思っていたこと、友人がランニングしていたこと、などなど。&lt;/p&gt;
+&lt;p&gt;きっかけに「これ」というものはなく、本当になんとなくだった。ただ、そこに至る小さな兆しは、いくつかあった。愛媛マラソンに普通の人たちが大勢走っているのを見たこと、スポーツやるならトレイルランニングをやりたいなと思っていたこと、嫁さんが活動量計を使って毎日楽しそうに歩いてダイエットしていたこと、体重を落したいなぁと思っていたこと、友人がランニングしていたこと、などなど。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;思い立ってすぐに、専用の道具を揃うのも待たずに、ユニクロの化繊のTシャツ、普段履きのスニーカーで走りだしました。ランニングという運動は、準備物が少なく（＝道具は靴とウェアのみ）、一人でも、どこでもできるという制約の少なさに魅力を感じました。&lt;/p&gt;
@@ -63,28 +63,28 @@
 &lt;p&gt;ちなみに子供の頃から&lt;strong&gt;走るという運動は最も嫌い&lt;/strong&gt;でした。これまでの人生の中で自分の意思で走りたいと考えたことは一度もありません。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;最初に走ったのは5/19だった。朝起きて食事前に3kmほど、まずは普通のスニーカーで走ってみた。今考えると6分44秒/kmのペースなので、かなりゆっくりのペースだったが、それでも次の日は足全体が筋肉痛で歩くのも辛いくらいだった。&lt;/p&gt;
+&lt;p&gt;最初に走ったのは5/19だった。朝起きて食事前に3kmほど、まずは普通のスニーカーで走ってみた。今考えると6分44秒/kmのペースなので、かなりゆっくりのペースだったが、それでも次の日は足全体が筋肉痛で歩くのも辛いくらいだった。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;当時は、筋肉痛を繰り返しながらも、少しずつ自分の成長（＝走行距離、主観的辛さ）を実感するのが何よりも楽しかったのを思い出します。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;2012年&lt;/h2&gt;
+&lt;h2&gt;2012年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2012.png&quot; alt=&quot;2012年&quot; title=&quot;2012年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2012.png&quot; alt=&quot;2012年&quot; title=&quot;2012年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;このグラフには2012年5月は含めていませんが、５月時点では体重は76-7kgくらいでした。&lt;/p&gt;
 
 &lt;p&gt;走り始めて一気に3kgは体重が落ちました。特に夏場は朝走ると30分で1kgくらい（汗をかくので）体重が落ちていることはザラです。とにかく走った後に体重計に乗るのが楽しみでした。&lt;/p&gt;
 
-&lt;p&gt;走れば走るほど、自分が成長し、体重が落ちていくのが楽しくなりました。そういえば、走る前に筋トレをすると脂肪が燃焼しやすいと聞いたので、ラン前に軽く自重トレもしていました。しかし走るまでに時間がかかってしまうのがイヤで長続きしませんでしたが…。&lt;/p&gt;
+&lt;p&gt;走れば走るほど、自分が成長し、体重が落ちていくのが楽しくなりました。そういえば、走る前に筋トレをすると脂肪が燃焼しやすいと聞いたので、ラン前に軽く自重トレもしていました。しかし走るまでに時間がかかってしまうのがイヤで長続きしませんでしたが...。&lt;/p&gt;
 
 &lt;p&gt;夏が過ぎてランニングシーズンになった１０月には、最初のレース（ハーフマラソン）に出走し、月間走行距離も170kmを越えました。12月のハーフマラソンのレース中に無理な追い越しをした時に怪我をしてしまいました。具体的には&lt;strong&gt;腸脛靭帯炎&lt;/strong&gt;という別名ランナー膝と呼ばれる怪我です。それでも、痛みを堪えてだましだまし走っていましたが、一向に良くなる気配はありませんでした。&lt;/p&gt;
 
 &lt;p&gt;怪我の痛みも辛いのですが、なによりも&lt;strong&gt;思うように走れない&lt;/strong&gt;のが一番辛かったです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;2013年&lt;/h2&gt;
+&lt;h2&gt;2013年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2013.png&quot; alt=&quot;2013年&quot; title=&quot;2013年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2013.png&quot; alt=&quot;2013年&quot; title=&quot;2013年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;ちょうど、年明けすぐに副鼻腔炎の手術を受けることを決めたので、入院期間２週間は走ることができませんでした。怪我がなかなか治らない自分にとっては「入院と休養で一石二鳥」と捉えて、しばらくは走るのをやめウォーキングのみにしていました。&lt;/p&gt;
 
@@ -94,9 +94,9 @@
 
 &lt;p&gt;2013/5から徐々にランを再開しました。走行距離は徐々に増えていきますが、一度増えた体重は走行距離が増えても再び落ちずに安定していたようです。すっかり忘れていましたが、9〜10月は膝の痛みが出たのでランのペースを落としていました。この時は&lt;strong&gt;スロージョギング&lt;/strong&gt;といって、歩く速度くらいで走るやり方を実践して痛みが出ない程度に走っていました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;2014年&lt;/h2&gt;
+&lt;h2&gt;2014年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2014.png&quot; alt=&quot;2014年&quot; title=&quot;2014年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2014.png&quot; alt=&quot;2014年&quot; title=&quot;2014年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;初のフルマラソンレースである愛媛マラソンを2月に控え、走行距離は増えていきました。そのせいか再び体重も下降し始めました。愛媛マラソン完走後も体重は下降線を辿り、2012年の一番減った体重を更に下回っていきます。走行距離は増えていないどころか減っているのに、体重が下降していた原因はいまいちよくわかりません。&lt;/p&gt;
 
@@ -104,9 +104,9 @@
 
 &lt;p&gt;大阪マラソン終了後も、翌年の東京マラソンに向けてのトレーニングを重ねていましたが、年末に足裏の痛みのため約一ヶ月ランを休みました。腸脛靭帯炎で通院した2013年3月以降は、痛みがあったら無理をせず休みをとり、様子をみることを徹底しています。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-7&quot;&gt;2015年&lt;/h2&gt;
+&lt;h2&gt;2015年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2015.png&quot; alt=&quot;2015年&quot; title=&quot;2015年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2015.png&quot; alt=&quot;2015年&quot; title=&quot;2015年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;2月の東京マラソンに向けてトレーニングを再開しましたが、前年末の怪我の復帰後だったため、無理に走行距離を増やすことはしませんでした。その代わりに、体幹を中心とした筋トレと、少しでも負荷を下げるために&lt;strong&gt;低炭水化物ダイエットもどき&lt;/strong&gt;で体重を落とすことにしました。もどきというのは、&lt;strong&gt;御飯を半分に減らし、砂糖やカフェインの入っている飲み物は避け、お腹がすいたらGI値の低いアーモンドや燻製イカを食べる&lt;/strong&gt;という程度のものです。&lt;/p&gt;
 
@@ -119,25 +119,25 @@
 &lt;p&gt;要因の1つと考えられるのが、別記事にも書きましたが、2014年の年末より&lt;strong&gt;スタンディング環境を構築して作業するようになり&lt;/strong&gt;、これによって一日の消費カロリーが座り仕事と比べて増えたせいかもしれません。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150526/standingdesk1.JPG&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-5&quot;&gt;スタンディング環境を半年続けてわかったこと&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;自宅の作業環境をスタンディング環境（スタンディングデスク）に変えてから約半年が過ぎた。今の時点で気づいたこと（よい点、困った点）をまとめてみる。&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150526/standingdesk1.JPG&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-5&quot;&gt;スタンディング環境を半年続けてわかったこと&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;自宅の作業環境をスタンディング環境（スタンディングデスク）に変えてから約半年が過ぎた。今の時点で気づいたこと（よい点、困った点）をまとめてみる。&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section-8&quot;&gt;グラフにしてみてわかったこと&lt;/h2&gt;
+&lt;h2&gt;グラフにしてみてわかったこと&lt;/h2&gt;
 
 &lt;p&gt;今回グラフにしてみて、わかったことをメモしてみます。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-9&quot;&gt;走行距離と体重の関連&lt;/h3&gt;
+&lt;h3&gt;走行距離と体重の関連&lt;/h3&gt;
 
 &lt;p&gt;あらためて、走行距離が増えると、体重が減るという関係性がわかりました。しかし後述しますが、体重減の効果は約半年でした。半年以上続けると、身体が走ることに慣れてくるので、同じことだけで体重を減らすのは難しくなりました。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-10&quot;&gt;体重減の頭打ち&lt;/h3&gt;
+&lt;h3&gt;体重減の頭打ち&lt;/h3&gt;
 
 &lt;p&gt;前述した通り「ランニング」で一気に体重が落ちたのは最初の半年くらいの間でした。それ以降は同じだけ走っても、同様のペースで体重は落ちませんでした。今年の初めから一気に落ちたのは、別の施策「低炭水化物ダイエットもどき」の成果です。&lt;/p&gt;
 
@@ -146,17 +146,17 @@
 &lt;p&gt;ネットで調べると、似たような事象はいくつも見つかります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://oshiete.xgoo.jp/images/common/oshiete_goo.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-5&quot;&gt;脂肪燃焼に「慣れ」はあるのでしょうか？？&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;こんにちわ☆最近、本格的にダイエットを始めた者です（*^^*）スポーツジムに行って、エアロビ（５０分）・ランニング（３０分）・筋トレ（９種類各１セット）をほぼ毎日...&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-favicon&quot; /&gt;oshiete.goo.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://oshiete.xgoo.jp/images/common/oshiete_goo.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-5&quot;&gt;脂肪燃焼に「慣れ」はあるのでしょうか？？&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;こんにちわ☆最近、本格的にダイエットを始めた者です（*^^*）スポーツジムに行って、エアロビ（５０分）・ランニング（３０分）・筋トレ（９種類各１セット）をほぼ毎日...&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-favicon&quot;&gt;oshiete.goo.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;体重以外の指標の重要性&lt;/h3&gt;
+&lt;h3&gt;体重以外の指標の重要性&lt;/h3&gt;
 
 &lt;p&gt;体重という指標はわかりやすく、目標としやすい結果指標ですが、一定の期間で変動が少なくなってしまう指標だとも言えます。&lt;/p&gt;
 
@@ -165,23 +165,23 @@
 &lt;p&gt;わかりやすい例で言うと、体脂肪率、骨格筋率、胸囲、胴囲、安静時心拍数などです。体脂肪率や骨格筋率は体重と同時に計測してくれる機器を入手すれば簡単に計測できますし、胸囲や胴囲は自分でメジャーで簡単に測ることができます。安静時心拍数は機器がなくても手動で簡単に測ることができます。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--ihq69i057d2fc.net/kaisyou/wp-content/uploads/2015/02/suimin.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-5&quot;&gt;安静時心拍数の正しい計り方と活用法 | 運動不足を解消！！&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;安静時心拍数とは 安静にしている時の心拍数です。椅子に座った状態や寝起きなどに心拍数を測るのが一般的とされています。体を動かず安静にしていますので、当然心拍数は低くなります。安静時心拍数を測ると何に役立てることができるでしょうか？ ・運動強度や目標心拍数を正確に求めることができる 運動強度＝（心拍数－安静時心拍数）÷（最大心拍数－安静時心拍数）×100 目標心拍数＝運動強度×(最大心拍数－安静時心拍数）＋安静時心拍数 計算式に安静時心拍数が入っていますので、入力する必要があります。&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-favicon&quot; /&gt;xn--ihq69i057d2fc.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--ihq69i057d2fc.net/kaisyou/wp-content/uploads/2015/02/suimin.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-5&quot;&gt;安静時心拍数の正しい計り方と活用法 | 運動不足を解消！！&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;安静時心拍数とは 安静にしている時の心拍数です。椅子に座った状態や寝起きなどに心拍数を測るのが一般的とされています。体を動かず安静にしていますので、当然心拍数は低くなります。安静時心拍数を測ると何に役立てることができるでしょうか？ ・運動強度や目標心拍数を正確に求めることができる 運動強度＝（心拍数－安静時心拍数）÷（最大心拍数－安静時心拍数）×100 目標心拍数＝運動強度×(最大心拍数－安静時心拍数）＋安静時心拍数 計算式に安静時心拍数が入っていますので、入力する必要があります。&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-favicon&quot;&gt;xn--ihq69i057d2fc.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;また、走行距離、歩数、腕立て伏せの回数、平均走行ペースのような&lt;strong&gt;行動指標との併用&lt;/strong&gt;は、間接的に身体の変化や成長を捉えることになりますし、後で見返した時に、何が起きたかをふりかえるのにも役立ちます。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;半年毎の怪我&lt;/h3&gt;
+&lt;h3&gt;半年毎の怪我&lt;/h3&gt;
 
 &lt;p&gt;このグラフを見ると、&lt;strong&gt;半年に一回は怪我・痛みでランニングを休止している&lt;/strong&gt;のがわかりました。持続可能なペースで続ける・怪我しづらい身体の使い方・走り方を身に付けることは改めて大事だと再確認しました。もう少し身体の柔軟性、裸足ランのような柔らかい走りを身につけたいと思います。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-13&quot;&gt;まとめ&lt;/h2&gt;
+&lt;h2&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;体重の増減とランニングの走行距離の実データを元に、この３年をふりかえってみました。&lt;/p&gt;
 
@@ -198,26 +198,25 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/11375816@N04/6808412351/player/&quot; width=&quot;220&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/11375816@N04/6808412351/player/&quot; width=&quot;220&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;これまでの学び&lt;/h2&gt;
+&lt;h2&gt;これまでの学び&lt;/h2&gt;
 
 &lt;p&gt;10〜30代の頃の減量の失敗体験から学んだことは色々ありますが、まとめてみると次のようなものになります。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;(1) 食事制限は短期的には効果大&lt;/h3&gt;
+&lt;h3&gt;(1) 食事制限は短期的には効果大&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;食事制限は短期的には非常に効果が高い&lt;/strong&gt;です。これは間違いありません。&lt;em&gt;あるマイルストーンまでに体重を減らす&lt;/em&gt;という目的であれば、食事制限だけでもよかったのかもしれません。&lt;/p&gt;
 
 &lt;p&gt;しかし、長期的・持続的に体重減とキープを目指すのであれば、それだけでは足りないと痛感しました。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;(2) 日常的な運動は効果大&lt;/h3&gt;
+&lt;h3&gt;(2) 日常的な運動は効果大&lt;/h3&gt;
 
 &lt;p&gt;日常的な運動は、たとえ目的の如何に関わらず、体重を減らすのには一定の効果がありました。&lt;strong&gt;運動が生活の一部になることは、体重をキープして健康的な生活をおくるには重要な要素である&lt;/strong&gt;ことは間違いないでしょう。&lt;/p&gt;
 
 &lt;p&gt;しかし、こちらも、運動する習慣をどう作り、継続させていくのかがカギとなります。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;(3) 生活に馴染むか？&lt;/h3&gt;
+&lt;h3&gt;(3) 生活に馴染むか？&lt;/h3&gt;
 
 &lt;p&gt;たとえ、減量がうまく行っても、&lt;em&gt;その行為が生活にもたらす影響&lt;/em&gt;にも目を配らないといけません。&lt;/p&gt;
 
@@ -225,7 +224,7 @@
 
 &lt;p&gt;&lt;strong&gt;今の生活習慣に馴染む、あるいは新しい生活習慣として馴染んでいく過程にできるだけ無理がないようにする&lt;/strong&gt;のが良さそうです。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;(4) なぜそうしたいか？&lt;/h3&gt;
+&lt;h3&gt;(4) なぜそうしたいか？&lt;/h3&gt;
 
 &lt;p&gt;過去の失敗事例すべてに言えるのですが、体重を減らすことの目的意識・動機付けが希薄でした。&lt;/p&gt;
 
@@ -233,34 +232,32 @@
 
 &lt;p&gt;そのためには、体重を減らすという目標の源泉となる&lt;strong&gt;どうして体重を減らしたいのか？どうなりたいのか？&lt;/strong&gt;を自問して明確にしていないと長期的にキープするには難しいでしょう。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;(5) 楽しいか？&lt;/h3&gt;
+&lt;h3&gt;(5) 楽しいか？&lt;/h3&gt;
 
 &lt;p&gt;どのような動機付けがあったとしても、その過程を「目的のために必要な過程だ」とストイックにとらえて目的達成のためだけに実現できる人は限定されるでしょう。目的達成に向かう過程そのものに対しての動機付け、つまり&lt;em&gt;日々の楽しみ&lt;/em&gt;がないと、継続的に実施し続けるのは難しいでしょう。&lt;/p&gt;
 
 &lt;p&gt;自転車通勤をしているときは、&lt;em&gt;自転車に乗るのが楽しい&lt;/em&gt;から乗っていたようなものです。食事制限にしろ運動にしろ、目的達成のためだけでなく、&lt;strong&gt;その行為自身が楽しいと思えるかどうか&lt;/strong&gt;、&lt;strong&gt;楽しみをどうやって自分で演出・発見するか&lt;/strong&gt;が継続できるカギのように思えます。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;で、今は？&lt;/h2&gt;
+&lt;h2&gt;で、今は？&lt;/h2&gt;
 
-&lt;p&gt;現在は２年以上リバウンドなく体重はキープできているので、習慣化して定着できているのだと思います。ただ「いつまた戻ってしまうか」という不安は消えませんが…今どうしているのかは、要望があればまた別の機会にまとめたいと思いますが、そんな要望はなさそうですねｗ&lt;/p&gt;
+&lt;p&gt;現在は２年以上リバウンドなく体重はキープできているので、習慣化して定着できているのだと思います。ただ「いつまた戻ってしまうか」という不安は消えませんが...今どうしているのかは、要望があればまた別の機会にまとめたいと思いますが、そんな要望はなさそうですねｗ&lt;/p&gt;
 
-&lt;p&gt;ちなみに、昨年の大阪でパタン・ランゲージのワークの題材に使ったのがまさに現在までの試行錯誤になります…（P52がその全容)&lt;/p&gt;
+&lt;p&gt;ちなみに、昨年の大阪でパタン・ランゲージのワークの題材に使ったのがまさに現在までの試行錯誤になります...（P52がその全容)&lt;/p&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/open-future-door-by-pattern-language-20141011&quot; title=&quot;Open Future Door By Pattern Language&quot; target=&quot;_blank&quot;&gt;Open Future Door By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/open-future-door-by-pattern-language-20141011&quot; title=&quot;Open Future Door By Pattern Language&quot; target=&quot;_blank&quot;&gt;Open Future Door By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;まぁ何にせよ、強迫観念ではなく楽しく続けられる方法を常に探求するのがいいですね。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-7&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -269,10 +266,9 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/11121568@N06/4222533261/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/11121568@N06/4222533261/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;失敗(4) １日２食で一気に痩せた！しかし…&lt;/h2&gt;
+&lt;h2&gt;失敗(4) １日２食で一気に痩せた！しかし…&lt;/h2&gt;
 
 &lt;p&gt;四度目は30代後半の頃(2007〜2008年くらい)に、一日二食ダイエットを行いました。朝、晩しか食べないというスタンスでしばらく続けていて、これも10kg近くは体重が落ちた気がします。食事の回数を減らすと、体も慣れてきてそれほどお腹が空かなくなりました。その時には、本当に&lt;em&gt;人間の体の適応能力&lt;/em&gt;に驚かされたものです。&lt;/p&gt;
 
@@ -286,25 +282,24 @@
 
 &lt;p&gt;一般的には、&lt;em&gt;習慣にすれば続けられる&lt;/em&gt;と言いますが、たとえ習慣になったと自分で思っても、&lt;strong&gt;習慣はいつでもなくなる可能性がある&lt;/strong&gt;ということですね。本当の意味での習慣化とは違うのかもしれません。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;学びは？&lt;/h3&gt;
+&lt;h3&gt;学びは？&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;食事制限は効果が大きいが、如何に継続させるかが本当の課題&lt;/li&gt;
-  &lt;li&gt;習慣化（数カ月）されていても、ふとしたきっかけで習慣が失くなる可能性がある（＝習慣化で満足してはいけない）&lt;/li&gt;
-  &lt;li&gt;行為自体が生活や仕事にもたらすマイナスの効果にも目を向ける&lt;/li&gt;
+&lt;li&gt;食事制限は効果が大きいが、如何に継続させるかが本当の課題&lt;/li&gt;
+&lt;li&gt;習慣化（数カ月）されていても、ふとしたきっかけで習慣が失くなる可能性がある（＝習慣化で満足してはいけない）&lt;/li&gt;
+&lt;li&gt;行為自体が生活や仕事にもたらすマイナスの効果にも目を向ける&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -313,10 +308,9 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/33114438@N00/6868364204/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/33114438@N00/6868364204/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;失敗(3) 自転車通勤で健康的に痩せた！！しかし…&lt;/h2&gt;
+&lt;h2&gt;失敗(3) 自転車通勤で健康的に痩せた！！しかし…&lt;/h2&gt;
 
 &lt;p&gt;三度目は、長女が生まれた頃(2003年)でした。当時は自宅から片道6kmくらいの距離を自転車通勤していました。その頃は、ちょうどツーキニストという言葉が出始めた頃で、&lt;a href=&quot;http://ja.wikipedia.org/wiki/%E7%96%8B%E7%94%B0%E6%99%BA&quot;&gt;TBSの疋田さん&lt;/a&gt;の記事とかをよく読んで影響を受けていました。&lt;/p&gt;
 
@@ -334,24 +328,24 @@
 
 &lt;p&gt;楽しく運動をすることで、食事制限をしなくても痩せられることを学びました。同時に&lt;strong&gt;自転車通勤という運動だけに依存している&lt;/strong&gt;のは持続可能性という点で足りなかったのでしょう。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;学びは？&lt;/h3&gt;
+&lt;h3&gt;学びは？&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;自転車は楽しいし、結果的に体重も減って一石二鳥だった。&lt;/li&gt;
-  &lt;li&gt;自転車通勤する場合、通勤先が頻繁に変わる場合は、続けられなくなる可能性も考慮する&lt;/li&gt;
-  &lt;li&gt;通勤だけでなく、日常的に運動を楽しむ習慣が必要&lt;/li&gt;
-  &lt;li&gt;身近な人からの何気ない一言はモチベーションアップに繋がる&lt;/li&gt;
+&lt;li&gt;自転車は楽しいし、結果的に体重も減って一石二鳥だった。&lt;/li&gt;
+&lt;li&gt;自転車通勤する場合、通勤先が頻繁に変わる場合は、続けられなくなる可能性も考慮する&lt;/li&gt;
+&lt;li&gt;通勤だけでなく、日常的に運動を楽しむ習慣が必要&lt;/li&gt;
+&lt;li&gt;身近な人からの何気ない一言はモチベーションアップに繋がる&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -361,10 +355,9 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/50836463@N06/5023325968/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/50836463@N06/5023325968/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;失敗(2) ９品目ダイエットで痩せた！しかし…&lt;/h2&gt;
+&lt;h2&gt;失敗(2) ９品目ダイエットで痩せた！しかし…&lt;/h2&gt;
 
 &lt;p&gt;二度目は30代前半の頃(2001〜2002年くらい)だったでしょうか。食事の内容に着目して、&lt;a href=&quot;http://sportsclub.nifty.com/ft_diet/0410130092/&quot;&gt;９品目ダイエット&lt;/a&gt;にチャレンジしたことがありました。これは毎食９品目（肉、魚、貝、豆、卵、油、海藻、野菜）をとるというものでした。&lt;/p&gt;
 
@@ -376,24 +369,23 @@
 
 &lt;p&gt;食事の量はそれほど気にしなくても、バラエティに富んだ食事を考えることで、痩せられることを学びました。しかし同時に食事のバラエティを保ち続けるのは難しいことを学びました。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;学びは？&lt;/h3&gt;
+&lt;h3&gt;学びは？&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;食材をバランスよく摂ることを意識すると体重を減らすことができる&lt;/li&gt;
-  &lt;li&gt;食事の内容に依存した減量は継続的に続けることができるかに意識を向けなければならない&lt;/li&gt;
+&lt;li&gt;食材をバランスよく摂ることを意識すると体重を減らすことができる&lt;/li&gt;
+&lt;li&gt;食事の内容に依存した減量は継続的に続けることができるかに意識を向けなければならない&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 </content>
  </entry>
  
@@ -402,10 +394,9 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/64636777@N03/8205030646/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/64636777@N03/8205030646/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;失敗(1) 若気の至りで食事制限！しかし…&lt;/h2&gt;
+&lt;h2&gt;失敗(1) 若気の至りで食事制限！しかし…&lt;/h2&gt;
 
 &lt;p&gt;子供の頃から、食欲旺盛で、小学校６年生で167cm、60kgオーバーだった自分は、成長するにつれて、徐々に縦ではなく横に広がっていきましたｗ&lt;/p&gt;
 
@@ -415,22 +406,22 @@
 
 &lt;p&gt;その時は、ちょうど同じサークルの友人も90kg→80kgの減量を行っていたので、２人で競い合っていた記憶があります。一緒に頑張れる・競争意識を持てる仲間がいると続けられますよね。しかし減った体重をキープできるかは、また別問題ですね。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;学びは？&lt;/h2&gt;
+&lt;h2&gt;学びは？&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;仲間がいると、続けられる&lt;/li&gt;
-  &lt;li&gt;減らした体重を、どうキープするかの戦略が必要&lt;/li&gt;
+&lt;li&gt;仲間がいると、続けられる&lt;/li&gt;
+&lt;li&gt;減らした体重を、どうキープするかの戦略が必要&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -440,25 +431,24 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/53372763@N00/81255795/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/53372763@N00/81255795/player/&quot; width=&quot;320&quot; height=&quot;224&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;以前、&lt;a href=&quot;http://giantech.jp/2014/08/29/yaseru-kpt/&quot;&gt;やせる！KPT&lt;/a&gt;の後でこそこそ書いていた、自分のこれまでの減量の失敗談の記事を今頃になって見つけたので、加筆編集してアップしてみました。&lt;/p&gt;
 
-&lt;p&gt;思っていたよりもボリュームが増えてしまい、分割せざるを得なくなりました…&lt;/p&gt;
+&lt;p&gt;思っていたよりもボリュームが増えてしまい、分割せざるを得なくなりました...&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ダイエットの意味知ってました？&lt;/h2&gt;
+&lt;h2&gt;ダイエットの意味知ってました？&lt;/h2&gt;
 
 &lt;p&gt;そもそも、自分は誤解していたのですが、ダイエットとは次のような意味だそうです。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;ダイエットは、規定食という意味であり、健康保持や美容のために、食事の量や種類を制限することである
+&lt;p&gt;ダイエットは、規定食という意味であり、健康保持や美容のために、食事の量や種類を制限することである
 (広辞苑第六版)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;なので&lt;strong&gt;食事療法以外の減量・痩身はダイエットではない&lt;/strong&gt;のですね。（えっ、皆知ってた？俺だけか。。。。）なので以降は「減量」という言葉を使います。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;これまでの失敗の体験を晒す意味&lt;/h2&gt;
+&lt;h2&gt;これまでの失敗の体験を晒す意味&lt;/h2&gt;
 
 &lt;p&gt;私は人生の中でこれまで４回ほど色々な方法で減量して体重が落ちましたが、結局リバウンドして元に戻ってしまっていました。恥ずかしい話ですがどんな失敗だったか振り返ってみました。&lt;/p&gt;
 
@@ -470,19 +460,19 @@
 
 &lt;p&gt;こうやってまとめたものが、誰かの役に立つかもしれないなと思い公開することにしました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;特に運動不足・食生活があれがちなプログラマの皆さま…&lt;/h2&gt;
+&lt;h2&gt;特に運動不足・食生活があれがちなプログラマの皆さま...&lt;/h2&gt;
 
 &lt;p&gt;特に、&lt;strong&gt;一日中座りがち、仕事が長時間になりがち、食事が荒れがち、コークやレッドブルやカフェインに頼りがちなプログラマの皆さま&lt;/strong&gt;にとっては、&lt;em&gt;プログラマ35歳定年説&lt;/em&gt;に立ち向かうためにも、技術力・学習能力向上のベースラインとなる、&lt;em&gt;やりがいのある仕事を続けることの出来る体を作る生活習慣づくり&lt;/em&gt; に目を向けて頂ければな、と思います。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;関連する記事&lt;/h2&gt;
+&lt;h2&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -492,9 +482,9 @@
    <link href="http://giantech.jp/2014/08/29/yaseru-kpt"/>
    <updated>2014-08-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/29/yaseru-kpt</id>
-   <content type="html">&lt;h2 id=&quot;section&quot;&gt;リモートで基調講演（？）&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;リモートで基調講演（？）&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野&lt;/a&gt;さんから、&lt;a href=&quot;http://kokucheese.com/event/index/199090/&quot;&gt;やせる！KPT&lt;/a&gt;で話をして欲しい、と言われたので話してきました。と言っても、Skypeでのリモートでの物語りで、かつ資料もなかったので、聞き取りづらかったんじゃないかと思います。しかも時間を間違えていて３０分遅れてしまいすみませんでした…&lt;/p&gt;
 
@@ -503,78 +493,78 @@
 &lt;p&gt;ざっくり説明すると以下のような感じです。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;なんとなく走りだした(2012/05)
-    &lt;ul&gt;
-      &lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
-      &lt;li&gt;なれると楽しくなった！
-        &lt;ul&gt;
-          &lt;li&gt;距離が増えていく&lt;/li&gt;
-          &lt;li&gt;体が楽になっていく&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;走ることが楽しくなった(2012/06〜)
-    &lt;ul&gt;
-      &lt;li&gt;体重もどんどん落ちた
-        &lt;ul&gt;
-          &lt;li&gt;痩せるための走り方を研究した
-            &lt;ul&gt;
-              &lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;裸足ランニングで自分の可能性を試したくなった
-        &lt;ul&gt;
-          &lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;怪我をして走れなくなった(2012/12)
-    &lt;ul&gt;
-      &lt;li&gt;無理していたら膝の痛みが悪化→医者へ
-        &lt;ul&gt;
-          &lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
-      &lt;li&gt;うまくいかないリハビリ
-        &lt;ul&gt;
-          &lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;ランに向いていないと医者から止められる
-        &lt;ul&gt;
-          &lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
-    &lt;ul&gt;
-      &lt;li&gt;無理はしない
-        &lt;ul&gt;
-          &lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
-      &lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
-    &lt;ul&gt;
-      &lt;li&gt;Sub4.5&lt;/li&gt;
-      &lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;レースに出るのはよい刺激になる
-    &lt;ul&gt;
-      &lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+&lt;li&gt;なんとなく走りだした(2012/05)
+
+&lt;ul&gt;
+&lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
+&lt;li&gt;なれると楽しくなった！
+
+&lt;ul&gt;
+&lt;li&gt;距離が増えていく&lt;/li&gt;
+&lt;li&gt;体が楽になっていく&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;走ることが楽しくなった(2012/06〜)
+
+&lt;ul&gt;
+&lt;li&gt;体重もどんどん落ちた
+
+&lt;ul&gt;
+&lt;li&gt;痩せるための走り方を研究した
+
+&lt;ul&gt;
+&lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;裸足ランニングで自分の可能性を試したくなった
+
+&lt;ul&gt;
+&lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;怪我をして走れなくなった(2012/12)
+
+&lt;ul&gt;
+&lt;li&gt;無理していたら膝の痛みが悪化→医者へ
+
+&lt;ul&gt;
+&lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
+&lt;li&gt;うまくいかないリハビリ
+
+&lt;ul&gt;
+&lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ランに向いていないと医者から止められる
+
+&lt;ul&gt;
+&lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
+
+&lt;ul&gt;
+&lt;li&gt;無理はしない
+
+&lt;ul&gt;
+&lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
+&lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
+
+&lt;ul&gt;
+&lt;li&gt;Sub4.5&lt;/li&gt;
+&lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;レースに出るのはよい刺激になる
+
+&lt;ul&gt;
+&lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;今までダイエット目的でうまく行き続けたことはない怠惰な人間なので、&lt;strong&gt;走る楽しみの副産物&lt;/strong&gt;として体重減がついてきてるのが今のところうまく行ってるポイントなのでしょうか。途中でKPTはやっていないのですが、途中途中で&lt;strong&gt;自分は何のために走ってるのだろう？&lt;/strong&gt;という問いかけをせざるを得ない場面がありました。
@@ -582,81 +572,81 @@
 
 &lt;p&gt;ちなみに走る・走らないは置いておいて、読み物として&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4140814144/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4140814144&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;BORN TO RUN&lt;/a&gt;は一度読んでみるといいと思います。業界的に裸足ランニングブームは過ぎて、本当に興味ある人たちで取り組まれている印象です。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
+&lt;h2&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
 
 &lt;p&gt;自分の話の後は参加者の成果発表を聞いていました。皆さん、赤裸々にデータ(笑)と気づきを発表されていたのですが、ざっくり聞いていると、次のようなことがわかりました。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;フィードバックサイクルの期間が重要
-    &lt;ul&gt;
-      &lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「後でまとめてデータを記録しよう」はNG
-    &lt;ul&gt;
-      &lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
-      &lt;li&gt;少しずつでも頻繁に記録しないといけない。
-        &lt;ul&gt;
-          &lt;li&gt;ここに手間がかかると続かない…&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
-    &lt;ul&gt;
-      &lt;li&gt;前者は「筋トレ」などのアクティビティ
-        &lt;ul&gt;
-          &lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;後者は「食事の量を減らす」のような施策
-        &lt;ul&gt;
-          &lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;腹囲を簡単に測るメジャーがある
-    &lt;ul&gt;
-      &lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
-    &lt;ul&gt;
-      &lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
-      &lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
-      &lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;仲間がいると、続けようという気持ちが湧く
-    &lt;ul&gt;
-      &lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
-    &lt;ul&gt;
-      &lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
-        &lt;ul&gt;
-          &lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
-        &lt;ul&gt;
-          &lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
-          &lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+&lt;li&gt;フィードバックサイクルの期間が重要
+
+&lt;ul&gt;
+&lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「後でまとめてデータを記録しよう」はNG
+
+&lt;ul&gt;
+&lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
+&lt;li&gt;少しずつでも頻繁に記録しないといけない。
+
+&lt;ul&gt;
+&lt;li&gt;ここに手間がかかると続かない...&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
+
+&lt;ul&gt;
+&lt;li&gt;前者は「筋トレ」などのアクティビティ
+
+&lt;ul&gt;
+&lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;後者は「食事の量を減らす」のような施策
+
+&lt;ul&gt;
+&lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;腹囲を簡単に測るメジャーがある
+
+&lt;ul&gt;
+&lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
+
+&lt;ul&gt;
+&lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
+&lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
+&lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;仲間がいると、続けようという気持ちが湧く
+
+&lt;ul&gt;
+&lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
+
+&lt;ul&gt;
+&lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
+
+&lt;ul&gt;
+&lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
+
+&lt;ul&gt;
+&lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
+&lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;そういえば、&lt;a href=&quot;http://goo.gl/mV8Rdd&quot;&gt;へやトレ&lt;/a&gt;の提唱者である森さんも「&lt;strong&gt;筋トレに必要なのは、まず最初にどういう自分になりたいかのビジョンを持つこと&lt;/strong&gt;」の説明にページを割いていたのを思い出します。ダイエットも一緒なのでしょうね。&lt;/p&gt;
 
-&lt;h2 id=&quot;kpt&quot;&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
+&lt;h2&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;は「KPTで痩せるわけではない」と言っていました。しかし、自分のやっていることを&lt;em&gt;客観的に評価して改善するのに役立つ&lt;/em&gt;だろうなと感じました。&lt;/p&gt;
 
@@ -666,17 +656,15 @@
 
 &lt;p&gt;非常によい気づきがありました。&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;成果発表会に呼んでいただきありがとうございました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;当日の皆さんの発表資料&lt;/h2&gt;
+&lt;h2&gt;当日の皆さんの発表資料&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;天野さん&lt;/h3&gt;
+&lt;h3&gt;天野さん&lt;/h3&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;良太さん&lt;/h3&gt;
+&lt;h3&gt;良太さん&lt;/h3&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  

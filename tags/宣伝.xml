@@ -3,7 +3,7 @@
  <title>Your Title - 宣伝</title>
  <link href="http://giantech.jp/tags/%E5%AE%A3%E4%BC%9D.xml" rel="self"/>
  <link href="http://giantech.jp/tag/宣伝.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/宣伝.html</id>
  <author>
    <name>Author Here</name>
@@ -14,35 +14,37 @@
    <link href="http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;今日、&lt;a href=&quot;http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014/&quot;&gt;XP祭り2014で白本の参考文献について話してきます&lt;/a&gt;というエントリを書いたのですが、これだけではさっぱり人が集まりそうもないので、もう少し補足したいと思います。&lt;/p&gt;
 
-&lt;h2 id=&quot;kent-beck&quot;&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
+&lt;h2&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
+
 &lt;p&gt;大抵の参考文献は、章末や巻末に論文のリファレンスよろしく、署名、著者名、出版年、出版社が羅列されているだけでしょう。&lt;/p&gt;
 
 &lt;p&gt;白本の文献リストは、各文献毎にKentのコメントが付いています。一行コメントの場合もあれば、複数行に渡るものもある。読者はこのコメントを読むことで、その本がどのような影響をXPに与えたかがより詳しくわかります。&lt;/p&gt;
 
 &lt;p&gt;といっても、なかなかコメントだけではピンとこないことも事実。このあたりを&lt;strong&gt;当日の講演の中で大幅に補足します&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
+&lt;h2&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
+
 &lt;p&gt;XPの参考文献といえば、ソフトウェアエンジニアリング、プロジェクトマネジメント系の書籍が思い浮かぶと思いますが、白本の参考文献は、それら専門領域以外の文献を多く掲載している点にあります。哲学、態度、プロセス、システム、人、コミュニケーション技法、などなど。&lt;/p&gt;
 
 &lt;p&gt;XPの奥深さは、&lt;em&gt;Kentの多方面からの学び、それらを組み合わせて、ソフトウェア開発に応用している&lt;/em&gt;点にあるのではないかと考えています。&lt;/p&gt;
 
 &lt;p&gt;当日の講演ではこれら&lt;strong&gt;多方面の学びの関係性&lt;/strong&gt;についても注目したいと考えています。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
-&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用)&lt;/p&gt;
+&lt;h2&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用) &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;私はXPを&lt;em&gt;開発プラクティスの集合体&lt;/em&gt;と考えている人々に対し、これらの&lt;strong&gt;XPの矮小化されたイメージを覆したい&lt;/strong&gt;と考えています。そのための一つの手段として、&lt;strong&gt;参考文献を語る&lt;/strong&gt;ことを選ぶのです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
+&lt;h2&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
 
-&lt;p&gt;…そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
-
+&lt;p&gt;...そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
 </content>
  </entry>
  
@@ -51,18 +53,20 @@
    <link href="http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;XP祭り2014で講演することになりました&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
+&lt;h2&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
+
 &lt;p&gt;2010年以降、XP祭りは一度しか参加してなかったのですが、今回セッションの公募があったのでエイヤと出したら通ったので、話をしに&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;早稲田に行ってきます&lt;/a&gt;。話す内容は、長年どこかで取り上げたいと考えていた&lt;strong&gt;白本参考文献&lt;/strong&gt;についてです。&lt;/p&gt;
 
 &lt;p&gt;このネタは2011年のXP祭りで平鍋さんが&lt;a href=&quot;http://blogs.itmedia.co.jp/hiranabe/2011/09/xp-festival-x.html&quot;&gt;既にされている&lt;/a&gt;のですが、平鍋さんの解説では含まれていなかった本なども含めて私が影響を受けた本の内容、XPの関係、XPについてのより深い洞察などを&lt;strong&gt;俺の観点&lt;/strong&gt;でお伝えします。&lt;/p&gt;
 
 &lt;p&gt;先ほど参考文献のリストを再度眺めまてみましたが、まだまだ読んでいない本もありますね。あと3年くらいは楽しめるんじゃないかと期待していますｗ 裏番組が強力すぎて人が本当に来るのか怪しいですが、&lt;strong&gt;XPの本質に迫る&lt;/strong&gt;ことを目指しXP好きにはたまらない内容にしたいなぁと考えています。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XPはファッションなのか？&lt;/h2&gt;
+&lt;h2&gt;XPはファッションなのか？&lt;/h2&gt;
+
 &lt;p&gt;講演概要を書いていて改めて気づいたのですが、白本の邦訳版が出版されてから&lt;strong&gt;14年&lt;/strong&gt;、二版の邦訳版が出版されてもうすぐ&lt;strong&gt;9年&lt;/strong&gt;が経とうとしています。もうずいぶん昔の話ですね。&lt;/p&gt;
 
 &lt;p&gt;テクノロジーの世界は進化が早く、どんどん新しい技術が生まれて、古いものは忘れ去られていきます。エンジニアリングの分野においても、&lt;em&gt;言葉の流行が、エンジニアリング（engineering; 工学および技術活動）の一分野というよりファッション業界のようだ。&lt;/em&gt;(SEMAT.jpより)とも言われる時代です。&lt;/p&gt;
@@ -71,10 +75,9 @@
 
 &lt;p&gt;ちょうど、今回は咳さんが&lt;a href=&quot;http://xpjug.com/xp2014-session-a3/&quot;&gt;XPの話をする&lt;/a&gt;そうなので楽しみです。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;追記&lt;/h3&gt;
+&lt;h3&gt;追記&lt;/h3&gt;
 
 &lt;p&gt;これだけだと全然人が集まらない気がしたので、追加でエントリを書いてみました。 → &lt;a href=&quot;http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014/&quot;&gt;あなたがXP祭り2014でこのセッションを選ぶべき３つの理由&lt;/a&gt;&lt;/p&gt;
-
 </content>
  </entry>
  

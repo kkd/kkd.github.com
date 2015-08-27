@@ -17,7 +17,7 @@
  	<meta property="og:site_name" content="いきてま＠えひめ" />
 	<meta property="og:title" content="A NEW LOOK AT TEST-DRIVEN DEVELOPMENT 私家翻訳版" />
 	<meta property="og:image" content="http://giantech.jp/assets/logo_cghll.png"" />
-	<meta property="article:published_time" content="2015-08-23T09:25:09+09:00" />
+	<meta property="article:published_time" content="2015-08-27T12:19:35+09:00" />
 	<meta property="article:author" content="http://www.facebook.com/takeshi.kakeda" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@kkd">
@@ -153,55 +153,35 @@
 	</script>
 </div>
 					</div>
-					
-<h1 id="a-new-look-at-test-driven-development">A NEW LOOK AT TEST-DRIVEN DEVELOPMENT</h1>
+					<h1>A NEW LOOK AT TEST-DRIVEN DEVELOPMENT</h1>
 
-<dl>
-  <dt>Original</dt>
-  <dd><a href="http://daveastels.com/files/sdbp2005/BDD%20Intro.pdf">http://daveastels.com/files/sdbp2005/BDD%20Intro.pdf</a></dd>
-  <dt>Translator</dt>
-  <dd>Takeshi Kakeda &lt;t.kakeda_at_gmail.com&gt;</dd>
-  <dt>Reviewer</dt>
-  <dd>Shintaro Kakutani (<a href="http://kakutani.com/">http://kakutani.com/</a>) ,
-nishikawa
-(<a href="http://d.hatena.ne.jp/nskj77/">http://d.hatena.ne.jp/nskj77/</a>)</dd>
-  <dt>Updated</dt>
-  <dd>2005/12/20</dd>
-</dl>
+<p>Original
+:   <a href="http://daveastels.com/files/sdbp2005/BDD%20Intro.pdf">http://daveastels.com/files/sdbp2005/BDD%20Intro.pdf</a></p>
 
-<h2 id="section">はじめに(日本語版のみ)</h2>
+<p>Translator
+:   Takeshi Kakeda &lt;t.kakeda_at_gmail.com&gt;</p>
+
+<p>Reviewer
+:   Shintaro Kakutani (<a href="http://kakutani.com/">http://kakutani.com/</a>) ,
+    nishikawa
+    (<a href="http://d.hatena.ne.jp/nskj77/">http://d.hatena.ne.jp/nskj77/</a>)</p>
+
+<p>Updated
+:   2005/12/20</p>
+
+<h2>はじめに(日本語版のみ)</h2>
 
 <p>Behaviour Driven
 Developmentについての初の記事ですが、訳語について悩んでいます。現在は以下のようにしてあります。</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>原文</th>
-      <th>訳語</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>behaviour</td>
-      <td>ビヘイビア(振舞)</td>
-    </tr>
-    <tr>
-      <td>specification</td>
-      <td>仕様</td>
-    </tr>
-    <tr>
-      <td>specify</td>
-      <td>スペック化する</td>
-    </tr>
-    <tr>
-      <td>BDD</td>
-      <td>ビヘイビア駆動開発</td>
-    </tr>
-  </tbody>
-</table>
+<p>原文                |訳語
+-------------------|---------------------
+behaviour          |ビヘイビア(振舞)
+specification      |仕様
+specify            |スペック化する
+BDD                |ビヘイビア駆動開発</p>
 
-<h2 id="section-1">問題</h2>
+<h2>問題</h2>
 
 <p>テスト駆動開発(TDD)は今や広く受け入れられている。大企業は自社のプログラマに、多くのコストを掛けてTDDを教育している。カンファレンスでTDDは人気のトピックだ。アジャイル系はもちろん、それ以外でも。</p>
 
@@ -214,82 +194,80 @@ TDDを実践している人々全てが、TDDについて深く理解し、TDD�
 
 <p>TDDの本当の姿を正確に理解している人を私はごくわずかしか知らない。要するにTDD実践者の多くは、TDDの恩恵を最大限には受けていないのだ。何がまずいのだろうか？</p>
 
-<h3 id="section-2">テスティングが焦点</h3>
+<h3>テスティングが焦点</h3>
 
-<p>さて…なによりもまず、みんなTDDはテスティングだと考えている。TDDはそれだけじゃない。確かに類似点はいくつもある。最終的にはよくできた低レベルのリグレッションテストスィートを手にすることにはなる。しかし、それらはたまたまか、運良く手にしたオマケだ。なぜ事態はかくも不幸な状況になっているのだろう？　どうして多くの人びとはTDDの恩恵に浴することができないのだろう？</p>
+<p>さて...なによりもまず、みんなTDDはテスティングだと考えている。TDDはそれだけじゃない。確かに類似点はいくつもある。最終的にはよくできた低レベルのリグレッションテストスィートを手にすることにはなる。しかし、それらはたまたまか、運良く手にしたオマケだ。なぜ事態はかくも不幸な状況になっているのだろう？　どうして多くの人びとはTDDの恩恵に浴することができないのだろう？</p>
 
-<p>ちょっとした歴史の授業から始めたい。数年前、筆者は「Coad Letter」<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>
+<p>ちょっとした歴史の授業から始めたい。数年前、筆者は「Coad Letter」<a href=":">^1</a>
 にTDDの記事を書いた。その中でTDDの背景(Ron
 Jeffriesから聞いた)についてこう記した。</p>
 
 <p>かつては、XP実践者達も、テストを書くことについて語っていた。それはおそらく彼らの語彙がテスト中心(testing-centric)だったからで、それがためにTDDをテスティングだと考えていたからだ!
 <strong>テストケース</strong> 、 <strong>テストスィート</strong> 、 <strong>テスト</strong>
-、”test”で始めなければならないメソッド名…これらを語るときにテストのこと以外に何を考えるだろうか？
+、&quot;test&quot;で始めなければならないメソッド名...これらを語るときにテストのこと以外に何を考えるだろうか？
 もちろん、すべてのxUnitフレームワークがこうした要件を備えていたわけではないが。</p>
 
 <p>新しいJUnit(Version4)では、命名規約やTestCaseのサブクラス化から解放される。しかし他の用語やアノテーションでは依然としてテスト中心の語彙のままだ。TDDへの進化が起きた時、我々が手に入れた考え方は、これまでとは全く異なるものだった。それは、ちょっとした改良なんてものじゃなかった。</p>
 
-<p>オリジナルのXP実践者達は、可能なもの全てにテストを書いていた。最初はテストファーストからはじまった。新しい機能の小さな一部分を表す小さなテストを書いて、それを実装し、次にまた小さなテストを書いて…という繰り返しの結果、やっとTDDへと辿りついた。</p>
+<p>オリジナルのXP実践者達は、可能なもの全てにテストを書いていた。最初はテストファーストからはじまった。新しい機能の小さな一部分を表す小さなテストを書いて、それを実装し、次にまた小さなテストを書いて...という繰り返しの結果、やっとTDDへと辿りついた。</p>
 
-<p>しかし、TDDは多くの人が考えているような最終地点ではない…ただの通過点だ。「ユニット」もそうだ。「ユニット」という考え方自身が大きな問題だ。まず第一に「ユニット」は不明確な用語である。次に、「ユニット」という言葉がコードの構造的分割を暗に示している(例えば、メソッドやクラスをテストしなければならないと考える)。ユニットをこのように捉えるべきではない。ユニットはビヘイビアの様々な側面として捉えるべきだ。</p>
+<p>しかし、TDDは多くの人が考えているような最終地点ではない...ただの通過点だ。「ユニット」もそうだ。「ユニット」という考え方自身が大きな問題だ。まず第一に「ユニット」は不明確な用語である。次に、「ユニット」という言葉がコードの構造的分割を暗に示している(例えば、メソッドやクラスをテストしなければならないと考える)。ユニットをこのように捉えるべきではない。ユニットはビヘイビアの様々な側面として捉えるべきだ。</p>
 
 <p>ユニットテストだとして考えてしまうと、テストをコードの構造単位で分割してしまう。例えば、テストクラス
-<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>
+[^2]
 と製品クラスが1:1のになるのを望んでいるわけではない。我々はビヘイビア単位で分割したいのであり、典型的なユニットテストによる分割単位よりも細かく分割したいのだ。</p>
 
 <p>私はTDDに触れる以前に次のように主張していた。つまり、非常に小さい単位、ビヘイビアの断片に、..つまり１つのメソッドのちょっとした１つの側面に注目して作業するべきだと。例えば「リスト要素が空の時にadd()メソッドを実行した後は、リストの中に１つの要素が存在するべきである」というようなことである。メソッドは特定のコンテキストで呼ばれ、特定の値を引数に取り、特定の結果を返す。私は自分のBlogに「テスト毎に1アサーション」
-<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>
+<a href=":">^3</a>
 と書いてしまうほどになったこともあった。あなたは手にしているんだ。テストという視点から考えるようにさせる、このきれいに包装されたすばらしいアイディアを。</p>
 
-<h2 id="section-3">結果</h2>
+<h2>結果</h2>
 
 <p>なぜこれが問題なのか？
 これから1分間、開発者が普段テストについてどう考えているか思い浮かべてみよう。プログラマはこう大抵はこう考える。「全部にテストなんて書けないよ」「これは本当に単純なコードだからテストなんて要らないな」「テストなんて時間の無駄だ」「こんなテスト(ループ/データ取得/機能、など)は何百万回もやったよ」</p>
 
 <p>プロジェクトマネージャは、大抵こう考える。「テストはコーディングが終わってからやっている」「そのためにテスターを雇っているんじゃないか」「今そんな時間は無い」。みんなテストについて考えると、いくらでも否定的な反応やテストをしない理由が出てくる。特に納期までの時間が少なく、プレッシャーが掛っている時などはその典型だ。</p>
 
-<h2 id="section-4">テストじゃないなら何なのか？</h2>
+<h2>テストじゃないなら何なのか？</h2>
 
 <p>それは中途半端な状態で走り出そうとする前に、やろうとする事を理解するということだ。つまり、簡潔で、明瞭で、実行可能な形の、小さなビヘイビアの側面を決定する仕様を書くということだ。</p>
 
 <p>とても単純なことだ。これはテストを書けと言っているのだろうか？
 違う。仕様を書くということは、コードがどのようにあるべきかを書くということだ。それはコードを書く前にビヘイビアを明示することも意味している。コードを書く前といっても、早すぎてはいけない。実際には、コードを書く直前がベストだ。なぜならその時こそが、ゴールに到達するのに十分な情報を手にしている時だからだ。</p>
 
-<p>ちゃんとしたTDDのように、作業は少しずつインクリメンタルに進んでいく…
+<p>ちゃんとしたTDDのように、作業は少しずつインクリメンタルに進んでいく...
 その時のビヘイビアの１つの小さな側面を明示して、それから実装する。ビヘイビアをスペック化しているのであって、テストを書いているのではないと気づいたとき、世界の見方が変わる。突如として、テストクラスをプロダクトクラス毎につくらないといけないなんてバカバカしいと思うようになる。メソッド毎にテストメソッドを(1:1の関係で)書くなんて笑っちゃうような話だと思うようになる。</p>
 
-<h2 id="section-5">サピア-ウォーフの仮説</h2>
+<h2>サピア-ウォーフの仮説</h2>
 
-<p>最初に背景みたいなものとして、Wikipedia <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> の定義を記しておく。:</p>
-
-<pre><code>言語が思考に影響を与えるという原則は、Wilhelm von Humboldtのエッセイ
+<p>最初に背景みたいなものとして、Wikipedia <a href=":">^4</a> の定義を記しておく。:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">言語が思考に影響を与えるという原則は、Wilhelm von Humboldtのエッセイ
 『Uber das vergleichende Sparachstudium』に遡ることができる。
 その概念は西洋の考えに広く取り込まれている。
-</code></pre>
-
+</code></pre></div>
 <p>私の意見の元となっているその仮説は、後に言語学者及び文化人類学者である、Edward
 Sapirと、彼の同僚であり生徒でもあるBenjamin
 Whorfによって名付けられた。それは次のような主張だ。</p>
 
 <blockquote>
-  <p>人が話す言語の文法カテゴリと、人がどのように世界を理解し行動を起すかとの間には体系だった関係がある</p>
+<p>人が話す言語の文法カテゴリと、人がどのように世界を理解し行動を起すかとの間には体系だった関係がある</p>
 </blockquote>
 
-<p>つまり私が言いたいことは、使用する言語が考え方を決める…
+<p>つまり私が言いたいことは、使用する言語が考え方を決める...
 ならば、考え方を変えたいのであれば、まずは使用する言語を変えたほうがよい、ということだ。</p>
 
-<h2 id="section-6">ではどうしろと？</h2>
+<h2>ではどうしろと？</h2>
 
 <p>まずテストの用語で考えるのをやめよう。Bob
 Martinはテストについて数年前にこう語った。「仕様である。検証ではない」。彼が言わんとしていることは、次のような内容である。検証(テスティング)とはコードが正しく機能しているかを確かめる(検証する)ことである。一方、仕様とはコードがどのように動くのが正しいのかを定義する(スペック化する)ことである。
-<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup></p>
+[^5]</p>
 
 <p>xUnitのようなテスティングフレームワークを使うと、テストの用語から離れるのは難しい。テスト中心の言語で構成されているのだから当然だ。ビヘイビアを仕様化するための新しいフレームワークで始める必要がある。ThoughtWorks社のDan
-Northは、このためにjBehaveプロジェクトを開始した。 <sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup>
-筆者と数名はRuby上のビヘイビア仕様フレームワークであるrSpec <sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup>
+Northは、このためにjBehaveプロジェクトを開始した。 [^6]
+筆者と数名はRuby上のビヘイビア仕様フレームワークであるrSpec [^7]
 を立ち上げた。rSpecについては、以降で詳細に見ていくことにする。</p>
 
-<h2 id="section-7">ビヘイビア仕様フレームワーク</h2>
+<h2>ビヘイビア仕様フレームワーク</h2>
 
 <p>では、ビヘイビアの仕様とはどのようなものだろう？
 パッと見はこれまでのxUnitと変わらないようにみえるだろうし、実際のところ、語彙の違いを除けば今までと同じように使える。TestCaseをサブクラス化する代わりに、Contextをサブクラス化する。メソッドの先頭を「test」で始める代わりに「should」とする。命名規約に煩わされすに適切な名前を選ぶことができる、こちらのほうが好ましいだろう。</p>
@@ -297,7 +275,7 @@ Northは、このためにjBehaveプロジェクトを開始した。 <sup id="f
 <p>アサーション(例えばassertEquals(期待値,
 実績値))による検証を行う代わりに、shouldBeEqual(実績値,
 期待値)のような事後条件をスペック化する。SmalltalkやRubyでは、クラスライブラリの中に組み込んでしまえば
-<sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup> 、もっと自然に書けるだろう(Smalltalkでは、ごく普通のやり方だ)。</p>
+[^8] 、もっと自然に書けるだろう(Smalltalkでは、ごく普通のやり方だ)。</p>
 
 <p>次の表の例のように記述できる。</p>
 
@@ -305,127 +283,48 @@ Northは、このためにjBehaveプロジェクトを開始した。 <sup id="f
   
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th>JUNIT</th>
-      <th>SBSPEC</th>
-      <th>RSPEC</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>assertEquals(expected,actual)</td>
-      <td>actual shouldEqual: expected</td>
-      <td>actual.should_equal expected</td>
-    </tr>
-    <tr>
-      <td>assertNull(result)</td>
-      <td>result shouldBeNil</td>
-      <td>result.should_be_nil</td>
-    </tr>
-  </tbody>
-</table>
+<p>|JUNIT                 |SBSPEC                  |RSPEC
+|----------------------|------------------------|------------------------
+|assertEquals(expected,actual)|actual shouldEqual: expected |actual.should_equal expected
+|assertNull(result)    |result shouldBeNil      |result.should_be_nil</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>JUNIT</th>
-      <th>SBSPEC</th>
-      <th>RSPEC</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>try {</td>
-      <td>[2 / 0] shouldThrow:     {2 / 0}.should_throw</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>2 / 0;</td>
-      <td>DivideByZero             DivideByZero</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>fail();</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>} catch (DivideByZ</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>ero ex) {</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>}</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-  </tbody>
-</table>
+<p>JUNIT                 |SBSPEC                  |RSPEC
+----------------------|------------------------|-------------------------
+    try {             |[2 / 0] shouldThrow:     {2 / 0}.should_throw
+      2 / 0;          |DivideByZero             DivideByZero
+      fail();         |<br>
+    } catch (DivideByZ|<br>
+ero ex) {             |<br>
+    }                 |                         </p>
 
-<h2 id="section-8">今は何があるの？</h2>
+<h2>今は何があるの？</h2>
 
 <p>既に述べたように、Dan
-Northが始めたjBehaveプロジェクトで作っているjUnitの代替となるビヘイビア仕様のフレームワークがある。今すぐにダウンロードして試してみることができる。もしRubyを使っているならば、rSpecフレームワークが使える。rSpecの記述では、次のようなメソッド群がどのオブジェクトからも呼ぶことができる…ここがポイントなのだ…
+Northが始めたjBehaveプロジェクトで作っているjUnitの代替となるビヘイビア仕様のフレームワークがある。今すぐにダウンロードして試してみることができる。もしRubyを使っているならば、rSpecフレームワークが使える。rSpecの記述では、次のようなメソッド群がどのオブジェクトからも呼ぶことができる...ここがポイントなのだ...
 <strong>どのオブジェクトからも</strong> 、だ :</p>
 
 <ul>
-  <li>
-    <p>should_equal(expected)</p>
-  </li>
-  <li>
-    <p>should_not_equal(expected)</p>
-  </li>
-  <li>
-    <p>should_be_same_as(expected)</p>
-  </li>
-  <li>
-    <p>should_not_be_same_as(expected)</p>
-  </li>
-  <li>
-    <p>should_match(expected)</p>
-  </li>
-  <li>
-    <p>should_not_match(expected)</p>
-  </li>
-  <li>
-    <p>should_be_nil()</p>
-  </li>
-  <li>
-    <p>should_not_be_nil()</p>
-  </li>
-  <li>
-    <p>should_be_empty()</p>
-  </li>
-  <li>
-    <p>should_not_be_empty()</p>
-  </li>
-  <li>
-    <p>should_include(sub)</p>
-  </li>
-  <li>
-    <p>should_not_include(sub)</p>
-  </li>
-  <li>
-    <p>should_be_true()</p>
-  </li>
-  <li>
-    <p>should_be_false()</p>
-  </li>
+<li><p>should_equal(expected)</p></li>
+<li><p>should_not_equal(expected)</p></li>
+<li><p>should_be_same_as(expected)</p></li>
+<li><p>should_not_be_same_as(expected)</p></li>
+<li><p>should_match(expected)</p></li>
+<li><p>should_not_match(expected)</p></li>
+<li><p>should_be_nil()</p></li>
+<li><p>should_not_be_nil()</p></li>
+<li><p>should_be_empty()</p></li>
+<li><p>should_not_be_empty()</p></li>
+<li><p>should_include(sub)</p></li>
+<li><p>should_not_include(sub)</p></li>
+<li><p>should_be_true()</p></li>
+<li><p>should_be_false()</p></li>
 </ul>
 
 <p>全てのエクスペクテーションメソッドはオプションでメッセージをパラメータとして受けつける。setup及びteadownメソッドはxUnitと同じく上書き可能で、全く同じ挙動をする。
 では、ビヘイビア仕様はどんな風になるだろうか？　ここに筆者のTDD本に含まれている例題をrSpec向けに書き直してみよう。</p>
-
-<pre><code>require 'spec'
-require 'movie'
-require 'movie_list'
+<div class="highlight"><pre><code class="language-text" data-lang="text">require &#39;spec&#39;
+require &#39;movie&#39;
+require &#39;movie_list&#39;
 class EmptyMovieList &lt; Spec::Context
   def setup
     @list = MovieList.new
@@ -434,84 +333,73 @@ class EmptyMovieList &lt; Spec::Context
     @list.size.should_equal 0
   end
   def should_not_include_star_wars
-    @list.should_not_include "Star Wars"
+    @list.should_not_include &quot;Star Wars&quot;
   end 
 end
 
 class OneMovieList &lt; Spec::Context
   def setup
     @list = MovieList.new
-    star_wars = Movie.new "Star Wars"
+    star_wars = Movie.new &quot;Star Wars&quot;
     @list.add star_wars
   end 
   def should_have_size_of_1
     @list.size.should_equal 1
   end
   def should_include_star_wars
-    @list.should_include "Star Wars"
+    @list.should_include &quot;Star Wars&quot;
   end
 end
-</code></pre>
-
-<h2 id="section-9">ガイドライン</h2>
+</code></pre></div>
+<h2>ガイドライン</h2>
 
 <p>コンテキストクラスは何に着目しているかに応じて命名する。例えば、EmptyMovieListやOneMoviewListのようになる。コンテキストには直接関連するスペックメソッドだけを含める。スペックメソッドは仕様のどこに焦点を当てているかを表わすように命名する。例えば、should_have_size_of_0
 のようになる。コンテキストクラスとエクスペクテーションメソッドは読みやすくすべきであり、何をやろうとしているのかが正確にわかるように命名すべきだ。例えば「EmptyMovieList.should_have_size_of_0」といったように。</p>
 
 <p>ちょっと考えてみれば、ビヘイビアから仕様書を作成するのがどんなに簡単かがわかると思う。スペックメソッドは単純で、短かく、どうなれば良いかが明確になっているべきだ。あるエクスペクテーションは、他に言いようもないほどに、実装すべきものを明確に指し示しているべきだ。シンプルなのは良いことだ。大きく肥大化したクラスと、長く複雑なメソッドが少しあるよりも、小さく単純で、焦点の絞られた理解しやすいクラスとメソッドが数多くあるほうが遥かに素晴しい。</p>
 
-<h2 id="section-10">まとめ</h2>
+<h2>まとめ</h2>
 
 <p>私がTDDに対して抱いている問題とは、TDDのマインドセットが我々を本来とは異なる方向性、つまり間違った方向性へと導いてしまうということだ。我々はビヘイビアを仕様化する用語を使って考え始める必要がある。テストによる検証の用語ではなく。ビヘイビア仕様の用語で考えることで、それぞれのビヘイビアについてより明確に考えるようになる。クラス毎やメソッド毎のテストという考え方に頼らなくなり、より優れた実行可能なドキュメントを手にすることができるようになる。</p>
 
 <p>TDDはTDDであり、誰もその名前の意味を変えようとはしない(それを期待すべきではないし、そうしてもらいたいわけでもない)。新しいやり方には新しい名前が必要だ。これにはDan
 Northが考えてくれた名前がある……それがBDD、ビヘイビア駆動開発だ。</p>
 
-<h3 id="section-11">謝辞</h3>
+<h3>謝辞</h3>
 
 <p>Steven Baker、Gabriel Bauman、そしてAslak
 Hellesoyには本稿の初稿を取り上げてくれ、私の考えをrubyのフレームワークによって具現化してくれたことに感謝する。</p>
 
-<hr />
+<hr>
+<div class="highlight"><pre><code class="language-text" data-lang="text">[http://bdn.borland.com/article/0,1410,29690,00.html](http://bdn.borland.com/article/0,1410,29690,00.html)
+&quot;What is Test-Driven Development?&quot;
+</code></pre></div>
+<p>[^2]: : [訳注] 原文はtext classesとなっている。多分 text ではなく test
+    classes</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">[http://blog.daveastels.com/?p=3](http://blog.daveastels.com/?p=3)
 
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>:
-<a href="http://bdn.borland.com/article/0,1410,29690,00.html">http://bdn.borland.com/article/0,1410,29690,00.html</a>
-“What is Test-Driven Development?” <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>: [訳注] 原文はtext classesとなっている。多分 text ではなく test
-classes <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>:
-<a href="http://blog.daveastels.com/?p=3">http://blog.daveastels.com/?p=3</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:4">
-      <p>:
-<a href="http://en.wikipedia.org/wiki/Sapir-Whorf_hypothesis">http://en.wikipedia.org/wiki/Sapir-Whorf_hypothesis</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:5">
-      <p>: [訳注]
-検証は仕様通りかを確認するが、仕様そのものではないということである。 <a href="#fnref:5" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:6">
-      <p>: <a href="http://jbehave.codehaus.org">http://jbehave.codehaus.org</a>/ <a href="#fnref:6" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:7">
-      <p>: <a href="http://rspec.rubyforge.org">http://rspec.rubyforge.org</a>/ <a href="#fnref:7" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:8">
-      <p>: [訳注]
-Smalltalkはクラスライブラリを拡張する形で開発をすすめる。Rubyの場合はObjectクラスに振舞いの定義を追加することができる。 <a href="#fnref:8" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+
+[http://en.wikipedia.org/wiki/Sapir-Whorf\_hypothesis](http://en.wikipedia.org/wiki/Sapir-Whorf_hypothesis)
+</code></pre></div>
+<p>[^5]: : [訳注]
+    検証は仕様通りかを確認するが、仕様そのものではないということである。</p>
+
+<p>[^6]: : <a href="http://jbehave.codehaus.org">http://jbehave.codehaus.org</a>/</p>
+
+<p>[^7]: : <a href="http://rspec.rubyforge.org">http://rspec.rubyforge.org</a>/</p>
+
+<p>[^8]: : [訳注]
+    Smalltalkはクラスライブラリを拡張する形で開発をすすめる。Rubyの場合はObjectクラスに振舞いの定義を追加することができる。</p>
 
 					<h3>[関連する記事]</h3>
-<ul>
+
+<ul class="related_post">
+
+</ul>
+<ul class="related_post">
+
+</ul>
+<ul class="related_post">
 
 </ul>
 </p>

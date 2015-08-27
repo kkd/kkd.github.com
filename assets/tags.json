@@ -1,0 +1,437 @@
+{
+    "tags": [
+        
+        "tool",
+        
+        "ツール",
+        
+        "jekyll",
+        
+        "editor",
+        
+        "エディター",
+        
+        "sublime text",
+        
+        "software development",
+        
+        "ソフトウェア開発",
+        
+        "essay",
+        
+        "エッセイ",
+        
+        "Running Lean",
+        
+        "TDD",
+        
+        "devlove",
+        
+        "agile",
+        
+        "アジャイル",
+        
+        "shikoku",
+        
+        "四国",
+        
+        "event",
+        
+        "イベント",
+        
+        "pattern language",
+        
+        "パタン・ランゲージ",
+        
+        "震災",
+        
+        "agilejapan",
+        
+        "アジャイルジャパン",
+        
+        "agile459",
+        
+        "愛媛",
+        
+        "ehime",
+        
+        "登壇",
+        
+        "presentation",
+        
+        "島根",
+        
+        "shimane",
+        
+        "pfp",
+        
+        "プロジェクトファシリテーション",
+        
+        "Tokyo",
+        
+        "東京",
+        
+        "SystemsThinking",
+        
+        "システム思考",
+        
+        "Keynote",
+        
+        "MacOSX",
+        
+        "Marverick",
+        
+        "retrospective",
+        
+        "ふりかえり",
+        
+        "2013年",
+        
+        "sendai",
+        
+        "仙台",
+        
+        "ipa",
+        
+        "workshop",
+        
+        "ワークショップ",
+        
+        "rocketstove",
+        
+        "ロケットストーブ",
+        
+        "Ehime",
+        
+        "permaculture",
+        
+        "パーマカルチャー",
+        
+        "Seminar",
+        
+        "セミナー",
+        
+        "Event",
+        
+        "ProductOwner",
+        
+        "プロダクトオーナー",
+        
+        "地方",
+        
+        "running",
+        
+        "ランニング",
+        
+        "web service",
+        
+        "Webサービス",
+        
+        "徳島",
+        
+        "tokushima",
+        
+        "local",
+        
+        "リモートワーク",
+        
+        "workstyle",
+        
+        "ワークスタイル",
+        
+        "lifestyle",
+        
+        "ライフスタイル",
+        
+        "book",
+        
+        "書籍",
+        
+        "review",
+        
+        "レビュー",
+        
+        "startup",
+        
+        "スタートアップ",
+        
+        "community",
+        
+        "コミュニティ",
+        
+        "XP祭り",
+        
+        "XP",
+        
+        "宣伝",
+        
+        "XP白本",
+        
+        "ideathon",
+        
+        "アイデアソン",
+        
+        "松山",
+        
+        "matsuyama",
+        
+        "レポート",
+        
+        "report",
+        
+        "UAS",
+        
+        "Ultimate Agile Stories",
+        
+        "アジャイル同人誌",
+        
+        "寄稿",
+        
+        "記事",
+        
+        "kpt",
+        
+        "diet",
+        
+        "減量",
+        
+        "weight loss",
+        
+        "presantation",
+        
+        "tokyo",
+        
+        "Agile Tour Osaka",
+        
+        "osaka",
+        
+        "大阪",
+        
+        "buglego",
+        
+        "バグレゴ",
+        
+        "practice",
+        
+        "プラクティス",
+        
+        "marathon",
+        
+        "マラソン",
+        
+        "race",
+        
+        "レース",
+        
+        "Osaka",
+        
+        "xp",
+        
+        "kamiyama",
+        
+        "神山",
+        
+        "kaimyama.rb",
+        
+        "ux",
+        
+        "designthinking",
+        
+        "デザイン思考",
+        
+        "ダイエット",
+        
+        "failure story",
+        
+        "失敗談",
+        
+        "食事療法",
+        
+        "food method",
+        
+        "cycling",
+        
+        "サイクリング",
+        
+        "自転車",
+        
+        "運動",
+        
+        "fitness",
+        
+        "自転車通勤",
+        
+        "masarl",
+        
+        "まさーるさん",
+        
+        "memories",
+        
+        "思い出",
+        
+        "福知山線事故",
+        
+        "life style",
+        
+        "裸足ランニング",
+        
+        "barefoot running",
+        
+        "OGP",
+        
+        "Tool",
+        
+        "facebook",
+        
+        "web",
+        
+        "offgridcafe",
+        
+        "オフグリッドカフェ",
+        
+        "DIY",
+        
+        "自作",
+        
+        "MYJ",
+        
+        "ライフハック",
+        
+        "Life Hack",
+        
+        "スタンディングデスク",
+        
+        "Standing Desk",
+        
+        "ワークスペース",
+        
+        "workspace",
+        
+        "改善",
+        
+        "Hack",
+        
+        "健康",
+        
+        "生き物",
+        
+        "creature",
+        
+        "写真",
+        
+        "photo",
+        
+        "自然",
+        
+        "nature",
+        
+        "仕事",
+        
+        "works",
+        
+        "人生",
+        
+        "Life",
+        
+        "ダイアグラム",
+        
+        "diagram",
+        
+        "ビジュアルシンキング",
+        
+        "Visual Thinking",
+        
+        "生きがい",
+        
+        "purpose",
+        
+        "家庭菜園",
+        
+        "Home Gardening",
+        
+        "雑草",
+        
+        "Weed",
+        
+        "Permaculture",
+        
+        "お知らせ",
+        
+        "blog",
+        
+        "ハック",
+        
+        "Jekyll",
+        
+        "JavaScript",
+        
+        "BlogCard",
+        
+        "ブログカード",
+        
+        "地方ネタ",
+        
+        "Local",
+        
+        "Matsuyama",
+        
+        "移動手段",
+        
+        "四国のみち",
+        
+        "トレイルランニング",
+        
+        "漢字",
+        
+        "日本語",
+        
+        "リーンスタートアップ",
+        
+        "leanstartup",
+        
+        "プロダクト開発",
+        
+        "顧客開発",
+        
+        "Running",
+        
+        "R459M",
+        
+        "山",
+        
+        "コワーキング",
+        
+        "起業",
+        
+        "思考実験",
+        
+        "問題解決",
+        
+        "sozo",
+        
+        "ミーティング",
+        
+        "創発",
+        
+        "創造",
+        
+        "ユーザーストーリーマッピング",
+        
+        "デザイン",
+        
+        "ヘルシープログラマー",
+        
+        "ローカル",
+        
+        "交通事情",
+        
+        "相互交流",
+        
+        "Graphviz",
+        
+        "Gviz",
+        
+        "Gruff"
+        
+    ]
+}

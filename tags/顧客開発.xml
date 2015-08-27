@@ -3,7 +3,7 @@
  <title>Your Title - 顧客開発</title>
  <link href="http://giantech.jp/tags/%E9%A1%A7%E5%AE%A2%E9%96%8B%E7%99%BA.xml" rel="self"/>
  <link href="http://giantech.jp/tag/顧客開発.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/顧客開発.html</id>
  <author>
    <name>Author Here</name>
@@ -16,34 +16,33 @@
    <id>http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are</id>
    <content type="html">&lt;p&gt;今年になって、研修の中で使用している図を２月に公開していたのですが、解説を忘れていたので５ヶ月ぶりに更新して解説してみます。&lt;/p&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/BY7YK69ENFNLup&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/customer-product-matrix&quot; title=&quot;Customer Product Matrix&quot; target=&quot;_blank&quot;&gt;Customer Product Matrix&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/BY7YK69ENFNLup&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/customer-product-matrix&quot; title=&quot;Customer Product Matrix&quot; target=&quot;_blank&quot;&gt;Customer Product Matrix&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
-&lt;p&gt;この図は、「スタートアップ・マニュアル」などの著作で有名なスティーブン・ブランクの顧客開発のプロセスを参考に、一般的な製品開発プロセスと顧客開発プロセスをマトリックスで表現してみました。&lt;strong&gt;Customer Product Matrix&lt;/strong&gt;と名づけましたが、あまりよい名前ではないかもしれません。&lt;/p&gt;
+この図は、「スタートアップ・マニュアル」などの著作で有名なスティーブン・ブランクの顧客開発のプロセスを参考に、一般的な製品開発プロセスと顧客開発プロセスをマトリックスで表現してみました。**Customer Product Matrix**と名づけましたが、あまりよい名前ではないかもしれません。
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4798128511&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4798128511&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;この図では「Product Development」とありますが、ここをビジネス開発と言い換えても通用するのでご自身の文脈にしたがって読み替えてください。&lt;/p&gt;
 
 &lt;p&gt;（2/10アップロード版だと、Product Developemntのプロセスの右端がrevenueになっていましたが、7/10更新版ではscaleにしました。&lt;em&gt;created customer&lt;/em&gt; と &lt;em&gt;scaled product&lt;/em&gt;が目指す目標（revenue）をイメージしました。）&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;よくある失敗パターン&lt;/h2&gt;
+&lt;h2&gt;よくある失敗パターン&lt;/h2&gt;
 
 &lt;p&gt;典型的な失敗パターンは、このマトリックスで言う所の &lt;strong&gt;assumption&lt;/strong&gt;のまま、上にあがらずに、横に進んでしまうパターンです。この場合は製品の&lt;strong&gt;launch&lt;/strong&gt;までは予算などがあれば進むことができます。&lt;/p&gt;
 
 &lt;p&gt;しかしその後、上方向への移動（顧客開発）や、横方向への移動（スケール）がうまくいかずに終わってしまう可能性が高いです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_failure.png&quot; alt=&quot;失敗パターン&quot; title=&quot;失敗パターン&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_failure.png&quot; alt=&quot;失敗パターン&quot; title=&quot;失敗パターン&quot;&gt;{:.mid}&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;アジャイルの場合&lt;/h2&gt;
+&lt;h2&gt;アジャイルの場合&lt;/h2&gt;
 
 &lt;p&gt;アジャイルの場合はどうでしょうか？現在ではリーンスタートアップのプロセスとアジャイル開発のプロセスの明確な線引きは困難ですが、リーンスタートアップ以前のアジャイルのイメージは、どちらかというと、横に進みながら（develop)、上方向にも向かうというルートを描くと考えます。&lt;/p&gt;
 
 &lt;p&gt;理由は、すべてを最初から上方向に進むこと自体が、文脈によっては&lt;strong&gt;非現実的&lt;/strong&gt;だと考えるからです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_agile.png&quot; alt=&quot;アジャイル&quot; title=&quot;アジャイル&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_agile.png&quot; alt=&quot;アジャイル&quot; title=&quot;アジャイル&quot;&gt;{:.mid}&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;リーンスタートアップの場合&lt;/h2&gt;
+&lt;h2&gt;リーンスタートアップの場合&lt;/h2&gt;
 
 &lt;p&gt;リーンスタートアップの場合は、このマトリックスを横に進むのでなく、先に上方向に進もうと試行錯誤を繰り返すイメージです。一直線に上に行くのではなく、螺旋を描くように徐々に上方向へ進んでいきます。&lt;/p&gt;
 
@@ -53,9 +52,9 @@
 
 &lt;p&gt;よりできるだけ開発を遅らせて、確実に上に挙がった（ニーズの確度が高い）もののみ一気に作るイメージです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_lean.png&quot; alt=&quot;リーンスタートアップ&quot; title=&quot;リーン&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_lean.png&quot; alt=&quot;リーンスタートアップ&quot; title=&quot;リーン&quot;&gt;{:.mid}&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;リスクはどこにあるか？&lt;/h2&gt;
+&lt;h2&gt;リスクはどこにあるか？&lt;/h2&gt;
 
 &lt;p&gt;もちろん、実際の進め方はこのモデルのように直線ではいかず、ぐるぐると螺旋を描いていくはずです。&lt;/p&gt;
 
@@ -65,11 +64,11 @@
 
 &lt;p&gt;問題にすべきは、&lt;em&gt;現在どのような状況なのか&lt;/em&gt;、&lt;em&gt;リスクは何で、どこに潜んでいるのか&lt;/em&gt;、&lt;em&gt;優先すべきはどのリスクへの対応なのか&lt;/em&gt;という文脈を把握して、&lt;strong&gt;その文脈に適したやり方を選択できている・選択しようとしているか&lt;/strong&gt;どうかだけです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_where_is_risk.png&quot; alt=&quot;リスクはどこか？&quot; title=&quot;リスクはどこか？&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150710/cpm_where_is_risk.png&quot; alt=&quot;リスクはどこか？&quot; title=&quot;リスクはどこか？&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;このマトリクスをより細分化してみても良いですし、よりドメインに特化したマトリクスを作って考えてみてもよいと思います。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;まとめ&lt;/h2&gt;
+&lt;h2&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;この&lt;strong&gt;Customer Product Matrix&lt;/strong&gt;は、実際にあなたのビジネス・製品が、このマトリックス上のどこにいるのか、どのように進むべきかを考えるきっかけになればと思い考案しました。&lt;/p&gt;
 

@@ -154,21 +154,21 @@
 </div>
 					</div>
 					<br/>
-					<p><img src="/assets/images/20150521/sns.jpg" alt="Eyecatch" /></p>
+					<p><img src="/assets/images/20150521/sns.jpg" alt="Eyecatch"/></p>
 
-<h2 id="section">きっかけ</h2>
+<h2>きっかけ</h2>
 
 <p>このサイトは<a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a>ベースでテンプレートを生成した後、カスタマイズしたものをGithub Pagesに置いて公開していた。<a href="http://jekyllrb.com/">Jekyll</a>単体では標準ではOGPに対応しておらず、プラグインもなさげだったので、OGP非対応のまま数年が過ぎていた。当初はあまり気にしていなかったが、さすがにこのままでは格好悪いよね、ということでOGP対応に取り組むことにした。</p>
 
-<h2 id="section-1">参考にしたサイト</h2>
+<h2>参考にしたサイト</h2>
 
 <ul>
-  <li><a href="http://kawaken.github.io/memo/2013/08/30/OGP%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%8BSNS%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F.html">OGPの設定とかSNS関係のところ修正した</a></li>
-  <li><a href="https://gist.github.com/pathawks/1406355">Open Graph for Jekyll</a></li>
-  <li><a href="http://www.agilegroup.co.jp/technote/magnolia-ogp.html">WebサイトにOpen Graph Protocol (OGP) 設定を追加する</a></li>
+<li><a href="http://kawaken.github.io/memo/2013/08/30/OGP%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%8BSNS%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F.html">OGPの設定とかSNS関係のところ修正した</a></li>
+<li><a href="https://gist.github.com/pathawks/1406355">Open Graph for Jekyll</a></li>
+<li><a href="http://www.agilegroup.co.jp/technote/magnolia-ogp.html">WebサイトにOpen Graph Protocol (OGP) 設定を追加する</a></li>
 </ul>
 
-<h2 id="section-2">やったこと</h2>
+<h2>やったこと</h2>
 
 <p>上記のサイトのスニペットをベースに、トップページの場合と、各記事の場合の２パターンで、それぞれog:type、og:image、og:descriptionの内容を切り換えるように設定した。</p>
 
@@ -177,58 +177,50 @@
 <p>最初はogp.html内でif文書いてケース分けしていたが、かなり見苦しいので、各ケースをextract fileしてogp.htmlではincludeだけするようにした。</p>
 
 <p>ogp.html:</p>
-
-<pre><code>&lt;meta property="og:type" content="{% include ogp/type.html %}" /&gt;
-&lt;meta property="og:url" content="{{ site.url }}{{ page.url }}" /&gt;
-&lt;meta property="og:description" content="{% include ogp/desc.html %}" /&gt;
-&lt;meta property="og:site_name" content="{{ site.title }}" /&gt;
-&lt;meta property="og:title" content="{% include ogp/title.html %}" /&gt;
-&lt;meta property="og:image" content="{% include ogp/image.html %}" /&gt;
-&lt;meta property="article:published_time" content="{% include ogp/date.html %}" /&gt;
-&lt;meta property="article:author" content="http://www.facebook.com/{{ site.author.facebook }}" /&gt;
-</code></pre>
-
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;meta property=&quot;og:type&quot; content=&quot;{% include ogp/type.html %}&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;{{ site.url }}{{ page.url }}&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;{% include ogp/desc.html %}&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;{{ site.title }}&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;{% include ogp/title.html %}&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;{% include ogp/image.html %}&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;{% include ogp/date.html %}&quot; /&gt;
+&lt;meta property=&quot;article:author&quot; content=&quot;http://www.facebook.com/{{ site.author.facebook }}&quot; /&gt;
+</code></pre></div>
 <p>ogp/image.html(実際には改行は含めていない):</p>
-
-<pre><code>{% if page.image %}
+<div class="highlight"><pre><code class="language-text" data-lang="text">{% if page.image %}
     {% capture page_image %}{{ page.image }}{% endcapture %}
 {% else %}
-    {% capture page_image %}{{ site.url }}/assets/logo.png"{% endcapture %}
+    {% capture page_image %}{{ site.url }}/assets/logo.png&quot;{% endcapture %}
 {% endif %}
 {{ page_image }}
-</code></pre>
-
+</code></pre></div>
 <p>ogp/type.html(実際には改行は含めていない):</p>
-
-<pre><code>{% if page.title == site.title %}
+<div class="highlight"><pre><code class="language-text" data-lang="text">{% if page.title == site.title %}
     {% capture page_type %}website{% endcapture %}
 {% else %}
     {% capture page_type %}article{% endcapture %}
 {% endif %}
 {{ page_type }}
-</code></pre>
-
-<h2 id="twittercard">ついでにTwitterCard</h2>
+</code></pre></div>
+<h2>ついでにTwitterCard</h2>
 
 <p>元々はOGP対応だけしようと思っていたが、ついでにTwitterCardにも対応した。OGPのインクルードファイルを利用して以下のように記載。</p>
 
 <p>twittercard.html:</p>
-
-<pre><code>&lt;meta name="twitter:card" content="summary"&gt;
-&lt;meta name="twitter:site" content="@kkd"&gt;
-&lt;meta name="twitter:title" content="{% include ogp/title.html %}"&gt;
-&lt;meta name="twitter:url" content="{{ site.url }}{{ page.url }}"&gt;
-&lt;meta name="twitter:description" content="{% include ogp/desc.html  %}"&gt;
-&lt;meta name="twitter:image" content="{% include ogp/image.html %}"&gt;
-</code></pre>
-
-<h2 id="section-3">キャッシュが残っていて困った</h2>
+<div class="highlight"><pre><code class="language-text" data-lang="text">&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot;&gt;
+&lt;meta name=&quot;twitter:site&quot; content=&quot;@kkd&quot;&gt;
+&lt;meta name=&quot;twitter:title&quot; content=&quot;{% include ogp/title.html %}&quot;&gt;
+&lt;meta name=&quot;twitter:url&quot; content=&quot;{{ site.url }}{{ page.url }}&quot;&gt;
+&lt;meta name=&quot;twitter:description&quot; content=&quot;{% include ogp/desc.html  %}&quot;&gt;
+&lt;meta name=&quot;twitter:image&quot; content=&quot;{% include ogp/image.html %}&quot;&gt;
+</code></pre></div>
+<h2>キャッシュが残っていて困った</h2>
 
 <p>既にfb上で投稿した記事については、FacebookのDebuggerで確認してもOGP対応されて表示されなかったし、デバッガ上でFetch new scrape informationをしても駄目。半ば諦めていたが、POST送信によるキャッシュクリアを試してみたらクリアできたみたいで一安心。以下のサイトからできた。</p>
 
 <p>http://www.kagua.biz/fb/cacheclear.html</p>
 
-<h2 id="section-4">感想</h2>
+<h2>感想</h2>
 
 <p>もう少しスマートにできる気もするが、まぁ今の時点ではOGP対応ができればよかったので満足。</p>
 
@@ -236,12 +228,11 @@
 
 <p>しかし、こういうことをしていると、どんどん<a href="https://github.com/Shopify/liquid/wiki">Liquid</a>を活用したくなってしまうが、こういったTemplate系の実装は黒魔術になりそうなのであまり手出しはしたくない。</p>
 
-<h2 id="section-5">おまけ</h2>
+<h2>おまけ</h2>
 
 <p>この記事にJekyllのテンプレート部分をコードブロックで埋め込んだが、どうもLiquid記法の部分がエスケープされずに置換されてしまっていたためうまく表示できなかった。</p>
 
 <p>LiquidでRawフォーマットで表示するには、rawタグで囲む必要があるので気をつけよう。<a href="http://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags">How to escape liquid tempalte tags</a>を参照のこと。</p>
-
 
 					<div class="meta">
 						<p class="date-publish">
@@ -262,7 +253,7 @@
   
      
     	<li><a href="/categories.html#creative-ref">
-    		creative <span>15</span>
+    		creative <span>14</span>
     	</a></li>
     
   
@@ -305,15 +296,29 @@
 	</script>
 </div>
 						<h3>[関連する記事]</h3>
-<ul>
 
-  <li>2013/04/01　<a href="/2013/04/01/little-by-little">little by little</a></li>
+<ul class="related_post">
 
-  <li>2013/03/27　<a href="/2013/03/27/restart-blogging">日記を再開</a></li>
+	
+		
+	
+  <li><a href="/2013/04/01/little-by-little"><img src="http://giantech.jp/assets/logo_cghll.png" width="142" height="100"/>2013/04/01<br/>little by little</a></li>
 
-  <li>2015/06/10　<a href="/2015/06/10/use-blogcard-on-jekyll">自分のサイト上で外部リンクをFacebookの画像つきリンクっぽく表示する方法</a></li>
+	
+		
+	
+  <li><a href="/2013/03/27/restart-blogging"><img src="http://giantech.jp/assets/logo_cghll.png" width="142" height="100"/>2013/03/27<br/>日記を再開</a></li>
 
-  <li>2015/05/29　<a href="/2015/05/29/creatures-photo-group">生き物写真共有グループを一年運営して気づいた世界の魅力</a></li>
+</ul>
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2015/05/29/creatures-photo-group"><img src="http://giantech.jp/assets/images/20150529/cover.jpg" width="142" height="100"/>2015/05/29<br/>生き物写真共有グループを一年運営して気づいた世界の魅力</a></li>
+
+</ul>
+<ul class="related_post">
 
 </ul>
 </p>

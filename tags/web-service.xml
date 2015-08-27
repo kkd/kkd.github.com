@@ -3,7 +3,7 @@
  <title>Your Title - web service</title>
  <link href="http://giantech.jp/tags/web-service.xml" rel="self"/>
  <link href="http://giantech.jp/tag/web service.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/web service.html</id>
  <author>
    <name>Author Here</name>
@@ -14,76 +14,75 @@
    <link href="http://giantech.jp/2015/03/10/evolution-of-tapiriik"/>
    <updated>2015-03-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/10/evolution-of-tapiriik</id>
-   <content type="html">
-&lt;p&gt;&lt;img src=&quot;/assets/images/tapiriik_201503_480x320.jpg&quot; alt=&quot;tapiriik 201503&quot; title=&quot;tapiriik2015&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/tapiriik_201503_480x320.jpg&quot; alt=&quot;tapiriik 201503&quot; title=&quot;tapiriik2015&quot;&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;tapiriik&quot;&gt;いつの間にかtapiriikが進化していた&lt;/h2&gt;
+&lt;h2&gt;いつの間にかtapiriikが進化していた&lt;/h2&gt;
 
 &lt;p&gt;昨年、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/B007M9281G/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=B007M9281G&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;SUUNTO Ambit&lt;/a&gt;を購入した後に&lt;a href=&quot;http://runkeeper.com/&quot;&gt;Runkeeper&lt;/a&gt;から&lt;a href=&quot;http://strava.com&quot;&gt;Strava&lt;/a&gt;に移行するときに御世話になった、各種フィットネスサービス間自動同期サービスの&lt;a href=&quot;http://tapiriik.com/&quot;&gt;Tapiriik&lt;/a&gt;が、ますます進化を遂げている。&lt;/p&gt;
 
 &lt;p&gt;昨年使用した時には、５種類程度しか対応していなかったサービスが、現在では全部で&lt;strong&gt;１２種類&lt;/strong&gt;のサービスに対応している。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://runkeeper.com/&quot;&gt;Runkeeper&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;老舗のフィットネスサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strava.com&quot;&gt;STRAVA&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;主に自転車・ランニングに特化したアプリ・サービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://connect.garmin.com/&quot;&gt;GARMIN&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;GPSウォッチのガーミンと連携するサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sporttracks.mobi/&quot;&gt;SportTracks&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;フィットネスサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dropbox.com&quot;&gt;Dropbox&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;クラウドファイルストレージ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://home.trainingpeaks.com/&quot;&gt;TRAINING PEAKS&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;特にトレーニング計画に着目したサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ridewithgps.com/&quot;&gt;RIDE with GPS&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;自転車用アプリ・サービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.endomondo.com/&quot;&gt;endomondo&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;老舗のフィットネスサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://motivato.pl/&quot;&gt;MOTIVATO&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;ポーランドのフィットネスサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.velohero.com/&quot;&gt;VELO HERO&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;自転車向けのフィットネスサービス。3D地図が綺麗。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.trainerroad.com/&quot;&gt;TRAINER ROAD&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;自転車の室内トレーナー向けサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://go-wellness.epson.com/runsense-view/user/view/login.html&quot;&gt;EPSON RUNSENSE&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;EPSONのGPSウォッチと連携するサービス&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://runkeeper.com/&quot;&gt;Runkeeper&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;老舗のフィットネスサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://strava.com&quot;&gt;STRAVA&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主に自転車・ランニングに特化したアプリ・サービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://connect.garmin.com/&quot;&gt;GARMIN&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GPSウォッチのガーミンと連携するサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sporttracks.mobi/&quot;&gt;SportTracks&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;フィットネスサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dropbox.com&quot;&gt;Dropbox&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;クラウドファイルストレージ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://home.trainingpeaks.com/&quot;&gt;TRAINING PEAKS&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;特にトレーニング計画に着目したサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ridewithgps.com/&quot;&gt;RIDE with GPS&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自転車用アプリ・サービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.endomondo.com/&quot;&gt;endomondo&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;老舗のフィットネスサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://motivato.pl/&quot;&gt;MOTIVATO&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ポーランドのフィットネスサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.velohero.com/&quot;&gt;VELO HERO&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自転車向けのフィットネスサービス。3D地図が綺麗。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.trainerroad.com/&quot;&gt;TRAINER ROAD&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自転車の室内トレーナー向けサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://go-wellness.epson.com/runsense-view/user/view/login.html&quot;&gt;EPSON RUNSENSE&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EPSONのGPSウォッチと連携するサービス&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;ざっと見た感じだと、自転車系のサービスが多い気がする。&lt;/p&gt;
@@ -92,12 +91,11 @@
 
 &lt;p&gt;使っている人が多いと思われる&lt;a href=&quot;https://secure-nikeplus.nike.com/plus/&quot;&gt;Nike+&lt;/a&gt;や、有料サービスでは一番人気じゃないかと思われる&lt;a href=&quot;http://www.runtastic.com&quot;&gt;Runtastic&lt;/a&gt;などは&lt;a href=&quot;http://tapiriik.com&quot;&gt;tapiriik&lt;/a&gt;では同期できないのは残念だ。(APIが提供されていない？)&lt;/p&gt;
 
-&lt;h2 id=&quot;applenike&quot;&gt;Apple、Nikeの動向も気になる&lt;/h2&gt;
+&lt;h2&gt;Apple、Nikeの動向も気になる&lt;/h2&gt;
 
 &lt;p&gt;昨日、&lt;a href=&quot;http://www.apple.com/jp/watch/&quot;&gt;Apple Watch&lt;/a&gt;が発表された。また先日は&lt;a href=&quot;http://getnews.jp/archives/853476&quot;&gt;NikeとGarminの提携ニュース&lt;/a&gt;も発表されたばかり。フィットネス関係のサービスやハードは、これからが本当の競争なのだろう。&lt;/p&gt;
 
 &lt;p&gt;私はそれでもしばらくはハードはAmbit、サービスは&lt;a href=&quot;http://strava.com&quot;&gt;STRAVA&lt;/a&gt;を中心に使うつもり。そして一年後にはAmbit3（あるいは後継機種）に移行したい。&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -106,12 +104,11 @@
    <link href="http://giantech.jp/2014/05/24/tapiriik"/>
    <updated>2014-05-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/05/24/tapiriik</id>
-   <content type="html">
-&lt;h2 id=&quot;section&quot;&gt;概要&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;概要&lt;/h2&gt;
 
 &lt;p&gt;各種運動アクティビティサービスの記録データを同期化するサービス&lt;a href=&quot;http://tapiriik.com&quot;&gt;tapiriik&lt;/a&gt;を使うと&lt;a href=&quot;http://runkeeper.com/&quot;&gt;Runkeeper&lt;/a&gt;や&lt;a href=&quot;http://strava.com&quot;&gt;STRAVA&lt;/a&gt;などの同様サービス間でワークアウトログが同期できる。特にSUUNTのスポーツウォッチを使っている人にはお勧め。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;背景&lt;/h2&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
 
 &lt;p&gt;2012/05からランニングを始めてもう2年が経った。
 はじめの頃は、3km走った翌日は筋肉痛で階段の上り下りが辛かったほどだったが、積み重ねるうちに、フルマラソンを走れるような体になった。&lt;/p&gt;
@@ -124,7 +121,8 @@
 
 &lt;p&gt;となると、Web上でのデータ管理とSNSへの共有の窓口という扱いになるが、実はSUUNTO社の製品は運動ログをPCに接続した後で自社のサービスである &lt;a href=&quot;http://movescount.com/&quot;&gt;MovesCount&lt;/a&gt;に自動的に転送しており、そこでもワークアウトの管理はできる。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;問題&lt;/h2&gt;
+&lt;h2&gt;問題&lt;/h2&gt;
+
 &lt;p&gt;これまで二年間のワークアウトログがあるので、メインの管理ツールはRunkeeperにしたい。&lt;/p&gt;
 
 &lt;p&gt;MovesCountに登録されたデータ(GPXを手動でダウンロードしてRunkeeperに登録していたが、MovesCountからダウンロードしたGPXをRunkeeperに登録しても、HR(心拍数)データがちゃんと登録されない。&lt;/p&gt;
@@ -133,16 +131,16 @@
 
 &lt;p&gt;&lt;strong&gt;Runkeeperにある過去データを含めて一元管理した上で、日々のワークログをMovesCountからSTRAVAのように簡単にRunkeeperに同期したいが手動でやるには面倒である。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;考慮すべき点&lt;/h2&gt;
+&lt;h2&gt;考慮すべき点&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;MovesCountのGPXデータには心拍数データも登録してあるはずだが、Runkeeperに登録すると反映されない&lt;/li&gt;
-  &lt;li&gt;STRAVAに転送されたワークログをGPXにしてから手動でRunkeeperに取込むとペースがおかしくなる。&lt;/li&gt;
-  &lt;li&gt;RunkeeperとSTRAVAのどっちをメインにしようか迷っている&lt;/li&gt;
-  &lt;li&gt;少なくともMovesCount以外のサービスを使いたい。&lt;/li&gt;
+&lt;li&gt;MovesCountのGPXデータには心拍数データも登録してあるはずだが、Runkeeperに登録すると反映されない&lt;/li&gt;
+&lt;li&gt;STRAVAに転送されたワークログをGPXにしてから手動でRunkeeperに取込むとペースがおかしくなる。&lt;/li&gt;
+&lt;li&gt;RunkeeperとSTRAVAのどっちをメインにしようか迷っている&lt;/li&gt;
+&lt;li&gt;少なくともMovesCount以外のサービスを使いたい。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;解決策&lt;/h2&gt;
+&lt;h2&gt;解決策&lt;/h2&gt;
 
 &lt;p&gt;tapiriikは、そんなファンランナーの悩みを解消してくれるサービスだ。各サービス間でアクティビティデータを同期してくれる。自分の場合は MovesCount -&amp;gt; STRAVA -&amp;gt; Runkeeper という流れになるので、MovesCountからSTRAVAへ同期されている日々のログをRunkeeperと同期することになる。&lt;/p&gt;
 
@@ -150,14 +148,13 @@
 
 &lt;p&gt;自分の場合は2年のデータだったので、同期自体にかなりの時間がかかったが、一度同期してしまえば後は差分でOKなのでものの数秒で終わる。自動同期は&lt;strong&gt;年間$2&lt;/strong&gt;でよいそうだ！手間をかけたくない人は払ってしまえばよい。というよりむしろtapiriikを基本無償で公開してくれている作者への寄付として払ってしまおう。(僕は払いました)。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;結果&lt;/h2&gt;
+&lt;h2&gt;結果&lt;/h2&gt;
 
 &lt;p&gt;ストレスがなくなった。そして実はRunkeeperに登録しているすべてのアクティビティログを同期によってSTRAVAに移すことができたので、メインサービス自体をRunkeeperからSTRAVAに移行することにした。&lt;/p&gt;
 
 &lt;p&gt;基本はSTRAVAからfacebookにシェアできるようになって、ランニングライフがより充実した。&lt;/p&gt;
 
 &lt;p&gt;同じような悩みを持つ方は是非お試しください。&lt;/p&gt;
-
 </content>
  </entry>
  

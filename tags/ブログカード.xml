@@ -3,7 +3,7 @@
  <title>Your Title - ブログカード</title>
  <link href="http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ブログカード.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/ブログカード.html</id>
  <author>
    <name>Author Here</name>
@@ -14,62 +14,62 @@
    <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll"/>
    <updated>2015-06-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/10/use-blogcard-on-jekyll</id>
-   <content type="html">&lt;h2 id=&quot;ogp&quot;&gt;自分のサイトでもOGPを取得してリンクを格好よく表示させたい！&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;自分のサイトでもOGPを取得してリンクを格好よく表示させたい！&lt;/h2&gt;
 
 &lt;p&gt;OGPの設定をしたので、ようやくSNSでリンクをシェアすると画像やサマリが表示されるようになった。しかし今度は自分の記事の中でも、外部のリンクを貼り付けた時に、fb上の表示のようになってくれると嬉しいと考えた。&lt;/p&gt;
 
 &lt;p&gt;調べてみると、どうもはてなブログで&lt;strong&gt;ブログカード&lt;/strong&gt;という機能で、外部のリンクを格好よく表示しているらしい。OGPにも対応しているそうだ。そうそう、こういう感じに表示したい！！&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150610/blogcard_hatena.png&quot; alt=&quot;はてなブログカード&quot; title=&quot;はてなブログカード&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150610/blogcard_hatena.png&quot; alt=&quot;はてなブログカード&quot; title=&quot;はてなブログカード&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;といっても、この機能ははてなブログの中で使える機能だ。Jekyll on Github Pagesの環境で実現する方法はないだろうか？&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://f.st-hatena.com/images/fotolife/h/hatenablog/20140905/20140905122313.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-5&quot;&gt;「ブログカード」をOGPなどに対応しました。さまざまなWebページをコンパクトに整形して掲載できます - はてなブログ開発ブログ&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;はてなブログでは、先日公開した「ブログカード」を拡張し、インターネットの一般的なWebサイトに対応しました。URLを貼るだけで、さまざまなWebページをコンパクトな「ブログカード」形式で紹介することができます。「ブログカード」は、ブログに掲載する記事のタイトルや概要、アイキャッチ画像などを読みやすくまとめて表示する埋め込み形式です。今回の改善では、ソーシャルメディアのシェアで参照されるOGP（Open Graph Protocol）をはじめとして、Webページに記述されているmeta要素などのデータを利用し、はてなブログ外の任意のWebサイトに対応しました。これまでのリリースでは、はてなブログ…&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-favicon&quot; /&gt;staff.hatenablog.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://f.st-hatena.com/images/fotolife/h/hatenablog/20140905/20140905122313.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-5&quot;&gt;「ブログカード」をOGPなどに対応しました。さまざまなWebページをコンパクトに整形して掲載できます - はてなブログ開発ブログ&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;はてなブログでは、先日公開した「ブログカード」を拡張し、インターネットの一般的なWebサイトに対応しました。URLを貼るだけで、さまざまなWebページをコンパクトな「ブログカード」形式で紹介することができます。「ブログカード」は、ブログに掲載する記事のタイトルや概要、アイキャッチ画像などを読みやすくまとめて表示する埋め込み形式です。今回の改善では、ソーシャルメディアのシェアで参照されるOGP（Open Graph Protocol）をはじめとして、Webページに記述されているmeta要素などのデータを利用し、はてなブログ外の任意のWebサイトに対応しました。これまでのリリースでは、はてなブログ…&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-favicon&quot;&gt;staff.hatenablog.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://staff.hatenablog.com/entry/2014/09/05/143600&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;はてなブログ以外でも使える？&lt;/h2&gt;
+&lt;h2&gt;はてなブログ以外でも使える？&lt;/h2&gt;
 
 &lt;p&gt;更に調べてみると、このブログカード形式を、はてなブログ以外でも利用できるようにした方がいた。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://mbdb.jp/wp-content/uploads/2014/09/hatena-blog-600x315.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-5&quot;&gt;はてなブログのブログカードがOGPに対応! はてなブログ以外もブログカードスタイルになるぞ&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;はてなブログのブログカードが拡張され、OGPにも対応しました。これによりOGPが設定されているサイトは、ブログカード形式でリンクを貼ることができるようになります。&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-favicon&quot; /&gt;mbdb.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://mbdb.jp/wp-content/uploads/2014/09/hatena-blog-600x315.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-5&quot;&gt;はてなブログのブログカードがOGPに対応! はてなブログ以外もブログカードスタイルになるぞ&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;はてなブログのブログカードが拡張され、OGPにも対応しました。これによりOGPが設定されているサイトは、ブログカード形式でリンクを貼ることができるようになります。&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-favicon&quot;&gt;mbdb.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://mbdb.jp/hacks/hatenablog-blogcard-ogp-correspondence.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;要はiframeのsrcではてなブログのエンドポイントURLにパラメータで、取得したいサイトのURLを加えるだけです。&lt;/p&gt;
+&lt;p&gt;要はiframeのsrcではてなブログのエンドポイントURLにパラメータで、取得したいサイトのURLを加えるだけです。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;とある。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;これならChromeの「Create Link」やFirefoxの「Make Link」を使うことで、毎回iframeを手動で記述しなくても、サクリとコピペで利用できますね。&lt;/p&gt;
+&lt;p&gt;これならChromeの「Create Link」やFirefoxの「Make Link」を使うことで、毎回iframeを手動で記述しなくても、サクリとコピペで利用できますね。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;とあるので、実際にやってみたら、本当にブログカード形式で表示することができた。&lt;/p&gt;
 
 &lt;p&gt;「よし。これでオッケー」と思っていたが、そうは問屋が降ろさなかった。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;フォースは参照先にあり&lt;/h2&gt;
+&lt;h2&gt;フォースは参照先にあり&lt;/h2&gt;
 
 &lt;p&gt;上記の記事をよく読んでいくと、以下のような記述があった。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;リファラーを見ていて気づいたんですが、ブログカードでリンクを挿入すると、参照先がhttp://hatenablog.com/となり、リンク先ブログのアクセス解析からは自分が発リンクしたことが伝わりません。
+&lt;p&gt;リファラーを見ていて気づいたんですが、ブログカードでリンクを挿入すると、参照先がhttp://hatenablog.com/となり、リンク先ブログのアクセス解析からは自分が発リンクしたことが伝わりません。
 WordPressのピンバックはもちろん、Google Analyticsのトラックバックからもログを参照できないので、「それは嫌だなぁ」という人は普通にリンクを挿入したほうが良いと思います。&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -79,30 +79,30 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
 
 &lt;p&gt;さてどうしよう？&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;解決策は「自前でブログカードを生成すること」&lt;/h2&gt;
+&lt;h2&gt;解決策は「自前でブログカードを生成すること」&lt;/h2&gt;
 
 &lt;p&gt;もう少し調べていたら、ちゃんと対応している人がいた。&lt;/p&gt;
 
 &lt;p&gt;具体的な解決策としては、&lt;strong&gt;ブックマークレットを使ってはてなブログカードライクなHTMLを生成し記事中に貼り付ける&lt;/strong&gt;という方法で対応していた。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-	&lt;div class=&quot;bc-2&quot;&gt;
-		&lt;a href=&quot;http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://sakueji.com/wp-content/uploads/2014/10/bookmarklet0.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-5&quot;&gt;【ブログカード風】シンプルに記事をシェアするブックマークレットを作りました&lt;/a&gt;&lt;/p&gt;
-	&lt;p class=&quot;bc-6&quot;&gt;ブログを書くとき、記事へのリンクをどのように貼っていますか？ べた書きですか？ ShareHTMLですか？ GetTabInfoなんて拡張機能を使っている人もいらっしゃるかもしれません。 最近よく見る&lt;/p&gt;
-	&lt;div class=&quot;bc-7&quot;&gt;
-		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-favicon&quot; /&gt;sakueji.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
-	&lt;/div&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://sakueji.com/wp-content/uploads/2014/10/bookmarklet0.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-5&quot;&gt;【ブログカード風】シンプルに記事をシェアするブックマークレットを作りました&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;ブログを書くとき、記事へのリンクをどのように貼っていますか？ べた書きですか？ ShareHTMLですか？ GetTabInfoなんて拡張機能を使っている人もいらっしゃるかもしれません。 最近よく見る&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-favicon&quot;&gt;sakueji.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://sakueji.com/blogcard-bookmarklet/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;こちらのサイトのブックマークレットを登録して、実際に使ってブログカードのHTMLを生成してみたがうまくいったみたいだ。&lt;/p&gt;
 
-&lt;h2 id=&quot;amazon&quot;&gt;Amazonの商品はうまくいかない？&lt;/h2&gt;
+&lt;h2&gt;Amazonの商品はうまくいかない？&lt;/h2&gt;
 
 &lt;p&gt;次にAmazonの商品ページについてもブログカード形式で生成しようとしたら、どうもうまくいかないようだ。具体的には、途中でタグが省略されてしまっているようだ。少しデバッグしてみたが、原因がわからないのでとりあえず放置する。&lt;/p&gt;
 
-&lt;h2 id=&quot;css&quot;&gt;自前のサイトではCSSを外部化して生成するコードをスリム化する&lt;/h2&gt;
+&lt;h2&gt;自前のサイトではCSSを外部化して生成するコードをスリム化する&lt;/h2&gt;
 
 &lt;p&gt;オリジナルのブックマークレットで生成されたHTMLは、CSSのスタイルがそのまま埋め込まれているため非常に長い。いくら静的ファイルだからといって、記事中にこんなにリンクが埋め込まれるのは正直気持ち悪い。&lt;/p&gt;
 
@@ -186,7 +186,7 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
   &lt;span class=&quot;k&quot;&gt;vertical-align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;middle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;jekyll&quot;&gt;より綺麗にするには、Jekyllのテンプレート化へ&lt;/h2&gt;
+&lt;h2&gt;より綺麗にするには、Jekyllのテンプレート化へ&lt;/h2&gt;
 
 &lt;p&gt;しかし、CSSを外部化しても、やはり埋め込まれるHTMLが長いし汚い。&lt;/p&gt;
 
@@ -197,8 +197,8 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-1&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-2&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ include.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-3&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	  &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ include.image }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-4&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ include.image }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-4&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;margin:0;&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
     &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ include.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;bc-5&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ include.title }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
@@ -218,19 +218,19 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
 &lt;p&gt;これで、挿入されるリンクは、以下の程度で収まることができた。&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;{% include blogcard.html site=&amp;quot;giantech.jp&amp;quot; 
-		url=&amp;quot;http://giantech.jp/2015/06/04/what-origin-is-the-purpose-diagram&amp;quot; 
-		image=&amp;quot;http://giantech.jp/assets/images/20150604/purpose_venn_diagram_ja.png&amp;quot; 
-		title=&amp;quot;あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？&amp;quot; 
-		desc=&amp;quot;SNSで話題になっていた「YOU LOVE IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; THE WORLD NEEDS IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; YOU ARE PAID FOR IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; YOU ARE GREAT AT IT = PURPOSE」の図はどこから来たのかを調べてみた。&amp;quot; %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        url=&amp;quot;http://giantech.jp/2015/06/04/what-origin-is-the-purpose-diagram&amp;quot; 
+        image=&amp;quot;http://giantech.jp/assets/images/20150604/purpose_venn_diagram_ja.png&amp;quot; 
+        title=&amp;quot;あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？&amp;quot; 
+        desc=&amp;quot;SNSで話題になっていた「YOU LOVE IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; THE WORLD NEEDS IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; YOU ARE PAID FOR IT &lt;span class=&quot;err&quot;&gt;&amp;amp;&lt;/span&gt; YOU ARE GREAT AT IT = PURPOSE」の図はどこから来たのかを調べてみた。&amp;quot; %}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    
 
 &lt;p&gt;これなら記事中に含まれていてもなんとか堪えられるかな？&lt;/p&gt;
 
 &lt;p&gt;今回のリファクタリングはこれにて完了！&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;理想形は？&lt;/h2&gt;
+&lt;h2&gt;理想形は？&lt;/h2&gt;
 
-&lt;p&gt;理想は、ブログカード生成サービスを外部において、参照問題を解決しつつ、記事中に簡単な設定で記述できるのが一番きれいなのですが。それまたいずれ（誰かがやってくれるのでしょう…）。&lt;/p&gt;
-
+&lt;p&gt;理想は、ブログカード生成サービスを外部において、参照問題を解決しつつ、記事中に簡単な設定で記述できるのが一番きれいなのですが。それまたいずれ（誰かがやってくれるのでしょう...）。&lt;/p&gt;
 </content>
  </entry>
  

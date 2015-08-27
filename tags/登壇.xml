@@ -3,7 +3,7 @@
  <title>Your Title - 登壇</title>
  <link href="http://giantech.jp/tags/%E7%99%BB%E5%A3%87.xml" rel="self"/>
  <link href="http://giantech.jp/tag/登壇.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/登壇.html</id>
  <author>
    <name>Author Here</name>
@@ -14,10 +14,10 @@
    <link href="http://giantech.jp/2014/11/08/kamiyama-rb-vol1"/>
    <updated>2014-11-08T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/11/08/kamiyama-rb-vol1</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/kkd_talk1_480x320.jpg&quot; alt=&quot;kkd_talk_vol1&quot; title=&quot;kkd talk&quot; /&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/kkd_talk1_480x320.jpg&quot; alt=&quot;kkd_talk_vol1&quot; title=&quot;kkd talk&quot;&gt;
 (photo by @dany1486)&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;４ヶ月ぶりの神山へ。そのきっかけは…&lt;/h2&gt;
+&lt;h2&gt;４ヶ月ぶりの神山へ。そのきっかけは...&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://kamiyamarb.doorkeeper.jp/events/16452&quot;&gt;神山.rb&lt;/a&gt;の記念すべき第一回にお呼ばれしたので、&lt;a href=&quot;http://agile459.doorkeeper.jp/events/12006&quot;&gt;６月のAgileJapan2014サテライト&lt;/a&gt;以来の、徳島県神山町に行ってきた。&lt;/p&gt;
 
@@ -25,7 +25,7 @@
 
 &lt;p&gt;個人的には、&lt;a href=&quot;http://www.esm.co.jp&quot;&gt;永和の面々&lt;/a&gt;も神山に来るというので、久しぶりに会えるという意味もあり、とても楽しみにしていた。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XPの話はターゲット違い？→そうだよね…&lt;/h2&gt;
+&lt;h2&gt;XPの話はターゲット違い？→そうだよね…&lt;/h2&gt;
 
 &lt;p&gt;といっても、徳島県のrb、つまりRubyの勉強会で、XP祭り2014の再演、つまり&lt;strong&gt;XPをよく知っていてXPが大好きな人向け&lt;/strong&gt;の話をすることのギャップについては非常に悩んだ。そして、悩んだ挙句、&lt;em&gt;最初にちょこっとだけXPの説明を入れる&lt;/em&gt;ことで済ませて頂こうということに決めた。&lt;/p&gt;
 
@@ -33,15 +33,17 @@
 
 &lt;p&gt;前回はラーメン屋を経由して行ったので気にしなかったが、今回は最短ルートで道を探索して向かったら、とても狭く暗いガードレールもない山道を通らされて、三人でヒヤヒヤしながらようやく神山に到着した。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp-1&quot;&gt;創造的過疎の町で、XP白本を語る理由&lt;/h2&gt;
+&lt;h2&gt;創造的過疎の町で、XP白本を語る理由&lt;/h2&gt;
 
 &lt;p&gt;前日にこんなツイートをしていた。&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;明日のkamiyama.rbでXP2014の再演の話、最初は「rbでXPのしかも参考文献の話はどうなのだろうか？」と感じてたけど、ところがどっこい「徳島県神山町の.rbで話す意味」を見いだすことができた！&lt;/p&gt;&amp;mdash; Takeshi Kakeda (@kkd) &lt;a href=&quot;https://twitter.com/kkd/status/530727136676413440&quot;&gt;2014, 11月 7&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;むしろ東京よりも神山だからこそ届くメッセージがあることに気づいてワクワクしてます。(外したらゴメン…骨は拾ってください…) ということで明日はよろしくです〜！&lt;/p&gt;&amp;mdash; Takeshi Kakeda (@kkd) &lt;a href=&quot;https://twitter.com/kkd/status/530727552524881920&quot;&gt;2014, 11月 7&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;その理由は、こんな感じ。&lt;/p&gt;
 
@@ -49,29 +51,29 @@
 
 &lt;p&gt;神山に移住するような人々は、まさに&lt;strong&gt;自分にとって、大事にする価値をみつめ、そのための行動として神山に移住することを選択している&lt;/strong&gt;に違いない。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;話してみた…が反応はどうか？&lt;/h2&gt;
+&lt;h2&gt;話してみた…が反応はどうか？&lt;/h2&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/41435521&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/41435521&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
 
 &lt;p&gt;予想通り、XPEを読んだことある人は殆どいなかった。そんな状況の中で話しをしたのだが、聴衆のどのくらいの人々に、どれだけ届いたかは正直わからないけれど、主催の&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;夫妻には喜んでいただけたそうなので救われたかなぁ。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp-2&quot;&gt;XPは個人から始まる&lt;/h2&gt;
+&lt;h2&gt;XPは個人から始まる&lt;/h2&gt;
 
 &lt;p&gt;スライドに含めているXP-&amp;gt;Scrum-&amp;gt;Leanの図。これは変革がどこから始まるのかの図として理解している。そう、XPは&lt;strong&gt;個人の変化から始まる&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;この構造はソフトウェア開発の現場も、まちの活性化も同じではないだろうか？&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;問題意識を持ち、ありたい姿を描き、そこに向けて、できることから行動し、小さな成功体験を積み重ね、真摯に改善し、仲間を作り、その範囲を広げていき、個人のありたい姿は、仲間のありたい姿へと変化していく。言行不一致でなく、言行一致にする。その行動は、いつの時代でも、どこの場所でも、普遍的ではないだろうか。&lt;/p&gt;
+&lt;p&gt;問題意識を持ち、ありたい姿を描き、そこに向けて、できることから行動し、小さな成功体験を積み重ね、真摯に改善し、仲間を作り、その範囲を広げていき、個人のありたい姿は、仲間のありたい姿へと変化していく。言行不一致でなく、言行一致にする。その行動は、いつの時代でも、どこの場所でも、普遍的ではないだろうか。 &lt;/p&gt;
 
 &lt;p&gt;そんなことを想いながら、実際に進行中の神山町で話しをしてた。&lt;/p&gt;
 
 &lt;p&gt;これからも、本当に大事だと思うものを大事にしながら、言行一致で生きる修行を続けようと思う。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;東京の元同僚と神山で再開できる面白さ&lt;/h2&gt;
+&lt;h2&gt;東京の元同僚と神山で再開できる面白さ&lt;/h2&gt;
 
 &lt;p&gt;前回、神山に来た時の懇親会で、&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;さんと話して、永和の面々と一緒に仕事をしていると知った時の驚き。それから半年も経たずに、神山で&lt;a href=&quot;https://twitter.com/chibamem&quot;&gt;千葉さん&lt;/a&gt;、&lt;a href=&quot;https://twitter.com/ka_&quot;&gt;鍛治舎さん&lt;/a&gt;、そして自分が永和を退社した後で入社した大学の後輩の&lt;a href=&quot;https://twitter.com/akiinyo&quot;&gt;田垣さん&lt;/a&gt;という面々と会えゆっくりと話しができて、人生って面白いなぁということを実感させてもらった。アレンジしてくれた&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;さん感謝です。&lt;/p&gt;
 
-&lt;h2 id=&quot;ltw&quot;&gt;LTでポートランドの話しを…できなかったw&lt;/h2&gt;
+&lt;h2&gt;LTでポートランドの話しを…できなかったw&lt;/h2&gt;
 
 &lt;p&gt;また、LTの時間に、先日、松山で行った&lt;a href=&quot;http://www.slideshare.net/kkd/ss-40629190&quot;&gt;全米一住みたい街ポートランドに学ぶ、創造・快適・環境先進都市の作り方&lt;/a&gt;をLTで省略しながら話してみたけど、やっぱり無理だった（当たり前w）&lt;/p&gt;
 
@@ -81,10 +83,10 @@
 
 &lt;p&gt;あとは、プログラミングの学びについてのLTも考えさせられた。（資料公開されてないかな！？）&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg&quot; alt=&quot;group_photo&quot; title=&quot;group photo&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg&quot; alt=&quot;group_photo&quot; title=&quot;group photo&quot;&gt;
 (集合写真を頂いたので追加 2014/11/17)&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;四国でコミュニティを主催する意味&lt;/h2&gt;
+&lt;h2&gt;四国でコミュニティを主催する意味&lt;/h2&gt;
 
 &lt;p&gt;思えば、2010年に愛媛に引っ越してきたときは、四国にはRubyコミュニティが皆無だった（地域.rbに限る）。その後、愛媛に&lt;a href=&quot;http://yurufuwa.doorkeeper.jp/&quot;&gt;ゆるふわ.rb&lt;/a&gt;ができたり、今年は&lt;a href=&quot;http://tokushimarb.github.io/&quot;&gt;tokushima.rb&lt;/a&gt;ができ、そして神山.rbができた。&lt;/p&gt;
 
@@ -96,8 +98,7 @@
 
 &lt;p&gt;自分も&lt;a href=&quot;http://agile459.github.io&quot;&gt;Agile459&lt;/a&gt;をゆるゆると続けているのも、一人が嫌だから作ったようなものだし。続けてきたおかげで、四国に仲間ができて本当に良かったと思ってる。&lt;/p&gt;
 
-&lt;p&gt;…ということを考えるきっかけを与えてくれたという意味でも神山.rbに参加してよかった。今度行く機会があれば、ちゃんとRubyの話ができればいいなぁ（できるのか！？）&lt;/p&gt;
-
+&lt;p&gt;...ということを考えるきっかけを与えてくれたという意味でも神山.rbに参加してよかった。今度行く機会があれば、ちゃんとRubyの話ができればいいなぁ（できるのか！？）&lt;/p&gt;
 </content>
  </entry>
  
@@ -106,13 +107,13 @@
    <link href="http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage"/>
    <updated>2014-10-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage</id>
-   <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
 
-&lt;h2 id=&quot;agile-tour-osaka-&quot;&gt;Agile Tour Osaka は４年ぶり&lt;/h2&gt;
+&lt;h2&gt;Agile Tour Osaka は４年ぶり&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://kokucheese.com/event/index/215376/&quot;&gt;Agile Tour Osaka 2014&lt;/a&gt;(agileto)にお呼ばれして行ってきました。agiletoは４年ぶり。前回は2010年で、長瀬さん、牛尾さん達と一緒に登壇して、多分日本で一番最初に&lt;a href=&quot;http://www.slideshare.net/kkd/user-story-mapping-for-agile-team&quot;&gt;ユーザーストーリーマッピング&lt;/a&gt;について紹介してきたのですが、会場の反応が薄くてあれれな感じだったのを思い出しますｗ。前回は発表だけでしたが、今回はワークショップということで、かなり会場で楽しんできました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;「パタン・ランゲージのワークショップをやってほしい」との依頼&lt;/h2&gt;
+&lt;h2&gt;「パタン・ランゲージのワークショップをやってほしい」との依頼&lt;/h2&gt;
 
 &lt;p&gt;主催者の細谷さんからは、以前からパタン・ランゲージについて大阪でイベントやりたいというお話を頂いていましたが、なかなか実現に至りませんでした。なので今回はとてもよい機会を頂いたという気持ちで一杯です。&lt;/p&gt;
 
@@ -120,22 +121,22 @@
 
 &lt;p&gt;そのため、私の師匠である&lt;a href=&quot;http://ces.mitohorin.com/&quot;&gt;中埜博&lt;/a&gt;さんに学んだプロセスを参考にかなり簡略化した２時間のワークに仕立てました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;どう「書く」よりも、どう「使う」か&lt;/h2&gt;
+&lt;h2&gt;どう「書く」よりも、どう「使う」か&lt;/h2&gt;
 
-&lt;p&gt;パタン・ランゲージについては、ここ最近の、相次ぐパターン本（&lt;a href=&quot;http://www.amazon.co.jp/gp/product/462108786X/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=462108786X&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;Fearless Change&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798128449/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798128449&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;組織パターン&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798121967/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798121967&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;エリック・エヴァンスのドメイン駆動設計&lt;/a&gt;の出版や書籍に関するイベント、Cope御大の来日機会が増えている、数年続けて開催されている&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/&quot;&gt;AsianPLoP&lt;/a&gt;、そして業界を超えた&lt;a href=&quot;http://web.sfc.keio.ac.jp/~iba/&quot;&gt;SFCの井庭研&lt;/a&gt;を率いる井庭さん達の活躍、&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot;&gt;IPAのアジャイル型開発におけるプラクティス活用事例調査のパターン形式による調査報告書&lt;/a&gt;などによって、自分が&lt;a href=&quot;http://objectclub.jp/event/2010alexander/&quot;&gt;アレグザンダー祭り&lt;/a&gt;や&lt;a href=&quot;http://kokucheese.com/event/index/1610/&quot;&gt;参加のまちづくり入門&lt;/a&gt;に関わっていた2009〜2010年頃よりもずっと露出度が高くなってきたと感じます。&lt;/p&gt;
+&lt;p&gt;パタン・ランゲージについては、ここ最近の、相次ぐパターン本（&lt;a href=&quot;http://www.amazon.co.jp/gp/product/462108786X/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=462108786X&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;Fearless Change&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798128449/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798128449&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;組織パターン&lt;/a&gt;、&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4798121967/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4798121967&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;エリック・エヴァンスのドメイン駆動設計&lt;/a&gt;の出版や書籍に関するイベント、Cope御大の来日機会が増えている、数年続けて開催されている&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/&quot;&gt;AsianPLoP&lt;/a&gt;、そして業界を超えた&lt;a href=&quot;http://web.sfc.keio.ac.jp/%7Eiba/&quot;&gt;SFCの井庭研&lt;/a&gt;を率いる井庭さん達の活躍、&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot;&gt;IPAのアジャイル型開発におけるプラクティス活用事例調査のパターン形式による調査報告書&lt;/a&gt;などによって、自分が&lt;a href=&quot;http://objectclub.jp/event/2010alexander/&quot;&gt;アレグザンダー祭り&lt;/a&gt;や&lt;a href=&quot;http://kokucheese.com/event/index/1610/&quot;&gt;参加のまちづくり入門&lt;/a&gt;に関わっていた2009〜2010年頃よりもずっと露出度が高くなってきたと感じます。&lt;/p&gt;
 
 &lt;p&gt;しかし、実際にパタンをどう使うかについては、あまり情報がないのではないかという気がしています（私の気のせいかもしれませんが）。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;中埜さんに教えて頂いたこと&lt;/h2&gt;
+&lt;h2&gt;中埜さんに教えて頂いたこと&lt;/h2&gt;
 
-&lt;p&gt;私が2009年に中埜博さんの&lt;a href=&quot;http://ces.mitohorin.com/?p=389&quot;&gt;参加のまちづくり入門演習&lt;/a&gt;に参加して鮮烈なインパクトを受けたのは、&lt;strong&gt;パタンの元を当事者の間から生成しながら、当事者参加で未来のビジョンや戦略をランゲージとして紡ぎ上げ、当事者達がそれを用いて未来を生成させていくプロセス&lt;/strong&gt;でした。この部分については、パタンを書いたり、既存のパタンを使ったりする文脈と比較して遅れている領域だと感じていました（井庭さんの&lt;a href=&quot;http://web.sfc.keio.ac.jp/~iba/sb/log/eid406.html&quot;&gt;フューチャーランゲージ&lt;/a&gt;という手法は、この部分をアレンジしたものと捉えています）。&lt;/p&gt;
+&lt;p&gt;私が2009年に中埜博さんの&lt;a href=&quot;http://ces.mitohorin.com/?p=389&quot;&gt;参加のまちづくり入門演習&lt;/a&gt;に参加して鮮烈なインパクトを受けたのは、&lt;strong&gt;パタンの元を当事者の間から生成しながら、当事者参加で未来のビジョンや戦略をランゲージとして紡ぎ上げ、当事者達がそれを用いて未来を生成させていくプロセス&lt;/strong&gt;でした。この部分については、パタンを書いたり、既存のパタンを使ったりする文脈と比較して遅れている領域だと感じていました（井庭さんの&lt;a href=&quot;http://web.sfc.keio.ac.jp/%7Eiba/sb/log/eid406.html&quot;&gt;フューチャーランゲージ&lt;/a&gt;という手法は、この部分をアレンジしたものと捉えています）。&lt;/p&gt;
 
 &lt;p&gt;このプロセスの概要自体は本橋さんらが中心にまとめた&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2011/asianplop2011_submission_25.pdf&quot;&gt;パタン・ランゲージからプロジェクト・ランゲージへ&lt;/a&gt;という論文や、中埜さんがPLoPで投稿された&lt;a href=&quot;http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/proceedings2010/19-QualityProcess.pdf&quot;&gt;A Search for
  a Process getting “Quality”&lt;/a&gt;論文に述べられています。&lt;/p&gt;
 
 &lt;p&gt;その具体例や本質的な解説は中埜さんの参加のまちづくり入門演習で伝えていたのですが、その参加のまちづくり入門演習も、諸事情によりここ数年は開催自体が止まっています。&lt;/p&gt;
 
-&lt;h2 id=&quot;ws&quot;&gt;今回のWSのポイントは「パタンを作り、使って、物語るところ」&lt;/h2&gt;
+&lt;h2&gt;今回のWSのポイントは「パタンを作り、使って、物語るところ」&lt;/h2&gt;
 
 &lt;p&gt;今回は２時間という時間枠の中でどうまとめるかだけを考えた結果、講義部分はほぼなしに、ワークのなかでプロセスを体験してもらうことに注力しました。&lt;/p&gt;
 
@@ -149,9 +150,9 @@
 
 &lt;p&gt;具体的にはスケールの設定を見直すこと、解決策を検討する部分をもう少し噛み砕いてステップを踏んでいく方向に倒したほうがよいと感じました。（時間が短いのは最初からわかっているところなので、フルセット版はまだまだ検討の余地ありです）&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;日本におけるパタン・ランゲージの第二次隆盛がきている？&lt;/h2&gt;
+&lt;h2&gt;日本におけるパタン・ランゲージの第二次隆盛がきている？&lt;/h2&gt;
 
-&lt;p&gt;私のワークショップ後に、&lt;a href=&quot;https://twitter.com/Posaune&quot;&gt;@Posaune&lt;/a&gt;さんが&lt;a href=&quot;https://github.com/KenColle/AutomationPatternLanguage&quot;&gt;テスト自動化のパターンランゲージ&lt;/a&gt;の発表されていました。&lt;/p&gt;
+&lt;p&gt;私のワークショップ後に、&lt;a href=&quot;https://twitter.com/Posaune&quot;&gt;@Posaune&lt;/a&gt;さんが&lt;a href=&quot;https://github.com/KenColle/AutomationPatternLanguage&quot;&gt;テスト自動化のパターンランゲージ&lt;/a&gt;の発表されていました。 &lt;/p&gt;
 
 &lt;p&gt;この発表を聞いていて感じたのは、自分達でパタンをまとめ、Githubに置いてフィードバックをもらえるようにして、どんどんコラボレーションし改善していく、これこそまさに、数年前から構想していて(未だ心が折れてできていない)&lt;strong&gt;現場パタン構想(GembaPLoP)&lt;/strong&gt;のひとつの現れなのかしれない、ということです。他にもチケット駆動のパタン・ランゲージを&lt;a href=&quot;http://twitter.com/akipii&quot;&gt;@akipii&lt;/a&gt;さんがまとめているという話も聞きました。&lt;/p&gt;
 
@@ -163,11 +164,11 @@
 
 &lt;p&gt;今回のイベントでは、私自身も新しい発見や次の展開などいろいろ得るものが大きかったです。大阪（正確には兵庫か）の皆さま、ありがとうございました！！&lt;/p&gt;
 
-&lt;h2 id=&quot;a&quot;&gt;おまけ（１）：A氏のその後について…&lt;/h2&gt;
+&lt;h2&gt;おまけ（１）：A氏のその後について...&lt;/h2&gt;
 
 &lt;p&gt;資料の最後に、A氏のその後がどうなったかをP52で記載していますが、このページは正確に言うとまだパタンにはしておらずに、単にキーワードとして書き出したものを掲載しているだけです。ただ書き出してみると、かなり色々なことをやってきたのがよくわかります。一度パタンの種として書き出してみると面白いかもしれない、と思いました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;おまけ（２）：アンチパターンと結果について&lt;/h2&gt;
+&lt;h2&gt;おまけ（２）：アンチパターンと結果について&lt;/h2&gt;
 
 &lt;p&gt;当日のイベントで「&lt;strong&gt;アンチパターンはパタンランゲージにいれるべきか？&lt;/strong&gt;」という話題がありました。私は「アンチパターンは状態であり、パタンは行為であるので、パタンの結果の一形態としてアンチパターンの状態になりうる可能性を書けばよいのではないか？」という発言をしました。&lt;/p&gt;
 
@@ -184,11 +185,11 @@
    <id>http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38768205&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
+&lt;h2&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
 
 &lt;p&gt;「XPEの参考文献を紹介する」というマニアなネタで、本気で人が集まらないかもなと危惧していたのですが、結構な人数の方が集まってくれました。会場のほとんどが私のことを知っている方だったので、皆優しい人ばかりだなと思いました。聞いてくださってありがとうございました。&lt;/p&gt;
 
-&lt;h2 id=&quot;w&quot;&gt;参考文献多すぎw&lt;/h2&gt;
+&lt;h2&gt;参考文献多すぎw&lt;/h2&gt;
 
 &lt;p&gt;今回のために、XPE1st, XPE2ndの参考文献をざーっと眺めたり集計をしてみて、その量の多さや、読んでいない本がまだまだ沢山あることに気づきました。（参考文献のリストとコメントは1st、2nd共に一覧に中途半端にまとめているので、全部埋めてからそのうちどこかにアップします）&lt;/p&gt;
 
@@ -196,13 +197,13 @@
 
 &lt;p&gt;特にマンガ学とディズニーアニメーションは手に入れたい。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;リベンジしたいなぁ&lt;/h2&gt;
+&lt;h2&gt;リベンジしたいなぁ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/m_seki&quot;&gt;@m_seki&lt;/a&gt;に「マインドマップまではよかったけど途中から長すぎ」とフィードバックをもらいました。自分でもうまく整理できていなかった感があるので、もう少し短くして整理してから、どこかで再演する機会を頂ければいいなぁと思ってます。&lt;/p&gt;
 
 &lt;p&gt;特に&lt;a href=&quot;http://twitter.com/hiranabe&quot;&gt;@hiranabe&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;@amapyon&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/kakutani&quot;&gt;@kakutani&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/fkino&quot;&gt;@fkino&lt;/a&gt;の永和XP厨の人たちには聞いてもらいたいです。&lt;/p&gt;
 
-&lt;h2 id=&quot;xpe&quot;&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
+&lt;h2&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
 
 &lt;p&gt;もう何回読んだのか忘れましたが、読む度に毎回発見があるこの本は、人生を変えたという意味でも、自分を見直すきっかけをくれるという意味でも、本当に素敵だなぁと思います。いつかオレゴンのケントの農場のヤギの痒い所をカキカキしにいきたい。&lt;/p&gt;
 </content>
@@ -213,9 +214,9 @@
    <link href="http://giantech.jp/2014/08/29/yaseru-kpt"/>
    <updated>2014-08-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/29/yaseru-kpt</id>
-   <content type="html">&lt;h2 id=&quot;section&quot;&gt;リモートで基調講演（？）&lt;/h2&gt;
+   <content type="html">&lt;h2&gt;リモートで基調講演（？）&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野&lt;/a&gt;さんから、&lt;a href=&quot;http://kokucheese.com/event/index/199090/&quot;&gt;やせる！KPT&lt;/a&gt;で話をして欲しい、と言われたので話してきました。と言っても、Skypeでのリモートでの物語りで、かつ資料もなかったので、聞き取りづらかったんじゃないかと思います。しかも時間を間違えていて３０分遅れてしまいすみませんでした…&lt;/p&gt;
 
@@ -224,78 +225,78 @@
 &lt;p&gt;ざっくり説明すると以下のような感じです。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;なんとなく走りだした(2012/05)
-    &lt;ul&gt;
-      &lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
-      &lt;li&gt;なれると楽しくなった！
-        &lt;ul&gt;
-          &lt;li&gt;距離が増えていく&lt;/li&gt;
-          &lt;li&gt;体が楽になっていく&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;走ることが楽しくなった(2012/06〜)
-    &lt;ul&gt;
-      &lt;li&gt;体重もどんどん落ちた
-        &lt;ul&gt;
-          &lt;li&gt;痩せるための走り方を研究した
-            &lt;ul&gt;
-              &lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;裸足ランニングで自分の可能性を試したくなった
-        &lt;ul&gt;
-          &lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;怪我をして走れなくなった(2012/12)
-    &lt;ul&gt;
-      &lt;li&gt;無理していたら膝の痛みが悪化→医者へ
-        &lt;ul&gt;
-          &lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
-      &lt;li&gt;うまくいかないリハビリ
-        &lt;ul&gt;
-          &lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;ランに向いていないと医者から止められる
-        &lt;ul&gt;
-          &lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
-    &lt;ul&gt;
-      &lt;li&gt;無理はしない
-        &lt;ul&gt;
-          &lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
-      &lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
-    &lt;ul&gt;
-      &lt;li&gt;Sub4.5&lt;/li&gt;
-      &lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;レースに出るのはよい刺激になる
-    &lt;ul&gt;
-      &lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+&lt;li&gt;なんとなく走りだした(2012/05)
+
+&lt;ul&gt;
+&lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
+&lt;li&gt;なれると楽しくなった！
+
+&lt;ul&gt;
+&lt;li&gt;距離が増えていく&lt;/li&gt;
+&lt;li&gt;体が楽になっていく&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;走ることが楽しくなった(2012/06〜)
+
+&lt;ul&gt;
+&lt;li&gt;体重もどんどん落ちた
+
+&lt;ul&gt;
+&lt;li&gt;痩せるための走り方を研究した
+
+&lt;ul&gt;
+&lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;裸足ランニングで自分の可能性を試したくなった
+
+&lt;ul&gt;
+&lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;怪我をして走れなくなった(2012/12)
+
+&lt;ul&gt;
+&lt;li&gt;無理していたら膝の痛みが悪化→医者へ
+
+&lt;ul&gt;
+&lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
+&lt;li&gt;うまくいかないリハビリ
+
+&lt;ul&gt;
+&lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ランに向いていないと医者から止められる
+
+&lt;ul&gt;
+&lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
+
+&lt;ul&gt;
+&lt;li&gt;無理はしない
+
+&lt;ul&gt;
+&lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
+&lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
+
+&lt;ul&gt;
+&lt;li&gt;Sub4.5&lt;/li&gt;
+&lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;レースに出るのはよい刺激になる
+
+&lt;ul&gt;
+&lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;今までダイエット目的でうまく行き続けたことはない怠惰な人間なので、&lt;strong&gt;走る楽しみの副産物&lt;/strong&gt;として体重減がついてきてるのが今のところうまく行ってるポイントなのでしょうか。途中でKPTはやっていないのですが、途中途中で&lt;strong&gt;自分は何のために走ってるのだろう？&lt;/strong&gt;という問いかけをせざるを得ない場面がありました。
@@ -303,81 +304,81 @@
 
 &lt;p&gt;ちなみに走る・走らないは置いておいて、読み物として&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4140814144/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4140814144&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;BORN TO RUN&lt;/a&gt;は一度読んでみるといいと思います。業界的に裸足ランニングブームは過ぎて、本当に興味ある人たちで取り組まれている印象です。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
+&lt;h2&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
 
 &lt;p&gt;自分の話の後は参加者の成果発表を聞いていました。皆さん、赤裸々にデータ(笑)と気づきを発表されていたのですが、ざっくり聞いていると、次のようなことがわかりました。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;フィードバックサイクルの期間が重要
-    &lt;ul&gt;
-      &lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「後でまとめてデータを記録しよう」はNG
-    &lt;ul&gt;
-      &lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
-      &lt;li&gt;少しずつでも頻繁に記録しないといけない。
-        &lt;ul&gt;
-          &lt;li&gt;ここに手間がかかると続かない…&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
-    &lt;ul&gt;
-      &lt;li&gt;前者は「筋トレ」などのアクティビティ
-        &lt;ul&gt;
-          &lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;後者は「食事の量を減らす」のような施策
-        &lt;ul&gt;
-          &lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;腹囲を簡単に測るメジャーがある
-    &lt;ul&gt;
-      &lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
-    &lt;ul&gt;
-      &lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
-      &lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
-      &lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;仲間がいると、続けようという気持ちが湧く
-    &lt;ul&gt;
-      &lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
-    &lt;ul&gt;
-      &lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
-        &lt;ul&gt;
-          &lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
-        &lt;ul&gt;
-          &lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
-          &lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+&lt;li&gt;フィードバックサイクルの期間が重要
+
+&lt;ul&gt;
+&lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「後でまとめてデータを記録しよう」はNG
+
+&lt;ul&gt;
+&lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
+&lt;li&gt;少しずつでも頻繁に記録しないといけない。
+
+&lt;ul&gt;
+&lt;li&gt;ここに手間がかかると続かない...&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
+
+&lt;ul&gt;
+&lt;li&gt;前者は「筋トレ」などのアクティビティ
+
+&lt;ul&gt;
+&lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;後者は「食事の量を減らす」のような施策
+
+&lt;ul&gt;
+&lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;腹囲を簡単に測るメジャーがある
+
+&lt;ul&gt;
+&lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
+
+&lt;ul&gt;
+&lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
+&lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
+&lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;仲間がいると、続けようという気持ちが湧く
+
+&lt;ul&gt;
+&lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
+
+&lt;ul&gt;
+&lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
+
+&lt;ul&gt;
+&lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
+
+&lt;ul&gt;
+&lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
+&lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;そういえば、&lt;a href=&quot;http://goo.gl/mV8Rdd&quot;&gt;へやトレ&lt;/a&gt;の提唱者である森さんも「&lt;strong&gt;筋トレに必要なのは、まず最初にどういう自分になりたいかのビジョンを持つこと&lt;/strong&gt;」の説明にページを割いていたのを思い出します。ダイエットも一緒なのでしょうね。&lt;/p&gt;
 
-&lt;h2 id=&quot;kpt&quot;&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
+&lt;h2&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;は「KPTで痩せるわけではない」と言っていました。しかし、自分のやっていることを&lt;em&gt;客観的に評価して改善するのに役立つ&lt;/em&gt;だろうなと感じました。&lt;/p&gt;
 
@@ -387,17 +388,15 @@
 
 &lt;p&gt;非常によい気づきがありました。&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;成果発表会に呼んでいただきありがとうございました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;当日の皆さんの発表資料&lt;/h2&gt;
+&lt;h2&gt;当日の皆さんの発表資料&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;天野さん&lt;/h3&gt;
+&lt;h3&gt;天野さん&lt;/h3&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;良太さん&lt;/h3&gt;
+&lt;h3&gt;良太さん&lt;/h3&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -406,35 +405,37 @@
    <link href="http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;今日、&lt;a href=&quot;http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014/&quot;&gt;XP祭り2014で白本の参考文献について話してきます&lt;/a&gt;というエントリを書いたのですが、これだけではさっぱり人が集まりそうもないので、もう少し補足したいと思います。&lt;/p&gt;
 
-&lt;h2 id=&quot;kent-beck&quot;&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
+&lt;h2&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
+
 &lt;p&gt;大抵の参考文献は、章末や巻末に論文のリファレンスよろしく、署名、著者名、出版年、出版社が羅列されているだけでしょう。&lt;/p&gt;
 
 &lt;p&gt;白本の文献リストは、各文献毎にKentのコメントが付いています。一行コメントの場合もあれば、複数行に渡るものもある。読者はこのコメントを読むことで、その本がどのような影響をXPに与えたかがより詳しくわかります。&lt;/p&gt;
 
 &lt;p&gt;といっても、なかなかコメントだけではピンとこないことも事実。このあたりを&lt;strong&gt;当日の講演の中で大幅に補足します&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
+&lt;h2&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
+
 &lt;p&gt;XPの参考文献といえば、ソフトウェアエンジニアリング、プロジェクトマネジメント系の書籍が思い浮かぶと思いますが、白本の参考文献は、それら専門領域以外の文献を多く掲載している点にあります。哲学、態度、プロセス、システム、人、コミュニケーション技法、などなど。&lt;/p&gt;
 
 &lt;p&gt;XPの奥深さは、&lt;em&gt;Kentの多方面からの学び、それらを組み合わせて、ソフトウェア開発に応用している&lt;/em&gt;点にあるのではないかと考えています。&lt;/p&gt;
 
 &lt;p&gt;当日の講演ではこれら&lt;strong&gt;多方面の学びの関係性&lt;/strong&gt;についても注目したいと考えています。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
-&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用)&lt;/p&gt;
+&lt;h2&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用) &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;私はXPを&lt;em&gt;開発プラクティスの集合体&lt;/em&gt;と考えている人々に対し、これらの&lt;strong&gt;XPの矮小化されたイメージを覆したい&lt;/strong&gt;と考えています。そのための一つの手段として、&lt;strong&gt;参考文献を語る&lt;/strong&gt;ことを選ぶのです。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
+&lt;h2&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
 
-&lt;p&gt;…そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
-
+&lt;p&gt;...そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
 </content>
  </entry>
  
@@ -443,18 +444,20 @@
    <link href="http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;XP祭り2014で講演することになりました&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
+&lt;h2&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
+
 &lt;p&gt;2010年以降、XP祭りは一度しか参加してなかったのですが、今回セッションの公募があったのでエイヤと出したら通ったので、話をしに&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;早稲田に行ってきます&lt;/a&gt;。話す内容は、長年どこかで取り上げたいと考えていた&lt;strong&gt;白本参考文献&lt;/strong&gt;についてです。&lt;/p&gt;
 
 &lt;p&gt;このネタは2011年のXP祭りで平鍋さんが&lt;a href=&quot;http://blogs.itmedia.co.jp/hiranabe/2011/09/xp-festival-x.html&quot;&gt;既にされている&lt;/a&gt;のですが、平鍋さんの解説では含まれていなかった本なども含めて私が影響を受けた本の内容、XPの関係、XPについてのより深い洞察などを&lt;strong&gt;俺の観点&lt;/strong&gt;でお伝えします。&lt;/p&gt;
 
 &lt;p&gt;先ほど参考文献のリストを再度眺めまてみましたが、まだまだ読んでいない本もありますね。あと3年くらいは楽しめるんじゃないかと期待していますｗ 裏番組が強力すぎて人が本当に来るのか怪しいですが、&lt;strong&gt;XPの本質に迫る&lt;/strong&gt;ことを目指しXP好きにはたまらない内容にしたいなぁと考えています。&lt;/p&gt;
 
-&lt;h2 id=&quot;xp&quot;&gt;XPはファッションなのか？&lt;/h2&gt;
+&lt;h2&gt;XPはファッションなのか？&lt;/h2&gt;
+
 &lt;p&gt;講演概要を書いていて改めて気づいたのですが、白本の邦訳版が出版されてから&lt;strong&gt;14年&lt;/strong&gt;、二版の邦訳版が出版されてもうすぐ&lt;strong&gt;9年&lt;/strong&gt;が経とうとしています。もうずいぶん昔の話ですね。&lt;/p&gt;
 
 &lt;p&gt;テクノロジーの世界は進化が早く、どんどん新しい技術が生まれて、古いものは忘れ去られていきます。エンジニアリングの分野においても、&lt;em&gt;言葉の流行が、エンジニアリング（engineering; 工学および技術活動）の一分野というよりファッション業界のようだ。&lt;/em&gt;(SEMAT.jpより)とも言われる時代です。&lt;/p&gt;
@@ -463,10 +466,9 @@
 
 &lt;p&gt;ちょうど、今回は咳さんが&lt;a href=&quot;http://xpjug.com/xp2014-session-a3/&quot;&gt;XPの話をする&lt;/a&gt;そうなので楽しみです。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;追記&lt;/h3&gt;
+&lt;h3&gt;追記&lt;/h3&gt;
 
 &lt;p&gt;これだけだと全然人が集まらない気がしたので、追加でエントリを書いてみました。 → &lt;a href=&quot;http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014/&quot;&gt;あなたがXP祭り2014でこのセッションを選ぶべき３つの理由&lt;/a&gt;&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -475,8 +477,7 @@
    <link href="http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010"/>
    <updated>2014-04-18T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010</id>
-   <content type="html">
-&lt;h3 id=&quot;section&quot;&gt;本編&lt;/h3&gt;
+   <content type="html">&lt;h3&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;先日4/16に、DevLOVE名義で4年振りくらいに登壇させて頂きました。&lt;/p&gt;
 
@@ -488,7 +489,7 @@
 
 &lt;p&gt;地方をテーマにするのは、今年の１月のSGT2014での&lt;a href=&quot;http://www.slideshare.net/kkd/ss-30030229&quot;&gt;Open Jam&lt;/a&gt;以来です。このテーマは昨年からAgile459でも話題にしており、私の中ではホットなテーマの１つです。&lt;/p&gt;
 
-&lt;p&gt;もしかしたら、リモートワークの仕方について知りたい人が集まっていたのかもしれませんが、その辺りを期待されていたら申し訳なかったです。(最後にちょっとだけお話しましたが、ネットにもっと役立つ情報がありますね…)&lt;/p&gt;
+&lt;p&gt;もしかしたら、リモートワークの仕方について知りたい人が集まっていたのかもしれませんが、その辺りを期待されていたら申し訳なかったです。(最後にちょっとだけお話しましたが、ネットにもっと役立つ情報がありますね...)&lt;/p&gt;
 
 &lt;p&gt;話の半分以上は、私のプライベートな話をしてました。移住のきっかけ、悩み、職探し、価値観に基づくワークスタイルの転換、仲間づくり、ネットワークづくり、ローカルでの活動の意味、などなど。資料を作り込むのではなく、話のきっかけ程度のキーワードの羅列で進めたので資料はUPしません。&lt;/p&gt;
 
@@ -497,32 +498,31 @@
 &lt;p&gt;話の内容については素晴しいレポートがあるのでそこからなんとなく類推してみてください。(若干ニュアンスが違って理解されている部分もありますが、いちいち訂正はしませんw)&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://araratakeshi.blogspot.jp/2014/04/devlove.html?&quot;&gt;勉強会参加メモ：DevLOVE「とあるアジャイル実践者の愛媛での話」&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://suzukima.hatenablog.com/entry/2014/04/17/001959&quot;&gt;DevLOVE「とあるアジャイル実践者の愛媛での話」参加メモ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://derabon.com/2014/04/16/devlove-%E3%81%A8%E3%81%82%E3%82%8B%E6%84%9B%E5%AA%9B%E7%9C%8C%E3%81%AE%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/&quot;&gt;DEVLOVE- とある愛媛県の実践者に参加してきました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://araratakeshi.blogspot.jp/2014/04/devlove.html?&quot;&gt;勉強会参加メモ：DevLOVE「とあるアジャイル実践者の愛媛での話」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://suzukima.hatenablog.com/entry/2014/04/17/001959&quot;&gt;DevLOVE「とあるアジャイル実践者の愛媛での話」参加メモ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://derabon.com/2014/04/16/devlove-%E3%81%A8%E3%81%82%E3%82%8B%E6%84%9B%E5%AA%9B%E7%9C%8C%E3%81%AE%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/&quot;&gt;DEVLOVE- とある愛媛県の実践者に参加してきました&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;話の冒頭の質問については下記を参考にしてください。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.homes.co.jp/chintai/price/&quot;&gt;全国の賃貸物件の家賃相場の検索サイト&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;www.stat.go.jp/data/e-census/2012/pdf/gaiyo.pdf&quot;&gt;情報処理通信業の県別従事者数と売上高(総務省「平成24年経済センサス‐活動調査」)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.homes.co.jp/chintai/price/&quot;&gt;全国の賃貸物件の家賃相場の検索サイト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;www.stat.go.jp/data/e-census/2012/pdf/gaiyo.pdf&quot;&gt;情報処理通信業の県別従事者数と売上高(総務省「平成24年経済センサス‐活動調査」)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;地方への移住に関しては、以下のサイトが参考になると思います。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.iju-join.jp/&quot;&gt;ニッポン移住・交流ナビ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.iju-join.jp/&quot;&gt;ニッポン移住・交流ナビ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;懇親会&lt;/h3&gt;
+&lt;h3&gt;懇親会&lt;/h3&gt;
 
 &lt;p&gt;あの後、近くのパブで、愛媛県西条市出身、愛媛県西条に移住予定、熊本県に移住予定、京都→神奈川→千葉在住という方々と地方移住談義をしてきました。話は更に国外についても拡がり盛り上りました。このテーマでワールドカフェとかやるといろいろ面白いでしょうね。&lt;/p&gt;
 
 &lt;p&gt;会場に来て頂いた皆さんが、&lt;strong&gt;自分の大事にすることを見つめて、その人なりの素晴しい人生が送れる&lt;/strong&gt;ようになりますように。私もそうあるように精進します。このような機会を作って頂いた市谷さん、ありがとうございました。&lt;/p&gt;
 
 &lt;p&gt;2010年からのNext Decadeはまだまだ道半ば。いきいきとした未来を作るために、色々なものを総動員して、これからも走ります(比喩としても、リアルランとしても)〜。&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -531,8 +531,7 @@
    <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
    <updated>2014-03-20T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
-   <content type="html">
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;3/19に、&lt;a href=&quot;http://goo.gl/E9inDE&quot;&gt;仙台にお呼ばれ&lt;/a&gt;して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の&lt;a href=&quot;http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131&quot;&gt;ガイダンス&lt;/a&gt;です。&lt;/p&gt;
 
@@ -549,11 +548,11 @@
 &lt;p&gt;最後に少し話をさせてもらったのですが、「自分たちの現場も、反復漸進的に進めて、顧客に早期に見てもらおう」と決意してプロセスを変えることは、それ自体は素晴しい前進です。しかしすぐに次の壁にぶちあたるはずです。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない…&lt;/li&gt;
-  &lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない…&lt;/li&gt;
-  &lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない…&lt;/li&gt;
-  &lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない…&lt;/li&gt;
-  &lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない…&lt;/li&gt;
+&lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない...&lt;/li&gt;
+&lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない...&lt;/li&gt;
+&lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない...&lt;/li&gt;
+&lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない...&lt;/li&gt;
+&lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない...&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;結局の所、&lt;strong&gt;何かを変えても、次の壁に必ずぶち当り、それらをひとつひとつ越えて行かなければ、本当に目指すべき所には辿りつけない&lt;/strong&gt; です。価値あるソフトウェアを漸進的に作りあげていくように、&lt;strong&gt;チームも組織も少しづつ漸進的に改善して成長し続けることを選択&lt;/strong&gt;しなければ、志し半ばで挫けてしまうでしょう。&lt;/p&gt;
@@ -571,26 +570,25 @@
    <link href="http://giantech.jp/2013/06/27/pfp-workshop"/>
    <updated>2013-06-27T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/06/27/pfp-workshop</id>
-   <content type="html">
-&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
+   <content type="html">&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
 
 &lt;p&gt;元々の発端としては、fb経由で&lt;a href=&quot;https://twitter.com/kussy_y&quot;&gt;くっしー&lt;/a&gt;こと串田さんに、こんなことをお願いされたのがきっかけでした。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;“わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;それを受けての僕の回答は、&lt;/p&gt;
 
-&lt;p&gt;“&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;”&lt;/p&gt;
+&lt;p&gt;&amp;quot;&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;&amp;quot;&lt;/p&gt;
 
-&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが…&lt;/p&gt;
+&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが...&lt;/p&gt;
 
-&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが…)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
+&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが...)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
 
 &lt;p&gt;ワークの中では「アジャイルとPFの違いって何だろう？」ということをグループで考えてもらいました。このような問い掛けの前提としては、PFが発表された当時よりアジャイルが身近になった今の時代に、その違いについて皆がどう捉えているかが知りたかったからです。&lt;/p&gt;
 
 &lt;p&gt;PFはアジャイルという全体が世間に認知されにくかった時代に、平鍋さんがトヨタ生産方式(=リーンソフトウェア開発)に出会い、その当時の日本の現場の文脈上で利用しやすいプラクティス群を抽出し、それらプラクティスを繋ぐ原則や価値をまとめ、QoELをはじめとした新たな概念を元にストーリーを描いて人々の共感を得ることができた体系であると私は認識しています。&lt;/p&gt;
 
-&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです…)&lt;/p&gt;
+&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです...)&lt;/p&gt;
 
 &lt;p&gt;僕がそれを如実に感じたのは、&lt;a href=&quot;https://twitter.com/beakmark&quot;&gt;あまのりょー&lt;/a&gt;さんのグループのこんな一言でした。&lt;/p&gt;
 
@@ -604,9 +602,7 @@
 
 &lt;p&gt;PFP関東の伝統としては、ワークショップに時間をかけるのだったそうですが、話ばかりしてしまってごめんなさい。かつPFを知らない方にはさっぱりな内容でしたね。このような機会を頂きましたPFP関東の皆さん、参加者の皆様ありがとうございました。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
-
+&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -615,17 +611,15 @@
    <link href="http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime"/>
    <updated>2013-05-26T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime</id>
-   <content type="html">
-&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
+   <content type="html">&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
 
 &lt;p&gt;AMの本会場のUst中継は問題なく見れましたし内容も凄くよかった。前日のツィートで「フラジャイルジャパン」と流れていた理由がよくわかりましたw&lt;/p&gt;
 
-&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです…)&lt;/p&gt;
+&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです...)&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;オープニングにて&lt;/h2&gt;
+&lt;h2&gt;オープニングにて&lt;/h2&gt;
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;オープニングでは、最近個人的な関心事である地方におけるアジャイルのあり方について考えを話しました。地方においては、単に「開発をアジャイルに！」というのでは幸せになれないのではという問題提起です。理由としては、地方ではITの市場規模は限られているため、単に開発のやり方を変えるだけではインパクトが弱いこと、仮に今の受託の流れをアジャイルな契約にして実現しても、地場には仕事がなく、東京に仕事を探しにいかなければならないことが挙げられます。私の松山の知人も東京に長期出張に行っていたり、会社を変わってみたものの結局前の職場に常駐して仕事している、というような話を聞きます。&lt;/p&gt;
 
@@ -639,10 +633,9 @@
 
 &lt;p&gt;また「地方」と一括りにするのも無理があります。個々の地域がそれぞれの文脈の元に行動しなければなりません。私も愛媛という地域でその真っ只中で行動していきます。そんな思いをオープニングで話しました。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
+&lt;h2&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;ワークショップでは、「アジャイル開発をデザインする」というタイトルで内容を組みました。更に「パタンランゲージを使って」という制約を設けていましたが、パタンとはなんぞや、という話をする時間もなかったのでそこは省略してワークだけ進めました。&lt;/p&gt;
 
@@ -659,7 +652,7 @@
 
 &lt;p&gt;このワークも改善して、別の機会に実施できるようにしておきたいですね。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
+&lt;h2&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
 
 &lt;p&gt;今回、四国・愛媛サテライトでは、全コンテンツを独自で提供できた点がひっそりと嬉しいことでした。最初のサテライト開催では、東京から森田さんに助っ人にきてもらいました。昨年の開催では、岡山、広島からの発表がありました。今回はすべて愛媛にゆかりのある人たちの発表でした！ 内容については &lt;a href=&quot;http://d.hatena.ne.jp/ogin_s57/20130526/1369588527&quot;&gt;@ogin_s57さんのブログ&lt;/a&gt;に詳しいです。&lt;/p&gt;
 

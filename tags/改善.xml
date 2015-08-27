@@ -3,22 +3,240 @@
  <title>Your Title - 改善</title>
  <link href="http://giantech.jp/tags/%E6%94%B9%E5%96%84.xml" rel="self"/>
  <link href="http://giantech.jp/tag/改善.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/改善.html</id>
  <author>
    <name>Author Here</name>
  </author>
  
  <entry>
+   <title>「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？</title>
+   <link href="http://giantech.jp/2015/08/26/healthy-programmer"/>
+   <updated>2015-08-26T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2015/08/26/healthy-programmer</id>
+   <content type="html">&lt;p&gt;目次
+&amp;lt;!-- MarkdownTOC --&amp;gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;はじめに&lt;/li&gt;
+&lt;li&gt;レガシーボディ改善ガイド！？&lt;/li&gt;
+&lt;li&gt;健康の定義&lt;/li&gt;
+&lt;li&gt;本書が読まれるべき理由&lt;/li&gt;
+&lt;li&gt;本書を実践する上でのポイント&lt;/li&gt;
+&lt;li&gt;おまけ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- /MarkdownTOC --&gt;
+
+&lt;h2&gt;はじめに&lt;/h2&gt;
+
+&lt;p&gt;存在を知って気になっていた「&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4873117283/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4873117283&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;ヘルシープログラマ ―プログラミングを楽しく続けるための健康Hack&lt;/a&gt;」についてFacebookなどで騒いでいたら、&lt;a href=&quot;https://twitter.com/lalakeiko&quot;&gt;@lalakeiko&lt;/a&gt;さんから有難いことに献本頂いたので書評を書かせて頂いた。&lt;/p&gt;
+
+&lt;p&gt;この本はタイトルからもわかるように、プログラマ向けに書かれた本ではあるが、その内容はプログラマに限らず、デスクワークがメインとなる&lt;strong&gt;すべての職種の人々&lt;/strong&gt;に広くあてはまる書籍だ。&lt;/p&gt;
+
+&lt;p&gt;20世紀に、オライリー・ジャパンから「コンピュータユーザのための健康サバイバルガイド」という書籍が出ていた。&lt;/p&gt;
+
+&lt;p&gt;この本は、パソコンを使ったデスクワークを行う上で、健康上注意すべき点を細かく解説してある良書で、自分のデスクワーク環境を整えるのに重宝した思い出がある。&lt;/p&gt;
+
+&lt;p&gt;最初ヘルシープログラマを知った時には、この本の現代版なのかと勘違いしていた。しかし情報を収集していくうちに違うことに気がついた。&lt;/p&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=sstil&amp;asins=4873117283&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=sstil&amp;asins=4900900524&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;レガシーボディ改善ガイド！？&lt;/h2&gt;
+
+&lt;p&gt;本書は、&lt;strong&gt;プログラマが、プログラマの用語・戦略を使って、自分の身体を斬新的に健康的に変容させていくためのガイド&lt;/strong&gt;だ。言い換えると、&lt;strong&gt;レガシーボディを、ヘルシーボディに改善・リファクタリングしていく&lt;/strong&gt;ためのガイドとも言える。&lt;strong&gt;レガシーボディ改善ガイド&lt;/strong&gt;と別名をつけたほうがわかりやすいかもしれない。&lt;/p&gt;
+
+&lt;p&gt;ここで言う&lt;strong&gt;レガシー&lt;/strong&gt;とはプログラマ向けの用語のひとつで、「レガシーコード改善ガイド」という書籍からとっている。意味としては&lt;strong&gt;長年メンテナンスされ続けた結果、肥大化し、構造が複雑になりすぎ、依存関係にがんじがらめになり、人が理解・メンテナンスし続けることが困難になった状態&lt;/strong&gt;を指す。長年、健康を意識せずに生活している現代人が陥りやすい状態と似ているかもしれない。&lt;/p&gt;
+
+&lt;p&gt;本書の中には、&lt;strong&gt;情熱プログラマ&lt;/strong&gt;、&lt;strong&gt;MY JOB WENT TO INDIA&lt;/strong&gt;などの著者で、世界的に有名なRubyist(プログラミング言語Rubyの愛用者)である&lt;strong&gt;Chad Fowler&lt;/strong&gt;氏の事例が所々に出てくる。&lt;/p&gt;
+
+&lt;p&gt;あれほどのスタープログラマでも、健康に関して悩み、少しづつ実践重ねた結果、改善されたという事実が記載されているのは、読者にとっても感情移入して読めるのではないだろうか。&lt;/p&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4798116831&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=sstil&amp;asins=4274067939&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=sstil&amp;asins=4274066592&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;健康の定義&lt;/h2&gt;
+
+&lt;p&gt;本書の「はじめに」に本文にマーク・トウェインの言葉の引用がある。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;健康を保つ唯一の方法は、欲しくないものを食べ、好きでないものを飲み、やりたくもないことをやることだ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;これは、「健康とは禁欲・節制・強制の賜物である」と同義だ。&lt;/p&gt;
+
+&lt;p&gt;筆者は、現在の情報過多の時代では、個人が情報の波に埋もれてしまい、上記のように禁欲・節制・強制という方法を選択せざるを得ないと警鐘をならす。言い方を変えると&lt;strong&gt;手段の情報が膨大なため、逆に手段にとらわれてしまっている&lt;/strong&gt;ということだ。&lt;/p&gt;
+
+&lt;p&gt;そこで、筆者は必ずしも万能な定義ではないことを認めた上で、この２つを健康の定義としている。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;健康な人物とは、ライフスタイルから病気を生じさせてしまうリスクが低い人物のこと&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;健康な人物は、比較的痛みを感じることが少なくあるべき&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;つまり、&lt;strong&gt;健康な人物というゴール（＝目指すべき状態）を明確にしながらも、そこに至る手段については囚われない&lt;/strong&gt;という筆者の姿勢を示していると言えるだろう。&lt;/p&gt;
+
+&lt;h2&gt;本書が読まれるべき理由&lt;/h2&gt;
+
+&lt;h3&gt;(1) 科学的であることを重視&lt;/h3&gt;
+
+&lt;p&gt;本書の特長のひとつは、殆どの内容について&lt;strong&gt;科学的であること&lt;/strong&gt;を重視している。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;（１）学会誌に発表されている&lt;/li&gt;
+&lt;li&gt;（２）大量の既存の科学的裏付けを持っている&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;という2つの原則おさえている旨が「はじめに」に明記されている。&lt;/p&gt;
+
+&lt;p&gt;健康についての書籍には、科学的裏付けのないメソッドが盛り込まれることがとても多い。対象読者がプログラマということもあり、ロジカルな説明・納得感を重視している筆者の姿勢は、一般の健康に関する類書よりも安心して読むことが出来るだろう。必要があれば巻末の参考文献を読み進めることで更に調べることもできる。&lt;/p&gt;
+
+&lt;p&gt;もちろん、現時点では科学的には充分に解明されていないが、効果があるという手法もある。本文でもそういった情報には注釈付きで説明している。&lt;/p&gt;
+
+&lt;p&gt;ただし、あまり「科学的にこだわりすぎる」のもプログラマらしくない。なぜならプログラマが身を置く世界は、科学的・大規模に実証済な方法だけを信頼して使うのではなく、&lt;strong&gt;誰かが試して実際によさそうなことは、自分でもやってみて効果を測定・検証する、必要であれば改善し、不要ならやめる&lt;/strong&gt;実践的なアプローチがその発展を支えているからだ。&lt;/p&gt;
+
+&lt;p&gt;科学的裏付けだけを求めるのではなく、気になったら実際に自分でやってみる、科学的裏付けが乏しくてもまず試してみるという姿勢は同時に持っておいたほうがよいと思う。「気になったら試してみる」は決して「似非科学・非科学的事例を信じる」という姿勢ではないはずだ。&lt;/p&gt;
+
+&lt;h3&gt;(2) 反復改善アプローチによる実践的内容&lt;/h3&gt;
+
+&lt;p&gt;本書は徹底的にアジャイルアプローチ（ゴール設定、計画、実践、ふりかえりを反復的に繰り返す）の改善を貫いている。本文中にも次のようなChad Fowler氏の言葉が引用されている。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;肝心なのは、仕組みを構築することだ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;本書はプロセスをアジャイルと同様にタイムボックス（ある期間を一試行単位としてその時間内でやることを決める）の繰り返しと定義し、ゴールを明確にし、定期的にふりかえりながら、改善する方法を提案している。&lt;/p&gt;
+
+&lt;p&gt;各章には、「健康のユニットテスト」、「ふりかえり」（本書内では「振り返り」と訳出されているのが残念だが）、「やってみよう（具体的なアクションの提案）」が掲載されている。&lt;/p&gt;
+
+&lt;p&gt;本書は「読んで勉強になった」で満足するべき本ではない。&lt;strong&gt;実際に読んだ後に、すぐに何かを始め現実世界（読者の身体）に変化をもたらすための本&lt;/strong&gt;だ。そのための工夫がこらしてある。&lt;/p&gt;
+
+&lt;h3&gt;(3) 短期的な効果ではなく、長期的な習慣づくりを重視&lt;/h3&gt;
+
+&lt;p&gt;アジャイルアプローチでは、短期間でのゴール設定・成果も大事にするが、それよりも重視するのは&lt;strong&gt;長期的に成果を出し続ける継続可能なペース・仕組み&lt;/strong&gt;だ。&lt;/p&gt;
+
+&lt;p&gt;ダイエット本でよくありがちな「&lt;em&gt;一ヶ月で10kg減った&lt;/em&gt;」というようなキャッチーだが短期的視点のみの成果を目指すのではなく、ヘルシープログラマが目指すのは&lt;strong&gt;長期視点で健康的な状態を維持できること&lt;/strong&gt;だ。&lt;/p&gt;
+
+&lt;p&gt;急激な変化を求めるのではなく、できるだけ少しづつ・継続できる変化を促すように本書は構成されている。&lt;/p&gt;
+
+&lt;h3&gt;(4) 広範囲な改善ポイント&lt;/h3&gt;
+
+&lt;p&gt;本書は広範囲にわたって健康についての改善をガイドしている。（以下目次より）&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1章　変化を起こそう&lt;/li&gt;
+&lt;li&gt;2章　健康のブートストラップ&lt;/li&gt;
+&lt;li&gt;3章　椅子よさらば？&lt;/li&gt;
+&lt;li&gt;4章　アジャイルなダイエット&lt;/li&gt;
+&lt;li&gt;5章　頭痛と眼精疲労の対策&lt;/li&gt;
+&lt;li&gt;6章　腰痛への対策&lt;/li&gt;
+&lt;li&gt;7章　手首痛への対策&lt;/li&gt;
+&lt;li&gt;8章　実践的なエクササイズ&lt;/li&gt;
+&lt;li&gt;9章　個室の外で考えよう&lt;/li&gt;
+&lt;li&gt;10章　健康のリファクタリング&lt;/li&gt;
+&lt;li&gt;11章　チームを作ろう&lt;/li&gt;
+&lt;li&gt;12章　進め、健康なプログラマ&lt;/li&gt;
+&lt;li&gt;付録A　散歩とイングレス&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;まずは変化を起こすきっかけづくり（1章）から始まり、歩く（2章）、座る（3章）、食べる（4章）という基本的な部分をおさえて、職業がらよくある痛みへの対応（5-7章）、ポモドーロ＋運動サービス（8章）、屋外での活動（9章）、エクササイズ（10章）、仲間づくり（11章）、継続的改善（12章）にまで触れられている。&lt;/p&gt;
+
+&lt;p&gt;邦訳版の特典として、原著の出版時期にはなかったであろうイングレスを使った散歩について&lt;a href=&quot;https://twitter.com/hyoshiok&quot;&gt;@hyoshiok&lt;/a&gt;さんの記事が追加されている。昔よくあった音楽CDの「日本語版ボーナス特典」みたいでお得感がある。&lt;/p&gt;
+
+&lt;p&gt;広範囲に渡るということは、&lt;strong&gt;健康とは様々な要因が絡みあっている&lt;/strong&gt;ことを意味する。運動だけでもない、食事だけでもない、仕事環境だけでもない、様々な分野での取り組みの総合的な結果だ。&lt;/p&gt;
+
+&lt;p&gt;アジャイルが、単なるソフトウェアエンジニアリングの一分野ではなく、エンジニアリング、プロセス、コミュニケーション、ビジネス設計、組織開発など、様々な分野にまたがり、広がりをみせるのと類似する。&lt;/p&gt;
+
+&lt;h2&gt;本書を実践する上でのポイント&lt;/h2&gt;
+
+&lt;h3&gt;必ずしも順番に実践する必要はない&lt;/h3&gt;
+
+&lt;p&gt;本書はガイドとあるように、最初から順番に読んでいき、著者のガイドの通りの順番で実践していってもいいし、ざっと眺めてから、自分で気になるところから着手してもいいと思う。&lt;/p&gt;
+
+&lt;p&gt;自分が今どういう状況なのか、どうしたいのかを見極めて、最初の一歩を踏み、途中で立ち止まって、ふりかえってみることで、決して本の通りにいかなくても、一歩進む毎に、新たな世界が見えてきて、もっと先に行きたくなるはずだ。&lt;/p&gt;
+
+&lt;p&gt;大事なのは、&lt;strong&gt;自分のペースで歩む&lt;/strong&gt;ことだ。今をみつめ、自分の頭で考え続け、試行錯誤することだ。誰かのやり方が、そのまま自分に当てはまるとは限らない。アジャイルなプログラマが、普段から仕事でやっているようにすればよい。&lt;/p&gt;
+
+&lt;h3&gt;ヘルシーコードはヘルシープログラマから&lt;/h3&gt;
+
+&lt;p&gt;本書で何度か出てくる表現として、&lt;strong&gt;心（精神）と身体は独立した存在ではない&lt;/strong&gt;というものがある。これはすなわち心身二元論の否定であり、心と身体は不可分であるということだ。&lt;/p&gt;
+
+&lt;p&gt;プログラマは、リーダブルで、シンプルに設計され、リファクタリングされ、自動テストスィートが用意され、継続的に不具合の早期検知・改修が行われているコードのことを&lt;strong&gt;健康的なコード&lt;/strong&gt;と表現することがある。&lt;/p&gt;
+
+&lt;p&gt;健康的なコードとは、上記のように、プログラマの日々の品質を作り込み維持する様々な活動の上に成り立っている。しかし、&lt;strong&gt;ヘルシーコードを生み出すプログラマ自体が健康的でないならば、果たしてそのコードやプロダクトは本当に健康的と言えるのだろうか？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;個人（の心・身体の健康状態）と仕事も別々に独立した存在ではなく、&lt;strong&gt;健康と仕事は不可分である&lt;/strong&gt;と考えた方が自然ではないか？Googleなどが社員の健康を重視するのも同様の理由だろう。&lt;/p&gt;
+
+&lt;p&gt;もちろん、会社が健康について理解のあることに越したことはないが、最終的には会社に頼ることなく個人の責任で、できることから始めるのがよい。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://logmi.jp/73620&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://i0.wp.com/img.logmi.jp/wp-content/uploads/2015/07/gazou226.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://logmi.jp/73620&quot; class=&quot;bc-5&quot;&gt;プログラミングよりも健康づくり？　Googleが社員に求める3大必須スキルとは - ログミー&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;IVS 2015 Springの本セッションの前に行われたインフィニティ・ベンチャーズLLP・小林雅氏とCampus for H・石川善樹氏による特別対談。書籍『最後のダイエット』を出版したCampus for H・石川氏は、オフィスワーカーの健康について、Googleの社員教育で実践されている、寝ること・体を動かすこと・料理することの3つの要素と仕事との関連性を解説。自然に健康になりながら、仕事のパフォーマンスを高める方法を紹介しました。&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://logmi.jp/73620&quot; class=&quot;bc-favicon&quot;&gt;logmi.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://logmi.jp/73620&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;こういった書き方をすると「よい仕事をするために、健康になるべき」と聞こえてしまうかもしれない。しかしこれは順番が逆であって、&lt;strong&gt;個人が健康的になることで、その人がよい人生を送ることができ、その結果としてよい仕事を継続的にできる&lt;/strong&gt;ということではないか。&lt;/p&gt;
+
+&lt;h3&gt;楽しくやろうぜ&lt;/h3&gt;
+
+&lt;p&gt;病気などで「生活習慣を変えないと命に関わるよ」と言われた方は「生きるために」健康に気を使わなければならない。そういう極限状態の方は別として、なんとなく健康を気にしているというくらいの動機の場合には、&lt;a href=&quot;http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;でも書いたように、&lt;strong&gt;楽しさをどう作っていくか&lt;/strong&gt;が鍵だと思う。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+    &lt;div class=&quot;bc-2&quot;&gt;
+        &lt;a href=&quot;http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7150/6808412351_d8928f0240.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro&quot; class=&quot;bc-5&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/p&gt;
+    &lt;p class=&quot;bc-6&quot;&gt;減量失敗体験から学んだことを整理してみた。キーワードは持続可能性、目的意識、楽しみ。&lt;/p&gt;
+    &lt;div class=&quot;bc-7&quot;&gt;
+        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;プログラマは、目的のためにコードを書くというよりも、コードを書くのが楽しいからコードを書くという人が多いと思われる。&lt;/p&gt;
+
+&lt;p&gt;コードを書いて「俺って凄い」感を得るように、ヘルシーハックを行って「俺って凄い」感を得られようになれば、プログラマはあっという間に健康な人物になれるのではないだろうか。&lt;/p&gt;
+
+&lt;p&gt;そのためには「健康のためにはじめる」という動機よりも、「楽しそうだからはじめる（おまけに健康にもなれる）」のほうがプログラマらしいのかもしれない。&lt;/p&gt;
+
+&lt;p&gt;楽しいことがきっと一杯あるので（自分もそうだった）、本書を手にとって一歩を踏み出せる人が増えると嬉しい。&lt;/p&gt;
+
+&lt;p&gt;8/25に東京で開催された&lt;a href=&quot;http://connpass.com/event/18312/&quot;&gt;ヘルシープログラマー出版記念イベント&lt;/a&gt;も、Twitterのハッシュタグを見ると盛況だったようだ。今後ますます多くの人が注目することになるのではないだろうか。&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/hashtag/healthyprog&quot; data-widget-id=&quot;636411227795623936&quot;&gt;#healthyprog のツイート&lt;/a&gt;
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&amp;#39;http&amp;#39;:&amp;#39;https&amp;#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&amp;quot;://platform.twitter.com/widgets.js&amp;quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&amp;quot;script&amp;quot;,&amp;quot;twitter-wjs&amp;quot;);&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;おまけ&lt;/h2&gt;
+
+&lt;h3&gt;おまけ１&lt;/h3&gt;
+
+&lt;p&gt;個人的には、こういった本はパタン・ランゲージとしてまとめたいと考えています。まずは個人の経験を元にパタンの種を書いていこうと考えています。興味のある方、「自分の経験もパタンにしたい」という方は連絡を頂けるとうれしいです。&lt;/p&gt;
+
+&lt;h3&gt;おまけ２&lt;/h3&gt;
+
+&lt;p&gt;今年中にヘルシープログラマ関連のイベントの&lt;strong&gt;愛媛県松山市での開催&lt;/strong&gt;したいと考えています。詳細は後日アナウンスする予定ですが、出版記念イベントに参加できなかった方、もっと情報共有したい方、愛媛に来てください！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>スタンディング環境を半年続けてわかったこと</title>
    <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year"/>
    <updated>2015-05-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;昨年(2014年)末の大掃除の頃に、自宅の作業環境をスタンディング環境（スタンディングデスク）にしてみた。実際に半年経ってどうなのかをまとめてみる。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;なぜスタンディング環境について興味を持ったか？&lt;/h2&gt;
+&lt;h2&gt;なぜスタンディング環境について興味を持ったか？&lt;/h2&gt;
 
 &lt;p&gt;ここ２年前くらいから、ネットの各所でワークスペースにおけるスタンディング環境が話題になっており、ずっと気になっていた。&lt;/p&gt;
 
@@ -28,7 +246,7 @@
 
 &lt;p&gt;しかし、昨年末(2014年末)に、作業スペースを一新しようと思い立ち、&lt;strong&gt;大掃除のタイミングを逃すと、チャンスは来年になってしまう！&lt;/strong&gt;という危機感もあり、昨年末に思い切って実現してみた。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;スタンディング環境の実現&lt;/h2&gt;
+&lt;h2&gt;スタンディング環境の実現&lt;/h2&gt;
 
 &lt;p&gt;一般的に、スタンディング環境を構築するには、専用デスクを購入する流れが多いように感じる。しかし今使っている机をムダにはしたくないので、専用デスクの購入ではなく、&lt;strong&gt;机の上に台を置いて、自分で高さを調整しての環境構築&lt;/strong&gt;を選択した。&lt;/p&gt;
 
@@ -36,7 +254,7 @@
 
 &lt;p&gt;逆に自分にフィットする高さがわかっている場合は、高さを決め打ちして足の長さを伸ばしてもいいかもしれない。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;重ねる台は何を？&lt;/h2&gt;
+&lt;h2&gt;重ねる台は何を？&lt;/h2&gt;
 
 &lt;p&gt;次は重ねる台をどうするかだ。当初はホームセンターで木材を購入してきて自分で台を組み立てようと思っていた（実際に木材も購入した）。しかし、ふと引っ越しの際に使わなくなった組み立て式のラックが納屋に眠っているのを思い出し、そちらを台として利用する実験を先にしてみることにした。&lt;/p&gt;
 
@@ -44,55 +262,55 @@
 
 &lt;p&gt;現在使っている机の幅は100cmなので、90cm幅の天板に相当する板を購入して棚の上に重ねている。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;高さ調整は試行錯誤を織り込む&lt;/h3&gt;
+&lt;h3&gt;高さ調整は試行錯誤を織り込む&lt;/h3&gt;
 
 &lt;p&gt;高さの調整は実際に使ってみないと決められない。ある程度の時間使ってみた上で、肩、腰、手などに負担がかからないかを見極めなければならない。&lt;/p&gt;
 
 &lt;p&gt;そのため自分の場合は３日くらい実際に試して体の負担を確かめて、結局高さを、ウッドポールの棚板一枚分上げた。結果的に現在の高さは以下のようになっている。特に肩こりなどの不満はないが、気持ちもう少し高さがあってもいい気はしている。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;元々の机の高さ： 70cm&lt;/li&gt;
-  &lt;li&gt;重ねた台の高さ： 33.7cm&lt;/li&gt;
-  &lt;li&gt;デスクの高さ： 103.7cm&lt;/li&gt;
+&lt;li&gt;元々の机の高さ： 70cm&lt;/li&gt;
+&lt;li&gt;重ねた台の高さ： 33.7cm&lt;/li&gt;
+&lt;li&gt;デスクの高さ： 103.7cm&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;以下の写真では、下から２枚がウッドポール棚板(75cm)で、一番上が90cmの天板になる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/adjustment_of_height.JPG&quot; alt=&quot;天板を重ねて高さ調整&quot; title=&quot;天板を重ねて高さ調整&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/adjustment_of_height.JPG&quot; alt=&quot;天板を重ねて高さ調整&quot; title=&quot;天板を重ねて高さ調整&quot;&gt;{:.mid}&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;スタンディング環境にしてよかったこと&lt;/h2&gt;
+&lt;h2&gt;スタンディング環境にしてよかったこと&lt;/h2&gt;
 
 &lt;p&gt;以下はスタンディング環境にしてよかったことを列挙してみる。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;立ちっぱなしでも疲れにくくなった&lt;/h3&gt;
+&lt;h3&gt;立ちっぱなしでも疲れにくくなった&lt;/h3&gt;
 
 &lt;p&gt;それまでは、一日研修を実施するとそれなりに疲労感があったが、スタンディングデスクを使用してから１月以上経過した時に実施した一日研修では、&lt;strong&gt;疲労感がほとんどなかった&lt;/strong&gt;。これには自分でも驚いた。&lt;/p&gt;
 
 &lt;p&gt;スタンディング環境で仕事をすることは、効率的な立ち方が自然と身につく、あるいは、立つための筋肉が鍛えられるのかもしれない。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-6&quot;&gt;スペースが有効活用できる&lt;/h3&gt;
+&lt;h3&gt;スペースが有効活用できる&lt;/h3&gt;
 
 &lt;p&gt;スタンディング環境にしてから（あたりまえだが）椅子が不要になった。その結果、足元を含めてスペースが広くとれるようになった。(現在椅子は机の下に格納しておいてはある）&lt;/p&gt;
 
 &lt;p&gt;今の作業空間は居間の一角にあるため、専用の部屋ではなくスペースは限られている（２〜３畳分くらい？）。椅子をどけたことによる、省スペース効果は予想以上で、ストレッチや自重トレーニングくらいできる程度のスペースが確保できた。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk2.JPG&quot; alt=&quot;Standing Desk2&quot; title=&quot;スタンディングデスクとヨガマット&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk2.JPG&quot; alt=&quot;Standing Desk2&quot; title=&quot;スタンディングデスクとヨガマット&quot;&gt;{:.mid}&lt;/p&gt;
 
-&lt;h3 id=&quot;section-7&quot;&gt;椅子に関する動作が不要で機敏に動ける&lt;/h3&gt;
+&lt;h3&gt;椅子に関する動作が不要で機敏に動ける&lt;/h3&gt;
 
 &lt;p&gt;実際にスタンディング環境にしてわかったのは、様々な行動を行う際のステップが簡略化されたことだ。&lt;/p&gt;
 
 &lt;p&gt;たとえば椅子に座っている時に、本棚に行って本をとる、あるいはコーヒーを入れに居間に行く、などのデスクワーク以外のアクションをとろうとする時には&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;椅子から立つ&lt;/li&gt;
-  &lt;li&gt;椅子の横に出る&lt;/li&gt;
-  &lt;li&gt;椅子をしまう（あるいは横にどける）&lt;/li&gt;
+&lt;li&gt;椅子から立つ&lt;/li&gt;
+&lt;li&gt;椅子の横に出る&lt;/li&gt;
+&lt;li&gt;椅子をしまう（あるいは横にどける）&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;という３つのアクションが必ず必要だったのだが、スタンディングにしてから不要になった。これは思った以上に&lt;strong&gt;ストレスレス&lt;/strong&gt;だった。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-8&quot;&gt;運動の代わりになる&lt;/h3&gt;
+&lt;h3&gt;運動の代わりになる&lt;/h3&gt;
 
 &lt;p&gt;日常の消費カロリーベースで考えると、立ったままの作業は、椅子に座ったままの作業よりも多くのカロリーを消費する。&lt;/p&gt;
 
@@ -102,23 +320,23 @@
 
 &lt;p&gt;ちなみに、日本のいくつかのサイトで参照されているタニタの方が書いた記事&lt;a href=&quot;http://news.mynavi.jp/column/cal/003/&quot;&gt;「無理なく1カ月でウエスト1cm!　カロリーコントロールでダイエット」&lt;/a&gt;には「立つは座るの二倍の消費カロリー」とあるが、表では「横になる・ゆったり座る」と「乗り物の中で立つ」とでの比較が二倍ということなので、デスクワークとスタンディングワークの差が二倍ではないと考えたほうが自然だろう。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-9&quot;&gt;困ったこと&lt;/h2&gt;
+&lt;h2&gt;困ったこと&lt;/h2&gt;
 
 &lt;p&gt;逆にスタンディング環境にしてから困ったこともいくつか挙げてみる。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-10&quot;&gt;ディスプレイとの距離の調整が難しい&lt;/h3&gt;
+&lt;h3&gt;ディスプレイとの距離の調整が難しい&lt;/h3&gt;
 
 &lt;p&gt;これは、スタンディング環境のせいというよりも、現在の作業スペースの制約によるものですが、座っての作業を前提とした空間設計になっているので、作り付けの棚がちょうどディスプレイに干渉してしまい、棚が邪魔でディスプレイを奥に置けなくなっている。&lt;/p&gt;
 
 &lt;p&gt;現在では通常の姿勢だと、ディスプレイと目の距離は約50cmになっている。&lt;/p&gt;
 
-&lt;p&gt;EIZOの&lt;a href=&quot;http://www.eizo.co.jp/eizolibrary/other/itmedia08/&quot;&gt;「【保存版】ディスプレイの疲れ目対策”10選”」&lt;/a&gt;によると、&lt;em&gt;ワイド画面では50cm以上&lt;/em&gt;（横に広いぶん距離を取らないと視野に画面全体が収まらないためだそう）とあるのでそれほど近いわけではない。&lt;/p&gt;
+&lt;p&gt;EIZOの&lt;a href=&quot;http://www.eizo.co.jp/eizolibrary/other/itmedia08/&quot;&gt;「【保存版】ディスプレイの疲れ目対策&amp;quot;10選&amp;quot;」&lt;/a&gt;によると、&lt;em&gt;ワイド画面では50cm以上&lt;/em&gt;（横に広いぶん距離を取らないと視野に画面全体が収まらないためだそう）とあるのでそれほど近いわけではない。&lt;/p&gt;
 
 &lt;p&gt;今使っているディスプレイサイズは27インチなので、全体を見渡すには後10cmは距離をあけたいところだが、机の奥行きが限られるので、これ以上距離を開けるのは難しいところだ。天板をもっと大きくしないといけない。&lt;/p&gt;
 
 &lt;p&gt;椅子の場合は、最悪キーボードは膝の上で、椅子を話して距離を調整できるが、スタンディングデスクではそれができない。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;微妙な高さ調整がしづらい&lt;/h3&gt;
+&lt;h3&gt;微妙な高さ調整がしづらい&lt;/h3&gt;
 
 &lt;p&gt;これもスタンディングデスクに限った話ではないが高さ調整の必要だ。&lt;/p&gt;
 
@@ -130,7 +348,7 @@
 
 &lt;p&gt;なので厳密に言うとスタンディング環境の困りごとではないが、念のため。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;本を読むときには座りたい&lt;/h3&gt;
+&lt;h3&gt;本を読むときには座りたい&lt;/h3&gt;
 
 &lt;p&gt;作業中に書籍を参照しながらの場合は、立ちながら本を開いておくことで対応できるが、本だけを読みたい場合には椅子に座りながら読みたいという時がある。&lt;/p&gt;
 
@@ -138,7 +356,7 @@
 
 &lt;p&gt;本を読みたい時には、カフェに移動するという手もあるので、必ずしもスタンディング環境の困りごとではないが、事実としてあるので列挙しておく。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-13&quot;&gt;長時間作業には向いていない&lt;/h3&gt;
+&lt;h3&gt;長時間作業には向いていない&lt;/h3&gt;
 
 &lt;p&gt;この歳（43歳）になると、夜を徹しての深夜作業はほとんどしないが、先日締切直前で提案書を明け方まで書いていたことがあった。&lt;/p&gt;
 
@@ -146,7 +364,7 @@
 
 &lt;p&gt;作業時間が長くなると、スタンディング環境だけでは難しいと感じた。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-14&quot;&gt;本当に疲れている・体調の悪いときに作業できない&lt;/h3&gt;
+&lt;h3&gt;本当に疲れている・体調の悪いときに作業できない&lt;/h3&gt;
 
 &lt;p&gt;深夜作業に近いが、本当に疲労している時にはスタンディングでの作業は正直難しい。&lt;/p&gt;
 
@@ -154,7 +372,7 @@
 
 &lt;p&gt;ここまで「体が疲れるケース」というのは、日常生活をする上でそうそう無い気はするが、例えば風邪を引いて熱があってクラクラする時でも仕事をしなきゃいけない、という状況だとスタンディング環境では仕事はできないかもしれない。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-15&quot;&gt;まとめ&lt;/h2&gt;
+&lt;h2&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;スタンディング環境を構築・実践して約半年経ったが、椅子が恋しくなることは（皆無ではないが）殆ど無くなり、仕事環境としては定着したと思う。自分の場合は、自宅はスタンディング環境、外部の作業スペースでは椅子を使うという切り分けになるので、完全に椅子から離れたわけではない。椅子も状況や体力に応じて使い分けることは必要だが、メインとして「座り心地のよい椅子」を買うことは恐らくもうないだろう。&lt;/p&gt;
 
@@ -168,13 +386,13 @@
 
 &lt;p&gt;動機はなんであれ、一度は部分的でもよいので試してみることをオススメしたい。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-16&quot;&gt;類似の記事たち(追記：2015/05/29)&lt;/h2&gt;
+&lt;h2&gt;類似の記事たち(追記：2015/05/29)&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2136816331150235201&quot;&gt;あなたの健康と生産性を向上させる！？【スタンディングデスク】まとめ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20141122-ikea-standing-desk/&quot;&gt;KEAの「スタンディングデスク」を1週間使ってみた&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kechamayo.jp/news/archives/8679&quot;&gt;スタンディングデスクを自作した僕たちの方法～立ったままPC作業で効率アップ＆足腰の鍛錬にもなる！&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hoxai.com/archives/2432&quot;&gt;スタンディングデスクを半年間続けて気がついた7つのこと。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2136816331150235201&quot;&gt;あなたの健康と生産性を向上させる！？【スタンディングデスク】まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20141122-ikea-standing-desk/&quot;&gt;KEAの「スタンディングデスク」を1週間使ってみた&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kechamayo.jp/news/archives/8679&quot;&gt;スタンディングデスクを自作した僕たちの方法～立ったままPC作業で効率アップ＆足腰の鍛錬にもなる！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hoxai.com/archives/2432&quot;&gt;スタンディングデスクを半年間続けて気がついた7つのこと。&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

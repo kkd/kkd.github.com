@@ -3,7 +3,7 @@
  <title>Your Title - devlove</title>
  <link href="http://giantech.jp/tags/devlove.xml" rel="self"/>
  <link href="http://giantech.jp/tag/devlove.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/devlove.html</id>
  <author>
    <name>Author Here</name>
@@ -14,8 +14,7 @@
    <link href="http://giantech.jp/2013/10/22/systems_thinking_in_devlove"/>
    <updated>2013-10-22T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/10/22/systems_thinking_in_devlove</id>
-   <content type="html">
-&lt;p&gt;明日、10/22に東京で開催される &lt;a href=&quot;http://devlove.doorkeeper.jp/events/6155&quot;&gt;システム思考を手に入れよう。&lt;/a&gt;について思うところがあるので、少し書いておきます。&lt;/p&gt;
+   <content type="html">&lt;p&gt;明日、10/22に東京で開催される &lt;a href=&quot;http://devlove.doorkeeper.jp/events/6155&quot;&gt;システム思考を手に入れよう。&lt;/a&gt;について思うところがあるので、少し書いておきます。&lt;/p&gt;
 
 &lt;p&gt;私がシステム思考、学習する組織、Theory Uなどに影響を受けて「センゲの会」なる謎の勉強会をはじめたのは&lt;a href=&quot;http://atnd.org/events/1176&quot;&gt;4年前&lt;/a&gt;だったでしょうか、まだ東京に住んでいる頃の話です。&lt;/p&gt;
 
@@ -44,8 +43,7 @@
    <link href="http://giantech.jp/2013/04/23/devlove459-vol1"/>
    <updated>2013-04-23T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/23/devlove459-vol1</id>
-   <content type="html">
-&lt;h3 id=&quot;devlove&quot;&gt;僕とDevLOVEの関係&lt;/h3&gt;
+   <content type="html">&lt;h3&gt;僕とDevLOVEの関係&lt;/h3&gt;
 
 &lt;p&gt;2013/04/20に、香川県高松市にて&lt;a href=&quot;http://devlove-459.doorkeeper.jp/events/2649&quot;&gt;DevLOVE四国&lt;/a&gt;を開催しました。&lt;/p&gt;
 
@@ -55,9 +53,9 @@
 
 &lt;p&gt;自分はその後すぐに愛媛に引っ越してしまい、DevLOVEの勢いが更に増したここ数年についてはネットを通じてのぼんやりとしかイメージできていませんでした。&lt;/p&gt;
 
-&lt;h3 id=&quot;devlove-1&quot;&gt;準備編 DevLOVE四国へ&lt;/h3&gt;
+&lt;h3&gt;準備編 DevLOVE四国へ&lt;/h3&gt;
 
-&lt;p&gt;時は過ぎて、@papandaは自分の前職の&lt;a href=&quot;http://www.esm.co.jp/&quot;&gt;永和システムマネジメント&lt;/a&gt;に転職していました。自分は愛媛に越してから&lt;a href=&quot;https://sites.google.com/site/agile459/&quot;&gt;Agile459&lt;/a&gt;を起ち上げて、知り合いゼロの状態から少しづつコミュニティを続けてきて、なんとなく松山近辺での知り合いが増えてきました。しかし四国と名乗りながらも四国他県のつながりがなかなかできていない状態でした…&lt;/p&gt;
+&lt;p&gt;時は過ぎて、@papandaは自分の前職の&lt;a href=&quot;http://www.esm.co.jp/&quot;&gt;永和システムマネジメント&lt;/a&gt;に転職していました。自分は愛媛に越してから&lt;a href=&quot;https://sites.google.com/site/agile459/&quot;&gt;Agile459&lt;/a&gt;を起ち上げて、知り合いゼロの状態から少しづつコミュニティを続けてきて、なんとなく松山近辺での知り合いが増えてきました。しかし四国と名乗りながらも四国他県のつながりがなかなかできていない状態でした...&lt;/p&gt;
 
 &lt;p&gt;そんな中、半年くらい前に@papandaにDevLOVEの四国起ち上げを相談されました。その時、彼は「&lt;strong&gt;四国にDevLOVEコミュニティを作りたい&lt;/strong&gt;」という話をしてきました。僕はその時「新しいコミュニティを起ち上げるというよりも、&lt;strong&gt;四国の既存のコミュニティをDevLOVEというイベントによって繋げるのがよいのではないのか？&lt;/strong&gt;」と提案しました。&lt;/p&gt;
 
@@ -65,14 +63,13 @@
 
 &lt;p&gt;四国という土地柄、開催地をどこにするか、集客、登壇者の旅費の工面はどうするのか？という課題がいくつもありました。しかし蓋を開けてみたら40名に近い参加者とスポンサー様のご支援のお陰で無事に開催することができました。ここまで辿りつけたのも、@kamatamadaiさんを中心としたスタッフの皆さんの活躍の賜物です。参加者もスタッフも四国四県が集ったことにとても感慨深いものを感じます。&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;当日編&lt;/h3&gt;
+&lt;h3&gt;当日編&lt;/h3&gt;
 
-&lt;p&gt;自分の担当はワークショップだったので、最初は&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3260&quot;&gt;シマリスScrum&lt;/a&gt;で@you_and_iさんがやってくれたマシュマロタワーをやってみようと考えていました。しかし当日の会場は飲食禁止のため、マシュマロをついほうばりたくなるマシュマロタワーは無理と判断しました。(あとは食べ物廃棄するのは個人的に好きではないので…)&lt;/p&gt;
+&lt;p&gt;自分の担当はワークショップだったので、最初は&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3260&quot;&gt;シマリスScrum&lt;/a&gt;で@you&lt;em&gt;and&lt;/em&gt;iさんがやってくれたマシュマロタワーをやってみようと考えていました。しかし当日の会場は飲食禁止のため、マシュマロをついほうばりたくなるマシュマロタワーは無理と判断しました。(あとは食べ物廃棄するのは個人的に好きではないので...) &lt;/p&gt;
 
-&lt;p&gt;そこで似たようなワークをデザインしてみました。とはいえパスタの絶妙なバランスは再現できないので、別の形での工夫(1枚の紙をどう分割して高くするか)を盛り込んでみました。素振りは子供と嫁さん相手にしてみたのだけど、「時間制限あるのがやだー」とか「パパキライー(ちゃんとやりきれないこんな遊びやらせて)」とか散々非難されて素振りになりませんでした….。練りが甘かったのはいなめませんが、実際にやってみると一人素振りでは気づかなかったことがいろいろわかって面白かったので、近々Ver.2にしようかと思います。ちなみに一人の素振りの時の記録は96cmだったのですが、会場では100cm越えのチームが出たのは驚きでした！&lt;/p&gt;
+&lt;p&gt;そこで似たようなワークをデザインしてみました。とはいえパスタの絶妙なバランスは再現できないので、別の形での工夫(1枚の紙をどう分割して高くするか)を盛り込んでみました。素振りは子供と嫁さん相手にしてみたのだけど、「時間制限あるのがやだー」とか「パパキライー(ちゃんとやりきれないこんな遊びやらせて)」とか散々非難されて素振りになりませんでした....。練りが甘かったのはいなめませんが、実際にやってみると一人素振りでは気づかなかったことがいろいろわかって面白かったので、近々Ver.2にしようかと思います。ちなみに一人の素振りの時の記録は96cmだったのですが、会場では100cm越えのチームが出たのは驚きでした！&lt;/p&gt;
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/19500344&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/devlove-19500344&quot; title=&quot;DevLOVE四国 アジャイル体験ワークショップ &amp;quot;ペーパータワー&amp;quot;&quot; target=&quot;_blank&quot;&gt;DevLOVE四国 アジャイル体験ワークショップ &amp;quot;ペーパータワー&amp;quot;&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/19500344&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/devlove-19500344&quot; title=&quot;DevLOVE四国 アジャイル体験ワークショップ &amp;quot;ペーパータワー&amp;quot;&quot; target=&quot;_blank&quot;&gt;DevLOVE四国 アジャイル体験ワークショップ &amp;quot;ペーパータワー&amp;quot;&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;今回はお金関係の裏方も担当していたため、自分の番が終ったら控室でいそいそと金銭計算に終始していました。そのため他の講演者の方々の話をじっくり聞くことはできなかったのですが、参加者の皆さんの満足度は高かったようで、@bathtimefishさん、@t_eggさん、@yoshioteradaさんさすがでした。&lt;/p&gt;
 
@@ -84,16 +81,15 @@
 
 &lt;p&gt;最後に@papandaによるクロージングで各グループのダイアログを行いました。思っていた以上に各テーブルで、現場の課題についての話が出ていたのが印象的でした。&lt;strong&gt;会場にダイブ&lt;/strong&gt;もよかったですね。(これ&lt;a href=&quot;http://objectclub.jp/download/files/ipp-onAir.pdf&quot;&gt;インタラクティブプレゼンテーションパターン&lt;/a&gt;の「会場にダイブ」パターンです。)&lt;/p&gt;
 
-&lt;p&gt;懇親会では、実家が愛媛県の @ogin_s57さんと初顔合せでお話ができました。AgileJapan2013の登壇オファーも完了！当日が楽しみです。@ttyokoyamaさんとも久しぶりにお話ができたし、高松の@dongumaさんのお話も興味深いものでした。@tkbootさんと二人で高松でも盛り上げてほしいですねw。&lt;/p&gt;
+&lt;p&gt;懇親会では、実家が愛媛県の @ogin_s57さんと初顔合せでお話ができました。AgileJapan2013の登壇オファーも完了！当日が楽しみです。@ttyokoyamaさんとも久しぶりにお話ができたし、高松の@dongumaさんのお話も興味深いものでした。@tkbootさんと二人で高松でも盛り上げてほしいですねw。 &lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;今後&lt;/h3&gt;
+&lt;h3&gt;今後&lt;/h3&gt;
 
 &lt;p&gt;これからは、香川(DONE)→愛媛→高知→徳島の順で一周することになりそうです。これをきっかけに、Agile459としても四国各県を跨いだ活動を実現させていきたいし、DevLOVE四国を中心としてコミュニティや地域を越えた交流がより一層促進されるのではないかと感じています。もっと人を巻き込みたいな。&lt;/p&gt;
 
-&lt;p&gt;さぁ次は 5/25の&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;です。こっちはDevLOVE四国の準備に追われていて準備が滞っていたので頑張らないと…。&lt;/p&gt;
+&lt;p&gt;さぁ次は 5/25の&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;です。こっちはDevLOVE四国の準備に追われていて準備が滞っていたので頑張らないと...。&lt;/p&gt;
 
 &lt;p&gt;あっと、&lt;a href=&quot;http://gembapatterncommunity.doorkeeper.jp/events/3623&quot;&gt;アジャイル×パターン＝ぼくたちの現場&lt;/a&gt;も 5/8にあるんだった。久しぶりに&lt;strong&gt;東京&lt;/strong&gt;でアジャイルとパタンの話しをしますよ。久しぶりの方、お会いしましょう。&lt;/p&gt;
-
 </content>
  </entry>
  

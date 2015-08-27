@@ -12,15 +12,18 @@ http://giantech.jp/archeological_pages.html
 http://giantech.jp/archive.html
 http://giantech.jp/atom.xml
 http://giantech.jp/categories.html
+http://giantech.jp/assets/categories.json
 http://giantech.jp/category_policy.html
 http://giantech.jp/pages/pc/column_vol1.html
 http://giantech.jp/pages/pc/column_vol2.html
 http://giantech.jp/index.html
 http://giantech.jp/pages.html
+http://giantech.jp/assets/posts.json
 http://giantech.jp/pages/agile/region_supported_agile_leanstartup_in_japan.html
 http://giantech.jp/rss.xml
 http://giantech.jp/sitemap.txt
 http://giantech.jp/tags.html
+http://giantech.jp/assets/tags.json
 http://giantech.jp/pages/uas/ultimate-agile-stories-iteration-1-kkd.html
 http://giantech.jp/pages/uas/ultimate-agile-stories-iteration-2-kkd.html
 http://giantech.jp/tags/tool.html
@@ -333,6 +336,8 @@ http://giantech.jp/tags/%E6%94%B9%E5%96%84.html
 http://giantech.jp/tags/%E6%94%B9%E5%96%84.xml
 http://giantech.jp/tags/hack.html
 http://giantech.jp/tags/hack.xml
+http://giantech.jp/tags/%E5%81%A5%E5%BA%B7.html
+http://giantech.jp/tags/%E5%81%A5%E5%BA%B7.xml
 http://giantech.jp/tags/%E7%94%9F%E3%81%8D%E7%89%A9.html
 http://giantech.jp/tags/%E7%94%9F%E3%81%8D%E7%89%A9.xml
 http://giantech.jp/tags/creature.html
@@ -454,6 +459,7 @@ http://giantech.jp/tags/gviz.xml
 http://giantech.jp/tags/gruff.html
 http://giantech.jp/tags/gruff.xml
 
+http://giantech.jp/2015/08/26/healthy-programmer
 http://giantech.jp/2015/08/19/traffic-interchange-in-local-area
 http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area
 http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought

@@ -95,6 +95,27 @@ p.bc-8 {
   font-size:11px;
 }
 
+ul.related_post  {
+  display:table;
+  margin: 20px 0;
+  table-layout: fixed;
+  width:100%;
+}
+
+ul.related_post li{
+  display:table-cell;
+  /*vertical-align:middle;*/
+  /*text-align:middle;*/
+  width: 150px;
+  padding: 9px;
+  border 1px solid #666;
+  font-size: 12px;
+  /*margin-left: 2px;*/
+  /*margin-right 2px;*/
+  /*margin: 0 5px 0 0;*/
+}
+
+
 img.bc-favicon {
   margin:0 5px 0 0;
   padding:0;

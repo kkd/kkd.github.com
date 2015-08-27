@@ -3,7 +3,7 @@
  <title>Your Title - お知らせ</title>
  <link href="http://giantech.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.xml" rel="self"/>
  <link href="http://giantech.jp/tag/お知らせ.html"/>
- <updated>2015-08-23T09:25:09+09:00</updated>
+ <updated>2015-08-27T12:19:35+09:00</updated>
  <id>http://giantech.jp/tags/お知らせ.html</id>
  <author>
    <name>Author Here</name>
@@ -14,7 +14,7 @@
    <link href="http://giantech.jp/2015/06/09/i-changed-the-blog-name"/>
    <updated>2015-06-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/09/i-changed-the-blog-name</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/logo_cghll.png&quot; alt=&quot;ロゴ&quot; title=&quot;新しいロゴ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/logo_cghll.png&quot; alt=&quot;ロゴ&quot; title=&quot;新しいロゴ&quot;&gt;{:.mid}&lt;/p&gt;
 
 &lt;p&gt;２年ぶり（？）に、ブログの名称を変えてみた。&lt;/p&gt;
 
@@ -31,7 +31,6 @@
 &lt;p&gt;まぁ、自分の場合は Profitable というのも重要なんですけどね。&lt;/p&gt;
 
 &lt;p&gt;そんなことを考えながら、これからもまだまだ生きていきます。&lt;/p&gt;
-
 </content>
  </entry>
  

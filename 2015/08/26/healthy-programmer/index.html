@@ -1,0 +1,555 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？</title>
+	<meta name="author" content="Takeshi Kakeda">
+	<meta property="fb:app_id" content="1454999371428349" />
+	<meta property="fb:admins" content="566704592" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://giantech.jp/2015/08/26/healthy-programmer" />
+	<meta property="og:description" content="オライリージャパンから出版されたヘルシープログラマを読んでみた。この本はプログラマだけでなく現代人が抱える健康課題を解決するための１つのアプローチとして良書である理由を書いてみる。" />
+ 	<meta property="og:site_name" content="いきてま＠えひめ" />
+	<meta property="og:title" content="「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？" />
+	<meta property="og:image" content="http://giantech.jp/assets/images/20150826/book.jpeg" />
+	<meta property="article:published_time" content="2015-08-26T00:00:00+09:00" />
+	<meta property="article:author" content="http://www.facebook.com/takeshi.kakeda" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@kkd">
+	<meta name="twitter:title" content="「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？">
+	<meta name="twitter:url" content="http://giantech.jp/2015/08/26/healthy-programmer">
+	<meta name="twitter:description" content="オライリージャパンから出版されたヘルシープログラマを読んでみた。この本はプログラマだけでなく現代人が抱える健康課題を解決するための１つのアプローチとして良書である理由を書いてみる。">
+	<meta name="twitter:image" content="http://giantech.jp/assets/images/20150826/book.jpeg">
+
+	<link href='/assets/themes/the-minimum/css/style.css' rel="stylesheet" media="all">
+	<!-- custom css -->
+	<link rel="stylesheet" type="text/css" href="/assets/kkd.css">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？" type="application/atom+xml">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+	window._pt_sp_2 = [];
+	_pt_sp_2.push('setAccount,1e98b194');
+	var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	(function() {
+		var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+		atag.src = _protocol + 'js.ptengine.jp/pta.js';
+		var stag = document.createElement('script'); stag.type = 'text/javascript'; stag.async = true;
+		stag.src = _protocol + 'js.ptengine.jp/pts.js';
+		var s = document.getElementsByTagName('script')[0]; 
+		s.parentNode.insertBefore(atag, s);s.parentNode.insertBefore(stag, s);
+	})();
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.3&appId=1454999371428349";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+       
+<div id="page" class="hentry">
+		<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<p class="logo small"><a href="/"><img class="site_logo" src="/assets/logo_cghll.png" /></a></p>
+				<nav class="nav-global">
+					<ul>
+						<li class="page"><a href="/about.html">about</a></li>
+						<li class="archive"><a href="/archive.html">過去のエントリ</a></li>
+						<li class="page"><a href="/archeological_pages.html">考古学的記事</a></li>
+						<li class="page"><a href="/pages.html">全記事</a></li>
+						<li class="category"><a href="/categories.html">カテゴリ</a></li>
+						<li class="tag"><a href="/tags.html">タグ</a></li>
+						<!-- google custom search -->
+						<li class="page"><form action="http://www.google.co.jp/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-9613785634594580:8109281756" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="40" />
+    <input type="submit" name="sa" value="サイト検索" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+<script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&t13n_langs=en"></script>
+
+<script type="text/javascript" src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script></li>
+						<li class="page"><div class="fb-follow fb_iframe_widget" data-href="https://www.facebook.com/takeshi.kakeda" data-colorscheme="light" data-layout="button" data-show-faces="true"></div></li>
+						<li class="page"><span class="feedly-btn-horizontal">
+	<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fgiantech.jp%2Frss.xml' target='blank'>
+		<img id='feedly-follow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-small_2x.png'alt='follow us in feedly'></a>
+</span></li>
+						<li class="page"><style>
+.strava-badge- { 
+	display: inline-block; height: 20px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge- img {
+	visibility: hidden; height: 20px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge-:hover {
+	background-position: 0 -31px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge-follow { 
+	margin-bottom: 0;
+	height: 20px; 
+	width: 20px; 
+	background: url(/assets/images/blogparts/echelon-sprite-20.png) no-repeat 0 0; 
+	vertical-align: middle;
+} 
+</style>
+<a href="http://strava.com/athletes/3772130/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="/assets/images/blogparts/echelon-sprite-20.png" alt="Strava" /></a></li>
+
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+<article class="unit-article layout-post">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					<div class="misc-content">
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+					</div>
+					<br/>
+					<p>目次
+&lt;!-- MarkdownTOC --&gt;</p>
+
+<ul>
+<li>はじめに</li>
+<li>レガシーボディ改善ガイド！？</li>
+<li>健康の定義</li>
+<li>本書が読まれるべき理由</li>
+<li>本書を実践する上でのポイント</li>
+<li>おまけ</li>
+</ul>
+
+<!-- /MarkdownTOC -->
+
+<h2>はじめに</h2>
+
+<p>存在を知って気になっていた「<a href="http://www.amazon.co.jp/gp/product/4873117283/ref=as_li_ss_tl?ie=UTF8&amp;camp=247&amp;creative=7399&amp;creativeASIN=4873117283&amp;linkCode=as2&amp;tag=giantech-22">ヘルシープログラマ ―プログラミングを楽しく続けるための健康Hack</a>」についてFacebookなどで騒いでいたら、<a href="https://twitter.com/lalakeiko">@lalakeiko</a>さんから有難いことに献本頂いたので書評を書かせて頂いた。</p>
+
+<p>この本はタイトルからもわかるように、プログラマ向けに書かれた本ではあるが、その内容はプログラマに限らず、デスクワークがメインとなる<strong>すべての職種の人々</strong>に広くあてはまる書籍だ。</p>
+
+<p>20世紀に、オライリー・ジャパンから「コンピュータユーザのための健康サバイバルガイド」という書籍が出ていた。</p>
+
+<p>この本は、パソコンを使ったデスクワークを行う上で、健康上注意すべき点を細かく解説してある良書で、自分のデスクワーク環境を整えるのに重宝した思い出がある。</p>
+
+<p>最初ヘルシープログラマを知った時には、この本の現代版なのかと勘違いしていた。しかし情報を収集していくうちに違うことに気がついた。</p>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=sstil&asins=4873117283" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=sstil&asins=4900900524" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<h2>レガシーボディ改善ガイド！？</h2>
+
+<p>本書は、<strong>プログラマが、プログラマの用語・戦略を使って、自分の身体を斬新的に健康的に変容させていくためのガイド</strong>だ。言い換えると、<strong>レガシーボディを、ヘルシーボディに改善・リファクタリングしていく</strong>ためのガイドとも言える。<strong>レガシーボディ改善ガイド</strong>と別名をつけたほうがわかりやすいかもしれない。</p>
+
+<p>ここで言う<strong>レガシー</strong>とはプログラマ向けの用語のひとつで、「レガシーコード改善ガイド」という書籍からとっている。意味としては<strong>長年メンテナンスされ続けた結果、肥大化し、構造が複雑になりすぎ、依存関係にがんじがらめになり、人が理解・メンテナンスし続けることが困難になった状態</strong>を指す。長年、健康を意識せずに生活している現代人が陥りやすい状態と似ているかもしれない。</p>
+
+<p>本書の中には、<strong>情熱プログラマ</strong>、<strong>MY JOB WENT TO INDIA</strong>などの著者で、世界的に有名なRubyist(プログラミング言語Rubyの愛用者)である<strong>Chad Fowler</strong>氏の事例が所々に出てくる。</p>
+
+<p>あれほどのスタープログラマでも、健康に関して悩み、少しづつ実践重ねた結果、改善されたという事実が記載されているのは、読者にとっても感情移入して読めるのではないだろうか。</p>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4798116831" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=sstil&asins=4274067939" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=giantech-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=sstil&asins=4274066592" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<h2>健康の定義</h2>
+
+<p>本書の「はじめに」に本文にマーク・トウェインの言葉の引用がある。</p>
+
+<blockquote>
+<p>健康を保つ唯一の方法は、欲しくないものを食べ、好きでないものを飲み、やりたくもないことをやることだ</p>
+</blockquote>
+
+<p>これは、「健康とは禁欲・節制・強制の賜物である」と同義だ。</p>
+
+<p>筆者は、現在の情報過多の時代では、個人が情報の波に埋もれてしまい、上記のように禁欲・節制・強制という方法を選択せざるを得ないと警鐘をならす。言い方を変えると<strong>手段の情報が膨大なため、逆に手段にとらわれてしまっている</strong>ということだ。</p>
+
+<p>そこで、筆者は必ずしも万能な定義ではないことを認めた上で、この２つを健康の定義としている。</p>
+
+<ul>
+<li><strong>健康な人物とは、ライフスタイルから病気を生じさせてしまうリスクが低い人物のこと</strong></li>
+<li><strong>健康な人物は、比較的痛みを感じることが少なくあるべき</strong></li>
+</ul>
+
+<p>つまり、<strong>健康な人物というゴール（＝目指すべき状態）を明確にしながらも、そこに至る手段については囚われない</strong>という筆者の姿勢を示していると言えるだろう。</p>
+
+<h2>本書が読まれるべき理由</h2>
+
+<h3>(1) 科学的であることを重視</h3>
+
+<p>本書の特長のひとつは、殆どの内容について<strong>科学的であること</strong>を重視している。</p>
+
+<ul>
+<li>（１）学会誌に発表されている</li>
+<li>（２）大量の既存の科学的裏付けを持っている</li>
+</ul>
+
+<p>という2つの原則おさえている旨が「はじめに」に明記されている。</p>
+
+<p>健康についての書籍には、科学的裏付けのないメソッドが盛り込まれることがとても多い。対象読者がプログラマということもあり、ロジカルな説明・納得感を重視している筆者の姿勢は、一般の健康に関する類書よりも安心して読むことが出来るだろう。必要があれば巻末の参考文献を読み進めることで更に調べることもできる。</p>
+
+<p>もちろん、現時点では科学的には充分に解明されていないが、効果があるという手法もある。本文でもそういった情報には注釈付きで説明している。</p>
+
+<p>ただし、あまり「科学的にこだわりすぎる」のもプログラマらしくない。なぜならプログラマが身を置く世界は、科学的・大規模に実証済な方法だけを信頼して使うのではなく、<strong>誰かが試して実際によさそうなことは、自分でもやってみて効果を測定・検証する、必要であれば改善し、不要ならやめる</strong>実践的なアプローチがその発展を支えているからだ。</p>
+
+<p>科学的裏付けだけを求めるのではなく、気になったら実際に自分でやってみる、科学的裏付けが乏しくてもまず試してみるという姿勢は同時に持っておいたほうがよいと思う。「気になったら試してみる」は決して「似非科学・非科学的事例を信じる」という姿勢ではないはずだ。</p>
+
+<h3>(2) 反復改善アプローチによる実践的内容</h3>
+
+<p>本書は徹底的にアジャイルアプローチ（ゴール設定、計画、実践、ふりかえりを反復的に繰り返す）の改善を貫いている。本文中にも次のようなChad Fowler氏の言葉が引用されている。</p>
+
+<blockquote>
+<p>肝心なのは、仕組みを構築することだ</p>
+</blockquote>
+
+<p>本書はプロセスをアジャイルと同様にタイムボックス（ある期間を一試行単位としてその時間内でやることを決める）の繰り返しと定義し、ゴールを明確にし、定期的にふりかえりながら、改善する方法を提案している。</p>
+
+<p>各章には、「健康のユニットテスト」、「ふりかえり」（本書内では「振り返り」と訳出されているのが残念だが）、「やってみよう（具体的なアクションの提案）」が掲載されている。</p>
+
+<p>本書は「読んで勉強になった」で満足するべき本ではない。<strong>実際に読んだ後に、すぐに何かを始め現実世界（読者の身体）に変化をもたらすための本</strong>だ。そのための工夫がこらしてある。</p>
+
+<h3>(3) 短期的な効果ではなく、長期的な習慣づくりを重視</h3>
+
+<p>アジャイルアプローチでは、短期間でのゴール設定・成果も大事にするが、それよりも重視するのは<strong>長期的に成果を出し続ける継続可能なペース・仕組み</strong>だ。</p>
+
+<p>ダイエット本でよくありがちな「<em>一ヶ月で10kg減った</em>」というようなキャッチーだが短期的視点のみの成果を目指すのではなく、ヘルシープログラマが目指すのは<strong>長期視点で健康的な状態を維持できること</strong>だ。</p>
+
+<p>急激な変化を求めるのではなく、できるだけ少しづつ・継続できる変化を促すように本書は構成されている。</p>
+
+<h3>(4) 広範囲な改善ポイント</h3>
+
+<p>本書は広範囲にわたって健康についての改善をガイドしている。（以下目次より）</p>
+
+<ul>
+<li>1章　変化を起こそう</li>
+<li>2章　健康のブートストラップ</li>
+<li>3章　椅子よさらば？</li>
+<li>4章　アジャイルなダイエット</li>
+<li>5章　頭痛と眼精疲労の対策</li>
+<li>6章　腰痛への対策</li>
+<li>7章　手首痛への対策</li>
+<li>8章　実践的なエクササイズ</li>
+<li>9章　個室の外で考えよう</li>
+<li>10章　健康のリファクタリング</li>
+<li>11章　チームを作ろう</li>
+<li>12章　進め、健康なプログラマ</li>
+<li>付録A　散歩とイングレス</li>
+</ul>
+
+<p>まずは変化を起こすきっかけづくり（1章）から始まり、歩く（2章）、座る（3章）、食べる（4章）という基本的な部分をおさえて、職業がらよくある痛みへの対応（5-7章）、ポモドーロ＋運動サービス（8章）、屋外での活動（9章）、エクササイズ（10章）、仲間づくり（11章）、継続的改善（12章）にまで触れられている。</p>
+
+<p>邦訳版の特典として、原著の出版時期にはなかったであろうイングレスを使った散歩について<a href="https://twitter.com/hyoshiok">@hyoshiok</a>さんの記事が追加されている。昔よくあった音楽CDの「日本語版ボーナス特典」みたいでお得感がある。</p>
+
+<p>広範囲に渡るということは、<strong>健康とは様々な要因が絡みあっている</strong>ことを意味する。運動だけでもない、食事だけでもない、仕事環境だけでもない、様々な分野での取り組みの総合的な結果だ。</p>
+
+<p>アジャイルが、単なるソフトウェアエンジニアリングの一分野ではなく、エンジニアリング、プロセス、コミュニケーション、ビジネス設計、組織開発など、様々な分野にまたがり、広がりをみせるのと類似する。</p>
+
+<h2>本書を実践する上でのポイント</h2>
+
+<h3>必ずしも順番に実践する必要はない</h3>
+
+<p>本書はガイドとあるように、最初から順番に読んでいき、著者のガイドの通りの順番で実践していってもいいし、ざっと眺めてから、自分で気になるところから着手してもいいと思う。</p>
+
+<p>自分が今どういう状況なのか、どうしたいのかを見極めて、最初の一歩を踏み、途中で立ち止まって、ふりかえってみることで、決して本の通りにいかなくても、一歩進む毎に、新たな世界が見えてきて、もっと先に行きたくなるはずだ。</p>
+
+<p>大事なのは、<strong>自分のペースで歩む</strong>ことだ。今をみつめ、自分の頭で考え続け、試行錯誤することだ。誰かのやり方が、そのまま自分に当てはまるとは限らない。アジャイルなプログラマが、普段から仕事でやっているようにすればよい。</p>
+
+<h3>ヘルシーコードはヘルシープログラマから</h3>
+
+<p>本書で何度か出てくる表現として、<strong>心（精神）と身体は独立した存在ではない</strong>というものがある。これはすなわち心身二元論の否定であり、心と身体は不可分であるということだ。</p>
+
+<p>プログラマは、リーダブルで、シンプルに設計され、リファクタリングされ、自動テストスィートが用意され、継続的に不具合の早期検知・改修が行われているコードのことを<strong>健康的なコード</strong>と表現することがある。</p>
+
+<p>健康的なコードとは、上記のように、プログラマの日々の品質を作り込み維持する様々な活動の上に成り立っている。しかし、<strong>ヘルシーコードを生み出すプログラマ自体が健康的でないならば、果たしてそのコードやプロダクトは本当に健康的と言えるのだろうか？</strong></p>
+
+<p>個人（の心・身体の健康状態）と仕事も別々に独立した存在ではなく、<strong>健康と仕事は不可分である</strong>と考えた方が自然ではないか？Googleなどが社員の健康を重視するのも同様の理由だろう。</p>
+
+<p>もちろん、会社が健康について理解のあることに越したことはないが、最終的には会社に頼ることなく個人の責任で、できることから始めるのがよい。</p>
+
+<div class="bc-1">
+    <div class="bc-2">
+        <a href="http://logmi.jp/73620" class="bc-3"><img src="http://i0.wp.com/img.logmi.jp/wp-content/uploads/2015/07/gazou226.jpg" class="bc-4"></a>
+    </div>
+    <p style="margin:0;"><a href="http://logmi.jp/73620" class="bc-5">プログラミングよりも健康づくり？　Googleが社員に求める3大必須スキルとは - ログミー</a></p>
+    <p class="bc-6">IVS 2015 Springの本セッションの前に行われたインフィニティ・ベンチャーズLLP・小林雅氏とCampus for H・石川善樹氏による特別対談。書籍『最後のダイエット』を出版したCampus for H・石川氏は、オフィスワーカーの健康について、Googleの社員教育で実践されている、寝ること・体を動かすこと・料理することの3つの要素と仕事との関連性を解説。自然に健康になりながら、仕事のパフォーマンスを高める方法を紹介しました。</p>
+    <div class="bc-7">
+        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://logmi.jp/73620" class="bc-favicon">logmi.jp<img src="http://b.hatena.ne.jp/entry/image/http://logmi.jp/73620" class="bc-hatebu"></p>
+    </div>
+</div>
+
+<p>こういった書き方をすると「よい仕事をするために、健康になるべき」と聞こえてしまうかもしれない。しかしこれは順番が逆であって、<strong>個人が健康的になることで、その人がよい人生を送ることができ、その結果としてよい仕事を継続的にできる</strong>ということではないか。</p>
+
+<h3>楽しくやろうぜ</h3>
+
+<p>病気などで「生活習慣を変えないと命に関わるよ」と言われた方は「生きるために」健康に気を使わなければならない。そういう極限状態の方は別として、なんとなく健康を気にしているというくらいの動機の場合には、<a href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro">減量失敗体験から学んだこと</a>でも書いたように、<strong>楽しさをどう作っていくか</strong>が鍵だと思う。</p>
+
+<div class="bc-1">
+    <div class="bc-2">
+        <a href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro" class="bc-3"><img src="https://farm8.staticflickr.com/7150/6808412351_d8928f0240.jpg" class="bc-4"></a>
+    </div>
+    <p style="margin:0;"><a href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro" class="bc-5">減量失敗体験から学んだこと</a></p>
+    <p class="bc-6">減量失敗体験から学んだことを整理してみた。キーワードは持続可能性、目的意識、楽しみ。</p>
+    <div class="bc-7">
+        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro" class="bc-favicon">giantech.jp<img src="http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro" class="bc-hatebu"></p>
+    </div>
+</div>
+
+<p>プログラマは、目的のためにコードを書くというよりも、コードを書くのが楽しいからコードを書くという人が多いと思われる。</p>
+
+<p>コードを書いて「俺って凄い」感を得るように、ヘルシーハックを行って「俺って凄い」感を得られようになれば、プログラマはあっという間に健康な人物になれるのではないだろうか。</p>
+
+<p>そのためには「健康のためにはじめる」という動機よりも、「楽しそうだからはじめる（おまけに健康にもなれる）」のほうがプログラマらしいのかもしれない。</p>
+
+<p>楽しいことがきっと一杯あるので（自分もそうだった）、本書を手にとって一歩を踏み出せる人が増えると嬉しい。</p>
+
+<p>8/25に東京で開催された<a href="http://connpass.com/event/18312/">ヘルシープログラマー出版記念イベント</a>も、Twitterのハッシュタグを見ると盛況だったようだ。今後ますます多くの人が注目することになるのではないだろうか。</p>
+
+<p><a class="twitter-timeline" href="https://twitter.com/hashtag/healthyprog" data-widget-id="636411227795623936">#healthyprog のツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&#39;http&#39;:&#39;https&#39;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&quot;://platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);</script></p>
+
+<h2>おまけ</h2>
+
+<h3>おまけ１</h3>
+
+<p>個人的には、こういった本はパタン・ランゲージとしてまとめたいと考えています。まずは個人の経験を元にパタンの種を書いていこうと考えています。興味のある方、「自分の経験もパタンにしたい」という方は連絡を頂けるとうれしいです。</p>
+
+<h3>おまけ２</h3>
+
+<p>今年中にヘルシープログラマ関連のイベントの<strong>愛媛県松山市での開催</strong>したいと考えています。詳細は後日アナウンスする予定ですが、出版記念イベントに参加できなかった方、もっと情報共有したい方、愛媛に来てください！</p>
+
+					<div class="meta">
+						<p class="date-publish">
+							Published: 
+							<date class="date-pub" title="2015-08-26T00:00:00+09:00" datetime="2015-08-26T00:00:00+09:00" pubdate>
+							<span class="month"><abbr>2015</abbr></span>/
+							<span class="day">08</span>/
+							<span class="year">26</span>
+							</date>
+						</p>
+						<p>Source on Github: <span><a href="http://github.com/kkd/kkd.github.com/blob/master/_posts/2015-08-26-healthy-programmer.md">「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？</a></span></p>
+						<ul class="list-category list-linear">
+							<li class="list-head">category: </li>
+							
+							
+
+
+  
+     
+    	<li><a href="/categories.html#healthy-ref">
+    		healthy <span>19</span>
+    	</a></li>
+    
+  
+
+
+						</ul>
+						<ul class="list-tag list-linear">
+							<li class="list-head">tags: </li>
+							
+							
+
+   
+    <li><a href="/tags/健康.html" style="font-size: 88%">健康 <span>2</span></a></li>
+   
+    <li><a href="/tags/ランニング.html" style="font-size: 100%">ランニング <span>11</span></a></li>
+   
+    <li><a href="/tags/アジャイル.html" style="font-size: 100%">アジャイル <span>15</span></a></li>
+   
+    <li><a href="/tags/ライフハック.html" style="font-size: 104%">ライフハック <span>2</span></a></li>
+   
+    <li><a href="/tags/ライフスタイル.html" style="font-size: 108%">ライフスタイル <span>3</span></a></li>
+   
+    <li><a href="/tags/改善.html" style="font-size: 88%">改善 <span>2</span></a></li>
+  
+
+
+						</ul>
+					</div><!-- meta -->
+					<div class="misc-content">
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+						<h3>[関連する記事]</h3>
+
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year"><img src="http://giantech.jp/assets/images/20150526/standingdesk1.JPG" width="142" height="100"/>2015/05/26<br/>スタンディング環境を半年続けてわかったこと</a></li>
+
+	
+		
+	
+  <li><a href="/2015/05/09/natural-running-in-ehime"><img src="http://giantech.jp/assets/images/20150509/naturalrunning.jpg" width="142" height="100"/>2015/05/09<br/>ナチュラルランニングの講習に参加してわかった遥かなる道のり</a></li>
+
+</ul>
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2015/08/11/weight-and-distance-chart-since-2012"><img src="http://giantech.jp/assets/images/20150811/weight-running-distance.png" width="142" height="100"/>2015/08/11<br/>3年間のランニングと体重の変化をグラフ化してのふりかえり</a></li>
+
+	
+		
+	
+  <li><a href="/2015/07/15/run-the459nomichi-ehime-e14"><img src="http://giantech.jp/assets/images/20150715/ehime_k14_result.png" width="142" height="100"/>2015/07/15<br/>四国のみちを走ってきた（愛媛14番：高縄山探鳥のみち）</a></li>
+
+</ul>
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2015/07/01/run-the-shikoku-no-michi-project"><img src="http://giantech.jp/assets/images/20150701/road459_whole.png" width="142" height="100"/>2015/07/01<br/>四国のみちを走って回るプロジェクトを始めた</a></li>
+
+	
+		
+	
+  <li><a href="/2015/03/10/evolution-of-tapiriik"><img src="http://giantech.jp/assets/images/tapiriik_201503_480x320.jpg" width="142" height="100"/>2015/03/10<br/>各種フィットネスサービスの自動同期サービスtapiriikが進化していた</a></li>
+
+</ul>
+</p>
+						   <!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//giantech.jp&nsid=93895154733182801%3A%3A123600333694852915&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>						
+					</div>
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<nav class="pagination">
+						<ul>
+							
+							<li class="prev"><a class="internal" rel="prev"  href="/2015/08/19/traffic-interchange-in-local-area" title="View 生活圏流動数の視覚化マップ（各地域版）">&laquo; 生活圏流動数の視覚化マップ（各地域版）</a></li>
+							
+							
+							
+						</ul>
+					</nav>
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<!-- <li class="contact"><address><span class="author fn n">Takeshi Kakeda</span> - <span class="fn email">takeshi@giantech.jp</span></address></li> -->
+						<li class="github"><a href="http://github.com/kkd/" rel="me">github.com/kkd</a></li>
+						<li class="twitter"><a href="http://twitter.com/kkd/" rel="me">twitter.com/kkd</a></li>
+						<li class="facebook"><a href="http://facebook.com/takeshi.kakeda/" rel="me">Facebook</a></li>
+						<li class="linkedin"><a href="http://linkedin.com/in/takeshikakeda/" rel="me">LinkedIn</a></li>										
+						<li class="slideshare"><a href="http://slideshare.net/kkd/" rel="me">SlideShare(presentation</a></li>										
+						<li class="rss"><a href="http://giantech.jp/rss.xml">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+
+  <!-- { include ads/ads.html } -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53571303-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
