@@ -3,7 +3,7 @@ layout: post
 title: "「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？"
 description: "オライリージャパンから出版されたヘルシープログラマを読んでみた。この本はプログラマだけでなく現代人が抱える健康課題を解決するための１つのアプローチとして良書である理由を書いてみる。"
 category: Healthy
-image: http://giantech.jp/assets/images/20150826/book.jpeg
+image: http://giantech.jp/assets/images/20150826/healthy_prog.jpg
 tags: [健康,ランニング,アジャイル,ライフハック,ライフスタイル,改善]
 ---
 目次
