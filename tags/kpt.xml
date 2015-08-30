@@ -3,7 +3,7 @@
  <title>Your Title - kpt</title>
  <link href="http://giantech.jp/tags/kpt.xml" rel="self"/>
  <link href="http://giantech.jp/tag/kpt.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/kpt.html</id>
  <author>
    <name>Author Here</name>
@@ -14,9 +14,9 @@
    <link href="http://giantech.jp/2014/08/29/yaseru-kpt"/>
    <updated>2014-08-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/29/yaseru-kpt</id>
-   <content type="html">&lt;h2&gt;リモートで基調講演（？）&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;リモートで基調講演（？）&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野&lt;/a&gt;さんから、&lt;a href=&quot;http://kokucheese.com/event/index/199090/&quot;&gt;やせる！KPT&lt;/a&gt;で話をして欲しい、と言われたので話してきました。と言っても、Skypeでのリモートでの物語りで、かつ資料もなかったので、聞き取りづらかったんじゃないかと思います。しかも時間を間違えていて３０分遅れてしまいすみませんでした…&lt;/p&gt;
 
@@ -25,78 +25,78 @@
 &lt;p&gt;ざっくり説明すると以下のような感じです。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;なんとなく走りだした(2012/05)
-
-&lt;ul&gt;
-&lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
-&lt;li&gt;なれると楽しくなった！
-
-&lt;ul&gt;
-&lt;li&gt;距離が増えていく&lt;/li&gt;
-&lt;li&gt;体が楽になっていく&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;走ることが楽しくなった(2012/06〜)
-
-&lt;ul&gt;
-&lt;li&gt;体重もどんどん落ちた
-
-&lt;ul&gt;
-&lt;li&gt;痩せるための走り方を研究した
-
-&lt;ul&gt;
-&lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;裸足ランニングで自分の可能性を試したくなった
-
-&lt;ul&gt;
-&lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;怪我をして走れなくなった(2012/12)
-
-&lt;ul&gt;
-&lt;li&gt;無理していたら膝の痛みが悪化→医者へ
-
-&lt;ul&gt;
-&lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
-&lt;li&gt;うまくいかないリハビリ
-
-&lt;ul&gt;
-&lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ランに向いていないと医者から止められる
-
-&lt;ul&gt;
-&lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
-
-&lt;ul&gt;
-&lt;li&gt;無理はしない
-
-&lt;ul&gt;
-&lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
-&lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
-
-&lt;ul&gt;
-&lt;li&gt;Sub4.5&lt;/li&gt;
-&lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;レースに出るのはよい刺激になる
-
-&lt;ul&gt;
-&lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;なんとなく走りだした(2012/05)
+    &lt;ul&gt;
+      &lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
+      &lt;li&gt;なれると楽しくなった！
+        &lt;ul&gt;
+          &lt;li&gt;距離が増えていく&lt;/li&gt;
+          &lt;li&gt;体が楽になっていく&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;走ることが楽しくなった(2012/06〜)
+    &lt;ul&gt;
+      &lt;li&gt;体重もどんどん落ちた
+        &lt;ul&gt;
+          &lt;li&gt;痩せるための走り方を研究した
+            &lt;ul&gt;
+              &lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;裸足ランニングで自分の可能性を試したくなった
+        &lt;ul&gt;
+          &lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;怪我をして走れなくなった(2012/12)
+    &lt;ul&gt;
+      &lt;li&gt;無理していたら膝の痛みが悪化→医者へ
+        &lt;ul&gt;
+          &lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
+      &lt;li&gt;うまくいかないリハビリ
+        &lt;ul&gt;
+          &lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ランに向いていないと医者から止められる
+        &lt;ul&gt;
+          &lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
+    &lt;ul&gt;
+      &lt;li&gt;無理はしない
+        &lt;ul&gt;
+          &lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
+      &lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
+    &lt;ul&gt;
+      &lt;li&gt;Sub4.5&lt;/li&gt;
+      &lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;レースに出るのはよい刺激になる
+    &lt;ul&gt;
+      &lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;今までダイエット目的でうまく行き続けたことはない怠惰な人間なので、&lt;strong&gt;走る楽しみの副産物&lt;/strong&gt;として体重減がついてきてるのが今のところうまく行ってるポイントなのでしょうか。途中でKPTはやっていないのですが、途中途中で&lt;strong&gt;自分は何のために走ってるのだろう？&lt;/strong&gt;という問いかけをせざるを得ない場面がありました。
@@ -104,81 +104,81 @@
 
 &lt;p&gt;ちなみに走る・走らないは置いておいて、読み物として&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4140814144/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4140814144&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;BORN TO RUN&lt;/a&gt;は一度読んでみるといいと思います。業界的に裸足ランニングブームは過ぎて、本当に興味ある人たちで取り組まれている印象です。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
 
 &lt;p&gt;自分の話の後は参加者の成果発表を聞いていました。皆さん、赤裸々にデータ(笑)と気づきを発表されていたのですが、ざっくり聞いていると、次のようなことがわかりました。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;フィードバックサイクルの期間が重要
-
-&lt;ul&gt;
-&lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「後でまとめてデータを記録しよう」はNG
-
-&lt;ul&gt;
-&lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
-&lt;li&gt;少しずつでも頻繁に記録しないといけない。
-
-&lt;ul&gt;
-&lt;li&gt;ここに手間がかかると続かない...&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
-
-&lt;ul&gt;
-&lt;li&gt;前者は「筋トレ」などのアクティビティ
-
-&lt;ul&gt;
-&lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;後者は「食事の量を減らす」のような施策
-
-&lt;ul&gt;
-&lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;腹囲を簡単に測るメジャーがある
-
-&lt;ul&gt;
-&lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
-
-&lt;ul&gt;
-&lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
-&lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
-&lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;仲間がいると、続けようという気持ちが湧く
-
-&lt;ul&gt;
-&lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
-
-&lt;ul&gt;
-&lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
-
-&lt;ul&gt;
-&lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
-
-&lt;ul&gt;
-&lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
-&lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;フィードバックサイクルの期間が重要
+    &lt;ul&gt;
+      &lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「後でまとめてデータを記録しよう」はNG
+    &lt;ul&gt;
+      &lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
+      &lt;li&gt;少しずつでも頻繁に記録しないといけない。
+        &lt;ul&gt;
+          &lt;li&gt;ここに手間がかかると続かない…&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
+    &lt;ul&gt;
+      &lt;li&gt;前者は「筋トレ」などのアクティビティ
+        &lt;ul&gt;
+          &lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;後者は「食事の量を減らす」のような施策
+        &lt;ul&gt;
+          &lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;腹囲を簡単に測るメジャーがある
+    &lt;ul&gt;
+      &lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
+    &lt;ul&gt;
+      &lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
+      &lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
+      &lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;仲間がいると、続けようという気持ちが湧く
+    &lt;ul&gt;
+      &lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
+    &lt;ul&gt;
+      &lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
+        &lt;ul&gt;
+          &lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
+        &lt;ul&gt;
+          &lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
+          &lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;そういえば、&lt;a href=&quot;http://goo.gl/mV8Rdd&quot;&gt;へやトレ&lt;/a&gt;の提唱者である森さんも「&lt;strong&gt;筋トレに必要なのは、まず最初にどういう自分になりたいかのビジョンを持つこと&lt;/strong&gt;」の説明にページを割いていたのを思い出します。ダイエットも一緒なのでしょうね。&lt;/p&gt;
 
-&lt;h2&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
+&lt;h2 id=&quot;kpt&quot;&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;は「KPTで痩せるわけではない」と言っていました。しかし、自分のやっていることを&lt;em&gt;客観的に評価して改善するのに役立つ&lt;/em&gt;だろうなと感じました。&lt;/p&gt;
 
@@ -188,15 +188,17 @@
 
 &lt;p&gt;非常によい気づきがありました。&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;成果発表会に呼んでいただきありがとうございました。&lt;/p&gt;
 
-&lt;h2&gt;当日の皆さんの発表資料&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;当日の皆さんの発表資料&lt;/h2&gt;
 
-&lt;h3&gt;天野さん&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;天野さん&lt;/h3&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
-&lt;h3&gt;良太さん&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;良太さん&lt;/h3&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </content>
  </entry>
  

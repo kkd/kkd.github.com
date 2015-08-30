@@ -3,7 +3,7 @@
  <title>Your Title - ヘルシープログラマー</title>
  <link href="http://giantech.jp/tags/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ヘルシープログラマー.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/ヘルシープログラマー.html</id>
  <author>
    <name>Author Here</name>
@@ -14,48 +14,48 @@
    <link href="http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012"/>
    <updated>2015-08-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012</id>
-   <content type="html">&lt;h2&gt;ランニングを始めて３年経過のふりかえり&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;ランニングを始めて３年経過のふりかえり&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/weight-running-distance.png&quot; alt=&quot;体重と走行距離グラフ&quot; title=&quot;体重と走行距離グラフ&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/weight-running-distance.png&quot; alt=&quot;体重と走行距離グラフ&quot; title=&quot;体重と走行距離グラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2012年5月から突然走りだして３年が経過しました。これまで手動・自動を含めて体重やランニングのログをとり続けてきたので試しに集計・統合してみたところ、これまで気づかないことが見えてきました。3年をふりかえりながら、視覚化してみてのフィードバックをまとめてみます。&lt;/p&gt;
 
-&lt;h3&gt;体重&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;体重&lt;/h3&gt;
 
 &lt;p&gt;体重は当初はタニタの体重計での計測結果をExcelに記録していましたが、途中からオムロンのAndroidスマフォで連携可能な&lt;a href=&quot;http://www.amazon.co.jp/gp/product/B0093E9OQK/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=B0093E9OQK&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;HBF-252F&lt;/a&gt;を使い、オムロンの提供しているサービスであるウェルネスリンク（現在は&lt;a href=&quot;https://www.watashi-move.jp/&quot;&gt;わたしムーブ&lt;/a&gt;内のサービス）に転送している記録をCSVファイルに出力し、月毎の平均値を算出しました。測定タイミングは風呂に入る前と、朝ラン後にシャワーを浴びる前の大体2回です。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-5&quot;&gt;ウェルネスリンクサービス一覧 | ウェルネスリンク - WellnessLINK&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-favicon&quot;&gt;www.wellnesslink.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-5&quot;&gt;ウェルネスリンクサービス一覧 | ウェルネスリンク - WellnessLINK&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-favicon&quot; /&gt;www.wellnesslink.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.wellnesslink.jp/p/service/index.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;走行距離&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;走行距離&lt;/h3&gt;
 
 &lt;p&gt;走行距離は、&lt;a href=&quot;https://www.strava.com/&quot;&gt;STRAVA&lt;/a&gt;に格納してあるアクティビティログをAPIで取得し月毎の合計値を算出しました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.strava.com/&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-5&quot;&gt;ランニング &amp; サイクリングGPSトラッカー、パフォーマンス分析、地図、クラブ、または試合 | Strava&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.strava.com/&quot; class=&quot;bc-favicon&quot;&gt;www.strava.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.strava.com/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.strava.com/&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.strava.com/&quot; class=&quot;bc-5&quot;&gt;ランニング &amp;amp; サイクリングGPSトラッカー、パフォーマンス分析、地図、クラブ、または試合 | Strava&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.strava.com/&quot; class=&quot;bc-favicon&quot; /&gt;www.strava.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.strava.com/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;きっかけ&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;きっかけ&lt;/h2&gt;
 
 &lt;p&gt;ちょうど、走り始めて半年後のFacebookに、&lt;a href=&quot;https://www.facebook.com/takeshi.kakeda/posts/313646045420112&quot;&gt;なぜはじめたかの動機&lt;/a&gt;を書いてありました。走り始める以前から歩数計は買っていて、1万歩/日を目標にしていましたが、松山に住んでいるとなかなか1万歩/日を達成するのは難しかったのを思い出します。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;きっかけに「これ」というものはなく、本当になんとなくだった。ただ、そこに至る小さな兆しは、いくつかあった。愛媛マラソンに普通の人たちが大勢走っているのを見たこと、スポーツやるならトレイルランニングをやりたいなと思っていたこと、嫁さんが活動量計を使って毎日楽しそうに歩いてダイエットしていたこと、体重を落したいなぁと思っていたこと、友人がランニングしていたこと、などなど。&lt;/p&gt;
+  &lt;p&gt;きっかけに「これ」というものはなく、本当になんとなくだった。ただ、そこに至る小さな兆しは、いくつかあった。愛媛マラソンに普通の人たちが大勢走っているのを見たこと、スポーツやるならトレイルランニングをやりたいなと思っていたこと、嫁さんが活動量計を使って毎日楽しそうに歩いてダイエットしていたこと、体重を落したいなぁと思っていたこと、友人がランニングしていたこと、などなど。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;思い立ってすぐに、専用の道具を揃うのも待たずに、ユニクロの化繊のTシャツ、普段履きのスニーカーで走りだしました。ランニングという運動は、準備物が少なく（＝道具は靴とウェアのみ）、一人でも、どこでもできるという制約の少なさに魅力を感じました。&lt;/p&gt;
@@ -63,28 +63,28 @@
 &lt;p&gt;ちなみに子供の頃から&lt;strong&gt;走るという運動は最も嫌い&lt;/strong&gt;でした。これまでの人生の中で自分の意思で走りたいと考えたことは一度もありません。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;最初に走ったのは5/19だった。朝起きて食事前に3kmほど、まずは普通のスニーカーで走ってみた。今考えると6分44秒/kmのペースなので、かなりゆっくりのペースだったが、それでも次の日は足全体が筋肉痛で歩くのも辛いくらいだった。&lt;/p&gt;
+  &lt;p&gt;最初に走ったのは5/19だった。朝起きて食事前に3kmほど、まずは普通のスニーカーで走ってみた。今考えると6分44秒/kmのペースなので、かなりゆっくりのペースだったが、それでも次の日は足全体が筋肉痛で歩くのも辛いくらいだった。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;当時は、筋肉痛を繰り返しながらも、少しずつ自分の成長（＝走行距離、主観的辛さ）を実感するのが何よりも楽しかったのを思い出します。&lt;/p&gt;
 
-&lt;h2&gt;2012年&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;2012年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2012.png&quot; alt=&quot;2012年&quot; title=&quot;2012年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2012.png&quot; alt=&quot;2012年&quot; title=&quot;2012年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;このグラフには2012年5月は含めていませんが、５月時点では体重は76-7kgくらいでした。&lt;/p&gt;
 
 &lt;p&gt;走り始めて一気に3kgは体重が落ちました。特に夏場は朝走ると30分で1kgくらい（汗をかくので）体重が落ちていることはザラです。とにかく走った後に体重計に乗るのが楽しみでした。&lt;/p&gt;
 
-&lt;p&gt;走れば走るほど、自分が成長し、体重が落ちていくのが楽しくなりました。そういえば、走る前に筋トレをすると脂肪が燃焼しやすいと聞いたので、ラン前に軽く自重トレもしていました。しかし走るまでに時間がかかってしまうのがイヤで長続きしませんでしたが...。&lt;/p&gt;
+&lt;p&gt;走れば走るほど、自分が成長し、体重が落ちていくのが楽しくなりました。そういえば、走る前に筋トレをすると脂肪が燃焼しやすいと聞いたので、ラン前に軽く自重トレもしていました。しかし走るまでに時間がかかってしまうのがイヤで長続きしませんでしたが…。&lt;/p&gt;
 
 &lt;p&gt;夏が過ぎてランニングシーズンになった１０月には、最初のレース（ハーフマラソン）に出走し、月間走行距離も170kmを越えました。12月のハーフマラソンのレース中に無理な追い越しをした時に怪我をしてしまいました。具体的には&lt;strong&gt;腸脛靭帯炎&lt;/strong&gt;という別名ランナー膝と呼ばれる怪我です。それでも、痛みを堪えてだましだまし走っていましたが、一向に良くなる気配はありませんでした。&lt;/p&gt;
 
 &lt;p&gt;怪我の痛みも辛いのですが、なによりも&lt;strong&gt;思うように走れない&lt;/strong&gt;のが一番辛かったです。&lt;/p&gt;
 
-&lt;h2&gt;2013年&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;2013年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2013.png&quot; alt=&quot;2013年&quot; title=&quot;2013年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2013.png&quot; alt=&quot;2013年&quot; title=&quot;2013年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ちょうど、年明けすぐに副鼻腔炎の手術を受けることを決めたので、入院期間２週間は走ることができませんでした。怪我がなかなか治らない自分にとっては「入院と休養で一石二鳥」と捉えて、しばらくは走るのをやめウォーキングのみにしていました。&lt;/p&gt;
 
@@ -94,9 +94,9 @@
 
 &lt;p&gt;2013/5から徐々にランを再開しました。走行距離は徐々に増えていきますが、一度増えた体重は走行距離が増えても再び落ちずに安定していたようです。すっかり忘れていましたが、9〜10月は膝の痛みが出たのでランのペースを落としていました。この時は&lt;strong&gt;スロージョギング&lt;/strong&gt;といって、歩く速度くらいで走るやり方を実践して痛みが出ない程度に走っていました。&lt;/p&gt;
 
-&lt;h2&gt;2014年&lt;/h2&gt;
+&lt;h2 id=&quot;section-6&quot;&gt;2014年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2014.png&quot; alt=&quot;2014年&quot; title=&quot;2014年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2014.png&quot; alt=&quot;2014年&quot; title=&quot;2014年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;初のフルマラソンレースである愛媛マラソンを2月に控え、走行距離は増えていきました。そのせいか再び体重も下降し始めました。愛媛マラソン完走後も体重は下降線を辿り、2012年の一番減った体重を更に下回っていきます。走行距離は増えていないどころか減っているのに、体重が下降していた原因はいまいちよくわかりません。&lt;/p&gt;
 
@@ -104,9 +104,9 @@
 
 &lt;p&gt;大阪マラソン終了後も、翌年の東京マラソンに向けてのトレーニングを重ねていましたが、年末に足裏の痛みのため約一ヶ月ランを休みました。腸脛靭帯炎で通院した2013年3月以降は、痛みがあったら無理をせず休みをとり、様子をみることを徹底しています。&lt;/p&gt;
 
-&lt;h2&gt;2015年&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;2015年&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2015.png&quot; alt=&quot;2015年&quot; title=&quot;2015年のグラフ&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150811/2015.png&quot; alt=&quot;2015年&quot; title=&quot;2015年のグラフ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2月の東京マラソンに向けてトレーニングを再開しましたが、前年末の怪我の復帰後だったため、無理に走行距離を増やすことはしませんでした。その代わりに、体幹を中心とした筋トレと、少しでも負荷を下げるために&lt;strong&gt;低炭水化物ダイエットもどき&lt;/strong&gt;で体重を落とすことにしました。もどきというのは、&lt;strong&gt;御飯を半分に減らし、砂糖やカフェインの入っている飲み物は避け、お腹がすいたらGI値の低いアーモンドや燻製イカを食べる&lt;/strong&gt;という程度のものです。&lt;/p&gt;
 
@@ -119,25 +119,25 @@
 &lt;p&gt;要因の1つと考えられるのが、別記事にも書きましたが、2014年の年末より&lt;strong&gt;スタンディング環境を構築して作業するようになり&lt;/strong&gt;、これによって一日の消費カロリーが座り仕事と比べて増えたせいかもしれません。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150526/standingdesk1.JPG&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-5&quot;&gt;スタンディング環境を半年続けてわかったこと&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;自宅の作業環境をスタンディング環境（スタンディングデスク）に変えてから約半年が過ぎた。今の時点で気づいたこと（よい点、困った点）をまとめてみる。&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150526/standingdesk1.JPG&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-5&quot;&gt;スタンディング環境を半年続けてわかったこと&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;自宅の作業環境をスタンディング環境（スタンディングデスク）に変えてから約半年が過ぎた。今の時点で気づいたこと（よい点、困った点）をまとめてみる。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;グラフにしてみてわかったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;グラフにしてみてわかったこと&lt;/h2&gt;
 
 &lt;p&gt;今回グラフにしてみて、わかったことをメモしてみます。&lt;/p&gt;
 
-&lt;h3&gt;走行距離と体重の関連&lt;/h3&gt;
+&lt;h3 id=&quot;section-9&quot;&gt;走行距離と体重の関連&lt;/h3&gt;
 
 &lt;p&gt;あらためて、走行距離が増えると、体重が減るという関係性がわかりました。しかし後述しますが、体重減の効果は約半年でした。半年以上続けると、身体が走ることに慣れてくるので、同じことだけで体重を減らすのは難しくなりました。&lt;/p&gt;
 
-&lt;h3&gt;体重減の頭打ち&lt;/h3&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;体重減の頭打ち&lt;/h3&gt;
 
 &lt;p&gt;前述した通り「ランニング」で一気に体重が落ちたのは最初の半年くらいの間でした。それ以降は同じだけ走っても、同様のペースで体重は落ちませんでした。今年の初めから一気に落ちたのは、別の施策「低炭水化物ダイエットもどき」の成果です。&lt;/p&gt;
 
@@ -146,17 +146,17 @@
 &lt;p&gt;ネットで調べると、似たような事象はいくつも見つかります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://oshiete.xgoo.jp/images/common/oshiete_goo.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-5&quot;&gt;脂肪燃焼に「慣れ」はあるのでしょうか？？&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;こんにちわ☆最近、本格的にダイエットを始めた者です（*^^*）スポーツジムに行って、エアロビ（５０分）・ランニング（３０分）・筋トレ（９種類各１セット）をほぼ毎日...&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-favicon&quot;&gt;oshiete.goo.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://oshiete.xgoo.jp/images/common/oshiete_goo.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-5&quot;&gt;脂肪燃焼に「慣れ」はあるのでしょうか？？&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;こんにちわ☆最近、本格的にダイエットを始めた者です（*^^*）スポーツジムに行って、エアロビ（５０分）・ランニング（３０分）・筋トレ（９種類各１セット）をほぼ毎日...&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-favicon&quot; /&gt;oshiete.goo.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://oshiete.goo.ne.jp/qa/1517481.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;体重以外の指標の重要性&lt;/h3&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;体重以外の指標の重要性&lt;/h3&gt;
 
 &lt;p&gt;体重という指標はわかりやすく、目標としやすい結果指標ですが、一定の期間で変動が少なくなってしまう指標だとも言えます。&lt;/p&gt;
 
@@ -165,23 +165,23 @@
 &lt;p&gt;わかりやすい例で言うと、体脂肪率、骨格筋率、胸囲、胴囲、安静時心拍数などです。体脂肪率や骨格筋率は体重と同時に計測してくれる機器を入手すれば簡単に計測できますし、胸囲や胴囲は自分でメジャーで簡単に測ることができます。安静時心拍数は機器がなくても手動で簡単に測ることができます。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--ihq69i057d2fc.net/kaisyou/wp-content/uploads/2015/02/suimin.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-5&quot;&gt;安静時心拍数の正しい計り方と活用法 | 運動不足を解消！！&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;安静時心拍数とは 安静にしている時の心拍数です。椅子に座った状態や寝起きなどに心拍数を測るのが一般的とされています。体を動かず安静にしていますので、当然心拍数は低くなります。安静時心拍数を測ると何に役立てることができるでしょうか？ ・運動強度や目標心拍数を正確に求めることができる 運動強度＝（心拍数－安静時心拍数）÷（最大心拍数－安静時心拍数）×100 目標心拍数＝運動強度×(最大心拍数－安静時心拍数）＋安静時心拍数 計算式に安静時心拍数が入っていますので、入力する必要があります。&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-favicon&quot;&gt;xn--ihq69i057d2fc.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--ihq69i057d2fc.net/kaisyou/wp-content/uploads/2015/02/suimin.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-5&quot;&gt;安静時心拍数の正しい計り方と活用法 | 運動不足を解消！！&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;安静時心拍数とは 安静にしている時の心拍数です。椅子に座った状態や寝起きなどに心拍数を測るのが一般的とされています。体を動かず安静にしていますので、当然心拍数は低くなります。安静時心拍数を測ると何に役立てることができるでしょうか？ ・運動強度や目標心拍数を正確に求めることができる 運動強度＝（心拍数－安静時心拍数）÷（最大心拍数－安静時心拍数）×100 目標心拍数＝運動強度×(最大心拍数－安静時心拍数）＋安静時心拍数 計算式に安静時心拍数が入っていますので、入力する必要があります。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-favicon&quot; /&gt;xn--ihq69i057d2fc.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--ihq69i057d2fc.net/kaisyou/sinnpakusuu/annseiji/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;また、走行距離、歩数、腕立て伏せの回数、平均走行ペースのような&lt;strong&gt;行動指標との併用&lt;/strong&gt;は、間接的に身体の変化や成長を捉えることになりますし、後で見返した時に、何が起きたかをふりかえるのにも役立ちます。&lt;/p&gt;
 
-&lt;h3&gt;半年毎の怪我&lt;/h3&gt;
+&lt;h3 id=&quot;section-12&quot;&gt;半年毎の怪我&lt;/h3&gt;
 
 &lt;p&gt;このグラフを見ると、&lt;strong&gt;半年に一回は怪我・痛みでランニングを休止している&lt;/strong&gt;のがわかりました。持続可能なペースで続ける・怪我しづらい身体の使い方・走り方を身に付けることは改めて大事だと再確認しました。もう少し身体の柔軟性、裸足ランのような柔らかい走りを身につけたいと思います。&lt;/p&gt;
 
-&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-13&quot;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;体重の増減とランニングの走行距離の実データを元に、この３年をふりかえってみました。&lt;/p&gt;
 

@@ -3,7 +3,7 @@
  <title>Your Title - book</title>
  <link href="http://giantech.jp/tags/book.xml" rel="self"/>
  <link href="http://giantech.jp/tag/book.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/book.html</id>
  <author>
    <name>Author Here</name>
@@ -14,28 +14,28 @@
    <link href="http://giantech.jp/2015/06/25/xpe-2nd-renewal"/>
    <updated>2015-06-25T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/25/xpe-2nd-renewal</id>
-   <content type="html">&lt;h2&gt;ついに新訳が刊行！！&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;ついに新訳が刊行！！&lt;/h2&gt;
 
 &lt;p&gt;昨年のXP祭りから、私も何度か話題にしていた&lt;strong&gt;エクストリームプログラミング&lt;/strong&gt;（XPE）が、新訳版としてオーム社より出版されることになりました。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4274217620&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4274217620&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;元々の邦訳版の出版元であるピアソン桐原（当時）が2013年8月に技術書の取り扱いをやめてしまい（ピアソンショック）、XPEの邦訳版はもう手に入らないと嘆いていました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.publickey1.jp/fbico_pblky.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-5&quot;&gt;ピアソンの技術書は書店在庫限りとの見通し。ピアソン桐原社がピアソングループ離脱で（追記あり）&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;「プレゼンテーションZen」や「Objective-C プログラミング」など、英国ピアソングループの技術書を国内で出版していたピアソン桐原は、ピアソングループか&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-favicon&quot;&gt;www.publickey1.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.publickey1.jp/fbico_pblky.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-5&quot;&gt;ピアソンの技術書は書店在庫限りとの見通し。ピアソン桐原社がピアソングループ離脱で（追記あり）&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;「プレゼンテーションZen」や「Objective-C プログラミング」など、英国ピアソングループの技術書を国内で出版していたピアソン桐原は、ピアソングループか&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-favicon&quot; /&gt;www.publickey1.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.publickey1.jp/blog/13/post_233.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;そんな矢先、翻訳者の&lt;a href=&quot;https://twitter.com/kdmsnr&quot;&gt;@kdmsnr&lt;/a&gt;さんから、XPEを翻訳しなおすとの情報を耳にしました。その時から「是非レビューさせてほしい」とオファーしていたのですが、いざとなったらなかなか時間がとれず、広く浅くしかレビューできなかったのが心残りで申し訳なかったです。&lt;/p&gt;
 
-&lt;h2&gt;第一世代から、第二世代へ&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;第一世代から、第二世代へ&lt;/h2&gt;
 
 &lt;p&gt;私は2000年出版のXP白本（XPE）を真っ先に購入し、第二版の本書は原著で読んで、邦訳版も購入しました。&lt;a href=&quot;http://xpjug.com&quot;&gt;XPJUG&lt;/a&gt;の立ち上げにも参加して、2010年に東京を離れるまで、XP祭りを始めとするコミュニティにもずっと関わってきた&lt;strong&gt;XP第一世代&lt;/strong&gt;です。&lt;/p&gt;
 
@@ -47,23 +47,23 @@
 
 &lt;p&gt;開発プロセス、チームづくり、技術プラクティス、契約など、ソフトウェア開発に関する網羅的な領域において、イノベーションの文脈でよく言われる&lt;strong&gt;未来の当たり前&lt;/strong&gt;を提供したのがXPではないでしょうか。&lt;/p&gt;
 
-&lt;h2&gt;古典だから読む？&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;古典だから読む？&lt;/h2&gt;
 
 &lt;p&gt;出版社のオーム社のブログにはこんなことが書かれていました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ohmsha.co.jp/kaihatsu/assets_c/2015/06/beckXP-cover-thumb-400x266-3851.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-5&quot;&gt;Kent Beck＋角征典『エクストリームプログラミング 』完全新訳、6月26日発売 - オーム社書籍編集局&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-favicon&quot;&gt;www.ohmsha.co.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ohmsha.co.jp/kaihatsu/assets_c/2015/06/beckXP-cover-thumb-400x266-3851.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-5&quot;&gt;Kent Beck＋角征典『エクストリームプログラミング 』完全新訳、6月26日発売 - オーム社書籍編集局&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-favicon&quot; /&gt;www.ohmsha.co.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ohmsha.co.jp/kaihatsu/archive/2015/06/23101037.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;単なる歴史的な名著を超えて、自分の目の前にいまある問題への糸口になるような本当の意味での古典になっています。&lt;/p&gt;
+  &lt;p&gt;単なる歴史的な名著を超えて、自分の目の前にいまある問題への糸口になるような本当の意味での古典になっています。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;これはそのとおりだと思います。&lt;/p&gt;
@@ -72,7 +72,7 @@
 
 &lt;p&gt;これまでXPに触れたことがない第二世代の皆さんには、何を持って本書をおすすめすればいいのだろうか、というのを考えてみたいと思います。&lt;/p&gt;
 
-&lt;h2&gt;XPはプラクティス集ではない&lt;/h2&gt;
+&lt;h2 id=&quot;xp&quot;&gt;XPはプラクティス集ではない&lt;/h2&gt;
 
 &lt;p&gt;本書は&lt;em&gt;プラクティス集ではありません&lt;/em&gt;。第一版はそうであったかもしれませんが、本書のプラクティスはあくまでも実証済みのものを紹介しているのであり、そこに囚われる必要はありません。もちろん、仮説として試してみるのは、どんどんやってみるのが良いでしょう。&lt;/p&gt;
 
@@ -81,14 +81,14 @@
 &lt;p&gt;このことは、XP祭り2014の咳さんのキーノートでも改めて言及されています。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;https://speakerd.s3.amazonaws.com/presentations/fa93521018b9013204767e04cf6bc9f6/slide_0.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-5&quot;&gt;XP-matsuri 2014 Keynote&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;XP祭り2014のキーノート。投げ銭版はこちらです。 https://gumroad.com/l/txWz&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-favicon&quot;&gt;speakerdeck.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;https://speakerd.s3.amazonaws.com/presentations/fa93521018b9013204767e04cf6bc9f6/slide_0.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-5&quot;&gt;XP-matsuri 2014 Keynote&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;XP祭り2014のキーノート。投げ銭版はこちらです。 https://gumroad.com/l/txWz&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-favicon&quot; /&gt;speakerdeck.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/m_seki/xp-matsuri-2014-keynote&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;XPのこの特性は&lt;strong&gt;パーマカルチャー&lt;/strong&gt;（注釈付き参考文献の「哲学」の欄参照）の影響も受けているのではないかと推測します。&lt;/p&gt;
@@ -104,31 +104,31 @@
 &lt;p&gt;私も2012年度のIPAのアジャイルプラクティスの調査に携わり現場のさまざまな工夫を目にしました。そこでは本の通りではない、自分たちの現場にあったプラクティスが生み出されていました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ipa.go.jp/files/000000605.gif&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-5&quot;&gt;「アジャイル型開発におけるプラクティス活用事例調査」の報告書とリファレンスガイドを公開：IPA 独立行政法人 情報処理推進機構&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-favicon&quot;&gt;www.ipa.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.ipa.go.jp/files/000000605.gif&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-5&quot;&gt;「アジャイル型開発におけるプラクティス活用事例調査」の報告書とリファレンスガイドを公開：IPA 独立行政法人 情報処理推進機構&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-favicon&quot; /&gt;www.ipa.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;様々な方法論やフレームワークがありますが、「なんかうちの文脈には合わないな」「本の通りにやってもうまくいかない」そんな経験のある方や、ついつい教条主義「こうあるべき」になってしまいがちな方は、本書を読んで「自分たちでプラクティスを作り出す」とはどういうことをかを考えてみてはいかがでしょうか。&lt;/p&gt;
 
-&lt;h2&gt;人生におけるTDD&lt;/h2&gt;
+&lt;h2 id=&quot;tdd&quot;&gt;人生におけるTDD&lt;/h2&gt;
 
 &lt;p&gt;昨年(2014年)の9月から11月にかけて、本書の旧約版を元に、注釈付き参考文献で紹介されている本についての講演をしました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://cdn.slidesharecdn.com/ss_thumbnails/aboutannotatedbibliographyinxpver3-141111203342-conversion-gate02-thumbnail-4.jpg?cb=1415945465&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-5&quot;&gt;人生で大事なことはXP白本と参考文献に教わった IN 神山&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;2014/11/07 神山.rb 第一回にて XP祭り2014の再演の資料。ESM版からの資料の修正加筆あり。 http://kamiyamarb.doorkeeper.jp/events/16452&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-favicon&quot;&gt;www.slideshare.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://cdn.slidesharecdn.com/ss_thumbnails/aboutannotatedbibliographyinxpver3-141111203342-conversion-gate02-thumbnail-4.jpg?cb=1415945465&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-5&quot;&gt;人生で大事なことはXP白本と参考文献に教わった IN 神山&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;2014/11/07 神山.rb 第一回にて XP祭り2014の再演の資料。ESM版からの資料の修正加筆あり。 http://kamiyamarb.doorkeeper.jp/events/16452&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-favicon&quot; /&gt;www.slideshare.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.slideshare.net/kkd/about-annotatedbibliographyinx-pver3&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;その講演のために、本書の旧約版や参考文献を読みなおして改めて気づいたのは、この本はXPの解説だけでなく、&lt;strong&gt;著者のKent Beck氏の価値と現実を一致させる旅の軌跡&lt;/strong&gt;であったということでした。&lt;/p&gt;
@@ -150,19 +150,19 @@
 &lt;p&gt;Kentは本書の結論でこう述べています。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;今すぐに始めよう。自分の価値について考えてみよう。その価値と調和した生き方を意識的に選択しよう。&lt;/p&gt;
+  &lt;p&gt;今すぐに始めよう。自分の価値について考えてみよう。その価値と調和した生き方を意識的に選択しよう。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;準備なんて必要ないのです。今日から、そして今からできるのです。&lt;/p&gt;
 
 &lt;p&gt;ソフトウェア・ITに関わる仕事に携わり、それらを含めた自分の人生を考え、よりよく生きたい人は、本書を読んでみて、自分から変わり、身近なところが変化していくために何が必要かを探してみてはいかがでしょうか。&lt;/p&gt;
 
-&lt;h2&gt;「何度も読む」は伊達じゃない&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;「何度も読む」は伊達じゃない&lt;/h2&gt;
 
 &lt;p&gt;最後に、オーム社のブログにはこう書かれていました。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;プログラマーをはじめとしたソフトウェア開発に直接携わる方々はもちろん、コンピュータを使って生産的な仕事をしているすべての人に、何度でも読んでいただきたい一冊です。&lt;/p&gt;
+  &lt;p&gt;プログラマーをはじめとしたソフトウェア開発に直接携わる方々はもちろん、コンピュータを使って生産的な仕事をしているすべての人に、何度でも読んでいただきたい一冊です。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;これはただの売り文句ではありません。&lt;/p&gt;
@@ -171,15 +171,16 @@
 
 &lt;p&gt;私の場合、本の読み込みが甘いのでしょうが、常に新しい発見・読み流していた部分が新しく刺さることがありました。他の人にそのまま当てはまるかは別ですが、ソフトウェア開発に関わるすべての人々：プログラマー、チームリーダー、マネージャー、経営者に至るまで、それぞれの視点、ステージに合った発見ができると信じています。&lt;/p&gt;
 
-&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;本書は時を超えて読み継がれる古典です。私は以下のような方々にオススメします。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ソフトウェア開発の現場をよりよく改善したい人&lt;/li&gt;
-&lt;li&gt;よりよい仕事・よりよい人生を送りたい人&lt;/li&gt;
-&lt;li&gt;ソフトウェアエンジニアであったが仕事のステージが変わって悩んでいる人&lt;/li&gt;
+  &lt;li&gt;ソフトウェア開発の現場をよりよく改善したい人&lt;/li&gt;
+  &lt;li&gt;よりよい仕事・よりよい人生を送りたい人&lt;/li&gt;
+  &lt;li&gt;ソフトウェアエンジニアであったが仕事のステージが変わって悩んでいる人&lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
  </entry>
  
@@ -190,11 +191,11 @@
    <id>http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38768205&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
+&lt;h2 id=&quot;xp&quot;&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
 
 &lt;p&gt;「XPEの参考文献を紹介する」というマニアなネタで、本気で人が集まらないかもなと危惧していたのですが、結構な人数の方が集まってくれました。会場のほとんどが私のことを知っている方だったので、皆優しい人ばかりだなと思いました。聞いてくださってありがとうございました。&lt;/p&gt;
 
-&lt;h2&gt;参考文献多すぎw&lt;/h2&gt;
+&lt;h2 id=&quot;w&quot;&gt;参考文献多すぎw&lt;/h2&gt;
 
 &lt;p&gt;今回のために、XPE1st, XPE2ndの参考文献をざーっと眺めたり集計をしてみて、その量の多さや、読んでいない本がまだまだ沢山あることに気づきました。（参考文献のリストとコメントは1st、2nd共に一覧に中途半端にまとめているので、全部埋めてからそのうちどこかにアップします）&lt;/p&gt;
 
@@ -202,13 +203,13 @@
 
 &lt;p&gt;特にマンガ学とディズニーアニメーションは手に入れたい。&lt;/p&gt;
 
-&lt;h2&gt;リベンジしたいなぁ&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;リベンジしたいなぁ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/m_seki&quot;&gt;@m_seki&lt;/a&gt;に「マインドマップまではよかったけど途中から長すぎ」とフィードバックをもらいました。自分でもうまく整理できていなかった感があるので、もう少し短くして整理してから、どこかで再演する機会を頂ければいいなぁと思ってます。&lt;/p&gt;
 
 &lt;p&gt;特に&lt;a href=&quot;http://twitter.com/hiranabe&quot;&gt;@hiranabe&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;@amapyon&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/kakutani&quot;&gt;@kakutani&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/fkino&quot;&gt;@fkino&lt;/a&gt;の永和XP厨の人たちには聞いてもらいたいです。&lt;/p&gt;
 
-&lt;h2&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
+&lt;h2 id=&quot;xpe&quot;&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
 
 &lt;p&gt;もう何回読んだのか忘れましたが、読む度に毎回発見があるこの本は、人生を変えたという意味でも、自分を見直すきっかけをくれるという意味でも、本当に素敵だなぁと思います。いつかオレゴンのケントの農場のヤギの痒い所をカキカキしにいきたい。&lt;/p&gt;
 </content>
@@ -225,7 +226,7 @@
 
 &lt;p&gt;ちなみに、倉貫さんとの出会いは&lt;a href=&quot;http://objectclub.jp/event/2003christmas/workshop#3&quot;&gt;2003年のオブジェクト倶楽部のイベント&lt;/a&gt;の時が最初だったと思う。その後、XPJUG(日本XPユーザー会)のスタッフにも参加してくれて、自分が東京を離れるまで一緒にイベントを何度も開催した仲だ。昨年は松山にも遊びに来てくれた。&lt;/p&gt;
 
-&lt;h2&gt;「納品のない受託開発」というビジネスモデルと取り巻く技術や哲学&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;「納品のない受託開発」というビジネスモデルと取り巻く技術や哲学&lt;/h2&gt;
 
 &lt;p&gt;この本は、「納品のない受託開発」という新しいビジネスモデルやその対象顧客セグメント、ビジネスモデルの実現方法としてのアジャイル開発、顧客の事例、組織文化論、エンジニア論、そしてソニックガーデンの経営哲学という構成になっている。&lt;/p&gt;
 
@@ -235,13 +236,13 @@
 
 &lt;p&gt;アジャイル開発に明るくない人にとっては、どうやったら「納品のない受託開発」を実現できるか、そのためにアジャイル開発がどう効いてくるのかがわかるだろう。&lt;/p&gt;
 
-&lt;h2&gt;顧客セグメントが明確になっていることが重要&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;顧客セグメントが明確になっていることが重要&lt;/h2&gt;
 
 &lt;p&gt;「納品のない受託開発」がビジネスモデルとして重要であり個人的に素晴らしいと感じているのは、顧客セグメントが明確になっている点、つまり&lt;strong&gt;新規事業を起こしたいが信頼できる開発者が身近にいない&lt;/strong&gt;という人々をターゲットにするという点だ。&lt;/p&gt;
 
 &lt;p&gt;逆に言うと、対象顧客や課題が変わると、このモデルはうまくいかないかもしれない。大規模開発ではそもそも現実的でないかもしれない。しかし、ビジネスモデルとしては対象顧客が変われば、ソリューションも変わるので、それでいいのだ。&lt;/p&gt;
 
-&lt;h2&gt;アジャイルは価値提案ではなくソリューションである&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;アジャイルは価値提案ではなくソリューションである&lt;/h2&gt;
 
 &lt;p&gt;ビジネスモデルの紹介の後に、進め方の解説も含まれている。そこに書かれている内容は、ほぼアジャイル開発で行われている内容だ。&lt;/p&gt;
 
@@ -249,7 +250,7 @@
 
 &lt;p&gt;アジャイル開発が、「納品のない受託開発」実現の重要な手段になっていることがよくわかる。&lt;/p&gt;
 
-&lt;h2&gt;容易に真似できない組織・エンジニア文化づくり&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;容易に真似できない組織・エンジニア文化づくり&lt;/h2&gt;
 
 &lt;p&gt;単純な納品をなくした受託開発ならば、顧客が見つかればすぐにでも初められるかもしれない。しかし容易に真似できないのは、継続的に自分や環境を改善させていくアジリティの高いエンジニアの育成や組織文化づくりだ。&lt;/p&gt;
 
@@ -257,7 +258,7 @@
 
 &lt;p&gt;だからこそギルドのモデルが重要になってくるのだろうか。&lt;/p&gt;
 
-&lt;h2&gt;ビジネスモデルの弱点は目利き？&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;ビジネスモデルの弱点は目利き？&lt;/h2&gt;
 
 &lt;p&gt;ひとつ、今の「納品のない受託開発」のウィークポイントを上げるとすると、「一緒にやっていける」と思えるビジネスモデルの目利きではないかと感じている（以前、倉貫さんにも伝えたことがある）。&lt;/p&gt;
 
@@ -265,7 +266,7 @@
 
 &lt;p&gt;このあたりは、ソニックガーデンのギルドの中で伝えられていく知識なのかもしれないが、そこができないと、継続的なビジネスに巡りあうのは難しいかもしれない。&lt;/p&gt;
 
-&lt;h2&gt;「ベストエフォート経営モデル」が重要&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;「ベストエフォート経営モデル」が重要&lt;/h2&gt;
 
 &lt;p&gt;個人的に重要なのは、実はベストエフォート経営モデルにあると感じている。&lt;/p&gt;
 
@@ -275,7 +276,7 @@
 
 &lt;p&gt;人口減少に伴う経済の縮小、首都圏への一極集中の加速。これまでの日本が経験してきた「成長幻想」とは違う未来を生きる上では&lt;strong&gt;成長や拡大を無理に目指さない&lt;/strong&gt;、&lt;strong&gt;個人の幸せを大事にする&lt;/strong&gt;という姿勢は一層重要となるだろう。&lt;/p&gt;
 
-&lt;h2&gt;３年前の約束&lt;/h2&gt;
+&lt;h2 id=&quot;section-6&quot;&gt;３年前の約束&lt;/h2&gt;
 
 &lt;p&gt;2011年のデブサミ2011のパーティーで、自分と、倉貫さんと、アッズーリの濱さんと、三人で話していたことがある。&lt;/p&gt;
 
@@ -284,6 +285,7 @@
 &lt;p&gt;倉貫さんは、ソニックガーデンで顧客とエンジニアのための会社を経営し本書を出版することでそれを実現した。濱さんもコンサルタントとして活躍されているようだ。&lt;/p&gt;
 
 &lt;p&gt;…さて、後は、自分がどうするかだなぁ。&lt;/p&gt;
+
 </content>
  </entry>
  

@@ -3,7 +3,7 @@
  <title>Your Title - ふりかえり</title>
  <link href="http://giantech.jp/tags/%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8A.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ふりかえり.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/ふりかえり.html</id>
  <author>
    <name>Author Here</name>
@@ -14,25 +14,26 @@
    <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro</id>
-   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/11375816@N04/6808412351/player/&quot; width=&quot;220&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+   <content type="html">
+&lt;iframe src=&quot;https://www.flickr.com/photos/11375816@N04/6808412351/player/&quot; width=&quot;220&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;これまでの学び&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;これまでの学び&lt;/h2&gt;
 
 &lt;p&gt;10〜30代の頃の減量の失敗体験から学んだことは色々ありますが、まとめてみると次のようなものになります。&lt;/p&gt;
 
-&lt;h3&gt;(1) 食事制限は短期的には効果大&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;(1) 食事制限は短期的には効果大&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;食事制限は短期的には非常に効果が高い&lt;/strong&gt;です。これは間違いありません。&lt;em&gt;あるマイルストーンまでに体重を減らす&lt;/em&gt;という目的であれば、食事制限だけでもよかったのかもしれません。&lt;/p&gt;
 
 &lt;p&gt;しかし、長期的・持続的に体重減とキープを目指すのであれば、それだけでは足りないと痛感しました。&lt;/p&gt;
 
-&lt;h3&gt;(2) 日常的な運動は効果大&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;(2) 日常的な運動は効果大&lt;/h3&gt;
 
 &lt;p&gt;日常的な運動は、たとえ目的の如何に関わらず、体重を減らすのには一定の効果がありました。&lt;strong&gt;運動が生活の一部になることは、体重をキープして健康的な生活をおくるには重要な要素である&lt;/strong&gt;ことは間違いないでしょう。&lt;/p&gt;
 
 &lt;p&gt;しかし、こちらも、運動する習慣をどう作り、継続させていくのかがカギとなります。&lt;/p&gt;
 
-&lt;h3&gt;(3) 生活に馴染むか？&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;(3) 生活に馴染むか？&lt;/h3&gt;
 
 &lt;p&gt;たとえ、減量がうまく行っても、&lt;em&gt;その行為が生活にもたらす影響&lt;/em&gt;にも目を配らないといけません。&lt;/p&gt;
 
@@ -40,7 +41,7 @@
 
 &lt;p&gt;&lt;strong&gt;今の生活習慣に馴染む、あるいは新しい生活習慣として馴染んでいく過程にできるだけ無理がないようにする&lt;/strong&gt;のが良さそうです。&lt;/p&gt;
 
-&lt;h3&gt;(4) なぜそうしたいか？&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;(4) なぜそうしたいか？&lt;/h3&gt;
 
 &lt;p&gt;過去の失敗事例すべてに言えるのですが、体重を減らすことの目的意識・動機付けが希薄でした。&lt;/p&gt;
 
@@ -48,32 +49,34 @@
 
 &lt;p&gt;そのためには、体重を減らすという目標の源泉となる&lt;strong&gt;どうして体重を減らしたいのか？どうなりたいのか？&lt;/strong&gt;を自問して明確にしていないと長期的にキープするには難しいでしょう。&lt;/p&gt;
 
-&lt;h3&gt;(5) 楽しいか？&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;(5) 楽しいか？&lt;/h3&gt;
 
 &lt;p&gt;どのような動機付けがあったとしても、その過程を「目的のために必要な過程だ」とストイックにとらえて目的達成のためだけに実現できる人は限定されるでしょう。目的達成に向かう過程そのものに対しての動機付け、つまり&lt;em&gt;日々の楽しみ&lt;/em&gt;がないと、継続的に実施し続けるのは難しいでしょう。&lt;/p&gt;
 
 &lt;p&gt;自転車通勤をしているときは、&lt;em&gt;自転車に乗るのが楽しい&lt;/em&gt;から乗っていたようなものです。食事制限にしろ運動にしろ、目的達成のためだけでなく、&lt;strong&gt;その行為自身が楽しいと思えるかどうか&lt;/strong&gt;、&lt;strong&gt;楽しみをどうやって自分で演出・発見するか&lt;/strong&gt;が継続できるカギのように思えます。&lt;/p&gt;
 
-&lt;h2&gt;で、今は？&lt;/h2&gt;
+&lt;h2 id=&quot;section-6&quot;&gt;で、今は？&lt;/h2&gt;
 
-&lt;p&gt;現在は２年以上リバウンドなく体重はキープできているので、習慣化して定着できているのだと思います。ただ「いつまた戻ってしまうか」という不安は消えませんが...今どうしているのかは、要望があればまた別の機会にまとめたいと思いますが、そんな要望はなさそうですねｗ&lt;/p&gt;
+&lt;p&gt;現在は２年以上リバウンドなく体重はキープできているので、習慣化して定着できているのだと思います。ただ「いつまた戻ってしまうか」という不安は消えませんが…今どうしているのかは、要望があればまた別の機会にまとめたいと思いますが、そんな要望はなさそうですねｗ&lt;/p&gt;
 
-&lt;p&gt;ちなみに、昨年の大阪でパタン・ランゲージのワークの題材に使ったのがまさに現在までの試行錯誤になります...（P52がその全容)&lt;/p&gt;
+&lt;p&gt;ちなみに、昨年の大阪でパタン・ランゲージのワークの題材に使ったのがまさに現在までの試行錯誤になります…（P52がその全容)&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/open-future-door-by-pattern-language-20141011&quot; title=&quot;Open Future Door By Pattern Language&quot; target=&quot;_blank&quot;&gt;Open Future Door By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/kkd/open-future-door-by-pattern-language-20141011&quot; title=&quot;Open Future Door By Pattern Language&quot; target=&quot;_blank&quot;&gt;Open Future Door By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
 &lt;p&gt;まぁ何にせよ、強迫観念ではなく楽しく続けられる方法を常に探求するのがいいですね。&lt;/p&gt;
 
-&lt;h2&gt;関連する記事&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;関連する記事&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss/&quot;&gt;減量失敗体験を晒してみよう(イントロダクション)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-1/&quot;&gt;減量失敗体験を晒してみよう(1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-2/&quot;&gt;減量失敗体験を晒してみよう(2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-3/&quot;&gt;減量失敗体験を晒してみよう(3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-4/&quot;&gt;減量失敗体験を晒してみよう(4)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;../failure-experiences-of-weight-loss-retro/&quot;&gt;減量失敗体験から学んだこと&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
  </entry>
  
@@ -82,25 +85,25 @@
    <link href="http://giantech.jp/2015/02/24/tokyo-marathon-2015-retrospectives"/>
    <updated>2015-02-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/02/24/tokyo-marathon-2015-retrospectives</id>
-   <content type="html">&lt;h2&gt;何をやったかふりかえろう。&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;何をやったかふりかえろう。&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;../../../../2015/02/23/tokyo-marathon-2015&quot;&gt;東京マラソン2015&lt;/a&gt;を走ってきたのだが、大阪と比べていくつか新しい試みをして、うまくいったもの、失敗したもの含めて列挙する。&lt;/p&gt;
 
-&lt;h2&gt;うまくいったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;うまくいったこと&lt;/h2&gt;
 
-&lt;h3&gt;二日前に受付&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;二日前に受付&lt;/h3&gt;
 
 &lt;p&gt;大阪の時は、前日受付で疲れてしまったので、今回は二日前から現地入りして受付を済ませた。おかげで疲れを感じずにレースを迎えることが出来た気がする。&lt;/p&gt;
 
-&lt;h3&gt;朝は餅ではなくおにぎり&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;朝は餅ではなくおにぎり&lt;/h3&gt;
 
 &lt;p&gt;過去２回は&lt;a href=&quot;http://goo.gl/JlA0bv&quot;&gt;非常識マラソンマネジメント&lt;/a&gt;したがって、当日の朝に切り餅を７個（実際には５個まで）食べていたのだが、どうも胃もたれしてしまうのと、味が単調飽きるのが難点だった。&lt;/p&gt;
 
 &lt;p&gt;そのため、今回は餅ではなくおにぎりにしてみた。実家の母が赤飯おにぎりを握ってくれたので、それを朝食後に５つほど食べてみた。おかげで餅ほど飽きずに食べることができ、前半のエネルギー切れはなかったと思う。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4797366486&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4797366486&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;甘ったるいエナジージェルではなくスポーツようかんプラス&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;甘ったるいエナジージェルではなくスポーツようかんプラス&lt;/h3&gt;
 
 &lt;p&gt;過去２回はこれも&lt;a href=&quot;http://goo.gl/JlA0bv&quot;&gt;非常識マラソンマネジメント&lt;/a&gt;に従い、エナジージェルの&lt;a href=&quot;http://www.shotzjapan.jp/contents.html&quot;&gt;ショッツ&lt;/a&gt;をレース中に摂取していたが、とても甘く、後半は水で流し込むのも辛くなり、しまいには食べ物を口に入れるのが嫌になるくらいだった。&lt;/p&gt;
 
@@ -108,47 +111,48 @@
 
 &lt;p&gt;また、補助食として、ショッツよりも食べやすい&lt;a href=&quot;http://www.amazon.co.jp/gp/product/B00BF7WCN0/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=B00BF7WCN0&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;メダリストのエナジージェル&lt;/a&gt;を２つ用意しておいた。こっちもすんなり口にすることが出来た。メインをスポーツようかんプラスにしたのは正解だったかな。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B00ISHLU56&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B00BF7WCN0&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=B00ISHLU56&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=B00BF7WCN0&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;（とはいえ、非常識マラソンマネジメントは参考にしています）&lt;/p&gt;
 
 &lt;p&gt;エネルギー補給については、マラソンの常識としては&lt;em&gt;炭水化物・糖質を摂取する&lt;/em&gt;のだけど、次回以降は&lt;strong&gt;自分の脂肪をできるだけ使って燃やすように&lt;/strong&gt;して糖質補給そのものを不要な体に仕上げていきたい。先は長いが普段の食生活から見直さないといけないなぁ。（2/25 追記)&lt;/p&gt;
 
-&lt;h3&gt;ポーチをTRベルトに変更した&lt;/h3&gt;
+&lt;h3 id=&quot;tr&quot;&gt;ポーチをTRベルトに変更した&lt;/h3&gt;
 
 &lt;p&gt;前回は走りながらウェストポーチが動くのがとても気になったのと、容量的に足りないと感じたので、新しくザ・ノースフェイスの&lt;a href=&quot;http://www.amazon.co.jp/gp/product/B00HD2RT84/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=B00HD2RT84&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;TRベルト&lt;/a&gt;に変えてみた。こいつは腰痛ベルトみたいな感じで幅広で体に密着して、ズレ防止機能もあるので非常に安定して使えた。前日に買ったのだがこれは正解だったな。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B00HD2RT84&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=B00HD2RT84&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;ゴミ袋を被って走る&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;ゴミ袋を被って走る&lt;/h3&gt;
 
 &lt;p&gt;これは雨天時の定石のメソッドだけど、ゴミ袋の底と左右に穴をあけてかぶると簡易式のポンチョになるので、それを被って42.195km走り通した。結局最後まで雨は降らなかったのだけど、風に対しても防風効果があったのではないかと思う。おかげでラン中は寒さを感じることはなかった。&lt;/p&gt;
 
 &lt;p&gt;市販のポンチョを着ている人もいたけど、逆に余計な部分が多くて風になびいて音がうるさそうだった。ゴミ袋の方がシンプルで良い気がした。&lt;/p&gt;
 
-&lt;h3&gt;ラン中に写真撮影&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;ラン中に写真撮影&lt;/h3&gt;
 
 &lt;p&gt;シリアスランナーは絶対しないだろうけど、今回は東京観光も兼ねてだったので、iPhoneで途中途中で写真を撮ってみた。これまでのフルマラソンでは一切写真を撮ることはしてこなかったのだが、レース中に写真を撮っておくと、後でSUUNTOの&lt;a href=&quot;http://www.movescount.com/ja/connect/movescountapp&quot;&gt;MovesCount Application&lt;/a&gt;で３次元の地図によるレースの軌跡と、撮影した写真を結合して動画を作ってくれるようになった。これはなかなか面白いし良い思い出になる（レースの軌跡はGPSウォッチのAmbitでトラッキングしている）&lt;/p&gt;
 
-&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/video.php?v=10153075120139593&quot; data-width=&quot;466&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/video.php?v=10153075120139593&quot;&gt;Post&lt;/a&gt; by &lt;a href=&quot;https://www.facebook.com/takeshi.kakeda&quot;&gt;Takeshi Kakeda&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/video.php?v=10153075120139593&quot; data-width=&quot;466&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/video.php?v=10153075120139593&quot;&gt;Post&lt;/a&gt; by &lt;a href=&quot;https://www.facebook.com/takeshi.kakeda&quot;&gt;Takeshi Kakeda&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;次回は、もう少し簡単にスマフォで写真が撮れるようにしたい。（いちいち取り出すのは面倒だし、落としたら困るので）&lt;/p&gt;
 
-&lt;h3&gt;ラップ表は印刷ではなくプラシートに油性マジック＆腕に貼る（2/25 追記)&lt;/h3&gt;
+&lt;h3 id=&quot;section-7&quot;&gt;ラップ表は印刷ではなくプラシートに油性マジック＆腕に貼る（2/25 追記)&lt;/h3&gt;
 
 &lt;p&gt;前回までは、5km毎のラップ表（ラップタイム、通過予想タイム、ペース、補給内容）をPCで作って印刷して、首に下げるタイプの名札ケースに入れてもっていったが、汗で濡れてくると印刷が滲んで見えづらかった。そのため、今回は透明のポリの袋（なんかの包装に使われているもの）に油性マジックでラップ表を書き込んで、表の部分を切り取って腕にテープで貼り付けておいた。(写真撮るの忘れた！)&lt;/p&gt;
 
 &lt;p&gt;後半、ややテープが剥がれてきて見づらくはなったが、印刷の滲みよりはよく見えた。&lt;/p&gt;
 
-&lt;h3&gt;GPSウォッチのオートラップは5kmラップ（2/25 追記)&lt;/h3&gt;
+&lt;h3 id=&quot;gps5km225-&quot;&gt;GPSウォッチのオートラップは5kmラップ（2/25 追記)&lt;/h3&gt;
 
 &lt;p&gt;普段練習している時は1kmのオートラップの設定にしているが、フルのレースはオートラップの設定を5kmにしたほうがいいことがわかったので設定を変えておいた。当たり前なのかもしれないが、やっててよかったな。&lt;/p&gt;
 
-&lt;h2&gt;うまくいかなかったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;うまくいかなかったこと&lt;/h2&gt;
 
-&lt;h3&gt;集合時間が遅かった&lt;/h3&gt;
+&lt;h3 id=&quot;section-9&quot;&gt;集合時間が遅かった&lt;/h3&gt;
 
 &lt;p&gt;東京マラソンくらいの規模だとゲートの入場に時間がかかることは予想できていたが、更に今回は荷物チェックを全員行うと注意書きがあった。本来ならその分の時間も加味して現地に向かわねばならないのを、かなり余裕かまして実家を出てきてしまった。&lt;/p&gt;
 
@@ -156,7 +160,7 @@
 
 &lt;p&gt;大型マラソンは、気持ち早めに現地に着かないといけない。&lt;/p&gt;
 
-&lt;h3&gt;BCAAパウダーを個別包装&lt;/h3&gt;
+&lt;h3 id=&quot;bcaa&quot;&gt;BCAAパウダーを個別包装&lt;/h3&gt;
 
 &lt;p&gt;前回BCAAパウダーを摂取する時に、むせたりして大変だったので、オブラートで事前に包装して、それを摂取する予定だった。しかし前日に包装したオブラートがばらけてしまって、粉末がバラバラになってしまった。そのため予定量の1/4も摂取できなかった気がする。&lt;/p&gt;
 
@@ -164,23 +168,24 @@
 
 &lt;p&gt;結果的にBCAAを摂取しなくても問題なかったので、次回からは無理して粉末をむせてまで摂取する必要ないかもしれない。&lt;/p&gt;
 
-&lt;p&gt;普通の食品からもBCAAは補給できるので、さけるチーズとか鶏のささみとかうまく使って補給食を作れないものか...&lt;/p&gt;
+&lt;p&gt;普通の食品からもBCAAは補給できるので、さけるチーズとか鶏のささみとかうまく使って補給食を作れないものか…&lt;/p&gt;
 
-&lt;h3&gt;インナーショーツの股ずれ&lt;/h3&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;インナーショーツの股ずれ&lt;/h3&gt;
 
-&lt;p&gt;今回はインナーショーツ付きの比較的ショートランパンで参加したが、インナーショーツが股ずれを起こしてあとで非常に痛かった。次回はここにも保護ゼリーを塗っておくか、インナーショーツつきのランパンはやめておこう...&lt;/p&gt;
+&lt;p&gt;今回はインナーショーツ付きの比較的ショートランパンで参加したが、インナーショーツが股ずれを起こしてあとで非常に痛かった。次回はここにも保護ゼリーを塗っておくか、インナーショーツつきのランパンはやめておこう…&lt;/p&gt;
 
-&lt;h2&gt;やっぱり自分で考え工夫するのが楽しいね。&lt;/h2&gt;
+&lt;h2 id=&quot;section-11&quot;&gt;やっぱり自分で考え工夫するのが楽しいね。&lt;/h2&gt;
 
 &lt;p&gt;本やネットの情報を参考にもするけど、やっぱり自分で実践しながら考えて工夫していくのが楽しいね。来年は、シューズはもちろんグッズや補給食もいろいろ自作して、よりよいやり方を模索してみたいと思う。走ることだけでなく、「走る」の周辺でも楽しみたい。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;関連する記事
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;../../../../2015/02/23/tokyo-marathon-2015&quot;&gt;東京マラソン2015に参加して東京観光と青春を回想してきた&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;関連する記事
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;../../../../2015/02/23/tokyo-marathon-2015&quot;&gt;東京マラソン2015に参加して東京観光と青春を回想してきた&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
  </entry>
  
@@ -189,9 +194,9 @@
    <link href="http://giantech.jp/2014/08/29/yaseru-kpt"/>
    <updated>2014-08-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/29/yaseru-kpt</id>
-   <content type="html">&lt;h2&gt;リモートで基調講演（？）&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;リモートで基調講演（？）&lt;/h2&gt;
 
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;http://stat.ameba.jp/user_images/20140529/16/kussy/d6/02/j/o0800060012956574255.jpg&quot; width=&quot;320&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野&lt;/a&gt;さんから、&lt;a href=&quot;http://kokucheese.com/event/index/199090/&quot;&gt;やせる！KPT&lt;/a&gt;で話をして欲しい、と言われたので話してきました。と言っても、Skypeでのリモートでの物語りで、かつ資料もなかったので、聞き取りづらかったんじゃないかと思います。しかも時間を間違えていて３０分遅れてしまいすみませんでした…&lt;/p&gt;
 
@@ -200,78 +205,78 @@
 &lt;p&gt;ざっくり説明すると以下のような感じです。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;なんとなく走りだした(2012/05)
-
-&lt;ul&gt;
-&lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
-&lt;li&gt;なれると楽しくなった！
-
-&lt;ul&gt;
-&lt;li&gt;距離が増えていく&lt;/li&gt;
-&lt;li&gt;体が楽になっていく&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;走ることが楽しくなった(2012/06〜)
-
-&lt;ul&gt;
-&lt;li&gt;体重もどんどん落ちた
-
-&lt;ul&gt;
-&lt;li&gt;痩せるための走り方を研究した
-
-&lt;ul&gt;
-&lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;裸足ランニングで自分の可能性を試したくなった
-
-&lt;ul&gt;
-&lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;怪我をして走れなくなった(2012/12)
-
-&lt;ul&gt;
-&lt;li&gt;無理していたら膝の痛みが悪化→医者へ
-
-&lt;ul&gt;
-&lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
-&lt;li&gt;うまくいかないリハビリ
-
-&lt;ul&gt;
-&lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ランに向いていないと医者から止められる
-
-&lt;ul&gt;
-&lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
-
-&lt;ul&gt;
-&lt;li&gt;無理はしない
-
-&lt;ul&gt;
-&lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
-&lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
-
-&lt;ul&gt;
-&lt;li&gt;Sub4.5&lt;/li&gt;
-&lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;レースに出るのはよい刺激になる
-
-&lt;ul&gt;
-&lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;なんとなく走りだした(2012/05)
+    &lt;ul&gt;
+      &lt;li&gt;一週間は筋肉痛がひどかった！&lt;/li&gt;
+      &lt;li&gt;なれると楽しくなった！
+        &lt;ul&gt;
+          &lt;li&gt;距離が増えていく&lt;/li&gt;
+          &lt;li&gt;体が楽になっていく&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;走ることが楽しくなった(2012/06〜)
+    &lt;ul&gt;
+      &lt;li&gt;体重もどんどん落ちた
+        &lt;ul&gt;
+          &lt;li&gt;痩せるための走り方を研究した
+            &lt;ul&gt;
+              &lt;li&gt;おばちゃんに抜かれてもゆっくり走ることで脂肪燃焼を優先させた&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;5kgは一気に落ちた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;裸足ランニングで自分の可能性を試したくなった
+        &lt;ul&gt;
+          &lt;li&gt;BORN TO RUNがきっかけ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;怪我をして走れなくなった(2012/12)
+    &lt;ul&gt;
+      &lt;li&gt;無理していたら膝の痛みが悪化→医者へ
+        &lt;ul&gt;
+          &lt;li&gt;腸脛靭帯炎（ランナー膝）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;走れないもどかしさ、リバウンドへの恐怖&lt;/li&gt;
+      &lt;li&gt;うまくいかないリハビリ
+        &lt;ul&gt;
+          &lt;li&gt;これまでの不摂生と向き合う&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ランに向いていないと医者から止められる
+        &lt;ul&gt;
+          &lt;li&gt;「自分の可能性に挑戦するのが目的」→やめたくない！&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自分のペースで続けていくことを決めた(2013/04)
+    &lt;ul&gt;
+      &lt;li&gt;無理はしない
+        &lt;ul&gt;
+          &lt;li&gt;辛い時は休んだり、歩いたりすればいい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;体のメンテナンスをしっかり行う(特に柔軟)&lt;/li&gt;
+      &lt;li&gt;生活の一部としてずっと続けたいから&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;初フルマラソン(愛媛マラソン)を完走した(2014/02)←ここは当日話してはいない
+    &lt;ul&gt;
+      &lt;li&gt;Sub4.5&lt;/li&gt;
+      &lt;li&gt;2年前には想像できなかった！&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;レースに出るのはよい刺激になる
+    &lt;ul&gt;
+      &lt;li&gt;コツコツ準備する、計画する、動機付け&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;今までダイエット目的でうまく行き続けたことはない怠惰な人間なので、&lt;strong&gt;走る楽しみの副産物&lt;/strong&gt;として体重減がついてきてるのが今のところうまく行ってるポイントなのでしょうか。途中でKPTはやっていないのですが、途中途中で&lt;strong&gt;自分は何のために走ってるのだろう？&lt;/strong&gt;という問いかけをせざるを得ない場面がありました。
@@ -279,81 +284,81 @@
 
 &lt;p&gt;ちなみに走る・走らないは置いておいて、読み物として&lt;a href=&quot;http://www.amazon.co.jp/gp/product/4140814144/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=7399&amp;amp;creativeASIN=4140814144&amp;amp;linkCode=as2&amp;amp;tag=giantech-22&quot;&gt;BORN TO RUN&lt;/a&gt;は一度読んでみるといいと思います。業界的に裸足ランニングブームは過ぎて、本当に興味ある人たちで取り組まれている印象です。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4140814144&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;ダイエットに重要なのは目的意識&lt;/h2&gt;
 
 &lt;p&gt;自分の話の後は参加者の成果発表を聞いていました。皆さん、赤裸々にデータ(笑)と気づきを発表されていたのですが、ざっくり聞いていると、次のようなことがわかりました。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;フィードバックサイクルの期間が重要
-
-&lt;ul&gt;
-&lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「後でまとめてデータを記録しよう」はNG
-
-&lt;ul&gt;
-&lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
-&lt;li&gt;少しずつでも頻繁に記録しないといけない。
-
-&lt;ul&gt;
-&lt;li&gt;ここに手間がかかると続かない...&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
-
-&lt;ul&gt;
-&lt;li&gt;前者は「筋トレ」などのアクティビティ
-
-&lt;ul&gt;
-&lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;後者は「食事の量を減らす」のような施策
-
-&lt;ul&gt;
-&lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;腹囲を簡単に測るメジャーがある
-
-&lt;ul&gt;
-&lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
-
-&lt;ul&gt;
-&lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
-&lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
-&lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;仲間がいると、続けようという気持ちが湧く
-
-&lt;ul&gt;
-&lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
-
-&lt;ul&gt;
-&lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
-
-&lt;ul&gt;
-&lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
-
-&lt;ul&gt;
-&lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
-&lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;フィードバックサイクルの期間が重要
+    &lt;ul&gt;
+      &lt;li&gt;ダイエットについては1月のフィードバックサイクル（ふりかえり）のタイミングではモチベーション維持には長すぎるそうです。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「後でまとめてデータを記録しよう」はNG
+    &lt;ul&gt;
+      &lt;li&gt;これは領収書などでもそうですが、「まとめて記録」はアンチパターン。&lt;/li&gt;
+      &lt;li&gt;少しずつでも頻繁に記録しないといけない。
+        &lt;ul&gt;
+          &lt;li&gt;ここに手間がかかると続かない…&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「気づいたらすぐできる」と「気づいてもすぐにはできない」施策がある
+    &lt;ul&gt;
+      &lt;li&gt;前者は「筋トレ」などのアクティビティ
+        &lt;ul&gt;
+          &lt;li&gt;やってないのに気づいたら、すぐにやればいい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;後者は「食事の量を減らす」のような施策
+        &lt;ul&gt;
+          &lt;li&gt;ラーメン食べた後で「麺を残すべきだった」と悔やんでも次のタイミングまで実施できない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;腹囲を簡単に測るメジャーがある
+    &lt;ul&gt;
+      &lt;li&gt;ロックメジャー（100均にある）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;施策の種類は2つ。「〜を減らす」か「〜を増やす」
+    &lt;ul&gt;
+      &lt;li&gt;前者は「食事の量を減らす」&lt;/li&gt;
+      &lt;li&gt;後者は「運動量を増やす」&lt;/li&gt;
+      &lt;li&gt;きっといずれか一つではなく、両者の組み合わせが大事なのだろう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;仲間がいると、続けようという気持ちが湧く
+    &lt;ul&gt;
+      &lt;li&gt;逆にプレッシャーにもなる、という意見もあった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「ダイエット」の先にあるなりたい姿（ビジョン）や目的が大事
+    &lt;ul&gt;
+      &lt;li&gt;単純に「体重を減らす」だけだと動機付けが弱い
+        &lt;ul&gt;
+          &lt;li&gt;何のために体重を減らしたいのか?&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;なりたい姿や目的へのコミットが成否の鍵
+        &lt;ul&gt;
+          &lt;li&gt;言い出しっぺだから続けられた&lt;/li&gt;
+          &lt;li&gt;なりたい姿が曖昧だからうまくいかなかった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;320&quot; class=&quot;right&quot; src=&quot;http://blog-imgs-47.fc2.com/j/y/o/jyousyahissui/120216major.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;そういえば、&lt;a href=&quot;http://goo.gl/mV8Rdd&quot;&gt;へやトレ&lt;/a&gt;の提唱者である森さんも「&lt;strong&gt;筋トレに必要なのは、まず最初にどういう自分になりたいかのビジョンを持つこと&lt;/strong&gt;」の説明にページを割いていたのを思い出します。ダイエットも一緒なのでしょうね。&lt;/p&gt;
 
-&lt;h2&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
+&lt;h2 id=&quot;kpt&quot;&gt;で、KPTはダイエットに効くのか？&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;は「KPTで痩せるわけではない」と言っていました。しかし、自分のやっていることを&lt;em&gt;客観的に評価して改善するのに役立つ&lt;/em&gt;だろうなと感じました。&lt;/p&gt;
 
@@ -363,15 +368,17 @@
 
 &lt;p&gt;非常によい気づきがありました。&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;天野さん&lt;/a&gt;成果発表会に呼んでいただきありがとうございました。&lt;/p&gt;
 
-&lt;h2&gt;当日の皆さんの発表資料&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;当日の皆さんの発表資料&lt;/h2&gt;
 
-&lt;h3&gt;天野さん&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;天野さん&lt;/h3&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38420136&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/esmsec/kpt-38420136&quot; title=&quot;事例KPT 天野の成果｜やせる！KPT 成果報告会&quot; target=&quot;_blank&quot;&gt;事例KPT 天野の成果｜やせる！KPT 成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/esmsec&quot; target=&quot;_blank&quot;&gt;ESM SEC&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
-&lt;h3&gt;良太さん&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;良太さん&lt;/h3&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38445562&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ryotasaito/yslkpt05&quot; title=&quot;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&quot; target=&quot;_blank&quot;&gt;事例ＫＰＴ　良太の場合　やせる！ＫＰＴ成果報告会&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ryotasaito&quot; target=&quot;_blank&quot;&gt;Ryota Saito&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </content>
  </entry>
  
@@ -380,7 +387,8 @@
    <link href="http://giantech.jp/2013/12/31/retrospective"/>
    <updated>2013-12-31T00:00:00+09:00</updated>
    <id>http://giantech.jp/2013/12/31/retrospective</id>
-   <content type="html">&lt;p&gt;2013年のふりかえり。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;2013年のふりかえり。&lt;/p&gt;
 
 &lt;p&gt;今年は一言でいうと「松山でのつながりが加速した一年」でした。東京からこっちに移って早や三年がたちましたが、初年度から出張中心で仕事をしてきたので、地元の知り合いが非常に少ない状況でした。昨年の10月近辺に、コワーキングスペースが松山に立て続けにできてから状況が変わりました。&lt;/p&gt;
 
@@ -388,13 +396,14 @@
 
 &lt;p&gt;&lt;a href=&quot;http://agile459.github.io/&quot;&gt;Agile459&lt;/a&gt;も三年目を迎えて、新しい仲間が増え、コミュニティをスタッフ運営制に移行し、実際の現場でのアジャイル実践者も増えてきました。来年が愉しみです。&lt;/p&gt;
 
-&lt;p&gt;また、今年は東京時代のアジャイリスト仲間が何人も松山に来てくれました。10月には @ebacky&lt;em&gt;ja、 11月には @kuranuki, @sandayu, @kussy&lt;/em&gt;y, @kumat, http://www.xfder.com/の中の人、 12月には @kakutani, @kdmsnr と松山で会うことができたのは愉しかったです。特に11月の皆とは松山観光も一緒に巡ることができ、新たな愉しみを見つけることができました。こういう形で松山に観光のついでにイベントで話してもいいよ、という人がいたら是非お声がけくださいww。&lt;/p&gt;
+&lt;p&gt;また、今年は東京時代のアジャイリスト仲間が何人も松山に来てくれました。10月には @ebacky_ja、 11月には @kuranuki, @sandayu, @kussy_y, @kumat, http://www.xfder.com/の中の人、 12月には @kakutani, @kdmsnr と松山で会うことができたのは愉しかったです。特に11月の皆とは松山観光も一緒に巡ることができ、新たな愉しみを見つけることができました。こういう形で松山に観光のついでにイベントで話してもいいよ、という人がいたら是非お声がけくださいww。&lt;/p&gt;
 
-&lt;p&gt;IT&amp;amp;アジャイルつながり、愛媛スタートアップつながり、パーマカルチャー的つながり、コワーキングつながり...数は少ないかもしれませんが、より多様な人と触れる機会が増えて、いろいろと考える所が多かった年でした。&lt;/p&gt;
+&lt;p&gt;IT&amp;amp;アジャイルつながり、愛媛スタートアップつながり、パーマカルチャー的つながり、コワーキングつながり…数は少ないかもしれませんが、より多様な人と触れる機会が増えて、いろいろと考える所が多かった年でした。&lt;/p&gt;
 
 &lt;p&gt;自分が今いる場所、時期、課題、自分のできること、自分がやりたいこと、周囲の人たち、これまで培ってきた人との繋がり。こういったコンテキストの中で、今まで見えていなかったことが見えてきた気がしています。来年はこのコンテキストの中で、様々な人との関りの中から、様々な出来事が生成されるのではないかとワクワクしています。&lt;/p&gt;
 
 &lt;p&gt;健康面で言うと、1月に副鼻腔炎の手術で入院をしたり、走り過ぎで腸脛靭帯炎で通院した他は、風邪でダウンしたくらいでなんとか後厄も乗り切った感じです。もちろん油断は禁物ですが、仕事と健康を切り離すことなく、全体として持続可能にするために今年も適度に走っていきます。2月は初の愛媛マラソンのチャレンジもあり、ランつながりの仲間を増やしたいな〜。&lt;/p&gt;
+
 </content>
  </entry>
  

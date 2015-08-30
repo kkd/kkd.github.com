@@ -3,7 +3,7 @@
  <title>Your Title - kaimyama.rb</title>
  <link href="http://giantech.jp/tags/kaimyama.rb.xml" rel="self"/>
  <link href="http://giantech.jp/tag/kaimyama.rb.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/kaimyama.rb.html</id>
  <author>
    <name>Author Here</name>
@@ -14,10 +14,10 @@
    <link href="http://giantech.jp/2014/11/08/kamiyama-rb-vol1"/>
    <updated>2014-11-08T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/11/08/kamiyama-rb-vol1</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/kkd_talk1_480x320.jpg&quot; alt=&quot;kkd_talk_vol1&quot; title=&quot;kkd talk&quot;&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/kkd_talk1_480x320.jpg&quot; alt=&quot;kkd_talk_vol1&quot; title=&quot;kkd talk&quot; /&gt;
 (photo by @dany1486)&lt;/p&gt;
 
-&lt;h2&gt;４ヶ月ぶりの神山へ。そのきっかけは...&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;４ヶ月ぶりの神山へ。そのきっかけは…&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://kamiyamarb.doorkeeper.jp/events/16452&quot;&gt;神山.rb&lt;/a&gt;の記念すべき第一回にお呼ばれしたので、&lt;a href=&quot;http://agile459.doorkeeper.jp/events/12006&quot;&gt;６月のAgileJapan2014サテライト&lt;/a&gt;以来の、徳島県神山町に行ってきた。&lt;/p&gt;
 
@@ -25,7 +25,7 @@
 
 &lt;p&gt;個人的には、&lt;a href=&quot;http://www.esm.co.jp&quot;&gt;永和の面々&lt;/a&gt;も神山に来るというので、久しぶりに会えるという意味もあり、とても楽しみにしていた。&lt;/p&gt;
 
-&lt;h2&gt;XPの話はターゲット違い？→そうだよね…&lt;/h2&gt;
+&lt;h2 id=&quot;xp&quot;&gt;XPの話はターゲット違い？→そうだよね…&lt;/h2&gt;
 
 &lt;p&gt;といっても、徳島県のrb、つまりRubyの勉強会で、XP祭り2014の再演、つまり&lt;strong&gt;XPをよく知っていてXPが大好きな人向け&lt;/strong&gt;の話をすることのギャップについては非常に悩んだ。そして、悩んだ挙句、&lt;em&gt;最初にちょこっとだけXPの説明を入れる&lt;/em&gt;ことで済ませて頂こうということに決めた。&lt;/p&gt;
 
@@ -33,17 +33,15 @@
 
 &lt;p&gt;前回はラーメン屋を経由して行ったので気にしなかったが、今回は最短ルートで道を探索して向かったら、とても狭く暗いガードレールもない山道を通らされて、三人でヒヤヒヤしながらようやく神山に到着した。&lt;/p&gt;
 
-&lt;h2&gt;創造的過疎の町で、XP白本を語る理由&lt;/h2&gt;
+&lt;h2 id=&quot;xp-1&quot;&gt;創造的過疎の町で、XP白本を語る理由&lt;/h2&gt;
 
 &lt;p&gt;前日にこんなツイートをしていた。&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;明日のkamiyama.rbでXP2014の再演の話、最初は「rbでXPのしかも参考文献の話はどうなのだろうか？」と感じてたけど、ところがどっこい「徳島県神山町の.rbで話す意味」を見いだすことができた！&lt;/p&gt;&amp;mdash; Takeshi Kakeda (@kkd) &lt;a href=&quot;https://twitter.com/kkd/status/530727136676413440&quot;&gt;2014, 11月 7&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;むしろ東京よりも神山だからこそ届くメッセージがあることに気づいてワクワクしてます。(外したらゴメン…骨は拾ってください…) ということで明日はよろしくです〜！&lt;/p&gt;&amp;mdash; Takeshi Kakeda (@kkd) &lt;a href=&quot;https://twitter.com/kkd/status/530727552524881920&quot;&gt;2014, 11月 7&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;p&gt;その理由は、こんな感じ。&lt;/p&gt;
 
@@ -51,29 +49,29 @@
 
 &lt;p&gt;神山に移住するような人々は、まさに&lt;strong&gt;自分にとって、大事にする価値をみつめ、そのための行動として神山に移住することを選択している&lt;/strong&gt;に違いない。&lt;/p&gt;
 
-&lt;h2&gt;話してみた…が反応はどうか？&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;話してみた…が反応はどうか？&lt;/h2&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/41435521&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/41435521&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
 &lt;p&gt;予想通り、XPEを読んだことある人は殆どいなかった。そんな状況の中で話しをしたのだが、聴衆のどのくらいの人々に、どれだけ届いたかは正直わからないけれど、主催の&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;夫妻には喜んでいただけたそうなので救われたかなぁ。&lt;/p&gt;
 
-&lt;h2&gt;XPは個人から始まる&lt;/h2&gt;
+&lt;h2 id=&quot;xp-2&quot;&gt;XPは個人から始まる&lt;/h2&gt;
 
 &lt;p&gt;スライドに含めているXP-&amp;gt;Scrum-&amp;gt;Leanの図。これは変革がどこから始まるのかの図として理解している。そう、XPは&lt;strong&gt;個人の変化から始まる&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;この構造はソフトウェア開発の現場も、まちの活性化も同じではないだろうか？&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;問題意識を持ち、ありたい姿を描き、そこに向けて、できることから行動し、小さな成功体験を積み重ね、真摯に改善し、仲間を作り、その範囲を広げていき、個人のありたい姿は、仲間のありたい姿へと変化していく。言行不一致でなく、言行一致にする。その行動は、いつの時代でも、どこの場所でも、普遍的ではないだろうか。 &lt;/p&gt;
+&lt;p&gt;問題意識を持ち、ありたい姿を描き、そこに向けて、できることから行動し、小さな成功体験を積み重ね、真摯に改善し、仲間を作り、その範囲を広げていき、個人のありたい姿は、仲間のありたい姿へと変化していく。言行不一致でなく、言行一致にする。その行動は、いつの時代でも、どこの場所でも、普遍的ではないだろうか。&lt;/p&gt;
 
 &lt;p&gt;そんなことを想いながら、実際に進行中の神山町で話しをしてた。&lt;/p&gt;
 
 &lt;p&gt;これからも、本当に大事だと思うものを大事にしながら、言行一致で生きる修行を続けようと思う。&lt;/p&gt;
 
-&lt;h2&gt;東京の元同僚と神山で再開できる面白さ&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;東京の元同僚と神山で再開できる面白さ&lt;/h2&gt;
 
 &lt;p&gt;前回、神山に来た時の懇親会で、&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;さんと話して、永和の面々と一緒に仕事をしていると知った時の驚き。それから半年も経たずに、神山で&lt;a href=&quot;https://twitter.com/chibamem&quot;&gt;千葉さん&lt;/a&gt;、&lt;a href=&quot;https://twitter.com/ka_&quot;&gt;鍛治舎さん&lt;/a&gt;、そして自分が永和を退社した後で入社した大学の後輩の&lt;a href=&quot;https://twitter.com/akiinyo&quot;&gt;田垣さん&lt;/a&gt;という面々と会えゆっくりと話しができて、人生って面白いなぁということを実感させてもらった。アレンジしてくれた&lt;a href=&quot;http://twitter.com/dany1486&quot;&gt;@dany1486&lt;/a&gt;さん感謝です。&lt;/p&gt;
 
-&lt;h2&gt;LTでポートランドの話しを…できなかったw&lt;/h2&gt;
+&lt;h2 id=&quot;ltw&quot;&gt;LTでポートランドの話しを…できなかったw&lt;/h2&gt;
 
 &lt;p&gt;また、LTの時間に、先日、松山で行った&lt;a href=&quot;http://www.slideshare.net/kkd/ss-40629190&quot;&gt;全米一住みたい街ポートランドに学ぶ、創造・快適・環境先進都市の作り方&lt;/a&gt;をLTで省略しながら話してみたけど、やっぱり無理だった（当たり前w）&lt;/p&gt;
 
@@ -83,10 +81,10 @@
 
 &lt;p&gt;あとは、プログラミングの学びについてのLTも考えさせられた。（資料公開されてないかな！？）&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg&quot; alt=&quot;group_photo&quot; title=&quot;group photo&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/group_picture_kamiyama_rb_vol1_480x320.jpeg&quot; alt=&quot;group_photo&quot; title=&quot;group photo&quot; /&gt;
 (集合写真を頂いたので追加 2014/11/17)&lt;/p&gt;
 
-&lt;h2&gt;四国でコミュニティを主催する意味&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;四国でコミュニティを主催する意味&lt;/h2&gt;
 
 &lt;p&gt;思えば、2010年に愛媛に引っ越してきたときは、四国にはRubyコミュニティが皆無だった（地域.rbに限る）。その後、愛媛に&lt;a href=&quot;http://yurufuwa.doorkeeper.jp/&quot;&gt;ゆるふわ.rb&lt;/a&gt;ができたり、今年は&lt;a href=&quot;http://tokushimarb.github.io/&quot;&gt;tokushima.rb&lt;/a&gt;ができ、そして神山.rbができた。&lt;/p&gt;
 
@@ -98,7 +96,8 @@
 
 &lt;p&gt;自分も&lt;a href=&quot;http://agile459.github.io&quot;&gt;Agile459&lt;/a&gt;をゆるゆると続けているのも、一人が嫌だから作ったようなものだし。続けてきたおかげで、四国に仲間ができて本当に良かったと思ってる。&lt;/p&gt;
 
-&lt;p&gt;...ということを考えるきっかけを与えてくれたという意味でも神山.rbに参加してよかった。今度行く機会があれば、ちゃんとRubyの話ができればいいなぁ（できるのか！？）&lt;/p&gt;
+&lt;p&gt;…ということを考えるきっかけを与えてくれたという意味でも神山.rbに参加してよかった。今度行く機会があれば、ちゃんとRubyの話ができればいいなぁ（できるのか！？）&lt;/p&gt;
+
 </content>
  </entry>
  

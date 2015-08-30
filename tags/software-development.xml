@@ -3,7 +3,7 @@
  <title>Your Title - software development</title>
  <link href="http://giantech.jp/tags/software-development.xml" rel="self"/>
  <link href="http://giantech.jp/tag/software development.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/software development.html</id>
  <author>
    <name>Author Here</name>
@@ -14,9 +14,10 @@
    <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident"/>
    <updated>2015-04-25T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot;/&gt;&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;あれから10年&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;あれから10年&lt;/h2&gt;
 
 &lt;p&gt;毎年、この時期になると、ニュースでキーワードを目にして思い出す。&lt;/p&gt;
 
@@ -38,7 +39,7 @@
 
 &lt;p&gt;まさーるさんの友人が公開していたミラーサイトがない今、このようにメモリアル記事が書けるのも、この10年間ずっとまさーるコンテンツを閲覧可能にしてくれている&lt;a href=&quot;http://www.objectclub.jp&quot;&gt;オブラブ&lt;/a&gt;の皆さんのおかげだ。改めて感謝の気持ちを伝えたいです。（そして、取り扱いにくい形でデータを残してしまってごめんなさい…）&lt;/p&gt;
 
-&lt;h2&gt;自分にできること&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;自分にできること&lt;/h2&gt;
 
 &lt;p&gt;実は、まさーるさんと会って話した回数はそれほどはない。それはまさーるさんが関西にお住まいだったためであり、何かイベントで上京される時のタイミングの時だったからだ。&lt;/p&gt;
 
@@ -46,7 +47,7 @@
 
 &lt;p&gt;自分も今は愛媛在住で、東京にいる時ほど多くの人たちと出会うこともなくなってきた。だからこそ、人との出会いを大事にして行きたいし、自分にできることがあれば誰かの役に立ちたいと思う。いつ誰かの役に立つかわからないけど、これまで学んできたことを、いろいろ書き残しておきたいとも思う。&lt;/p&gt;
 
-&lt;h2&gt;15年を越えて…組織パターン&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;15年を越えて…組織パターン&lt;/h2&gt;
 
 &lt;p&gt;まさーるさんの記事群の中に、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/org-process-pattern.html&quot;&gt;組織パターンのコンテンツ&lt;/a&gt;がある。この記事は1999年に書かれたものだ。&lt;/p&gt;
 
@@ -56,7 +57,7 @@
 
 &lt;p&gt;組織パターンの著者の一人であるJames. O. Coplien氏は、2010年のアレグザンダー祭り以降、毎年日本に来てくれている。TDD否定派の彼とまさーるさんを引きあわせたらどんな議論がされるのだろう？穏やかにかつ的確にCopeと議論をするまさーるさんを想像するとちょっと楽しい。&lt;/p&gt;
 
-&lt;h2&gt;if…&lt;/h2&gt;
+&lt;h2 id=&quot;if&quot;&gt;if…&lt;/h2&gt;
 
 &lt;p&gt;まさーるさんは、福知山線事故の2005年以降に、日本でもアジャイル特にスクラムが浸透してきたこと、RoRがブームを通り越して世界で最も使われるWebフレームワークの１つになったこと、Githubを中心にソーシャルコーディングのスタイルがメインになったこと、AsianPLoPが毎年開催され日本で第二次パターンコミュニティが形成されていること、などなど、この10年の変化は知るはずもない。&lt;/p&gt;
 
@@ -66,7 +67,7 @@
 
 &lt;p&gt;今頃、草葉の陰で「プログラマにとっていい時代になりましたね。僕もソーシャルコーディングしたい！」と言ってる気がする。&lt;/p&gt;
 
-&lt;h2&gt;人はいつか死ぬ&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;人はいつか死ぬ&lt;/h2&gt;
 
 &lt;p&gt;人は死して何を残すのだろう？ まさーるさんが亡くなってから、そういうことを徐々に考えるようになった。&lt;/p&gt;
 
@@ -78,7 +79,7 @@
 
 &lt;p&gt;ということだ。&lt;/p&gt;
 
-&lt;h2&gt;タイムボックスをどう生きるか&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;タイムボックスをどう生きるか&lt;/h2&gt;
 
 &lt;p&gt;人生という名のタイムボックスは、厄介なことに終わりの予測がつかない。最大サイズはある程度予測できるが、どこで終了となるかは予測できないのだ。&lt;/p&gt;
 
@@ -87,20 +88,21 @@
 &lt;p&gt;きっと、後悔ないように、日々を精一杯・充実して生きることこそが、唯一のできることではなかろうか。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
-&lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
-&lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
-&lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
-&lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
+  &lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
+  &lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
+  &lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
+  &lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
+  &lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、精一杯生きていこう。&lt;/p&gt;
 
-&lt;h2&gt;番外&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;番外&lt;/h2&gt;
 
 &lt;p&gt;「まさーるさん没後ちょうど10年だから何かしようよ」と声をかけて、乗ってくれたのが&lt;a href=&quot;http://t-wada.hatenablog.jp&quot;&gt;t-wada&lt;/a&gt;さんでした。&lt;a href=&quot;http://t-wada.hatenablog.jp/entry/masarl-memories&quot;&gt;彼のエントリ&lt;/a&gt;はきっちり4/25にアップされたのだけど、それを見ないで（影響受けてしまいたくない）この記事を書きました。&lt;/p&gt;
 
 &lt;p&gt;t-wadaさんらしく、素晴らしいエントリでした。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -109,7 +111,8 @@
    <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
    <updated>2014-03-20T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
-   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+   <content type="html">
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;3/19に、&lt;a href=&quot;http://goo.gl/E9inDE&quot;&gt;仙台にお呼ばれ&lt;/a&gt;して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の&lt;a href=&quot;http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131&quot;&gt;ガイダンス&lt;/a&gt;です。&lt;/p&gt;
 
@@ -126,11 +129,11 @@
 &lt;p&gt;最後に少し話をさせてもらったのですが、「自分たちの現場も、反復漸進的に進めて、顧客に早期に見てもらおう」と決意してプロセスを変えることは、それ自体は素晴しい前進です。しかしすぐに次の壁にぶちあたるはずです。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない...&lt;/li&gt;
-&lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない...&lt;/li&gt;
-&lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない...&lt;/li&gt;
-&lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない...&lt;/li&gt;
-&lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない...&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない…&lt;/li&gt;
+  &lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない…&lt;/li&gt;
+  &lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;結局の所、&lt;strong&gt;何かを変えても、次の壁に必ずぶち当り、それらをひとつひとつ越えて行かなければ、本当に目指すべき所には辿りつけない&lt;/strong&gt; です。価値あるソフトウェアを漸進的に作りあげていくように、&lt;strong&gt;チームも組織も少しづつ漸進的に改善して成長し続けることを選択&lt;/strong&gt;しなければ、志し半ばで挫けてしまうでしょう。&lt;/p&gt;
@@ -148,11 +151,12 @@
    <link href="http://giantech.jp/2013/04/05/value-proposition-driven"/>
    <updated>2013-04-05T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/05/value-proposition-driven</id>
-   <content type="html">&lt;h3&gt;概要&lt;/h3&gt;
+   <content type="html">
+&lt;h3 id=&quot;section&quot;&gt;概要&lt;/h3&gt;
 
 &lt;p&gt;Lean Startupで知られるようになってきたMVP(Minimum Viable Product: 最小限の実用可能な製品)と、Running Leanで提唱されている独自の価値提案(Unique Value Proposition: UVP)について、ソリューション(どう実現するか)よりも先にUVPを先に考えMVPによって早期から検証を繰り返しながらプロダクトを構築していくプロセスが、ソフトウェア開発におけるTDD(Test Driven Development : テスト駆動開発)におけるテストを先に書いて、実装して、リファクタリングするというプロセスに似ているのではないかと考えた。&lt;/p&gt;
 
-&lt;h3&gt;本文&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;本文&lt;/h3&gt;
 
 &lt;p&gt;最近、Running Leanのワークショップを@kdmsnrさんと一緒に開催したり、実際に自分でリーンキャンバスを書く機会が増えたため、ソリューションより先に独自の価値提案(UVP)を先に考えることに慣れてきた。これまでにも「プロダクトのビジョン、コンセプト」を先に考えるということはしてきたが、今考えてみると、ソリューションを先に思いつき、それに合わせて価値提案を作っていたのでは？という気がしてならない。&lt;/p&gt;
 
@@ -168,11 +172,11 @@ UVPを検証するという行為は、「正しい製品」を探索するこ�
 
 &lt;p&gt;MVPについて考えた時には&lt;a href=&quot;https://sites.google.com/site/techdmba/kanomodel&quot;&gt;狩野モデル&lt;/a&gt;における当たり前品質(あっても魅力にはならないが、なければ困る機能)はどうなるのか、という疑問が生じる。言い換えると「MVPに当たり前品質のフィーチャが必要か？」という疑問である。これはMVPの種類にもよるが、できるだけ「作らないようにする」のがよいだろう。MVPで検証したいのは、&lt;strong&gt;魅力品質を満たす(であろうという未踏の仮説)&lt;/strong&gt;フィーチャであるからだ。MVPを構築する上で、当たり前品質の機能を作らないといけない、という状況もあるかもしれない。その場合は「できるだけ作らないで検証できるMVPはどのようなものか？」という問いに変えたほうがよい。&lt;/p&gt;
 
-&lt;p&gt;TDDにおいても、コードの当たり前品質をプログラマーにとっての当たり前品質として考えるとクリーンコード(リーダブル、DRY、etc)やカバレッジのようなものになるのではないか。TDDでまず検証したいのはクリーンコードではなくテストを満たしているかどうかだ。(これをプログラマー的な魅力的品質と呼ぶのはちょっと抵抗があるが,...) &lt;/p&gt;
+&lt;p&gt;TDDにおいても、コードの当たり前品質をプログラマーにとっての当たり前品質として考えるとクリーンコード(リーダブル、DRY、etc)やカバレッジのようなものになるのではないか。TDDでまず検証したいのはクリーンコードではなくテストを満たしているかどうかだ。(これをプログラマー的な魅力的品質と呼ぶのはちょっと抵抗があるが,…)&lt;/p&gt;
 
 &lt;p&gt;まとめると、まず最優先で検証したい事柄(仮説)を設定し、それを検証するために最低限の実現方法を用いて実現し、その成果の結果を測定して、実現内容をブラッシュアップしていくか、次の仮説検証に取り組むかの判断を行うという仮説検証プロセスモデルは、コードレベルからプロダクト/サービスレベルにまで通じるプロセスモデルである、という話でした。&lt;/p&gt;
 
-&lt;iframe src=&quot;http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4873115914&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=giantech-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4873115914&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  

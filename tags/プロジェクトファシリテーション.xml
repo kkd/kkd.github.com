@@ -3,7 +3,7 @@
  <title>Your Title - プロジェクトファシリテーション</title>
  <link href="http://giantech.jp/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.xml" rel="self"/>
  <link href="http://giantech.jp/tag/プロジェクトファシリテーション.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/プロジェクトファシリテーション.html</id>
  <author>
    <name>Author Here</name>
@@ -14,25 +14,26 @@
    <link href="http://giantech.jp/2013/06/27/pfp-workshop"/>
    <updated>2013-06-27T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/06/27/pfp-workshop</id>
-   <content type="html">&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
 
 &lt;p&gt;元々の発端としては、fb経由で&lt;a href=&quot;https://twitter.com/kussy_y&quot;&gt;くっしー&lt;/a&gt;こと串田さんに、こんなことをお願いされたのがきっかけでした。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&amp;quot;わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。”&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;それを受けての僕の回答は、&lt;/p&gt;
 
-&lt;p&gt;&amp;quot;&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;&amp;quot;&lt;/p&gt;
+&lt;p&gt;“&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;”&lt;/p&gt;
 
-&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが...&lt;/p&gt;
+&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが…&lt;/p&gt;
 
-&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが...)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
+&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが…)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
 
 &lt;p&gt;ワークの中では「アジャイルとPFの違いって何だろう？」ということをグループで考えてもらいました。このような問い掛けの前提としては、PFが発表された当時よりアジャイルが身近になった今の時代に、その違いについて皆がどう捉えているかが知りたかったからです。&lt;/p&gt;
 
 &lt;p&gt;PFはアジャイルという全体が世間に認知されにくかった時代に、平鍋さんがトヨタ生産方式(=リーンソフトウェア開発)に出会い、その当時の日本の現場の文脈上で利用しやすいプラクティス群を抽出し、それらプラクティスを繋ぐ原則や価値をまとめ、QoELをはじめとした新たな概念を元にストーリーを描いて人々の共感を得ることができた体系であると私は認識しています。&lt;/p&gt;
 
-&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです...)&lt;/p&gt;
+&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです…)&lt;/p&gt;
 
 &lt;p&gt;僕がそれを如実に感じたのは、&lt;a href=&quot;https://twitter.com/beakmark&quot;&gt;あまのりょー&lt;/a&gt;さんのグループのこんな一言でした。&lt;/p&gt;
 
@@ -46,7 +47,9 @@
 
 &lt;p&gt;PFP関東の伝統としては、ワークショップに時間をかけるのだったそうですが、話ばかりしてしまってごめんなさい。かつPFを知らない方にはさっぱりな内容でしたね。このような機会を頂きましたPFP関東の皆さん、参加者の皆様ありがとうございました。&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
 </content>
  </entry>
  

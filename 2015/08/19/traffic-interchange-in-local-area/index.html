@@ -157,205 +157,181 @@
 					<p>四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。</p>
 
 <div class="bc-1">
-    <div class="bc-2">
-        <a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-3"><img src="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" class="bc-4"></a>
-    </div>
-    <p style="margin:0;"><a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-5">四国内の相互交流量を分析してわかった３つのこと</a></p>
-    <p class="bc-6">国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？</p>
-    <div class="bc-7">
-        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-favicon">giantech.jp<img src="http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-hatebu"></p>
-    </div>
+	<div class="bc-2">
+		<a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-3"><img src="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" class="bc-4" /></a>
+	</div>
+	<p style="margin:0;"><a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-5">四国内の相互交流量を分析してわかった３つのこと</a></p>
+	<p class="bc-6">国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？</p>
+	<div class="bc-7">
+		<p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-favicon" />giantech.jp<img src="http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-hatebu" /></p>
+	</div>
 </div>
 
 <p>元データは<a href="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html">国土交通省が調査した生活圏流動表</a>の2010年版（新調査）になります。</p>
 
 <div class="bc-1">
-    <div class="bc-2">
-        <a href="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-3"><img src="http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-4"></a>
-    </div>
-    <p style="margin:0;"><a href="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-5">総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省</a></p>
-    <p class="bc-6"></p>
-    <div class="bc-7">
-        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-favicon">www.mlit.go.jp<img src="http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-hatebu"></p>
-    </div>
+	<div class="bc-2">
+		<a href="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-3"><img src="http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-4" /></a>
+	</div>
+	<p style="margin:0;"><a href="http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-5">総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省</a></p>
+	<p class="bc-6"></p>
+	<div class="bc-7">
+		<p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-favicon" />www.mlit.go.jp<img src="http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html" class="bc-hatebu" /></p>
+	</div>
 </div>
 
 <p>ここに公開されているExcelデータをRubyの<a href="http://www.graphviz.org/">Graphviz</a>ライブラリである<a href="https://github.com/melborne/Gviz">Gviz</a>を使って流動数マップを作成しました。今回は<a href="https://github.com/topfunky/gruff">Gruff</a>の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。集計する単位は八地方区分にて分類してあります。</p>
 
 <div class="bc-1">
-    <div class="bc-2">
-        <a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-3"><img src="http://capture.heartrails.com/100x100/?https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-4"></a>
-    </div>
-    <p style="margin:0;"><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-5">日本の地域 - Wikipedia</a></p>
-    <p class="bc-6"></p>
-    <div class="bc-7">
-        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-favicon">ja.wikipedia.org<img src="http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-hatebu"></p>
-    </div>
+	<div class="bc-2">
+		<a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-3"><img src="http://capture.heartrails.com/100x100/?https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-4" /></a>
+	</div>
+	<p style="margin:0;"><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-5">日本の地域 - Wikipedia</a></p>
+	<p class="bc-6"></p>
+	<div class="bc-7">
+		<p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-favicon" />ja.wikipedia.org<img src="http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F" class="bc-hatebu" /></p>
+	</div>
 </div>
 
 <p>元データは全国207生活圏同士のマトリックスデータになっていますが、本記事では以下の条件でデータを選別・集計しています。</p>
 
 <ul>
-<li>ある地域（東北、関東など）のある生活圏からの流動数の多い目的地のベスト10のみを集計対象</li>
-<li>ある地域（東北、関東など）において他地域からの流動数はカウントしていない(地域交流の視覚化が目的のため)</li>
+  <li>ある地域（東北、関東など）のある生活圏からの流動数の多い目的地のベスト10のみを集計対象</li>
+  <li>ある地域（東北、関東など）において他地域からの流動数はカウントしていない(地域交流の視覚化が目的のため)</li>
 </ul>
 
 <p>また、本図は国土交通省の調査データを元にプログラムで出力したものですが、プログラムの不具合等によるデータ・集計の不備について一切責任を負いかねますのでご了承ください。</p>
 
-<h2>北海道</h2>
+<h2 id="section">北海道</h2>
 
 <p>北海道は広大なため、道北、道東、道央、道南の４つのエリアに分かれており、都道府県と同様の区分けになっており、更にその中に生活圏があります。札幌と旭川が共に生活圏流動数が大きく、相互交流も盛んなようです。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-1">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_北海道.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E5%8C%97%E6%B5%B7%E9%81%93.png" alt="2010年北海道の生活圏流動数" title="2010年北海道の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_北海道.png" alt="2010年北海道の生活圏流動数" title="2010年北海道の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_北海道_2010.png" alt="2010年北海道流動数TOP20" title="2010年北海道出発数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E5%8C%97%E6%B5%B7%E9%81%93_2010.png" alt="2010年北海道流動数TOP20" title="2010年北海道出発数TOP20">{:.mid}</p>
+<h3 id="top20-1">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_北海道_2010.png" alt="2010年北海道出発数TOP20" title="2010年北海道出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E5%8C%97%E6%B5%B7%E9%81%93_2010.png" alt="2010年北海道出発数TOP20" title="2010年北海道出発数TOP20">{:.mid}</p>
-
-<h2>東北</h2>
+<h2 id="section-2">東北</h2>
 
 <p>宮城:仙台と東京:23区への流動数が多いですが、岩手:盛岡、青森:南部、山形:山形も流動数が多めです。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-3">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_東北.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E6%9D%B1%E5%8C%97.png" alt="2010年東北の生活圏流動数" title="2010年東北の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_東北.png" alt="2010年東北の生活圏流動数" title="2010年東北の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-2">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_東北_2010.png" alt="2010年東北流動数TOP20" title="2010年東北出発数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E6%9D%B1%E5%8C%97_2010.png" alt="2010年東北流動数TOP20" title="2010年東北出発数TOP20">{:.mid}</p>
+<h3 id="top20-3">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_東北_2010.png" alt="2010年東北出発数TOP20" title="2010年東北出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E6%9D%B1%E5%8C%97_2010.png" alt="2010年東北出発数TOP20" title="2010年東北出発数TOP20">{:.mid}</p>
-
-<h2>関東</h2>
+<h2 id="section-4">関東</h2>
 
 <p>東京:23区以外にも茨城:土浦、埼玉:浦和、茨城:下館・古河、群馬:前橋・高崎、群馬:桐生・太田などへの流動数が非常に多いです。また新幹線により通勤圏内になっている静岡:東部への流動数も多いです。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-5">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_関東.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E9%96%A2%E6%9D%B1.png" alt="2010年関東の生活圏流動数" title="2010年関東の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_関東.png" alt="2010年関東の生活圏流動数" title="2010年関東の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-4">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_関東_2010.png" alt="2010年関東流動数TOP20" title="2010年関東出発数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E9%96%A2%E6%9D%B1_2010.png" alt="2010年関東流動数TOP20" title="2010年関東出発数TOP20">{:.mid}</p>
+<h3 id="top20-5">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_関東_2010.png" alt="2010年関東出発数TOP20" title="2010年関東出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E9%96%A2%E6%9D%B1_2010.png" alt="2010年関東出発数TOP20" title="2010年関東出発数TOP20">{:.mid}</p>
-
-<h2>中部</h2>
+<h2 id="section-6">中部</h2>
 
 <p>中部という地域は最も県が多く北陸、甲信越、東海が含まれており、細分化したほうがよいかもしれません。s新幹線のためか東京:23区への流動数が非常に多いです。域内だと静岡:西部と愛知:豊田、愛知:東三河、石川:加賀と富山:富山との交流が活発です。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-7">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_中部.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E4%B8%AD%E9%83%A8.png" alt="2010_中部の生活圏流動数" title="2010_中部の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_中部.png" alt="2010_中部の生活圏流動数" title="2010_中部の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-6">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_中部_2010.png" alt="2010年中部流動数TOP20" title="2010年中部出発数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E4%B8%AD%E9%83%A8_2010.png" alt="2010年中部流動数TOP20" title="2010年中部出発数TOP20">{:.mid}</p>
+<h3 id="top20-7">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_中部_2010.png" alt="2010年中部出発数TOP20" title="2010年中部出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E4%B8%AD%E9%83%A8_2010.png" alt="2010年中部出発数TOP20" title="2010年中部出発数TOP20">{:.mid}</p>
-
-<h2>近畿</h2>
+<h2 id="section-8">近畿</h2>
 
 <p>滋賀:南部と京都:京都、大阪:堺と和歌山:和歌山の相互交流が活発です。特に滋賀:南部は地域内最大の流動数になっています。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-9">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_近畿.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E8%BF%91%E7%95%BF.png" alt="2010年近畿の生活圏流動数" title="2010年近畿の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_近畿.png" alt="2010年近畿の生活圏流動数" title="2010年近畿の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-8">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_近畿_2010.png" alt="2010年近畿流動数TOP20" title="2010年近畿出発数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E8%BF%91%E7%95%BF_2010.png" alt="2010年近畿流動数TOP20" title="2010年近畿出発数TOP20">{:.mid}</p>
+<h3 id="top20-9">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_近畿_2010.png" alt="2010年近畿出発数TOP20" title="2010年近畿出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E8%BF%91%E7%95%BF_2010.png" alt="2010年近畿出発数TOP20" title="2010年近畿出発数TOP20">{:.mid}</p>
-
-<h2>中国</h2>
-
+<h2 id="section-10">中国</h2>
 <p>岡山:県南は広島:備後と、島根:松江は鳥取:西部との相互交流があります。広島:広島は新幹線沿線からの流動数が多いのでしょうか。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-11">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_中国.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E4%B8%AD%E5%9B%BD.png" alt="2010年中国の生活圏流動数" title="2010年中国の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_中国.png" alt="2010年中国の生活圏流動数" title="2010年中国の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-10">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_中国_2010.png" alt="2010年中国流動数TOP20" title="2010年中国流動数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E4%B8%AD%E5%9B%BD_2010.png" alt="2010年中国流動数TOP20" title="2010年中国流動数TOP20">{:.mid}</p>
+<h3 id="top20-11">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_中国_2010.png" alt="2010年中国出発数TOP20" title="2010年中国出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E4%B8%AD%E5%9B%BD_2010.png" alt="2010年中国出発数TOP20" title="2010年中国出発数TOP20">{:.mid}</p>
-
-<h2>四国</h2>
+<h2 id="section-12">四国</h2>
 
 <p>四国については、こちらの記事をご覧ください。</p>
 
 <div class="bc-1">
-    <div class="bc-2">
-        <a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-3"><img src="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" class="bc-4"></a>
-    </div>
-    <p style="margin:0;"><a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-5">四国内の相互交流量を分析してわかった３つのこと</a></p>
-    <p class="bc-6">国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？</p>
-    <div class="bc-7">
-        <p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-favicon">giantech.jp<img src="http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-hatebu"></p>
-    </div>
+	<div class="bc-2">
+		<a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-3"><img src="http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png" class="bc-4" /></a>
+	</div>
+	<p style="margin:0;"><a href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-5">四国内の相互交流量を分析してわかった３つのこと</a></p>
+	<p class="bc-6">国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？</p>
+	<div class="bc-7">
+		<p class="bc-8"><img src="http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-favicon" />giantech.jp<img src="http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area" class="bc-hatebu" /></p>
+	</div>
 </div>
 
-<h3>2010年</h3>
-
+<h3 id="section-13">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_四国.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E5%9B%9B%E5%9B%BD.png" alt="2010年四国の生活圏流動数" title="2010年四国の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_四国.png" alt="2010年四国の生活圏流動数" title="2010年四国の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-12">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_四国_2010.png" alt="2010年四国流動数TOP20" title="2010年四国流動数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E5%9B%9B%E5%9B%BD_2010.png" alt="2010年四国流動数TOP20" title="2010年四国流動数TOP20">{:.mid}</p>
+<h3 id="top20-13">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_四国_2010.png" alt="2010年四国出発数TOP20" title="2010年四国出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E5%9B%9B%E5%9B%BD_2010.png" alt="2010年四国出発数TOP20" title="2010年四国出発数TOP20">{:.mid}</p>
-
-<h2>九州</h2>
+<h2 id="section-14">九州</h2>
 
 <p>佐賀:佐賀、福岡:福岡、福岡:久留米・大牟田、佐賀:佐賀、熊本:熊本、が流動数が多く相互交流も活発です。</p>
 
-<h3>2010年</h3>
-
+<h3 id="section-15">2010年</h3>
 <p><a href="/assets/images/20150819/traffic_map_2010_九州.svg">
-  <img src="/assets/images/20150819/traffic_map_2010_%E4%B9%9D%E5%B7%9E.png" alt="2010年九州の生活圏流動数" title="2010年九州の生活圏流動数">{:.mid}
+  <img src="/assets/images/20150819/traffic_map_2010_九州.png" alt="2010年九州の生活圏流動数" title="2010年九州の生活圏流動数" class="mid" />
 </a></p>
 
-<h3>流動数TOP20</h3>
+<h3 id="top20-14">流動数TOP20</h3>
+<p><img src="/assets/images/20150819/dest_九州_2010.png" alt="2010年九州流動数TOP20" title="2010年九州流動数TOP20" class="mid" /></p>
 
-<p><img src="/assets/images/20150819/dest_%E4%B9%9D%E5%B7%9E_2010.png" alt="2010年九州流動数TOP20" title="2010年九州流動数TOP20">{:.mid}</p>
+<h3 id="top20-15">出発数TOP20</h3>
+<p><img src="/assets/images/20150819/start_九州_2010.png" alt="2010年九州出発数TOP20" title="2010年九州出発数TOP20" class="mid" /></p>
 
-<h3>出発数TOP20</h3>
-
-<p><img src="/assets/images/20150819/start_%E4%B9%9D%E5%B7%9E_2010.png" alt="2010年九州出発数TOP20" title="2010年九州出発数TOP20">{:.mid}</p>
 
 					<div class="meta">
 						<p class="date-publish">

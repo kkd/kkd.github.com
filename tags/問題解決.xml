@@ -3,7 +3,7 @@
  <title>Your Title - 問題解決</title>
  <link href="http://giantech.jp/tags/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA.xml" rel="self"/>
  <link href="http://giantech.jp/tag/問題解決.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/問題解決.html</id>
  <author>
    <name>Author Here</name>
@@ -14,14 +14,14 @@
    <link href="http://giantech.jp/2015/07/24/are-weeds-problem-or-not"/>
    <updated>2015-07-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/24/are-weeds-problem-or-not</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150724/road-sign-663368.jpg&quot; alt=&quot;問題&quot; title=&quot;問題&quot;&gt;{:.mid}&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150724/road-sign-663368.jpg&quot; alt=&quot;問題&quot; title=&quot;問題&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;畑にいくとあたり一面に雑草が生えている。&lt;/p&gt;
 
 &lt;p&gt;７人がこの状態の畑をみてそれぞれこう考えた。&lt;/p&gt;
 
-&lt;h2&gt;一人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section&quot;&gt;一人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -30,8 +30,7 @@
 
 &lt;p&gt;その結果、効率のよい草引きのやり方を考えた。&lt;/p&gt;
 
-&lt;h2&gt;二人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-1&quot;&gt;二人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -40,8 +39,7 @@
 
 &lt;p&gt;その結果、草引きではなく草刈のやり方を考えた。&lt;/p&gt;
 
-&lt;h2&gt;三人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-2&quot;&gt;三人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -50,8 +48,7 @@
 
 &lt;p&gt;その結果、除草剤を使って、手間なく草を枯らすことを考えた。&lt;/p&gt;
 
-&lt;h2&gt;四人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-3&quot;&gt;四人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -60,8 +57,7 @@
 
 &lt;p&gt;その結果、草が生えてほしくない所にマルチ（表面を覆うカバー）をかけることを考えた。&lt;/p&gt;
 
-&lt;h2&gt;五人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-4&quot;&gt;五人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -70,8 +66,7 @@
 
 &lt;p&gt;その結果、室内で野菜を栽培することで解決できると考えた。&lt;/p&gt;
 
-&lt;h2&gt;六人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-5&quot;&gt;六人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「草は引かなければならない」と考えた。&lt;/p&gt;
@@ -80,41 +75,40 @@
 
 &lt;p&gt;その結果、草を引かなくてもよい栽培の仕方（草生栽培）を考えた。&lt;/p&gt;
 
-&lt;h2&gt;七人目&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-6&quot;&gt;七人目&lt;/h2&gt;
 &lt;p&gt;ある人は「草が畑に生えているのは問題だ」と考えた。&lt;/p&gt;
 
 &lt;p&gt;そして「&lt;strong&gt;その草を何かに生かせないだろうか？&lt;/strong&gt;」と考えた。&lt;/p&gt;
 
 &lt;p&gt;その結果、刈り取った草を畑に敷き詰めて土壌の乾燥を防ぐ雑草マルチを考えた。&lt;/p&gt;
 
-&lt;h2&gt;問題に対してのアプローチと問いかけの違い&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;問題に対してのアプローチと問いかけの違い&lt;/h2&gt;
 
 &lt;p&gt;７人は問題に対してのアプローチがそれぞれ異なります。&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;問題を効率的に解決する&lt;/li&gt;
-&lt;li&gt;問題解決された状態の満足条件を変える&lt;/li&gt;
-&lt;li&gt;問題解決のやり方を変える&lt;/li&gt;
-&lt;li&gt;問題を未然に防ぐ&lt;/li&gt;
-&lt;li&gt;問題が起きない環境に変える&lt;/li&gt;
-&lt;li&gt;問題を問題と捉えなくてもよくする&lt;/li&gt;
-&lt;li&gt;問題を機会と捉える&lt;/li&gt;
+  &lt;li&gt;問題を効率的に解決する&lt;/li&gt;
+  &lt;li&gt;問題解決された状態の満足条件を変える&lt;/li&gt;
+  &lt;li&gt;問題解決のやり方を変える&lt;/li&gt;
+  &lt;li&gt;問題を未然に防ぐ&lt;/li&gt;
+  &lt;li&gt;問題が起きない環境に変える&lt;/li&gt;
+  &lt;li&gt;問題を問題と捉えなくてもよくする&lt;/li&gt;
+  &lt;li&gt;問題を機会と捉える&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;これらの違いは、問題に対しての問いかけで変わってきます。&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;問題はどうすれば効率的に解決できるのか？&lt;/li&gt;
-&lt;li&gt;問題が解決された結果どのような状態にしたいのか？&lt;/li&gt;
-&lt;li&gt;問題を取り巻く状況の制約・大事にしたいことは何か？&lt;/li&gt;
-&lt;li&gt;なぜ問題は起こるのか？&lt;/li&gt;
-&lt;li&gt;問題が起きない状況とは何か？&lt;/li&gt;
-&lt;li&gt;なぜその状態を問題だと捉えるのか？&lt;/li&gt;
-&lt;li&gt;問題を機会として何かに生かせないだろうか？ &lt;/li&gt;
+  &lt;li&gt;問題はどうすれば効率的に解決できるのか？&lt;/li&gt;
+  &lt;li&gt;問題が解決された結果どのような状態にしたいのか？&lt;/li&gt;
+  &lt;li&gt;問題を取り巻く状況の制約・大事にしたいことは何か？&lt;/li&gt;
+  &lt;li&gt;なぜ問題は起こるのか？&lt;/li&gt;
+  &lt;li&gt;問題が起きない状況とは何か？&lt;/li&gt;
+  &lt;li&gt;なぜその状態を問題だと捉えるのか？&lt;/li&gt;
+  &lt;li&gt;問題を機会として何かに生かせないだろうか？&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2&gt;どこにフォーカスするか？&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;どこにフォーカスするか？&lt;/h2&gt;
 
 &lt;p&gt;1は問題の解決方法に目を向ける&lt;/p&gt;
 
@@ -130,7 +124,7 @@
 
 &lt;p&gt;7は問題を別の何かの解決の機会として捉えられないかに目を向ける&lt;/p&gt;
 
-&lt;h2&gt;考えたいこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-9&quot;&gt;考えたいこと&lt;/h2&gt;
 
 &lt;p&gt;あなたは問題に対してどのように向き合っていますか？&lt;/p&gt;
 

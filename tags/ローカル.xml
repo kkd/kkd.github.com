@@ -3,7 +3,7 @@
  <title>Your Title - ローカル</title>
  <link href="http://giantech.jp/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ローカル.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/ローカル.html</id>
  <author>
    <name>Author Here</name>
@@ -17,205 +17,181 @@
    <content type="html">&lt;p&gt;四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;元データは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;の2010年版（新調査）になります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-5&quot;&gt;総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-favicon&quot;&gt;www.mlit.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-5&quot;&gt;総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-favicon&quot; /&gt;www.mlit.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;ここに公開されているExcelデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。今回は&lt;a href=&quot;https://github.com/topfunky/gruff&quot;&gt;Gruff&lt;/a&gt;の練習も兼ねて、目的地への流動数の上位20のグラフ化もしています。集計する単位は八地方区分にて分類してあります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-5&quot;&gt;日本の地域 - Wikipedia&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-favicon&quot;&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-5&quot;&gt;日本の地域 - Wikipedia&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-favicon&quot; /&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;元データは全国207生活圏同士のマトリックスデータになっていますが、本記事では以下の条件でデータを選別・集計しています。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ある地域（東北、関東など）のある生活圏からの流動数の多い目的地のベスト10のみを集計対象&lt;/li&gt;
-&lt;li&gt;ある地域（東北、関東など）において他地域からの流動数はカウントしていない(地域交流の視覚化が目的のため)&lt;/li&gt;
+  &lt;li&gt;ある地域（東北、関東など）のある生活圏からの流動数の多い目的地のベスト10のみを集計対象&lt;/li&gt;
+  &lt;li&gt;ある地域（東北、関東など）において他地域からの流動数はカウントしていない(地域交流の視覚化が目的のため)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;また、本図は国土交通省の調査データを元にプログラムで出力したものですが、プログラムの不具合等によるデータ・集計の不備について一切責任を負いかねますのでご了承ください。&lt;/p&gt;
 
-&lt;h2&gt;北海道&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;北海道&lt;/h2&gt;
 
 &lt;p&gt;北海道は広大なため、道北、道東、道央、道南の４つのエリアに分かれており、都道府県と同様の区分けになっており、更にその中に生活圏があります。札幌と旭川が共に生活圏流動数が大きく、相互交流も盛んなようです。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-1&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_北海道.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E5%8C%97%E6%B5%B7%E9%81%93.png&quot; alt=&quot;2010年北海道の生活圏流動数&quot; title=&quot;2010年北海道の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_北海道.png&quot; alt=&quot;2010年北海道の生活圏流動数&quot; title=&quot;2010年北海道の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_北海道_2010.png&quot; alt=&quot;2010年北海道流動数TOP20&quot; title=&quot;2010年北海道出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E5%8C%97%E6%B5%B7%E9%81%93_2010.png&quot; alt=&quot;2010年北海道流動数TOP20&quot; title=&quot;2010年北海道出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-1&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_北海道_2010.png&quot; alt=&quot;2010年北海道出発数TOP20&quot; title=&quot;2010年北海道出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E5%8C%97%E6%B5%B7%E9%81%93_2010.png&quot; alt=&quot;2010年北海道出発数TOP20&quot; title=&quot;2010年北海道出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;東北&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;東北&lt;/h2&gt;
 
 &lt;p&gt;宮城:仙台と東京:23区への流動数が多いですが、岩手:盛岡、青森:南部、山形:山形も流動数が多めです。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-3&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_東北.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E6%9D%B1%E5%8C%97.png&quot; alt=&quot;2010年東北の生活圏流動数&quot; title=&quot;2010年東北の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_東北.png&quot; alt=&quot;2010年東北の生活圏流動数&quot; title=&quot;2010年東北の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-2&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_東北_2010.png&quot; alt=&quot;2010年東北流動数TOP20&quot; title=&quot;2010年東北出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E6%9D%B1%E5%8C%97_2010.png&quot; alt=&quot;2010年東北流動数TOP20&quot; title=&quot;2010年東北出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-3&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_東北_2010.png&quot; alt=&quot;2010年東北出発数TOP20&quot; title=&quot;2010年東北出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E6%9D%B1%E5%8C%97_2010.png&quot; alt=&quot;2010年東北出発数TOP20&quot; title=&quot;2010年東北出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;関東&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;関東&lt;/h2&gt;
 
 &lt;p&gt;東京:23区以外にも茨城:土浦、埼玉:浦和、茨城:下館・古河、群馬:前橋・高崎、群馬:桐生・太田などへの流動数が非常に多いです。また新幹線により通勤圏内になっている静岡:東部への流動数も多いです。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-5&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_関東.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E9%96%A2%E6%9D%B1.png&quot; alt=&quot;2010年関東の生活圏流動数&quot; title=&quot;2010年関東の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_関東.png&quot; alt=&quot;2010年関東の生活圏流動数&quot; title=&quot;2010年関東の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-4&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_関東_2010.png&quot; alt=&quot;2010年関東流動数TOP20&quot; title=&quot;2010年関東出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E9%96%A2%E6%9D%B1_2010.png&quot; alt=&quot;2010年関東流動数TOP20&quot; title=&quot;2010年関東出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-5&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_関東_2010.png&quot; alt=&quot;2010年関東出発数TOP20&quot; title=&quot;2010年関東出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E9%96%A2%E6%9D%B1_2010.png&quot; alt=&quot;2010年関東出発数TOP20&quot; title=&quot;2010年関東出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;中部&lt;/h2&gt;
+&lt;h2 id=&quot;section-6&quot;&gt;中部&lt;/h2&gt;
 
 &lt;p&gt;中部という地域は最も県が多く北陸、甲信越、東海が含まれており、細分化したほうがよいかもしれません。s新幹線のためか東京:23区への流動数が非常に多いです。域内だと静岡:西部と愛知:豊田、愛知:東三河、石川:加賀と富山:富山との交流が活発です。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-7&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_中部.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E4%B8%AD%E9%83%A8.png&quot; alt=&quot;2010_中部の生活圏流動数&quot; title=&quot;2010_中部の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_中部.png&quot; alt=&quot;2010_中部の生活圏流動数&quot; title=&quot;2010_中部の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-6&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_中部_2010.png&quot; alt=&quot;2010年中部流動数TOP20&quot; title=&quot;2010年中部出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E4%B8%AD%E9%83%A8_2010.png&quot; alt=&quot;2010年中部流動数TOP20&quot; title=&quot;2010年中部出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-7&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_中部_2010.png&quot; alt=&quot;2010年中部出発数TOP20&quot; title=&quot;2010年中部出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E4%B8%AD%E9%83%A8_2010.png&quot; alt=&quot;2010年中部出発数TOP20&quot; title=&quot;2010年中部出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;近畿&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;近畿&lt;/h2&gt;
 
 &lt;p&gt;滋賀:南部と京都:京都、大阪:堺と和歌山:和歌山の相互交流が活発です。特に滋賀:南部は地域内最大の流動数になっています。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-9&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_近畿.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E8%BF%91%E7%95%BF.png&quot; alt=&quot;2010年近畿の生活圏流動数&quot; title=&quot;2010年近畿の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_近畿.png&quot; alt=&quot;2010年近畿の生活圏流動数&quot; title=&quot;2010年近畿の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-8&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_近畿_2010.png&quot; alt=&quot;2010年近畿流動数TOP20&quot; title=&quot;2010年近畿出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E8%BF%91%E7%95%BF_2010.png&quot; alt=&quot;2010年近畿流動数TOP20&quot; title=&quot;2010年近畿出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-9&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_近畿_2010.png&quot; alt=&quot;2010年近畿出発数TOP20&quot; title=&quot;2010年近畿出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E8%BF%91%E7%95%BF_2010.png&quot; alt=&quot;2010年近畿出発数TOP20&quot; title=&quot;2010年近畿出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;中国&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-10&quot;&gt;中国&lt;/h2&gt;
 &lt;p&gt;岡山:県南は広島:備後と、島根:松江は鳥取:西部との相互交流があります。広島:広島は新幹線沿線からの流動数が多いのでしょうか。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-11&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_中国.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E4%B8%AD%E5%9B%BD.png&quot; alt=&quot;2010年中国の生活圏流動数&quot; title=&quot;2010年中国の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_中国.png&quot; alt=&quot;2010年中国の生活圏流動数&quot; title=&quot;2010年中国の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-10&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_中国_2010.png&quot; alt=&quot;2010年中国流動数TOP20&quot; title=&quot;2010年中国流動数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E4%B8%AD%E5%9B%BD_2010.png&quot; alt=&quot;2010年中国流動数TOP20&quot; title=&quot;2010年中国流動数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-11&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_中国_2010.png&quot; alt=&quot;2010年中国出発数TOP20&quot; title=&quot;2010年中国出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E4%B8%AD%E5%9B%BD_2010.png&quot; alt=&quot;2010年中国出発数TOP20&quot; title=&quot;2010年中国出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;四国&lt;/h2&gt;
+&lt;h2 id=&quot;section-12&quot;&gt;四国&lt;/h2&gt;
 
 &lt;p&gt;四国については、こちらの記事をご覧ください。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-13&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_四国.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E5%9B%9B%E5%9B%BD.png&quot; alt=&quot;2010年四国の生活圏流動数&quot; title=&quot;2010年四国の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_四国.png&quot; alt=&quot;2010年四国の生活圏流動数&quot; title=&quot;2010年四国の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-12&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_四国_2010.png&quot; alt=&quot;2010年四国流動数TOP20&quot; title=&quot;2010年四国流動数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E5%9B%9B%E5%9B%BD_2010.png&quot; alt=&quot;2010年四国流動数TOP20&quot; title=&quot;2010年四国流動数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-13&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_四国_2010.png&quot; alt=&quot;2010年四国出発数TOP20&quot; title=&quot;2010年四国出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E5%9B%9B%E5%9B%BD_2010.png&quot; alt=&quot;2010年四国出発数TOP20&quot; title=&quot;2010年四国出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
-
-&lt;h2&gt;九州&lt;/h2&gt;
+&lt;h2 id=&quot;section-14&quot;&gt;九州&lt;/h2&gt;
 
 &lt;p&gt;佐賀:佐賀、福岡:福岡、福岡:久留米・大牟田、佐賀:佐賀、熊本:熊本、が流動数が多く相互交流も活発です。&lt;/p&gt;
 
-&lt;h3&gt;2010年&lt;/h3&gt;
-
+&lt;h3 id=&quot;section-15&quot;&gt;2010年&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150819/traffic_map_2010_九州.svg&quot;&gt;
-  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_%E4%B9%9D%E5%B7%9E.png&quot; alt=&quot;2010年九州の生活圏流動数&quot; title=&quot;2010年九州の生活圏流動数&quot;&gt;{:.mid}
+  &lt;img src=&quot;/assets/images/20150819/traffic_map_2010_九州.png&quot; alt=&quot;2010年九州の生活圏流動数&quot; title=&quot;2010年九州の生活圏流動数&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;流動数TOP20&lt;/h3&gt;
+&lt;h3 id=&quot;top20-14&quot;&gt;流動数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_九州_2010.png&quot; alt=&quot;2010年九州流動数TOP20&quot; title=&quot;2010年九州流動数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/dest_%E4%B9%9D%E5%B7%9E_2010.png&quot; alt=&quot;2010年九州流動数TOP20&quot; title=&quot;2010年九州流動数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;h3 id=&quot;top20-15&quot;&gt;出発数TOP20&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_九州_2010.png&quot; alt=&quot;2010年九州出発数TOP20&quot; title=&quot;2010年九州出発数TOP20&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;出発数TOP20&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150819/start_%E4%B9%9D%E5%B7%9E_2010.png&quot; alt=&quot;2010年九州出発数TOP20&quot; title=&quot;2010年九州出発数TOP20&quot;&gt;{:.mid}&lt;/p&gt;
 </content>
  </entry>
  
@@ -224,49 +200,49 @@
    <link href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area"/>
    <updated>2015-08-17T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area</id>
-   <content type="html">&lt;h2&gt;はじめに&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/2015/08/13/shikoku-is-larger-than-i-thought/&quot;&gt;四国は思ったよりもずっと広かった&lt;/a&gt;という記事で、松山からの電車・自動車の移動時間についての印象を書きました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150813/matsuyama_to_kouchi_routes.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-5&quot;&gt;四国は思ったよりもずっと広かった&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;東京から移住してみてわかった事実のひとつが、四国は広いということでした。移動時間という切り口で見た時の四国の広さとは？&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150813/matsuyama_to_kouchi_routes.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-5&quot;&gt;四国は思ったよりもずっと広かった&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;東京から移住してみてわかった事実のひとつが、四国は広いということでした。移動時間という切り口で見た時の四国の広さとは？&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;いろいろ調べていく中で、&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD&quot;&gt;四国のWikipedia&lt;/a&gt;には、&lt;strong&gt;以前よりも四国内での相互移動が活発になった&lt;/strong&gt;との記載がありました。この記載は&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省・第5回全国幹線旅客純流動データ&lt;/a&gt;を元した分析結果で表も記載してありました。&lt;/p&gt;
+&lt;p&gt;いろいろ調べていく中で、&lt;a href=&quot;https://ja.wikipedia.org/wiki/四国&quot;&gt;四国のWikipedia&lt;/a&gt;には、&lt;strong&gt;以前よりも四国内での相互移動が活発になった&lt;/strong&gt;との記載がありました。この記載は&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省・第5回全国幹線旅客純流動データ&lt;/a&gt;を元した分析結果で表も記載してありました。&lt;/p&gt;
 
 &lt;p&gt;元データはWebサイト上でExcelで公開してあるため、もっとビジュアルにデータ分析してみることにしました。&lt;/p&gt;
 
-&lt;h2&gt;データ分析について&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;データ分析について&lt;/h2&gt;
 
 &lt;p&gt;使ったデータは&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot;&gt;国土交通省が調査した生活圏流動表&lt;/a&gt;に公開されている、&lt;strong&gt;207生活圏間流動表（出発地から目的地）【交通機関別流動表】&lt;/strong&gt;の2010年度のデータをRubyの&lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt;ライブラリである&lt;a href=&quot;https://github.com/melborne/Gviz&quot;&gt;Gviz&lt;/a&gt;を使って流動数マップを作成しました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-5&quot;&gt;総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-favicon&quot;&gt;www.mlit.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-5&quot;&gt;総合政策：［２］　207生活圏間流動表　　出発地-目的地 - 国土交通省&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-favicon&quot; /&gt;www.mlit.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.mlit.go.jp/sogoseisaku/soukou/sogoseisaku_soukou_fr_000010.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://melborne.github.io/Gviz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://melborne.github.io/Gviz/&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://melborne.github.io/Gviz/&quot; class=&quot;bc-5&quot;&gt;Gviz&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://melborne.github.io/Gviz/&quot; class=&quot;bc-favicon&quot;&gt;melborne.github.io&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://melborne.github.io/Gviz/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://melborne.github.io/Gviz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://melborne.github.io/Gviz/&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://melborne.github.io/Gviz/&quot; class=&quot;bc-5&quot;&gt;Gviz&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://melborne.github.io/Gviz/&quot; class=&quot;bc-favicon&quot; /&gt;melborne.github.io&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://melborne.github.io/Gviz/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;元データでは、全国のそれぞれの地域（出発地）から、全国各地への移動先（目的地）への年間の流動数を二次元データで格納しています。データは航空、鉄道、バス、船舶、乗用車等に分かれていますが、全機関の合計を対象としてデータを読み込んでいます。&lt;/p&gt;
@@ -281,58 +257,123 @@
 
 &lt;p&gt;該当サイトに旧手法での2010年度調査が公開されていたため、旧手法によるデータで1990年と2010年を比較しなおしました。そのため比較の分析・数値に若干の変更があることをご承知ください。&lt;/p&gt;
 
-&lt;h2&gt;四国の生活圏&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;四国の生活圏&lt;/h2&gt;
 
 &lt;p&gt;本データでは、都道府県を更に細かい&lt;strong&gt;生活圏&lt;/strong&gt;という単位に区分けしています。全国の生活圏は&lt;a href=&quot;http://www.mlit.go.jp/seisakutokatsu/jyunryuudou/doc/207_Zone2005.pdf&quot;&gt;207地域生活圏&lt;/a&gt;として定義されています。四国での生活圏は以下のようになります。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150817/seikatsuken.png&quot; alt=&quot;四国の生活圏&quot; title=&quot;四国の生活圏&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150817/seikatsuken.png&quot; alt=&quot;四国の生活圏&quot; title=&quot;四国の生活圏&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;|県名|地域名|該当区域|
-|:---|:---|:---|
-|徳島|徳島|徳島市、鳴門市、小松島市、吉野川市、阿波市、美馬市、勝浦郡、名東郡、名西郡、板野郡、美馬郡|
-|徳島|三好|三好市、三好郡|
-|徳島|南部|阿南市、那賀郡、海部郡|
-|香川|香川東部|高松市、さぬき市、東かがわ市、小豆郡、木田郡、香川郡、綾歌郡（宇多津町を除く）|
-|香川|香川西部|丸亀市、坂出市、善通寺市、観音寺市、三豊市、綾歌郡（綾川町を除く）、仲多度郡|
-|愛媛|松山|松山市、伊予市、東温市、上浮穴郡、伊予郡|
-|愛媛|新居浜・西条|新居浜市、西条市、四国中央市|
-|愛媛|今治|今治市、越智郡|
-|愛媛|宇和島|宇和島市、北宇和郡、南宇和郡|
-|愛媛|八幡浜・大洲|八幡浜市、大洲市、西予市、喜多郡、西宇和郡|
-|高知|中央|高知市、南国市、土佐市、香南市、香美市、長岡郡、土佐郡、吾川郡、高岡郡（佐川町、越知町、日高村）|
-|高知|幡多|宿毛市、土佐清水市、四万十市、幡多郡|
-|高知|高幡|須崎市、高岡郡（高知中央の区域を除く）|
-|高知|安芸|室戸市、安芸市、安芸郡|&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;県名&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;地域名&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;該当区域&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島市、鳴門市、小松島市、吉野川市、阿波市、美馬市、勝浦郡、名東郡、名西郡、板野郡、美馬郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;三好&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;三好市、三好郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;南部&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;阿南市、那賀郡、海部郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;香川&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;香川東部&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高松市、さぬき市、東かがわ市、小豆郡、木田郡、香川郡、綾歌郡（宇多津町を除く）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;香川&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;香川西部&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;丸亀市、坂出市、善通寺市、観音寺市、三豊市、綾歌郡（綾川町を除く）、仲多度郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;松山&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;松山市、伊予市、東温市、上浮穴郡、伊予郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;新居浜・西条&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;新居浜市、西条市、四国中央市&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;今治&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;今治市、越智郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;宇和島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;宇和島市、北宇和郡、南宇和郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;八幡浜・大洲&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;八幡浜市、大洲市、西予市、喜多郡、西宇和郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;中央&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知市、南国市、土佐市、香南市、香美市、長岡郡、土佐郡、吾川郡、高岡郡（佐川町、越知町、日高村）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;幡多&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;宿毛市、土佐清水市、四万十市、幡多郡&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高幡&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;須崎市、高岡郡（高知中央の区域を除く）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;安芸&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;室戸市、安芸市、安芸郡&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;h2&gt;1990年の流動数マップ&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;1990年の流動数マップ&lt;/h2&gt;
 
 &lt;p&gt;まず、1990年の時点のデータを元に流動数マップを作成しました。（クリックするとSVGで拡大表示できます）
 &lt;a href=&quot;/assets/images/20150817/traffic_map_1990_四国.svg&quot;&gt;
-&lt;img src=&quot;/assets/images/20150817/traffic_map_1990_%E5%9B%9B%E5%9B%BD.png&quot; alt=&quot;1990年の四国圏内流動数マップ&quot; title=&quot;1990年の四国圏内流動数マップ&quot;&gt;{:.mid}
+&lt;img src=&quot;/assets/images/20150817/traffic_map_1990_四国.png&quot; alt=&quot;1990年の四国圏内流動数マップ&quot; title=&quot;1990年の四国圏内流動数マップ&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;線の太さは流動数が多いほど太くなり、各地域のノードは流入量が多いほど大きくしています。&lt;/p&gt;
 
 &lt;p&gt;1990年当時は、四国圏内からは&lt;strong&gt;岡山県南への流動数&lt;/strong&gt;が最も多く&lt;strong&gt;417万人&lt;/strong&gt;にも達していました。四国圏内だと、&lt;strong&gt;香川東部&lt;/strong&gt;、&lt;strong&gt;香川西部&lt;/strong&gt;、&lt;strong&gt;愛媛：新居浜・西条&lt;/strong&gt;の流入量が200〜300万と比較的多く、続いて&lt;strong&gt;徳島：徳島&lt;/strong&gt;、&lt;strong&gt;愛媛：松山&lt;/strong&gt;が続きます。&lt;/p&gt;
 
-&lt;h2&gt;2010年の流動数マップ&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;2010年の流動数マップ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150817/traffic_map_2010_四国.svg&quot;&gt;
-&lt;img src=&quot;/assets/images/20150817/traffic_map_2010_%E5%9B%9B%E5%9B%BD.png&quot; alt=&quot;2010年の四国圏内流動数マップ&quot; title=&quot;2010年の四国圏内流動数マップ&quot;&gt;{:.mid}
+&lt;img src=&quot;/assets/images/20150817/traffic_map_2010_四国.png&quot; alt=&quot;2010年の四国圏内流動数マップ&quot; title=&quot;2010年の四国圏内流動数マップ&quot; class=&quot;mid&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;2010年になると流動数は大きく変わりました。まず1990年時点で最も多かった&lt;strong&gt;岡山県南への流動数が大幅に減りました&lt;/strong&gt;。その代わりに増えたのが&lt;strong&gt;香川東部&lt;/strong&gt;、&lt;strong&gt;香川西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;です。他にも&lt;strong&gt;新居浜・西条&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;も流動数を大きく増やしています。&lt;/p&gt;
 
 &lt;p&gt;生活圏人口が最も多い愛媛：松山は、流動数は1990年との比較では増加してはいますが、他地域の流動数と比べると若干控えめの印象です。&lt;/p&gt;
 
-&lt;h2&gt;1990年と2010年の比較でわかること&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;1990年と2010年の比較でわかること&lt;/h2&gt;
 
 &lt;p&gt;各項目について、個別に1990年と2010年の数を比較してみました。&lt;/p&gt;
 
-&lt;h3&gt;目的地の流動数の変化&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;目的地の流動数の変化&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150817/comparing_1990_with_2010_dest.png&quot;&gt;
-&lt;img src=&quot;/assets/images/20150817/comparing_1990_with_2010_dest.png&quot; alt=&quot;目的地への流動数の比較(1990年と2010年)&quot; title=&quot;目的地への流動数の比較(1990年と2010年)&quot;&gt;
+&lt;img src=&quot;/assets/images/20150817/comparing_1990_with_2010_dest.png&quot; alt=&quot;目的地への流動数の比較(1990年と2010年)&quot; title=&quot;目的地への流動数の比較(1990年と2010年)&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;まずは、目的地毎の流動数の変化を見てみました。&lt;/p&gt;
@@ -343,21 +384,21 @@
 
 &lt;p&gt;一方で、&lt;strong&gt;岡山県南&lt;/strong&gt;、&lt;strong&gt;大阪：大阪&lt;/strong&gt;、&lt;strong&gt;広島：広島&lt;/strong&gt;といった周辺の都市への流動数は軒並み減少していますが、唯一、&lt;strong&gt;東京：23区&lt;/strong&gt;への移動は微増しています。2015年時点ではLCCの就航もあり、東京へ移動する流れは更に増えていることが予想されます。&lt;/p&gt;
 
-&lt;h3&gt;出発地の出発者数の変化&lt;/h3&gt;
+&lt;h3 id=&quot;section-7&quot;&gt;出発地の出発者数の変化&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/images/20150817/comparing_1990_with_2010_start.png&quot;&gt;
-&lt;img src=&quot;/assets/images/20150817/comparing_1990_with_2010_start.png&quot; alt=&quot;四国圏内の出発地毎の流動数の比較(1990年と2010年)&quot; title=&quot;四国圏内の出発地毎の流動数の比較(1990年と2010年)&quot;&gt;
+&lt;img src=&quot;/assets/images/20150817/comparing_1990_with_2010_start.png&quot; alt=&quot;四国圏内の出発地毎の流動数の比較(1990年と2010年)&quot; title=&quot;四国圏内の出発地毎の流動数の比較(1990年と2010年)&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;他方、四国の各生活圏から他の生活圏に出発する流動数の変化も見てみました。&lt;/p&gt;
 
 &lt;p&gt;ここでも、&lt;strong&gt;香川東部・西部&lt;/strong&gt;、&lt;strong&gt;徳島&lt;/strong&gt;、&lt;strong&gt;高知：中央&lt;/strong&gt;が積極的に外部へ移動しているのがよくわかります。他方、愛媛は新居浜・西条、八幡浜・大洲エリアは増加していますが、&lt;strong&gt;宇和島、今治、松山は逆に減少&lt;/strong&gt;しています。&lt;/p&gt;
 
-&lt;h2&gt;データの視覚化からわかったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;データの視覚化からわかったこと&lt;/h2&gt;
 
 &lt;p&gt;今回のデータ分析（というほどでもないですが）でわかったことを列挙しておきます。&lt;/p&gt;
 
-&lt;h3&gt;四国圏内の全体の相互交流は1990年よりも増えている&lt;/h3&gt;
+&lt;h3 id=&quot;section-9&quot;&gt;四国圏内の全体の相互交流は1990年よりも増えている&lt;/h3&gt;
 
 &lt;p&gt;四国のWikipediaの解説にもあるように、1990年と比べて、2010年は四国圏内の相互交流は増え、近隣大都市への移動が減少していることがわかりました。&lt;/p&gt;
 
@@ -366,17 +407,17 @@
 &lt;p&gt;今回のデータでは、瀬戸大橋、明石海峡大橋の開通時に懸念されていた&lt;strong&gt;ストロー効果&lt;/strong&gt;が顕著であるようには見えませんでしたが、実際にストロー効果が発生していないかどうかは不明です。このあたりは実際の住人の皮膚感覚の方が現実に近いかもしれません。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tokyo_Bay_Aqua-Line.jpg/200px-Tokyo_Bay_Aqua-Line.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-5&quot;&gt;ストロー効果 - Wikipedia&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-favicon&quot;&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tokyo_Bay_Aqua-Line.jpg/200px-Tokyo_Bay_Aqua-Line.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-5&quot;&gt;ストロー効果 - Wikipedia&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-favicon&quot; /&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E5%8A%B9%E6%9E%9C&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;特に香川・徳島は密接な相互交流が行われている&lt;/h3&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;特に香川・徳島は密接な相互交流が行われている&lt;/h3&gt;
 
 &lt;p&gt;流動数マップを見て顕著だったのは&lt;strong&gt;香川・徳島の相互交流が非常に活発である&lt;/strong&gt;ということでした。1990年時点でも交流が活発でしたが、2010年には岡山、神戸という近隣の大都市への流動数を遥かに上回る相互交流が実現されています。&lt;/p&gt;
 
@@ -384,7 +425,7 @@
 
 &lt;p&gt;&lt;strong&gt;香川・徳島、そして高知の三県は、各県の人口減少・商圏縮小が進むに連れて、より相互交流が深まっていくのでは&lt;/strong&gt;という印象を持ちました。&lt;/p&gt;
 
-&lt;h3&gt;松山は人口の割に流動数が少ない&lt;/h3&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;松山は人口の割に流動数が少ない&lt;/h3&gt;
 
 &lt;p&gt;私が住んでいる松山エリアは、1990年に比べて流動数は微増、出発数が減少しているように、他の地域と比較して&lt;strong&gt;松山が四国圏内の相互交流数が少なめ&lt;/strong&gt;という結果は意外でした。&lt;/p&gt;
 
@@ -396,7 +437,7 @@
 
 &lt;p&gt;このあたりは実際に長年暮らしている住人の感想を聞いてみたいところです。&lt;/p&gt;
 
-&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-12&quot;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;国土交通省のデータを分析してみて、四国は自分が想像していた以上に相互交流が活発に行われていることがわかりました。しかし相互交流が進む地域は偏っており、特に松山は人口の割りには相互交流が少ないらしいことも判明しました。&lt;/p&gt;
 
@@ -405,6 +446,7 @@
 &lt;p&gt;自分としては、愛媛：松山に住んでいるということもあり、これまでよりも&lt;strong&gt;松山と他の四国圏内との相互交流を増やすことができたらもっと面白くなるのでは&lt;/strong&gt;と感じました。&lt;/p&gt;
 
 &lt;p&gt;国土交通省の調査は５年毎に行われているようなので2015年度の結果が楽しみです。その時にはまた可視化してみるつもりです。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -413,7 +455,7 @@
    <link href="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought"/>
    <updated>2015-08-13T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought</id>
-   <content type="html">&lt;h2&gt;四国を知らずに移住してきた&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;四国を知らずに移住してきた&lt;/h2&gt;
 
 &lt;p&gt;東京から、愛媛松山に越してきて５年。移住当時の違和感を覚えているうちに記録するシリーズ。&lt;/p&gt;
 
@@ -424,134 +466,229 @@
 &lt;p&gt;その後、沢田マンションを見に高知に行ったりもしましたが、東京からだと直接飛行機で目的地の空港に到着してしまうため、地域間の距離感などまったくわかりません。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/chrome/site/SawamanForEmZero/sawaman_whole.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-5&quot;&gt;沢田マンションに学ぶ&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;高知県にある世界最大級のセルフビルド建築「沢田マンション」を題材にして「いきいきとした」モノ作りの秘訣を探る。&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/chrome/site/SawamanForEmZero/sawaman_whole.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-5&quot;&gt;沢田マンションに学ぶ&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;高知県にある世界最大級のセルフビルド建築「沢田マンション」を題材にして「いきいきとした」モノ作りの秘訣を探る。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/pages/ikitema2/SawamanForEmZero.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;四国と名乗ってみたが。。。&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;四国と名乗ってみたが。。。&lt;/h2&gt;
 
 &lt;p&gt;私は東京でIT技術者コミュニティを運営したり参加したりしていたので、愛媛に移住してからもそういったコミュニティを立ち上げようと思っていました。
 そのため、つけた名前が&lt;a href=&quot;http://agile459.github.io/&quot;&gt;Agile459&lt;/a&gt;（アジャイル四国）でした。当時はまだ四国がどんな感じかも知らないうちに。。。。&lt;/p&gt;
 
-&lt;h2&gt;四国は広い！？&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;四国は広い！？&lt;/h2&gt;
 
 &lt;p&gt;さて、愛媛に移ってきて驚いたのは、四国他県にいくのに時間がかかることでした。
 愛媛県のJR松山駅を朝7:00にスタートして四国他県の県庁所在地の駅と、参考に東京都庁までの移動時間を比較してみました。（高速バスの移動は時刻表はありますが車の時間に準じます）(Google Map調べ）&lt;/p&gt;
 
-&lt;h3&gt;鉄道の場合&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;鉄道の場合&lt;/h3&gt;
 
-&lt;p&gt;|行き先|手段|時間|備考|
-|:---|:---|:---|:---|
-|高松（香川）|鉄道|2時間25分|特急いしづち、07:20発|
-|高知（高知）|鉄道|4時間10分|多度津経由で特急乗り換え。しおかぜ→南風、07:20発|
-|徳島（徳島）|鉄道|4時間05分|高松経由で特急乗り換え。いしづち→うずしお、07:20発|
-|東京（参考）|飛行機|4時間21分|08:20発ジェットスター〜成田空港経由|&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;行き先&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;手段&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;時間&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;備考&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高松（香川）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;鉄道&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2時間25分&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;特急いしづち、07:20発&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知（高知）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;鉄道&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4時間10分&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;多度津経由で特急乗り換え。しおかぜ→南風、07:20発&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島（徳島）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;鉄道&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4時間05分&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高松経由で特急乗り換え。いしづち→うずしお、07:20発&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;東京（参考）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;飛行機&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4時間21分&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;08:20発ジェットスター〜成田空港経由&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_takamatsu_by_train.png&quot; alt=&quot;鉄道で松山〜高松&quot; title=&quot;鉄道で松山〜高松&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_takamatsu_by_train.png&quot; alt=&quot;鉄道で松山〜高松&quot; title=&quot;鉄道で松山〜高松&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_by_train.png&quot; alt=&quot;鉄道で松山〜高知&quot; title=&quot;鉄道で松山〜高知&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_by_train.png&quot; alt=&quot;鉄道で松山〜高知&quot; title=&quot;鉄道で松山〜高知&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_by_train.png&quot; alt=&quot;鉄道で松山〜徳島&quot; title=&quot;鉄道で松山〜徳島&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_by_train.png&quot; alt=&quot;鉄道で松山〜徳島&quot; title=&quot;鉄道で松山〜徳島&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;松山から鉄道を移動手段として使うとすると、実際のところ&lt;strong&gt;高松行き以外は選択肢に入らない&lt;/strong&gt;です。後述する車・高速バスに頼ることになります。&lt;/p&gt;
 
 &lt;p&gt;追記(8/20)：土讃線はディーゼルエンジンなので電車ではないというフィードバックがあったので電車→鉄道に修正しました。下記のサイトを見ると、鉄道事情が各県によって違うのがよくわかります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-5&quot;&gt;四国四兄弟101　四国の鉄道&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-favicon&quot;&gt;www.h6.dion.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-5&quot;&gt;四国四兄弟101　四国の鉄道&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-favicon&quot; /&gt;www.h6.dion.ne.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.h6.dion.ne.jp/~mogura45/o/sikoku/100/101.htm&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;車の場合&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;車の場合&lt;/h3&gt;
 
-&lt;p&gt;|行き先|手段|時間|備考|
-|:-|:-|:-|-:-|
-|高松（香川）|車|2時間〜2時間20分|松山自動車道〜高松自動車道経由|
-|高知（高知）|車|1時間50分〜2時間10分|-|
-|徳島（徳島）|車|2時間20分〜2時間50分|-|
-|東京（参考）|飛行機|4時間21分|08:20発ジェットスター〜成田空港経由|&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;行き先&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;手段&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;時間&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;備考&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高松（香川）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;車&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2時間〜2時間20分&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;松山自動車道〜高松自動車道経由&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;高知（高知）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;車&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1時間50分〜2時間10分&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;徳島（徳島）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;車&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2時間20分〜2時間50分&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;東京（参考）&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;飛行機&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4時間21分&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;08:20発ジェットスター〜成田空港経由&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_takamatsu_by_car.png&quot; alt=&quot;車で松山〜高松&quot; title=&quot;車で松山〜高松&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_takamatsu_by_car.png&quot; alt=&quot;車で松山〜高松&quot; title=&quot;車で松山〜高松&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_by_car.png&quot; alt=&quot;車で松山〜高知&quot; title=&quot;車で松山〜高知&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_by_car.png&quot; alt=&quot;車で松山〜高知&quot; title=&quot;車で松山〜高知&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_by_car.png&quot; alt=&quot;車で松山〜徳島&quot; title=&quot;車で松山〜徳島&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_by_car.png&quot; alt=&quot;車で松山〜徳島&quot; title=&quot;車で松山〜徳島&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;どこに行くにも2時間以上は見ておかないといけません。私のような車の長時間運転が苦手な人間にとっては、2時間程度でも結構苦痛です。大抵は高速バスを使って各拠点に移動します。&lt;/p&gt;
 
-&lt;h2&gt;なぜ鉄道がこれほどまでに遅いのか？&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;なぜ鉄道がこれほどまでに遅いのか？&lt;/h2&gt;
 
 &lt;p&gt;JR四国は四国山脈を避けるように&lt;strong&gt;線路を四国の海岸線に沿って敷設している&lt;/strong&gt;のに対して、高速道路は海岸線ではなく、&lt;strong&gt;トンネルで山を越え拠点と拠点を結んでいる&lt;/strong&gt;ためのようです。またJRは大部分が単線であることも遅い理由のようです。四国は昔から険しい四国山脈を避けて海運が栄えたことも理由の１つでしょう。&lt;/p&gt;
 
 &lt;p&gt;ちなみに、松山から高知に移動する場合は、高速道路も鉄道も、国道のように山中を越えて最短距離でつなぐのではなく、一旦東に移動して、途中から南へ抜けるルートになっています。そのため距離のわりに時間がかかります。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_routes.png&quot; alt=&quot;松山から高知へのルートの違い&quot; title=&quot;松山から高知へのルートの違い&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_kouchi_routes.png&quot; alt=&quot;松山から高知へのルートの違い&quot; title=&quot;松山から高知へのルートの違い&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-5&quot;&gt;四国山脈とは&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-favicon&quot;&gt;www.geocities.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-5&quot;&gt;四国山脈とは&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-favicon&quot; /&gt;www.geocities.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.geocities.jp/kyoketu/sub3.html&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;四国が広いのか、松山が遠いのか？&lt;/h2&gt;
+&lt;h2 id=&quot;section-6&quot;&gt;四国が広いのか、松山が遠いのか？&lt;/h2&gt;
 
 &lt;p&gt;私は松山に住んでいるのでそこからの距離感だと遠いイメージがあるのですが、もしかすると四国の他県からは実はそれほど遠くはないのでは？という仮説を立てて、四県の県庁所在地間の移動時間（乗用車）を調べてみました。&lt;/p&gt;
 
-&lt;p&gt;|出発/目的地|松山|高松|高知|徳島|
-|-:-|-:-|-:-|-:-|-:-|
-|松山| - |2:20|2:10|2:50|
-|高松|2:20| - |2:00|1:40|
-|高知|2:10|2:00| - |2:10|
-|徳島|2:50|1:40|2:10| - |&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;出発/目的地&lt;/th&gt;
+      &lt;th&gt;松山&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;高松&lt;/th&gt;
+      &lt;th&gt;高知&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;徳島&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;松山&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2:20&lt;/td&gt;
+      &lt;td&gt;2:10&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2:50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;高松&lt;/td&gt;
+      &lt;td&gt;2:20&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;-&lt;/td&gt;
+      &lt;td&gt;2:00&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1:40&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;高知&lt;/td&gt;
+      &lt;td&gt;2:10&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2:00&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;2:10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;徳島&lt;/td&gt;
+      &lt;td&gt;2:50&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;1:40&lt;/td&gt;
+      &lt;td&gt;2:10&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;この表にしてみた結果、&lt;strong&gt;松山だけ極端に時間がかかるというわけではない&lt;/strong&gt;ことが確認できました。ただし、他拠点間に比べて若干時間がかかるのは間違いなく、高松〜徳島間の&lt;strong&gt;1時間40分&lt;/strong&gt;と比べると、やはり時間がかかる印象は拭えません。&lt;/p&gt;
 
-&lt;h2&gt;時間がかかるのは当たり前！？&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;時間がかかるのは当たり前！？&lt;/h2&gt;
 
 &lt;p&gt;ここで、関東に四国の距離感を持って行くとどうなるのかを試してみました。くらべ地図というサービスを使って2つの拠点の地図を同縮尺で表示してみました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://kurabe-chizu.info/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://kurabe-chizu.info/&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://kurabe-chizu.info/&quot; class=&quot;bc-5&quot;&gt;くらべ地図&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://kurabe-chizu.info/&quot; class=&quot;bc-favicon&quot;&gt;kurabe-chizu.info&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://kurabe-chizu.info/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://kurabe-chizu.info/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?http://kurabe-chizu.info/&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://kurabe-chizu.info/&quot; class=&quot;bc-5&quot;&gt;くらべ地図&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://kurabe-chizu.info/&quot; class=&quot;bc-favicon&quot; /&gt;kurabe-chizu.info&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://kurabe-chizu.info/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;松山から一番近い高松までの距離を関東に重ねると&lt;strong&gt;筑波から河口湖&lt;/strong&gt;までの距離に相当します。一番時間のかかる松山〜徳島間だと&lt;strong&gt;銚子から箱根&lt;/strong&gt;までの距離に相当します。単に時間がかかるだけでなく&lt;strong&gt;単純に距離が離れている&lt;/strong&gt;ということですね。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_takamatsu.png&quot; alt=&quot;松山〜高松・徳島&quot; title=&quot;松山〜高松・徳島&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_takamatsu.png&quot; alt=&quot;松山〜高松・徳島&quot; title=&quot;松山〜高松・徳島&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_on_kanto.png&quot; alt=&quot;松山〜高松・徳島間を関東に重ねる&quot; title=&quot;松山〜高松・徳島間を関東に重ねる&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150813/matsuyama_to_tokushima_on_kanto.png&quot; alt=&quot;松山〜高松・徳島間を関東に重ねる&quot; title=&quot;松山〜高松・徳島間を関東に重ねる&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;銚子在住の人に「箱根はいいところだから来なよ！」といっても、そりゃなかなか行きづらいよね、ということがよくわかりました。&lt;/p&gt;
 
-&lt;h2&gt;これでも改善された交通事情？&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;これでも改善された交通事情？&lt;/h2&gt;
 
-&lt;p&gt;交通の利便性が高い関東に長年住んでいたので、移動にこれほど時間がかかるのでは四国の相互交流もなかなか進まないのではと考えていたのですが、&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD&quot;&gt;四国のWikipedia&lt;/a&gt;を見ると、次のような一文がありました。&lt;/p&gt;
+&lt;p&gt;交通の利便性が高い関東に長年住んでいたので、移動にこれほど時間がかかるのでは四国の相互交流もなかなか進まないのではと考えていたのですが、&lt;a href=&quot;https://ja.wikipedia.org/wiki/四国&quot;&gt;四国のWikipedia&lt;/a&gt;を見ると、次のような一文がありました。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;かつては、「徳島は近畿（阪・神）を向き、高松は岡山を向き、松山は広島を向き、そして高知は太平洋（または東京）を向いている」と言われ、「四国は一つ一つ」などと風刺されることもあった。しかし、20世紀末から高速道路網の整備によって四国内の相互交流が深まり、21世紀初頭にはそれまで盛んだった本州の都市を凌駕するに至った。&lt;/p&gt;
+  &lt;p&gt;かつては、「徳島は近畿（阪・神）を向き、高松は岡山を向き、松山は広島を向き、そして高知は太平洋（または東京）を向いている」と言われ、「四国は一つ一つ」などと風刺されることもあった。しかし、20世紀末から高速道路網の整備によって四国内の相互交流が深まり、21世紀初頭にはそれまで盛んだった本州の都市を凌駕するに至った。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;四国は高速道路の整備が遅れていたため、以前は国道を使っての移動が中心だったため上記のような状況だったようですが、1990年ごろから整備が進み、四国内の交通事情は以前と比べて大幅に改善され相互交流が深まったそうです。&lt;/p&gt;
@@ -561,23 +698,24 @@
 &lt;p&gt;表だといまいち見辛いので、視覚的に分析してみた結果を&lt;a href=&quot;/2015/08/17/traffic-interchange-in-shikoku-area/&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;として別にまとめました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot;&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://giantech.jp/assets/images/20150817/traffic_map_2010_四国.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-5&quot;&gt;四国内の相互交流量を分析してわかった３つのこと&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;国土交通省が公開している生活圏間流動表をビジュアルにマッピングしてみると、今まで知らなかった四国の姿が見えてきた。四国は本当に相互交流が盛んになってきたのだろうか？松山はどんな感じ？&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-favicon&quot; /&gt;giantech.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-9&quot;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;個人的な印象を元に、四国内の移動時間を調べてみました。&lt;/p&gt;
 
 &lt;p&gt;確かに関東、特に東京近郊と比べるとかかる時間は多いですが、移動時間がかかるということを、それぞれの街ごとの個性・特長や四国内の多様性を保全する機会と捉えることで、むしろ移動時間がかかることもメリットに捉えることができるのではないでしょうか。&lt;/p&gt;
 
 &lt;p&gt;勢いでAgile459という名をつけてしまい後悔したことも多々ありますが、むしろ四国と名乗ったため、四国他県の方々との交流ができたことはよかったと思います。願わくば、AgileXXXが四国他県でもできますように。&lt;/p&gt;
+
 </content>
  </entry>
  

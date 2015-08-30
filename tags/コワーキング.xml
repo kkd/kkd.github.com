@@ -3,7 +3,7 @@
  <title>Your Title - コワーキング</title>
  <link href="http://giantech.jp/tags/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0.xml" rel="self"/>
  <link href="http://giantech.jp/tag/コワーキング.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/コワーキング.html</id>
  <author>
    <name>Author Here</name>
@@ -14,7 +14,7 @@
    <link href="http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012"/>
    <updated>2015-07-23T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012</id>
-   <content type="html">&lt;h2&gt;はじめに&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
 
 &lt;p&gt;コワーキングスペースを商工会議所に説明しに行ったのが2011年。&lt;/p&gt;
 
@@ -26,26 +26,46 @@
 
 &lt;p&gt;これまでの松山のコワーキング事情をふりかえり、これから松山に何が必要とされるのかを考えてみたいと思います。&lt;/p&gt;
 
-&lt;h2&gt;四国のコワーキングスペース事情&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;四国のコワーキングスペース事情&lt;/h2&gt;
 
 &lt;p&gt;7/23現在、Googleで「県名 コワーキングスペース」と検索すると、次のような結果がでました。個人的にはとても驚いたのですが、人口では四国で一番人が多いはずの愛媛県が&lt;strong&gt;ヒット数が一番少ない&lt;/strong&gt;という現実です。&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;|県名|Google ヒット数|
-|---|:---|
-|愛媛|69,200|
-|香川|94,900|
-|徳島|86,900|
-|高知|77,700|&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;県名&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Google ヒット数&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;愛媛&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;69,200&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;香川&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;94,900&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;徳島&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;86,900&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;高知&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;77,700&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;この数字が何を意味しているのか、なぜこうなっているのか、それはまだわかりません。&lt;/p&gt;
 
 &lt;p&gt;個人的にコワーキングスペースには思い入れがあるので、これまでの愛媛（松山）のコワーキングスペース事情をふりかえってみたいと思います。&lt;/p&gt;
 
-&lt;h2&gt;2014年までの松山コワーキング事情&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;2014年までの松山コワーキング事情&lt;/h2&gt;
 
 &lt;p&gt;私が松山に引っ越してきてから一年以上が過ぎた2011年11月に、コワーキングスペースについて商工会議所に説明に行ったことがありました。その頃は、コワーキングという言葉がSNS経由でよく流れてきた時期で、松山に来てから出張続きで知人が少なかった自分が一番コワーキングスペースを利用したいと思っていた頃でした。&lt;/p&gt;
 
@@ -54,14 +74,14 @@
 &lt;p&gt;コワーキングという言葉は使っていませんでしたが、当時からビジネスアシスト四国さんが、起業のためのインキュベーションオフィスを立ち上げていました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://926-4510.jp/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://926-4510.jp/wp-content/uploads/2010/03/8089e50294910c6cb163e5cb54ad137b.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://926-4510.jp/&quot; class=&quot;bc-5&quot;&gt;BAS（ビジネスアシスト四国） 仕事支援塾　起業家・中小企業をしっかりアシスト。&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://926-4510.jp/&quot; class=&quot;bc-favicon&quot;&gt;926-4510.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://926-4510.jp/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://926-4510.jp/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://926-4510.jp/wp-content/uploads/2010/03/8089e50294910c6cb163e5cb54ad137b.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://926-4510.jp/&quot; class=&quot;bc-5&quot;&gt;BAS（ビジネスアシスト四国） 仕事支援塾　起業家・中小企業をしっかりアシスト。&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://926-4510.jp/&quot; class=&quot;bc-favicon&quot; /&gt;926-4510.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://926-4510.jp/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;では、コワーキングスペースとシェアオフィスの違いはなんでしょうか？&lt;/p&gt;
@@ -71,23 +91,23 @@
 &lt;p&gt;個人的に、コワーキングスペースは&lt;strong&gt;コミュニティ運営&lt;/strong&gt;、&lt;strong&gt;オーナーの個性・魅力&lt;/strong&gt;、&lt;strong&gt;インフォーマルなイベント&lt;/strong&gt;が重要な気がしています。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/donate/thumb/c/c8/I-blue.svg/20px-I-blue.svg.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-5&quot;&gt;コワーキング - Wikipedia&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-favicon&quot;&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/donate/thumb/c/c8/I-blue.svg/20px-I-blue.svg.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-5&quot;&gt;コワーキング - Wikipedia&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-favicon&quot; /&gt;ja.wikipedia.org&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;2012年に３箇所オープン&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;2012年に３箇所オープン&lt;/h2&gt;
 
 &lt;p&gt;話を戻して、商工会議所に説明に行ってから、しばらくはコワーキングスペースについては忘れていました。しかし2012年になって、立て続けにコワーキングスペースが松山市内にオープンしていることに気づいたのです。&lt;/p&gt;
 
 &lt;p&gt;個人的に&lt;strong&gt;2012年は松山コワーキング元年&lt;/strong&gt;と位置づけています。&lt;/p&gt;
 
-&lt;h3&gt;たねらぼ&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;たねらぼ&lt;/h3&gt;
 
 &lt;p&gt;国際支援などで活動されているNGO「たねとも」が設立した&lt;strong&gt;たねらぼ&lt;/strong&gt;は、2012年５月にオープンしました。松山城横のロープウェイ街にあって、立地的にはとても良い場所でした。&lt;/p&gt;
 
@@ -97,21 +117,21 @@
 
 &lt;p&gt;ビジネスというよりも、メインのNGOの活動拠点として、地域づくりなどの繋がりをメインとするスペースだったようです。こういったスペースも魅力的だと思うのですが、残念ながら&lt;strong&gt;2014年7月末をもってコワーキング事業は閉鎖されました&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;h3&gt;シトラススペースカンパニー&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;シトラススペースカンパニー&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/citrus.jpg&quot; alt=&quot;シトラス&quot; title=&quot;シトラス&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/citrus.jpg&quot; alt=&quot;シトラス&quot; title=&quot;シトラス&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;松山で２つめのコワーキングスペースだったのが、シトラススペースカンパニー（以下シトラス）でした。こちらは2012年9月にオープンしました。紆余曲折あり完全ドロップインだけの料金体系となり、利用障壁が低かった場所でもあります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://coworking-space.jp/images/coworking-space_titol.gif&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-5&quot;&gt;シトラススペースカンパニー(愛媛県松山市)｜コワーキングスペースjp&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-favicon&quot;&gt;coworking-space.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://coworking-space.jp/images/coworking-space_titol.gif&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-5&quot;&gt;シトラススペースカンパニー(愛媛県松山市)｜コワーキングスペースjp&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-favicon&quot; /&gt;coworking-space.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://coworking-space.jp/ehime/citrus-space.htm&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;私はオープン当初からよく利用していましたし（最初の顧客だったと聞いたことがあります）、&lt;a href=&quot;http://aglie459.github.io&quot;&gt;Agile459&lt;/a&gt;などのコミュニティイベントの会場としても何度も利用させてもらいました。また、ワンコインセミナー（平日夜に500円でのミニ有料セミナー）を毎週開催していたり、台湾のコワーキングスペースと連携したイベントなども開催していました。&lt;/p&gt;
@@ -122,21 +142,21 @@
 
 &lt;p&gt;しかし、こちらもオーナーの事情により、&lt;strong&gt;2014年7月一杯で閉鎖&lt;/strong&gt;されてしまいました。&lt;/p&gt;
 
-&lt;h3&gt;ダイヤモンドクロス&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;ダイヤモンドクロス&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/diamondcross.jpg&quot; alt=&quot;ダイヤモンドクロス&quot; title=&quot;ダイヤモンドクロス&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/diamondcross.jpg&quot; alt=&quot;ダイヤモンドクロス&quot; title=&quot;ダイヤモンドクロス&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;シトラスに遅れること約一ヶ月、2012年10月にオープンした松山の老舗コワーキングスペースです。前述したコワーキングスペースがいずれも2014年夏に惜しまれつつ閉鎖に至りましたが、ダイヤモンドクロスだけは現在も引き続き運営されています。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.d-cross.biz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.d-cross.biz/_src/sc423/logo.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.d-cross.biz/&quot; class=&quot;bc-5&quot;&gt;ダイヤモンドクロス | 愛媛県松山市にあるコワーキングスペース＆シェアオフィス＆ミーティングスペース＆自習スペース&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.d-cross.biz/&quot; class=&quot;bc-favicon&quot;&gt;www.d-cross.biz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.d-cross.biz/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.d-cross.biz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.d-cross.biz/_src/sc423/logo.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.d-cross.biz/&quot; class=&quot;bc-5&quot;&gt;ダイヤモンドクロス | 愛媛県松山市にあるコワーキングスペース＆シェアオフィス＆ミーティングスペース＆自習スペース&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.d-cross.biz/&quot; class=&quot;bc-favicon&quot; /&gt;www.d-cross.biz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.d-cross.biz/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;スペースの名前の由来となっている&lt;strong&gt;ダイヤモンドクロス&lt;/strong&gt;とは、伊予鉄道郊外電車と路面電車の線路が交差して信号待ちをするという場所のことです。ダイヤモンドクロス現象を見ることが出来る日本で数少ないスポットです。&lt;/p&gt;
@@ -152,27 +172,27 @@
 &lt;p&gt;また室節さんは、EVN(愛媛ベンチャーネットワーキング）の運営にも携わっており、県内起業家ネットワークとのコネクションも多数お持ちです。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://ehimevn.info&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;https://ehimevn.info/system/wp-content/uploads/2015/06/nophoto.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://ehimevn.info&quot; class=&quot;bc-5&quot;&gt;愛媛の起業・創業支援団体｜EHIME VENTURE NETWORKING【EVN】&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;EHIME VENTURE NETWORKINGのサイトです。&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://ehimevn.info&quot; class=&quot;bc-favicon&quot;&gt;ehimevn.info&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://ehimevn.info&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://ehimevn.info&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;https://ehimevn.info/system/wp-content/uploads/2015/06/nophoto.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://ehimevn.info&quot; class=&quot;bc-5&quot;&gt;愛媛の起業・創業支援団体｜EHIME VENTURE NETWORKING【EVN】&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;EHIME VENTURE NETWORKINGのサイトです。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://ehimevn.info&quot; class=&quot;bc-favicon&quot; /&gt;ehimevn.info&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://ehimevn.info&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;EVNとは別に、ダイヤモンドクロスを拠点として毎週月曜に開催されている起業家支援コミュニティであるS-CROWDを共同主催しています。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://s-crowd.net/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://s-crowd.net/wp-content/uploads/2015/05/logo23.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://s-crowd.net/&quot; class=&quot;bc-5&quot;&gt;S-CROWD(エスクラウド)｜愛媛の起業・創業支援コミュニティ | 愛媛に起業が生まれる環境と企業が成長する仕組みを整備するのが使命です｜S-CROWD&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://s-crowd.net/&quot; class=&quot;bc-favicon&quot;&gt;s-crowd.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://s-crowd.net/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://s-crowd.net/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://s-crowd.net/wp-content/uploads/2015/05/logo23.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://s-crowd.net/&quot; class=&quot;bc-5&quot;&gt;S-CROWD(エスクラウド)｜愛媛の起業・創業支援コミュニティ | 愛媛に起業が生まれる環境と企業が成長する仕組みを整備するのが使命です｜S-CROWD&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://s-crowd.net/&quot; class=&quot;bc-favicon&quot; /&gt;s-crowd.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://s-crowd.net/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;これらの背景もあり、ダイヤモンドクロスは&lt;strong&gt;起業したい人たち（年齢問わず）の駆け込み寺的な場所&lt;/strong&gt;になりつつあります。実際、ダイヤモンドクロス・S-CROWDから、いくつものビジネスアイデアが実際に事業化され巣立って行っています。&lt;/p&gt;
@@ -180,31 +200,31 @@
 &lt;p&gt;現在、注目しているのは松山のローカルヒーローである&lt;strong&gt;マツヤマンプロジェクト&lt;/strong&gt;です。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.matsuyaman.xyz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.matsuyaman.xyz/wp-content/themes/onetone/images/down.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.matsuyaman.xyz/&quot; class=&quot;bc-5&quot;&gt;マツヤマン【公式】 | 愛媛県松山市のローカルヒーロー&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.matsuyaman.xyz/&quot; class=&quot;bc-favicon&quot;&gt;www.matsuyaman.xyz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.matsuyaman.xyz/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.matsuyaman.xyz/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.matsuyaman.xyz/wp-content/themes/onetone/images/down.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.matsuyaman.xyz/&quot; class=&quot;bc-5&quot;&gt;マツヤマン【公式】 | 愛媛県松山市のローカルヒーロー&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.matsuyaman.xyz/&quot; class=&quot;bc-favicon&quot; /&gt;www.matsuyaman.xyz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.matsuyaman.xyz/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/matsuyaman.jpg&quot; alt=&quot;マツヤマン&quot; title=&quot;マツヤマン&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150723/matsuyaman.jpg&quot; alt=&quot;マツヤマン&quot; title=&quot;マツヤマン&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;後発のコーワキングスペース&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;後発のコーワキングスペース&lt;/h2&gt;
 
-&lt;h3&gt;ソーシャルオフィス プログレッソ&lt;/h3&gt;
+&lt;h3 id=&quot;section-8&quot;&gt;ソーシャルオフィス プログレッソ&lt;/h3&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--dckn2bkq0mydwc5h.com/website/wp-content/themes/mgm/images/contact2.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-5&quot;&gt;プログレッソ松山｜松山市にあるコワーキングスペースとシェアオフィスの融合オフィス&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-favicon&quot;&gt;xn--dckn2bkq0mydwc5h.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://xn--dckn2bkq0mydwc5h.com/website/wp-content/themes/mgm/images/contact2.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-5&quot;&gt;プログレッソ松山｜松山市にあるコワーキングスペースとシェアオフィスの融合オフィス&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-favicon&quot; /&gt;xn--dckn2bkq0mydwc5h.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://xn--dckn2bkq0mydwc5h.com/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;こちらは、松山で不動産を本業とする&lt;a href=&quot;http://www.3puku.co.jp/&quot;&gt;三福ホールディングス&lt;/a&gt;さんが経営している、ソーシャルオフィスです。2013年から設立されており、現在は松山市内に３店舗立ち上がっています。個室のオフィスとコワーキング的な共有スペースのオフィスがあり、選んで利用することができます。&lt;/p&gt;
@@ -212,42 +232,42 @@
 &lt;p&gt;三福さんはソーシャルマンションというコンセプトのマンションも打ち出しており、新しい事業に積極的に取り組む不動産会社というイメージがあります。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.3puku.co.jp/social&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.3puku.co.jp/sanpukuwp/wp-content/themes/mgm/images/logo.gif&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.3puku.co.jp/social&quot; class=&quot;bc-5&quot;&gt;ソーシャルマンション｜シェアマンションやシェアハウスとは違う楽しみ♪ | 愛媛県松山市賃貸・不動産・賃貸マンションの部屋探しは三福綜合不動産におまかせ！&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.3puku.co.jp/social&quot; class=&quot;bc-favicon&quot;&gt;www.3puku.co.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.3puku.co.jp/social&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.3puku.co.jp/social&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.3puku.co.jp/sanpukuwp/wp-content/themes/mgm/images/logo.gif&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.3puku.co.jp/social&quot; class=&quot;bc-5&quot;&gt;ソーシャルマンション｜シェアマンションやシェアハウスとは違う楽しみ♪ | 愛媛県松山市賃貸・不動産・賃貸マンションの部屋探しは三福綜合不動産におまかせ！&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.3puku.co.jp/social&quot; class=&quot;bc-favicon&quot; /&gt;www.3puku.co.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.3puku.co.jp/social&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;プログレッソはセキュリティ完備で２４時間出入り自由です。そのため特に「夜型作業がメイン」という方に向いているかもしれません。こちらはドロップインはないため、ふらっと立ち寄る利用はできません。&lt;/p&gt;
 
-&lt;h3&gt;マツヤマンスペース&lt;/h3&gt;
+&lt;h3 id=&quot;section-9&quot;&gt;マツヤマンスペース&lt;/h3&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://ehime.in&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://ehime.in/wordpress/wp-content/uploads/2015/06/teaser.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://ehime.in&quot; class=&quot;bc-5&quot;&gt;マツヤマンスペース&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;松山市駅徒歩30秒のコワーキングスペース&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://ehime.in&quot; class=&quot;bc-favicon&quot;&gt;ehime.in&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://ehime.in&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://ehime.in&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://ehime.in/wordpress/wp-content/uploads/2015/06/teaser.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://ehime.in&quot; class=&quot;bc-5&quot;&gt;マツヤマンスペース&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;松山市駅徒歩30秒のコワーキングスペース&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://ehime.in&quot; class=&quot;bc-favicon&quot; /&gt;ehime.in&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://ehime.in&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;2015年7月から新しくオープンしたのが&lt;strong&gt;マツヤマンスペース&lt;/strong&gt;です。大阪の「オオサカンスペース」と提携しており、大阪出張が多い人には便利だそうです。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://www.osakan-space.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.osakan-space.com/wp_osakan/wp-content/themes/osakan/images/osakan_ogp.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.osakan-space.com/&quot; class=&quot;bc-5&quot;&gt;大阪のコワーキングスペース : Osakan Space (オオサカンスペース) : 本町駅すぐ御堂筋沿い&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;電源とWi-Fiなどを完備した新しい形の会員制オフィス。40坪（106平米、40席）開放的で、明るくて、アットホームな空間です。時間や場所に縛られず、楽しくて自由な、成長できる環境で仕事をしたい人が集まっています。相談相手・仲間・刺激を求めてくる方や勉強できる場所・第二の仕事場所・起業のためなど用途は様々です。&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.osakan-space.com/&quot; class=&quot;bc-favicon&quot;&gt;www.osakan-space.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.osakan-space.com/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://www.osakan-space.com/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://www.osakan-space.com/wp_osakan/wp-content/themes/osakan/images/osakan_ogp.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://www.osakan-space.com/&quot; class=&quot;bc-5&quot;&gt;大阪のコワーキングスペース : Osakan Space (オオサカンスペース) : 本町駅すぐ御堂筋沿い&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;電源とWi-Fiなどを完備した新しい形の会員制オフィス。40坪（106平米、40席）開放的で、明るくて、アットホームな空間です。時間や場所に縛られず、楽しくて自由な、成長できる環境で仕事をしたい人が集まっています。相談相手・仲間・刺激を求めてくる方や勉強できる場所・第二の仕事場所・起業のためなど用途は様々です。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://www.osakan-space.com/&quot; class=&quot;bc-favicon&quot; /&gt;www.osakan-space.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://www.osakan-space.com/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.chuokaikei.co.jp/&quot;&gt;中央会計&lt;/a&gt;さん、会社設立などの手続きを格安でサポートする&lt;a href=&quot;http://www.firstep.jp/&quot;&gt;First Step&lt;/a&gt;さんが運営しているため、月額プラン（7800円）には経理サポート（月１回）が含まれているのが特長です。&lt;/p&gt;
@@ -257,17 +277,17 @@
 &lt;p&gt;注：オープン最初の週に早くもレポートがanywherさんに上がっていました。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://anywher.net/wp-content/uploads/2015/01/anywher_logo_b01.png&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-5&quot;&gt;松山のコワーキングスペース マツヤマンスペース | anywher&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-favicon&quot;&gt;anywher.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://anywher.net/wp-content/uploads/2015/01/anywher_logo_b01.png&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-5&quot;&gt;松山のコワーキングスペース マツヤマンスペース | anywher&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-favicon&quot; /&gt;anywher.net&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://anywher.net/2015/07/ehimein/&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;これまでをふりかえってみて&lt;/h2&gt;
+&lt;h2 id=&quot;section-10&quot;&gt;これまでをふりかえってみて&lt;/h2&gt;
 
 &lt;p&gt;これまで松山でコワーキングスペースが苦戦していた理由としては、そういった&lt;em&gt;コワーキングという言葉・ワークスタイルに魅了を感じる人が少ない&lt;/em&gt;という事実もあるのではないかと感じます。&lt;/p&gt;
 
@@ -283,7 +303,7 @@
 
 &lt;p&gt;コワーキングスペースオーナーでもない筆者に細かな分析はできませんが、いずれにせよ、松山でコワーキングスペースが生まれてからまだ３年です。これからが地域におけるコワーキングスペースの真価が問われる時期だと思います。&lt;/p&gt;
 
-&lt;h2&gt;松山コワーキング事情まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-11&quot;&gt;松山コワーキング事情まとめ&lt;/h2&gt;
 
 &lt;p&gt;2011年からコワーキングスペースが松山に欲しいと思い、実際に2012年からコワーキングスペースを使ってきていて感じるのは、コワーキングスペースとは単に場所を貸すだけの場所ではなく、そこで人と人、アイデアとアイデア、スキルとスキル、ビジネスとビジネスが繋がり、新しいものが生み出されていくという創発スペースであることが重要であるということです。&lt;/p&gt;
 
@@ -295,22 +315,23 @@
 
 &lt;p&gt;今後も、松山のコワーキングシーンで頑張っている方々を応援しつつ、自分も当事者として関与していきたいと思います。&lt;/p&gt;
 
-&lt;h2&gt;追記(7/23)&lt;/h2&gt;
+&lt;h2 id=&quot;section-12&quot;&gt;追記(7/23)&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://marketing-v.biz/&quot;&gt;マーケティング・ヴァンガード&lt;/a&gt;さんが、2014年5月に松山のコワーキングスペースについてまとめ記事を書かれていました。ビジネスアシスト四国さんを利用されているそうで、雰囲気はレンタルオフィスというよりコワーキングスペースに近いそうです。&lt;/p&gt;
 
 &lt;p&gt;他にも、&lt;a href=&quot;http://yume.d-fuctory.com/office/&quot;&gt;夢叶えシェアオフィス&lt;/a&gt;さんや、愛媛県、今治市、新居浜市、西条市などの自治体が提供しているインキュベーション施設への言及もあり参考になります。特に起業を目指してオフィスを検討している方は参考にするとよいと思います。&lt;/p&gt;
 
 &lt;div class=&quot;bc-1&quot;&gt;
-    &lt;div class=&quot;bc-2&quot;&gt;
-        &lt;a href=&quot;http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://marketing-v.biz/wp-content/uploads/2014/05/0411screen.jpg&quot; class=&quot;bc-4&quot;&gt;&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-5&quot;&gt;《起業家向け》 愛媛のレンタルオフィス・コワーキングスペース | 顧客獲得のための戦略的WEBマーケティング｜マーケティング・ヴァンガード&lt;/a&gt;&lt;/p&gt;
-    &lt;p class=&quot;bc-6&quot;&gt;以前書いたレンタルオフィス・コワーキングスペースの記事ですが、コワーキングスペースを1件追加しましたので再度ご紹介します。 起業したい、と考えたときに悩みのひとつがオフィスをどうするか、という問題です。 自宅をオフィスとする人が多いですが、小さい子供がいる場合など自宅で仕事をするには不向きな環境である場合もあります。 そんなときに便利なのがレンタルオフィスやコワーキングスペースといったオフィスの一部を借りて、自分のオフィスとして使用する、という方法です。 インキュベー&lt;/p&gt;
-    &lt;div class=&quot;bc-7&quot;&gt;
-        &lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-favicon&quot;&gt;marketing-v.biz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-hatebu&quot;&gt;&lt;/p&gt;
-    &lt;/div&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://marketing-v.biz/wp-content/uploads/2014/05/0411screen.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-5&quot;&gt;《起業家向け》 愛媛のレンタルオフィス・コワーキングスペース | 顧客獲得のための戦略的WEBマーケティング｜マーケティング・ヴァンガード&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;以前書いたレンタルオフィス・コワーキングスペースの記事ですが、コワーキングスペースを1件追加しましたので再度ご紹介します。 起業したい、と考えたときに悩みのひとつがオフィスをどうするか、という問題です。 自宅をオフィスとする人が多いですが、小さい子供がいる場合など自宅で仕事をするには不向きな環境である場合もあります。 そんなときに便利なのがレンタルオフィスやコワーキングスペースといったオフィスの一部を借りて、自分のオフィスとして使用する、という方法です。 インキュベー&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-favicon&quot; /&gt;marketing-v.biz&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://marketing-v.biz/categolies/1318&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
+
 </content>
  </entry>
  

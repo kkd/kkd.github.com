@@ -3,7 +3,7 @@
  <title>Your Title - agile459</title>
  <link href="http://giantech.jp/tags/agile459.xml" rel="self"/>
  <link href="http://giantech.jp/tag/agile459.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/agile459.html</id>
  <author>
    <name>Author Here</name>
@@ -14,7 +14,8 @@
    <link href="http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459"/>
    <updated>2015-03-01T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459</id>
-   <content type="html">&lt;h2&gt;デザインスプリントってなんだろう？&lt;/h2&gt;
+   <content type="html">
+&lt;h2 id=&quot;section&quot;&gt;デザインスプリントってなんだろう？&lt;/h2&gt;
 
 &lt;p&gt;2015/03/01に&lt;a href=&quot;http://agile459.github.io&quot;&gt;Agile459&lt;/a&gt;にて、デザインスプリントを体験するワークショップを開催してみた。&lt;/p&gt;
 
@@ -24,56 +25,52 @@
 
 &lt;p&gt;最初は&lt;a href=&quot;http://www.slideshare.net/takaumada/design-sprint&quot;&gt;公開されている資料&lt;/a&gt;を読み合うくらいにしようと思ったが、恐らく参加者も自分もピンとこないか、わかったつもりになるので、実際に試すことをを中心にワークを考えてみた。主催側なので自分は参加するというより、ファシリテートに専念することにした。&lt;/p&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/45294031&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/45294031&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
 &lt;p&gt;最初のトピック選択が非常に重要なのだが、今回はトピック選択の部分は、解決したいテーマ選択という形にした。今回の場合、実際のワークを始めてから、内容を検討したところ問題解決に画面が不要だと判断してテーマを変えるというアクシデントがあった。これは改善が必要なところ。。。&lt;/p&gt;
 
 &lt;p&gt;ワークについては、&lt;a href=&quot;http://www.slideshare.net/yukio.andoh/html5-conference-2015-design-sprint&quot;&gt;安藤さんのデザインスプリント風ワーク&lt;/a&gt;を参考にしようとしたが、結局&lt;a href=&quot;http://www.slideshare.net/takaumada/design-sprint-process&quot;&gt;馬田さんのデザインスプリントのプロセス資料&lt;/a&gt;や、&lt;a href=&quot;http://www.gv.com/sprint/&quot;&gt;オリジナル記事&lt;/a&gt;から辿れるブログを参考にしてみた。計算上は３日分のワークをできると思っっていたが、説明などもあり２日分でさすがに時間が尽きたのはご愛嬌。&lt;/p&gt;
 
-&lt;h2&gt;やってみたら案外できた！？&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;やってみたら案外できた！？&lt;/h2&gt;
 
 &lt;p&gt;タイムボックスによって漸進＆高速にフィードバックループを回す重要性と、そのために個人ワークを中心に置くという発想は、思ったよりもずっとしっくり来た。特に&lt;a href=&quot;http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard&quot;&gt;CrazyEights&lt;/a&gt;は &lt;strong&gt;5分で8画面をスケッチする&lt;/strong&gt;(1画面につき40秒) という非常にタイトなワーク。今回は二周してみたがそれでも1画面につき80秒で時間を計って「はい、次」とどんどん先に進むというプレッシャーがある。それでも全員なんとか画面のデザインできてたのに驚いた。&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109062494/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109062494/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;（Crazy Eights中）&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16730162791/in/set-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16730162791/in/set-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;（ストーリーボード作成中）&lt;/p&gt;
 
 &lt;p&gt;デザインスプリントは主にUI/UXに関しての実験が目的なのでコードは基本書かない。そのため、どんなロールの人でも全工程参加しやすいというメリットがある。「UXデザイナにおまかせ」という役割分担ではなく、
 関係者全員の頭を使ってUXを検討していくという姿勢はスクラムぽさを感じた。(スプリントだしね)&lt;/p&gt;
 
-&lt;p&gt;今回は時間の都合上、本来なら５日間のうち２日間かけてやるプロセスを、２時間くらいに凝縮した。かなり無理があったのだが、それでも時間を区切って進めることで、思ったよりもずっとできることがわかった。（参加者視点だとまた違う印象があるかもしれないけど...)&lt;/p&gt;
+&lt;p&gt;今回は時間の都合上、本来なら５日間のうち２日間かけてやるプロセスを、２時間くらいに凝縮した。かなり無理があったのだが、それでも時間を区切って進めることで、思ったよりもずっとできることがわかった。（参加者視点だとまた違う印象があるかもしれないけど…)&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16705480606/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16705480606/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;（投票のための説明中）&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109068564/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109068564/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;（投票結果）&lt;/p&gt;
 
-&lt;h2&gt;問題に対するアプローチの違い&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;問題に対するアプローチの違い&lt;/h2&gt;
 
 &lt;p&gt;デザインスプリントの問題意識としては&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;アイデアの質を高めるためのグループワークは時間がかかりがち&lt;/li&gt;
-&lt;li&gt;グループワークの成功はよいファシリテート依存する&lt;/li&gt;
-&lt;li&gt;個人ワーク中心に進めれば進行は早いがアイデアの質を高めるのは困難&lt;/li&gt;
-&lt;li&gt;エッジなアイデアはグループワークの中で排除されがち&lt;/li&gt;
+  &lt;li&gt;アイデアの質を高めるためのグループワークは時間がかかりがち&lt;/li&gt;
+  &lt;li&gt;グループワークの成功はよいファシリテート依存する&lt;/li&gt;
+  &lt;li&gt;個人ワーク中心に進めれば進行は早いがアイデアの質を高めるのは困難&lt;/li&gt;
+  &lt;li&gt;エッジなアイデアはグループワークの中で排除されがち&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;というものがあり、その解決策として、デザインスプリントは&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;個人ワークを中心とした最低限のグループワーク&lt;/li&gt;
-&lt;li&gt;厳格なタイムボックスによる時間制約&lt;/li&gt;
-&lt;li&gt;フィードバックループによるアイデアの洗練&lt;/li&gt;
-&lt;li&gt;素早い意思決定プロセス（投票と責任者による決定）&lt;/li&gt;
-&lt;li&gt;最終日のユーザー検証に駆動されるゴール駆動&lt;/li&gt;
+  &lt;li&gt;個人ワークを中心とした最低限のグループワーク&lt;/li&gt;
+  &lt;li&gt;厳格なタイムボックスによる時間制約&lt;/li&gt;
+  &lt;li&gt;フィードバックループによるアイデアの洗練&lt;/li&gt;
+  &lt;li&gt;素早い意思決定プロセス（投票と責任者による決定）&lt;/li&gt;
+  &lt;li&gt;最終日のユーザー検証に駆動されるゴール駆動&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;という手法をとったのだろう。&lt;/p&gt;
@@ -86,11 +83,11 @@
 
 &lt;p&gt;デザインスプリントを行うのであれば、根底にある &lt;strong&gt;いくら時間をかけてアイデアについて話し合ったり作っても、結局はユーザーに使ってもらわないとわからない。仮説に過ぎない。&lt;/strong&gt; という不確実性についての問題意識を共有できていないといけないだろう。&lt;/p&gt;
 
-&lt;h2&gt;画面中心の弊害？&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;画面中心の弊害？&lt;/h2&gt;
 
 &lt;p&gt;とはいえ、疑問に感じたこともある。画面中心で考えるため、&lt;strong&gt;そもそも解決したい問題はなにか？&lt;/strong&gt;というそもそも論が置いておかれてしまう傾向があるのかもしれない。&lt;/p&gt;
 
-&lt;p&gt;参加者の気づきでも「デザインした内容が、直接&amp;quot;解決したい課題&amp;quot;と繋がっていない感じ」という意見があった。(といっても、こちらのワークの進め方の問題だった可能性が高いが)&lt;/p&gt;
+&lt;p&gt;参加者の気づきでも「デザインした内容が、直接”解決したい課題”と繋がっていない感じ」という意見があった。(といっても、こちらのワークの進め方の問題だった可能性が高いが)&lt;/p&gt;
 
 &lt;p&gt;デザインをする対象のコンセプトやビジネスモデルが明らかになっていることが前提であり、その上でデザイン上の課題についてデザインスプリントを実施する必要がある。そうでなければ、デザインスプリントを実施しても表面上のデザイン検証に陥ってしまうのかもしれない。&lt;/p&gt;
 
@@ -98,11 +95,10 @@
 
 &lt;p&gt;また、最初に選択するトピックによっては、5日間という時間制約はそのままに、異なるプロセスを実施する必要があるとも感じた。&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109069394/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16109069394/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;（ふりかえり）&lt;/p&gt;
 
-&lt;h2&gt;もっと短くてもいいかも？&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;もっと短くてもいいかも？&lt;/h2&gt;
 
 &lt;p&gt;今回は、２時間で２日分を詰め込むというかなり強引なワークを実施したが、これをやって思ったのは、１〜２日でやりきるデザインスプリントを一週間で複数回繰り返してみたらどうか？ということだった。もちろん、プロトタイプ作成が大変かもしれないし、ユーザー検証の人数は減ってしまうが、案外いけるかもしれない。よくあるアイデアソンやハッカソンのように、２日間１セットでのプロセスデザインを試してみたいと思った。&lt;/p&gt;
 
@@ -110,7 +106,8 @@
 
 &lt;p&gt;そして、無茶ぶりワークに参加してくれた皆さん、ありがとうございました〜。&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16545270629/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/16545270629/in/album-72157651188881521/player/&quot; width=&quot;320&quot; height=&quot;240&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
 </content>
  </entry>
  
@@ -119,15 +116,17 @@
    <link href="http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime"/>
    <updated>2013-05-26T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime</id>
-   <content type="html">&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
 
 &lt;p&gt;AMの本会場のUst中継は問題なく見れましたし内容も凄くよかった。前日のツィートで「フラジャイルジャパン」と流れていた理由がよくわかりましたw&lt;/p&gt;
 
-&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです...)&lt;/p&gt;
+&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです…)&lt;/p&gt;
 
-&lt;h2&gt;オープニングにて&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;オープニングにて&lt;/h2&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
 &lt;p&gt;オープニングでは、最近個人的な関心事である地方におけるアジャイルのあり方について考えを話しました。地方においては、単に「開発をアジャイルに！」というのでは幸せになれないのではという問題提起です。理由としては、地方ではITの市場規模は限られているため、単に開発のやり方を変えるだけではインパクトが弱いこと、仮に今の受託の流れをアジャイルな契約にして実現しても、地場には仕事がなく、東京に仕事を探しにいかなければならないことが挙げられます。私の松山の知人も東京に長期出張に行っていたり、会社を変わってみたものの結局前の職場に常駐して仕事している、というような話を聞きます。&lt;/p&gt;
 
@@ -141,9 +140,10 @@
 
 &lt;p&gt;また「地方」と一括りにするのも無理があります。個々の地域がそれぞれの文脈の元に行動しなければなりません。私も愛媛という地域でその真っ只中で行動していきます。そんな思いをオープニングで話しました。&lt;/p&gt;
 
-&lt;h2&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
 &lt;p&gt;ワークショップでは、「アジャイル開発をデザインする」というタイトルで内容を組みました。更に「パタンランゲージを使って」という制約を設けていましたが、パタンとはなんぞや、という話をする時間もなかったのでそこは省略してワークだけ進めました。&lt;/p&gt;
 
@@ -160,7 +160,7 @@
 
 &lt;p&gt;このワークも改善して、別の機会に実施できるようにしておきたいですね。&lt;/p&gt;
 
-&lt;h2&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
 
 &lt;p&gt;今回、四国・愛媛サテライトでは、全コンテンツを独自で提供できた点がひっそりと嬉しいことでした。最初のサテライト開催では、東京から森田さんに助っ人にきてもらいました。昨年の開催では、岡山、広島からの発表がありました。今回はすべて愛媛にゆかりのある人たちの発表でした！ 内容については &lt;a href=&quot;http://d.hatena.ne.jp/ogin_s57/20130526/1369588527&quot;&gt;@ogin_s57さんのブログ&lt;/a&gt;に詳しいです。&lt;/p&gt;
 

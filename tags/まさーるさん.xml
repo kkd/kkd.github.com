@@ -3,7 +3,7 @@
  <title>Your Title - まさーるさん</title>
  <link href="http://giantech.jp/tags/%E3%81%BE%E3%81%95%E3%83%BC%E3%82%8B%E3%81%95%E3%82%93.xml" rel="self"/>
  <link href="http://giantech.jp/tag/まさーるさん.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/まさーるさん.html</id>
  <author>
    <name>Author Here</name>
@@ -14,9 +14,10 @@
    <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident"/>
    <updated>2015-04-25T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot;/&gt;&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;&lt;img src=&quot;/assets/images/masarl-eyecatch.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;あれから10年&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;あれから10年&lt;/h2&gt;
 
 &lt;p&gt;毎年、この時期になると、ニュースでキーワードを目にして思い出す。&lt;/p&gt;
 
@@ -38,7 +39,7 @@
 
 &lt;p&gt;まさーるさんの友人が公開していたミラーサイトがない今、このようにメモリアル記事が書けるのも、この10年間ずっとまさーるコンテンツを閲覧可能にしてくれている&lt;a href=&quot;http://www.objectclub.jp&quot;&gt;オブラブ&lt;/a&gt;の皆さんのおかげだ。改めて感謝の気持ちを伝えたいです。（そして、取り扱いにくい形でデータを残してしまってごめんなさい…）&lt;/p&gt;
 
-&lt;h2&gt;自分にできること&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;自分にできること&lt;/h2&gt;
 
 &lt;p&gt;実は、まさーるさんと会って話した回数はそれほどはない。それはまさーるさんが関西にお住まいだったためであり、何かイベントで上京される時のタイミングの時だったからだ。&lt;/p&gt;
 
@@ -46,7 +47,7 @@
 
 &lt;p&gt;自分も今は愛媛在住で、東京にいる時ほど多くの人たちと出会うこともなくなってきた。だからこそ、人との出会いを大事にして行きたいし、自分にできることがあれば誰かの役に立ちたいと思う。いつ誰かの役に立つかわからないけど、これまで学んできたことを、いろいろ書き残しておきたいとも思う。&lt;/p&gt;
 
-&lt;h2&gt;15年を越えて…組織パターン&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;15年を越えて…組織パターン&lt;/h2&gt;
 
 &lt;p&gt;まさーるさんの記事群の中に、&lt;a href=&quot;http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/org-process-pattern.html&quot;&gt;組織パターンのコンテンツ&lt;/a&gt;がある。この記事は1999年に書かれたものだ。&lt;/p&gt;
 
@@ -56,7 +57,7 @@
 
 &lt;p&gt;組織パターンの著者の一人であるJames. O. Coplien氏は、2010年のアレグザンダー祭り以降、毎年日本に来てくれている。TDD否定派の彼とまさーるさんを引きあわせたらどんな議論がされるのだろう？穏やかにかつ的確にCopeと議論をするまさーるさんを想像するとちょっと楽しい。&lt;/p&gt;
 
-&lt;h2&gt;if…&lt;/h2&gt;
+&lt;h2 id=&quot;if&quot;&gt;if…&lt;/h2&gt;
 
 &lt;p&gt;まさーるさんは、福知山線事故の2005年以降に、日本でもアジャイル特にスクラムが浸透してきたこと、RoRがブームを通り越して世界で最も使われるWebフレームワークの１つになったこと、Githubを中心にソーシャルコーディングのスタイルがメインになったこと、AsianPLoPが毎年開催され日本で第二次パターンコミュニティが形成されていること、などなど、この10年の変化は知るはずもない。&lt;/p&gt;
 
@@ -66,7 +67,7 @@
 
 &lt;p&gt;今頃、草葉の陰で「プログラマにとっていい時代になりましたね。僕もソーシャルコーディングしたい！」と言ってる気がする。&lt;/p&gt;
 
-&lt;h2&gt;人はいつか死ぬ&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;人はいつか死ぬ&lt;/h2&gt;
 
 &lt;p&gt;人は死して何を残すのだろう？ まさーるさんが亡くなってから、そういうことを徐々に考えるようになった。&lt;/p&gt;
 
@@ -78,7 +79,7 @@
 
 &lt;p&gt;ということだ。&lt;/p&gt;
 
-&lt;h2&gt;タイムボックスをどう生きるか&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;タイムボックスをどう生きるか&lt;/h2&gt;
 
 &lt;p&gt;人生という名のタイムボックスは、厄介なことに終わりの予測がつかない。最大サイズはある程度予測できるが、どこで終了となるかは予測できないのだ。&lt;/p&gt;
 
@@ -87,20 +88,21 @@
 &lt;p&gt;きっと、後悔ないように、日々を精一杯・充実して生きることこそが、唯一のできることではなかろうか。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
-&lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
-&lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
-&lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
-&lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
+  &lt;li&gt;「〜しなければならない」でなく「自分で〜することを選ぶ」と決めて進む&lt;/li&gt;
+  &lt;li&gt;自分にとって「本当に大事なこと」に注力する&lt;/li&gt;
+  &lt;li&gt;関わる人に対して、心の底から「ありがとう」と伝える&lt;/li&gt;
+  &lt;li&gt;心と体、仕事と家庭と趣味のバランスをとり続ける&lt;/li&gt;
+  &lt;li&gt;うまくいく・うまくいかない自分を丸ごと受け入れる&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;うまくいかないことも多いけど、人生というタイムボックスの終わりまで、楽しく、精一杯生きていこう。&lt;/p&gt;
 
-&lt;h2&gt;番外&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;番外&lt;/h2&gt;
 
 &lt;p&gt;「まさーるさん没後ちょうど10年だから何かしようよ」と声をかけて、乗ってくれたのが&lt;a href=&quot;http://t-wada.hatenablog.jp&quot;&gt;t-wada&lt;/a&gt;さんでした。&lt;a href=&quot;http://t-wada.hatenablog.jp/entry/masarl-memories&quot;&gt;彼のエントリ&lt;/a&gt;はきっちり4/25にアップされたのだけど、それを見ないで（影響受けてしまいたくない）この記事を書きました。&lt;/p&gt;
 
 &lt;p&gt;t-wadaさんらしく、素晴らしいエントリでした。&lt;/p&gt;
+
 </content>
  </entry>
  

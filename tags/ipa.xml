@@ -3,7 +3,7 @@
  <title>Your Title - ipa</title>
  <link href="http://giantech.jp/tags/ipa.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ipa.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/ipa.html</id>
  <author>
    <name>Author Here</name>
@@ -14,7 +14,8 @@
    <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
    <updated>2014-03-20T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
-   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+   <content type="html">
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;3/19に、&lt;a href=&quot;http://goo.gl/E9inDE&quot;&gt;仙台にお呼ばれ&lt;/a&gt;して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の&lt;a href=&quot;http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131&quot;&gt;ガイダンス&lt;/a&gt;です。&lt;/p&gt;
 
@@ -31,11 +32,11 @@
 &lt;p&gt;最後に少し話をさせてもらったのですが、「自分たちの現場も、反復漸進的に進めて、顧客に早期に見てもらおう」と決意してプロセスを変えることは、それ自体は素晴しい前進です。しかしすぐに次の壁にぶちあたるはずです。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない...&lt;/li&gt;
-&lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない...&lt;/li&gt;
-&lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない...&lt;/li&gt;
-&lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない...&lt;/li&gt;
-&lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない...&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない…&lt;/li&gt;
+  &lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない…&lt;/li&gt;
+  &lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;結局の所、&lt;strong&gt;何かを変えても、次の壁に必ずぶち当り、それらをひとつひとつ越えて行かなければ、本当に目指すべき所には辿りつけない&lt;/strong&gt; です。価値あるソフトウェアを漸進的に作りあげていくように、&lt;strong&gt;チームも組織も少しづつ漸進的に改善して成長し続けることを選択&lt;/strong&gt;しなければ、志し半ばで挫けてしまうでしょう。&lt;/p&gt;

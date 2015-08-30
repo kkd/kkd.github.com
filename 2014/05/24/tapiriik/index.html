@@ -154,11 +154,12 @@
 </div>
 					</div>
 					<br/>
-					<h2>概要</h2>
+					
+<h2 id="section">概要</h2>
 
 <p>各種運動アクティビティサービスの記録データを同期化するサービス<a href="http://tapiriik.com">tapiriik</a>を使うと<a href="http://runkeeper.com/">Runkeeper</a>や<a href="http://strava.com">STRAVA</a>などの同様サービス間でワークアウトログが同期できる。特にSUUNTのスポーツウォッチを使っている人にはお勧め。</p>
 
-<h2>背景</h2>
+<h2 id="section-1">背景</h2>
 
 <p>2012/05からランニングを始めてもう2年が経った。
 はじめの頃は、3km走った翌日は筋肉痛で階段の上り下りが辛かったほどだったが、積み重ねるうちに、フルマラソンを走れるような体になった。</p>
@@ -171,8 +172,7 @@
 
 <p>となると、Web上でのデータ管理とSNSへの共有の窓口という扱いになるが、実はSUUNTO社の製品は運動ログをPCに接続した後で自社のサービスである <a href="http://movescount.com/">MovesCount</a>に自動的に転送しており、そこでもワークアウトの管理はできる。</p>
 
-<h2>問題</h2>
-
+<h2 id="section-2">問題</h2>
 <p>これまで二年間のワークアウトログがあるので、メインの管理ツールはRunkeeperにしたい。</p>
 
 <p>MovesCountに登録されたデータ(GPXを手動でダウンロードしてRunkeeperに登録していたが、MovesCountからダウンロードしたGPXをRunkeeperに登録しても、HR(心拍数)データがちゃんと登録されない。</p>
@@ -181,16 +181,16 @@
 
 <p><strong>Runkeeperにある過去データを含めて一元管理した上で、日々のワークログをMovesCountからSTRAVAのように簡単にRunkeeperに同期したいが手動でやるには面倒である。</strong></p>
 
-<h2>考慮すべき点</h2>
+<h2 id="section-3">考慮すべき点</h2>
 
 <ul>
-<li>MovesCountのGPXデータには心拍数データも登録してあるはずだが、Runkeeperに登録すると反映されない</li>
-<li>STRAVAに転送されたワークログをGPXにしてから手動でRunkeeperに取込むとペースがおかしくなる。</li>
-<li>RunkeeperとSTRAVAのどっちをメインにしようか迷っている</li>
-<li>少なくともMovesCount以外のサービスを使いたい。</li>
+  <li>MovesCountのGPXデータには心拍数データも登録してあるはずだが、Runkeeperに登録すると反映されない</li>
+  <li>STRAVAに転送されたワークログをGPXにしてから手動でRunkeeperに取込むとペースがおかしくなる。</li>
+  <li>RunkeeperとSTRAVAのどっちをメインにしようか迷っている</li>
+  <li>少なくともMovesCount以外のサービスを使いたい。</li>
 </ul>
 
-<h2>解決策</h2>
+<h2 id="section-4">解決策</h2>
 
 <p>tapiriikは、そんなファンランナーの悩みを解消してくれるサービスだ。各サービス間でアクティビティデータを同期してくれる。自分の場合は MovesCount -&gt; STRAVA -&gt; Runkeeper という流れになるので、MovesCountからSTRAVAへ同期されている日々のログをRunkeeperと同期することになる。</p>
 
@@ -198,13 +198,14 @@
 
 <p>自分の場合は2年のデータだったので、同期自体にかなりの時間がかかったが、一度同期してしまえば後は差分でOKなのでものの数秒で終わる。自動同期は<strong>年間$2</strong>でよいそうだ！手間をかけたくない人は払ってしまえばよい。というよりむしろtapiriikを基本無償で公開してくれている作者への寄付として払ってしまおう。(僕は払いました)。</p>
 
-<h2>結果</h2>
+<h2 id="section-5">結果</h2>
 
 <p>ストレスがなくなった。そして実はRunkeeperに登録しているすべてのアクティビティログを同期によってSTRAVAに移すことができたので、メインサービス自体をRunkeeperからSTRAVAに移行することにした。</p>
 
 <p>基本はSTRAVAからfacebookにシェアできるようになって、ランニングライフがより充実した。</p>
 
 <p>同じような悩みを持つ方は是非お試しください。</p>
+
 
 					<div class="meta">
 						<p class="date-publish">

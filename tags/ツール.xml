@@ -3,7 +3,7 @@
  <title>Your Title - ツール</title>
  <link href="http://giantech.jp/tags/%E3%83%84%E3%83%BC%E3%83%AB.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ツール.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/ツール.html</id>
  <author>
    <name>Author Here</name>
@@ -14,21 +14,21 @@
    <link href="http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github"/>
    <updated>2015-05-21T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150521/sns.jpg&quot; alt=&quot;Eyecatch&quot;/&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150521/sns.jpg&quot; alt=&quot;Eyecatch&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;きっかけ&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;きっかけ&lt;/h2&gt;
 
 &lt;p&gt;このサイトは&lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt;ベースでテンプレートを生成した後、カスタマイズしたものをGithub Pagesに置いて公開していた。&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;単体では標準ではOGPに対応しておらず、プラグインもなさげだったので、OGP非対応のまま数年が過ぎていた。当初はあまり気にしていなかったが、さすがにこのままでは格好悪いよね、ということでOGP対応に取り組むことにした。&lt;/p&gt;
 
-&lt;h2&gt;参考にしたサイト&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;参考にしたサイト&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://kawaken.github.io/memo/2013/08/30/OGP%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%8BSNS%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F.html&quot;&gt;OGPの設定とかSNS関係のところ修正した&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://gist.github.com/pathawks/1406355&quot;&gt;Open Graph for Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.agilegroup.co.jp/technote/magnolia-ogp.html&quot;&gt;WebサイトにOpen Graph Protocol (OGP) 設定を追加する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kawaken.github.io/memo/2013/08/30/OGP%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%8BSNS%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%A8%E3%81%93%E3%82%8D%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%9F.html&quot;&gt;OGPの設定とかSNS関係のところ修正した&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/pathawks/1406355&quot;&gt;Open Graph for Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.agilegroup.co.jp/technote/magnolia-ogp.html&quot;&gt;WebサイトにOpen Graph Protocol (OGP) 設定を追加する&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;やったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;やったこと&lt;/h2&gt;
 
 &lt;p&gt;上記のサイトのスニペットをベースに、トップページの場合と、各記事の場合の２パターンで、それぞれog:type、og:image、og:descriptionの内容を切り換えるように設定した。&lt;/p&gt;
 
@@ -37,50 +37,58 @@
 &lt;p&gt;最初はogp.html内でif文書いてケース分けしていたが、かなり見苦しいので、各ケースをextract fileしてogp.htmlではincludeだけするようにした。&lt;/p&gt;
 
 &lt;p&gt;ogp.html:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;meta property=&amp;quot;og:type&amp;quot; content=&amp;quot;{% include ogp/type.html %}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;og:url&amp;quot; content=&amp;quot;{{ site.url }}{{ page.url }}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;og:description&amp;quot; content=&amp;quot;{% include ogp/desc.html %}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;og:site_name&amp;quot; content=&amp;quot;{{ site.title }}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;og:title&amp;quot; content=&amp;quot;{% include ogp/title.html %}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;og:image&amp;quot; content=&amp;quot;{% include ogp/image.html %}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;article:published_time&amp;quot; content=&amp;quot;{% include ogp/date.html %}&amp;quot; /&amp;gt;
-&amp;lt;meta property=&amp;quot;article:author&amp;quot; content=&amp;quot;http://www.facebook.com/{{ site.author.facebook }}&amp;quot; /&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta property=&quot;og:type&quot; content=&quot;{% include ogp/type.html %}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;og:url&quot; content=&quot;{{ site.url }}{{ page.url }}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;og:description&quot; content=&quot;{% include ogp/desc.html %}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;og:site_name&quot; content=&quot;{{ site.title }}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;og:title&quot; content=&quot;{% include ogp/title.html %}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;og:image&quot; content=&quot;{% include ogp/image.html %}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;article:published_time&quot; content=&quot;{% include ogp/date.html %}&quot; /&amp;gt;
+&amp;lt;meta property=&quot;article:author&quot; content=&quot;http://www.facebook.com/{{ site.author.facebook }}&quot; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;p&gt;ogp/image.html(実際には改行は含めていない):&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% if page.image %}
+
+&lt;pre&gt;&lt;code&gt;{% if page.image %}
     {% capture page_image %}{{ page.image }}{% endcapture %}
 {% else %}
-    {% capture page_image %}{{ site.url }}/assets/logo.png&amp;quot;{% endcapture %}
+    {% capture page_image %}{{ site.url }}/assets/logo.png&quot;{% endcapture %}
 {% endif %}
 {{ page_image }}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;p&gt;ogp/type.html(実際には改行は含めていない):&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;{% if page.title == site.title %}
+
+&lt;pre&gt;&lt;code&gt;{% if page.title == site.title %}
     {% capture page_type %}website{% endcapture %}
 {% else %}
     {% capture page_type %}article{% endcapture %}
 {% endif %}
 {{ page_type }}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;ついでにTwitterCard&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;twittercard&quot;&gt;ついでにTwitterCard&lt;/h2&gt;
 
 &lt;p&gt;元々はOGP対応だけしようと思っていたが、ついでにTwitterCardにも対応した。OGPのインクルードファイルを利用して以下のように記載。&lt;/p&gt;
 
 &lt;p&gt;twittercard.html:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&amp;lt;meta name=&amp;quot;twitter:card&amp;quot; content=&amp;quot;summary&amp;quot;&amp;gt;
-&amp;lt;meta name=&amp;quot;twitter:site&amp;quot; content=&amp;quot;@kkd&amp;quot;&amp;gt;
-&amp;lt;meta name=&amp;quot;twitter:title&amp;quot; content=&amp;quot;{% include ogp/title.html %}&amp;quot;&amp;gt;
-&amp;lt;meta name=&amp;quot;twitter:url&amp;quot; content=&amp;quot;{{ site.url }}{{ page.url }}&amp;quot;&amp;gt;
-&amp;lt;meta name=&amp;quot;twitter:description&amp;quot; content=&amp;quot;{% include ogp/desc.html  %}&amp;quot;&amp;gt;
-&amp;lt;meta name=&amp;quot;twitter:image&amp;quot; content=&amp;quot;{% include ogp/image.html %}&amp;quot;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;キャッシュが残っていて困った&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:site&quot; content=&quot;@kkd&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:title&quot; content=&quot;{% include ogp/title.html %}&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:url&quot; content=&quot;{{ site.url }}{{ page.url }}&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:description&quot; content=&quot;{% include ogp/desc.html  %}&quot;&amp;gt;
+&amp;lt;meta name=&quot;twitter:image&quot; content=&quot;{% include ogp/image.html %}&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;キャッシュが残っていて困った&lt;/h2&gt;
 
 &lt;p&gt;既にfb上で投稿した記事については、FacebookのDebuggerで確認してもOGP対応されて表示されなかったし、デバッガ上でFetch new scrape informationをしても駄目。半ば諦めていたが、POST送信によるキャッシュクリアを試してみたらクリアできたみたいで一安心。以下のサイトからできた。&lt;/p&gt;
 
 &lt;p&gt;http://www.kagua.biz/fb/cacheclear.html&lt;/p&gt;
 
-&lt;h2&gt;感想&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;感想&lt;/h2&gt;
 
 &lt;p&gt;もう少しスマートにできる気もするが、まぁ今の時点ではOGP対応ができればよかったので満足。&lt;/p&gt;
 
@@ -88,11 +96,12 @@
 
 &lt;p&gt;しかし、こういうことをしていると、どんどん&lt;a href=&quot;https://github.com/Shopify/liquid/wiki&quot;&gt;Liquid&lt;/a&gt;を活用したくなってしまうが、こういったTemplate系の実装は黒魔術になりそうなのであまり手出しはしたくない。&lt;/p&gt;
 
-&lt;h2&gt;おまけ&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;おまけ&lt;/h2&gt;
 
 &lt;p&gt;この記事にJekyllのテンプレート部分をコードブロックで埋め込んだが、どうもLiquid記法の部分がエスケープされずに置換されてしまっていたためうまく表示できなかった。&lt;/p&gt;
 
 &lt;p&gt;LiquidでRawフォーマットで表示するには、rawタグで囲む必要があるので気をつけよう。&lt;a href=&quot;http://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags&quot;&gt;How to escape liquid tempalte tags&lt;/a&gt;を参照のこと。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -101,7 +110,8 @@
    <link href="http://giantech.jp/2013/04/01/little-by-little"/>
    <updated>2013-04-01T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/01/little-by-little</id>
-   <content type="html">&lt;p&gt;Jekyllもよくわからない状態で使いはじめたけど、だんだんわかってきた。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;Jekyllもよくわからない状態で使いはじめたけど、だんだんわかってきた。&lt;/p&gt;
 
 &lt;p&gt;JekyllBootstrapをqベースに使っているのだけど、rake postでタイトルをつける時に日本後のタイトルが駄目なのは残念だなぁ。&lt;/p&gt;
 
@@ -117,7 +127,8 @@
    <link href="http://giantech.jp/2013/03/27/restart-blogging"/>
    <updated>2013-03-27T09:00:00+09:00</updated>
    <id>http://giantech.jp/2013/03/27/restart-blogging</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://giantech.jp/blog&quot;&gt;いきてま3&lt;/a&gt;が死んでしまって数ヶ月、やっと復活することにしました。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;&lt;a href=&quot;http://giantech.jp/blog&quot;&gt;いきてま3&lt;/a&gt;が死んでしまって数ヶ月、やっと復活することにしました。&lt;/p&gt;
 
 &lt;p&gt;ただ、&lt;strong&gt;いきてま3&lt;/strong&gt;のblogに使っていたTracが起動しなくなってしまったのでどうしようかと思案していました。周りでよく見かける hatenablogとか使おうと思ったけど、
 &lt;strong&gt;Github + jekyll&lt;/strong&gt;を使ったら？というアドバイスを @haradakiroとか@kdmsnrにもらったのでおもいきってやってみることにしました。&lt;/p&gt;
@@ -126,7 +137,7 @@
 
 &lt;p&gt;githubなんで、記事についての&lt;strong&gt;pull request&lt;/strong&gt;とかあると面白いかなぁ。&lt;/p&gt;
 
-&lt;p&gt;...と思って、記事にgithubのリポジトリへのリンクを貼りたいなと思ったけど
+&lt;p&gt;…と思って、記事にgithubのリポジトリへのリンクを貼りたいなと思ったけど
 今の自分の知識では綺麗に簡単にできないっぽいので、やっつけで実現しました。
 Sourceのリンクから一応辿れます。ただ面倒ですかね。&lt;/p&gt;
 </content>

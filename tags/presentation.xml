@@ -3,7 +3,7 @@
  <title>Your Title - presentation</title>
  <link href="http://giantech.jp/tags/presentation.xml" rel="self"/>
  <link href="http://giantech.jp/tag/presentation.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/presentation.html</id>
  <author>
    <name>Author Here</name>
@@ -16,11 +16,11 @@
    <id>http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38768205&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
+&lt;h2 id=&quot;xp&quot;&gt;XP祭りの講演に人が来てくれました！&lt;/h2&gt;
 
 &lt;p&gt;「XPEの参考文献を紹介する」というマニアなネタで、本気で人が集まらないかもなと危惧していたのですが、結構な人数の方が集まってくれました。会場のほとんどが私のことを知っている方だったので、皆優しい人ばかりだなと思いました。聞いてくださってありがとうございました。&lt;/p&gt;
 
-&lt;h2&gt;参考文献多すぎw&lt;/h2&gt;
+&lt;h2 id=&quot;w&quot;&gt;参考文献多すぎw&lt;/h2&gt;
 
 &lt;p&gt;今回のために、XPE1st, XPE2ndの参考文献をざーっと眺めたり集計をしてみて、その量の多さや、読んでいない本がまだまだ沢山あることに気づきました。（参考文献のリストとコメントは1st、2nd共に一覧に中途半端にまとめているので、全部埋めてからそのうちどこかにアップします）&lt;/p&gt;
 
@@ -28,13 +28,13 @@
 
 &lt;p&gt;特にマンガ学とディズニーアニメーションは手に入れたい。&lt;/p&gt;
 
-&lt;h2&gt;リベンジしたいなぁ&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;リベンジしたいなぁ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/m_seki&quot;&gt;@m_seki&lt;/a&gt;に「マインドマップまではよかったけど途中から長すぎ」とフィードバックをもらいました。自分でもうまく整理できていなかった感があるので、もう少し短くして整理してから、どこかで再演する機会を頂ければいいなぁと思ってます。&lt;/p&gt;
 
 &lt;p&gt;特に&lt;a href=&quot;http://twitter.com/hiranabe&quot;&gt;@hiranabe&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/amapyon&quot;&gt;@amapyon&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/kakutani&quot;&gt;@kakutani&lt;/a&gt;、&lt;a href=&quot;http://twitter.com/fkino&quot;&gt;@fkino&lt;/a&gt;の永和XP厨の人たちには聞いてもらいたいです。&lt;/p&gt;
 
-&lt;h2&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
+&lt;h2 id=&quot;xpe&quot;&gt;やっぱりXPEは良い本だ&lt;/h2&gt;
 
 &lt;p&gt;もう何回読んだのか忘れましたが、読む度に毎回発見があるこの本は、人生を変えたという意味でも、自分を見直すきっかけをくれるという意味でも、本当に素敵だなぁと思います。いつかオレゴンのケントの農場のヤギの痒い所をカキカキしにいきたい。&lt;/p&gt;
 </content>
@@ -45,37 +45,35 @@
    <link href="http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;今日、&lt;a href=&quot;http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014/&quot;&gt;XP祭り2014で白本の参考文献について話してきます&lt;/a&gt;というエントリを書いたのですが、これだけではさっぱり人が集まりそうもないので、もう少し補足したいと思います。&lt;/p&gt;
 
-&lt;h2&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
-
+&lt;h2 id=&quot;kent-beck&quot;&gt;Kent Beckの珠玉の解説！&lt;/h2&gt;
 &lt;p&gt;大抵の参考文献は、章末や巻末に論文のリファレンスよろしく、署名、著者名、出版年、出版社が羅列されているだけでしょう。&lt;/p&gt;
 
 &lt;p&gt;白本の文献リストは、各文献毎にKentのコメントが付いています。一行コメントの場合もあれば、複数行に渡るものもある。読者はこのコメントを読むことで、その本がどのような影響をXPに与えたかがより詳しくわかります。&lt;/p&gt;
 
 &lt;p&gt;といっても、なかなかコメントだけではピンとこないことも事実。このあたりを&lt;strong&gt;当日の講演の中で大幅に補足します&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;h2&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
-
+&lt;h2 id=&quot;section&quot;&gt;幅広いジャンルから選りすぐりの名著！&lt;/h2&gt;
 &lt;p&gt;XPの参考文献といえば、ソフトウェアエンジニアリング、プロジェクトマネジメント系の書籍が思い浮かぶと思いますが、白本の参考文献は、それら専門領域以外の文献を多く掲載している点にあります。哲学、態度、プロセス、システム、人、コミュニケーション技法、などなど。&lt;/p&gt;
 
 &lt;p&gt;XPの奥深さは、&lt;em&gt;Kentの多方面からの学び、それらを組み合わせて、ソフトウェア開発に応用している&lt;/em&gt;点にあるのではないかと考えています。&lt;/p&gt;
 
 &lt;p&gt;当日の講演ではこれら&lt;strong&gt;多方面の学びの関係性&lt;/strong&gt;についても注目したいと考えています。&lt;/p&gt;
 
-&lt;h2&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
+&lt;h2 id=&quot;xp&quot;&gt;XPの矮小化されたイメージを覆したい&lt;/h2&gt;
+&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用)&lt;/p&gt;
 
-&lt;p&gt;たまにネットを徘徊していると、このような図を見ることがあります。(henrik氏のblogから借用) &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.crisp.se/henrikkniberg/images/Lean-Agile-Scrum-XP.gif&quot; alt=&quot;&quot; title=&quot;Lean-Agile-Scrum-XP&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;私はXPを&lt;em&gt;開発プラクティスの集合体&lt;/em&gt;と考えている人々に対し、これらの&lt;strong&gt;XPの矮小化されたイメージを覆したい&lt;/strong&gt;と考えています。そのための一つの手段として、&lt;strong&gt;参考文献を語る&lt;/strong&gt;ことを選ぶのです。&lt;/p&gt;
 
-&lt;h2&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;ほら、聞きたくなったでしょう！？&lt;/h2&gt;
 
-&lt;p&gt;...そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
+&lt;p&gt;…そんなことないですかね。まぁ、物好きな方は是非聞きに来てください。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -84,20 +82,18 @@
    <link href="http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;XP祭り2014で講演することになりました&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h2&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
-
+&lt;h2 id=&quot;section&quot;&gt;早稲田でぼくとあくしゅ&lt;/h2&gt;
 &lt;p&gt;2010年以降、XP祭りは一度しか参加してなかったのですが、今回セッションの公募があったのでエイヤと出したら通ったので、話をしに&lt;a href=&quot;http://xpjug.com/xp2014-session-c6/&quot;&gt;早稲田に行ってきます&lt;/a&gt;。話す内容は、長年どこかで取り上げたいと考えていた&lt;strong&gt;白本参考文献&lt;/strong&gt;についてです。&lt;/p&gt;
 
 &lt;p&gt;このネタは2011年のXP祭りで平鍋さんが&lt;a href=&quot;http://blogs.itmedia.co.jp/hiranabe/2011/09/xp-festival-x.html&quot;&gt;既にされている&lt;/a&gt;のですが、平鍋さんの解説では含まれていなかった本なども含めて私が影響を受けた本の内容、XPの関係、XPについてのより深い洞察などを&lt;strong&gt;俺の観点&lt;/strong&gt;でお伝えします。&lt;/p&gt;
 
 &lt;p&gt;先ほど参考文献のリストを再度眺めまてみましたが、まだまだ読んでいない本もありますね。あと3年くらいは楽しめるんじゃないかと期待していますｗ 裏番組が強力すぎて人が本当に来るのか怪しいですが、&lt;strong&gt;XPの本質に迫る&lt;/strong&gt;ことを目指しXP好きにはたまらない内容にしたいなぁと考えています。&lt;/p&gt;
 
-&lt;h2&gt;XPはファッションなのか？&lt;/h2&gt;
-
+&lt;h2 id=&quot;xp&quot;&gt;XPはファッションなのか？&lt;/h2&gt;
 &lt;p&gt;講演概要を書いていて改めて気づいたのですが、白本の邦訳版が出版されてから&lt;strong&gt;14年&lt;/strong&gt;、二版の邦訳版が出版されてもうすぐ&lt;strong&gt;9年&lt;/strong&gt;が経とうとしています。もうずいぶん昔の話ですね。&lt;/p&gt;
 
 &lt;p&gt;テクノロジーの世界は進化が早く、どんどん新しい技術が生まれて、古いものは忘れ去られていきます。エンジニアリングの分野においても、&lt;em&gt;言葉の流行が、エンジニアリング（engineering; 工学および技術活動）の一分野というよりファッション業界のようだ。&lt;/em&gt;(SEMAT.jpより)とも言われる時代です。&lt;/p&gt;
@@ -106,9 +102,10 @@
 
 &lt;p&gt;ちょうど、今回は咳さんが&lt;a href=&quot;http://xpjug.com/xp2014-session-a3/&quot;&gt;XPの話をする&lt;/a&gt;そうなので楽しみです。&lt;/p&gt;
 
-&lt;h3&gt;追記&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;追記&lt;/h3&gt;
 
 &lt;p&gt;これだけだと全然人が集まらない気がしたので、追加でエントリを書いてみました。 → &lt;a href=&quot;http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014/&quot;&gt;あなたがXP祭り2014でこのセッションを選ぶべき３つの理由&lt;/a&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -117,7 +114,8 @@
    <link href="http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010"/>
    <updated>2014-04-18T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010</id>
-   <content type="html">&lt;h3&gt;本編&lt;/h3&gt;
+   <content type="html">
+&lt;h3 id=&quot;section&quot;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;先日4/16に、DevLOVE名義で4年振りくらいに登壇させて頂きました。&lt;/p&gt;
 
@@ -129,7 +127,7 @@
 
 &lt;p&gt;地方をテーマにするのは、今年の１月のSGT2014での&lt;a href=&quot;http://www.slideshare.net/kkd/ss-30030229&quot;&gt;Open Jam&lt;/a&gt;以来です。このテーマは昨年からAgile459でも話題にしており、私の中ではホットなテーマの１つです。&lt;/p&gt;
 
-&lt;p&gt;もしかしたら、リモートワークの仕方について知りたい人が集まっていたのかもしれませんが、その辺りを期待されていたら申し訳なかったです。(最後にちょっとだけお話しましたが、ネットにもっと役立つ情報がありますね...)&lt;/p&gt;
+&lt;p&gt;もしかしたら、リモートワークの仕方について知りたい人が集まっていたのかもしれませんが、その辺りを期待されていたら申し訳なかったです。(最後にちょっとだけお話しましたが、ネットにもっと役立つ情報がありますね…)&lt;/p&gt;
 
 &lt;p&gt;話の半分以上は、私のプライベートな話をしてました。移住のきっかけ、悩み、職探し、価値観に基づくワークスタイルの転換、仲間づくり、ネットワークづくり、ローカルでの活動の意味、などなど。資料を作り込むのではなく、話のきっかけ程度のキーワードの羅列で進めたので資料はUPしません。&lt;/p&gt;
 
@@ -138,31 +136,32 @@
 &lt;p&gt;話の内容については素晴しいレポートがあるのでそこからなんとなく類推してみてください。(若干ニュアンスが違って理解されている部分もありますが、いちいち訂正はしませんw)&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://araratakeshi.blogspot.jp/2014/04/devlove.html?&quot;&gt;勉強会参加メモ：DevLOVE「とあるアジャイル実践者の愛媛での話」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://suzukima.hatenablog.com/entry/2014/04/17/001959&quot;&gt;DevLOVE「とあるアジャイル実践者の愛媛での話」参加メモ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://derabon.com/2014/04/16/devlove-%E3%81%A8%E3%81%82%E3%82%8B%E6%84%9B%E5%AA%9B%E7%9C%8C%E3%81%AE%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/&quot;&gt;DEVLOVE- とある愛媛県の実践者に参加してきました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://araratakeshi.blogspot.jp/2014/04/devlove.html?&quot;&gt;勉強会参加メモ：DevLOVE「とあるアジャイル実践者の愛媛での話」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://suzukima.hatenablog.com/entry/2014/04/17/001959&quot;&gt;DevLOVE「とあるアジャイル実践者の愛媛での話」参加メモ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://derabon.com/2014/04/16/devlove-%E3%81%A8%E3%81%82%E3%82%8B%E6%84%9B%E5%AA%9B%E7%9C%8C%E3%81%AE%E5%AE%9F%E8%B7%B5%E8%80%85%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/&quot;&gt;DEVLOVE- とある愛媛県の実践者に参加してきました&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;話の冒頭の質問については下記を参考にしてください。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.homes.co.jp/chintai/price/&quot;&gt;全国の賃貸物件の家賃相場の検索サイト&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;www.stat.go.jp/data/e-census/2012/pdf/gaiyo.pdf&quot;&gt;情報処理通信業の県別従事者数と売上高(総務省「平成24年経済センサス‐活動調査」)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.homes.co.jp/chintai/price/&quot;&gt;全国の賃貸物件の家賃相場の検索サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;www.stat.go.jp/data/e-census/2012/pdf/gaiyo.pdf&quot;&gt;情報処理通信業の県別従事者数と売上高(総務省「平成24年経済センサス‐活動調査」)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;地方への移住に関しては、以下のサイトが参考になると思います。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.iju-join.jp/&quot;&gt;ニッポン移住・交流ナビ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iju-join.jp/&quot;&gt;ニッポン移住・交流ナビ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt;懇親会&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;懇親会&lt;/h3&gt;
 
 &lt;p&gt;あの後、近くのパブで、愛媛県西条市出身、愛媛県西条に移住予定、熊本県に移住予定、京都→神奈川→千葉在住という方々と地方移住談義をしてきました。話は更に国外についても拡がり盛り上りました。このテーマでワールドカフェとかやるといろいろ面白いでしょうね。&lt;/p&gt;
 
 &lt;p&gt;会場に来て頂いた皆さんが、&lt;strong&gt;自分の大事にすることを見つめて、その人なりの素晴しい人生が送れる&lt;/strong&gt;ようになりますように。私もそうあるように精進します。このような機会を作って頂いた市谷さん、ありがとうございました。&lt;/p&gt;
 
 &lt;p&gt;2010年からのNext Decadeはまだまだ道半ば。いきいきとした未来を作るために、色々なものを総動員して、これからも走ります(比喩としても、リアルランとしても)〜。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -171,7 +170,8 @@
    <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
    <updated>2014-03-20T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
-   <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+   <content type="html">
+&lt;iframe src=&quot;https://www.flickr.com/photos/kakeda/13393361643/in/set-72157642879658644/player/&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;3/19に、&lt;a href=&quot;http://goo.gl/E9inDE&quot;&gt;仙台にお呼ばれ&lt;/a&gt;して、IPAのアジャイルプラクティスリファレンスガイドのセミナーをしてきました。私の担当分は、これまでのセミナーの時と変わらず、「なぜこのガイドができたのか？どう読めがよいか」の&lt;a href=&quot;http://www.slideshare.net/kkd/agile-practicereferenceguideintro20140131&quot;&gt;ガイダンス&lt;/a&gt;です。&lt;/p&gt;
 
@@ -188,11 +188,11 @@
 &lt;p&gt;最後に少し話をさせてもらったのですが、「自分たちの現場も、反復漸進的に進めて、顧客に早期に見てもらおう」と決意してプロセスを変えることは、それ自体は素晴しい前進です。しかしすぐに次の壁にぶちあたるはずです。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない...&lt;/li&gt;
-&lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない...&lt;/li&gt;
-&lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない...&lt;/li&gt;
-&lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない...&lt;/li&gt;
-&lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない...&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーがスプリント毎にReadyのPBLが用意できない…&lt;/li&gt;
+  &lt;li&gt;短期間では成果(動作可能なテスト済みのソフトウェア)を見せることができない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めたいが、テストを書くスキルがなくてスピードが上がらない…&lt;/li&gt;
+  &lt;li&gt;TDDで進めているものの、CIでREDになったテストを修正しきれていない…&lt;/li&gt;
+  &lt;li&gt;成果は出せても、真の顧客からのフィードバックがもらえない…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;結局の所、&lt;strong&gt;何かを変えても、次の壁に必ずぶち当り、それらをひとつひとつ越えて行かなければ、本当に目指すべき所には辿りつけない&lt;/strong&gt; です。価値あるソフトウェアを漸進的に作りあげていくように、&lt;strong&gt;チームも組織も少しづつ漸進的に改善して成長し続けることを選択&lt;/strong&gt;しなければ、志し半ばで挫けてしまうでしょう。&lt;/p&gt;
@@ -210,25 +210,26 @@
    <link href="http://giantech.jp/2013/06/27/pfp-workshop"/>
    <updated>2013-06-27T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/06/27/pfp-workshop</id>
-   <content type="html">&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;2013/06/26にPFP関東にお呼ばれして講演及びワークショップを実施してきました。&lt;/p&gt;
 
 &lt;p&gt;元々の発端としては、fb経由で&lt;a href=&quot;https://twitter.com/kussy_y&quot;&gt;くっしー&lt;/a&gt;こと串田さんに、こんなことをお願いされたのがきっかけでした。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&amp;quot;わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“わたしとしては、懸田版「プロジェクトファシリテーション」なのよね。平鍋さんの定番スライドみたいな内容を、かけちゃんならこう話す！っていうのかな。同じスライドでも、オリジナルでも。平鍋さんと一緒にPFをまとめた人として認知されてる側面を出してもらえると嬉しい。”&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;それを受けての僕の回答は、&lt;/p&gt;
 
-&lt;p&gt;&amp;quot;&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;&amp;quot;&lt;/p&gt;
+&lt;p&gt;“&lt;strong&gt;ありがとう。佐賀県庁の事例の話を、今日松山の人から聞くような時代なのよね、今は。僕と平鍋さんの新幹線の中でのブレストが時間と空間を越えて今に繋がっている、という壮大なストーリーを話したいな(多分タイトル負けするw)&lt;/strong&gt;”&lt;/p&gt;
 
-&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが...&lt;/p&gt;
+&lt;p&gt;というものでした。実際、そんなに壮大なものにはならなかったですが…&lt;/p&gt;
 
-&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが...)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
+&lt;p&gt;私の話はスライドをみて想像して頂くとして、ワーク(といってもそれほど時間はとれませんでしたが…)の中で出た意見を聞いていて感じたことを書いておきます。&lt;/p&gt;
 
 &lt;p&gt;ワークの中では「アジャイルとPFの違いって何だろう？」ということをグループで考えてもらいました。このような問い掛けの前提としては、PFが発表された当時よりアジャイルが身近になった今の時代に、その違いについて皆がどう捉えているかが知りたかったからです。&lt;/p&gt;
 
 &lt;p&gt;PFはアジャイルという全体が世間に認知されにくかった時代に、平鍋さんがトヨタ生産方式(=リーンソフトウェア開発)に出会い、その当時の日本の現場の文脈上で利用しやすいプラクティス群を抽出し、それらプラクティスを繋ぐ原則や価値をまとめ、QoELをはじめとした新たな概念を元にストーリーを描いて人々の共感を得ることができた体系であると私は認識しています。&lt;/p&gt;
 
-&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです...)&lt;/p&gt;
+&lt;p&gt;ワークの結果、おもしろい回答がでてきました。それらのコメントを聞くと、アジャイルから抽出されて紡ぎだされたプロジェクトファシリテーションという存在に共鳴した様々な人達が、新たな意味や認識を加えて、当時とは別のものに生まれ変っているという印象を持ちました。(僕が狭い認識でPFを捉えていただけかもしれないです…)&lt;/p&gt;
 
 &lt;p&gt;僕がそれを如実に感じたのは、&lt;a href=&quot;https://twitter.com/beakmark&quot;&gt;あまのりょー&lt;/a&gt;さんのグループのこんな一言でした。&lt;/p&gt;
 
@@ -242,7 +243,9 @@
 
 &lt;p&gt;PFP関東の伝統としては、ワークショップに時間をかけるのだったそうですが、話ばかりしてしまってごめんなさい。かつPFを知らない方にはさっぱりな内容でしたね。このような機会を頂きましたPFP関東の皆さん、参加者の皆様ありがとうございました。&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/23542237&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agilescrum-23542237&quot; title=&quot;Agile/Scrum時代のPFを考える&quot; target=&quot;_blank&quot;&gt;Agile/Scrum時代のPFを考える&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
 </content>
  </entry>
  
@@ -251,15 +254,17 @@
    <link href="http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime"/>
    <updated>2013-05-26T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime</id>
-   <content type="html">&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;2013/05/25に&lt;a href=&quot;http://agile459.doorkeeper.jp/events/3634&quot;&gt;Agile Japan 2013 四国・愛媛サテライト&lt;/a&gt;を開催しました。&lt;/p&gt;
 
 &lt;p&gt;AMの本会場のUst中継は問題なく見れましたし内容も凄くよかった。前日のツィートで「フラジャイルジャパン」と流れていた理由がよくわかりましたw&lt;/p&gt;
 
-&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです...)&lt;/p&gt;
+&lt;p&gt;僕はオープニングとアジャイル入門、そして午後のワークショップを担当していたのですが、いずれも時間をオーバーしてしまい申し訳なかったです。(本当に余裕がなかったです…)&lt;/p&gt;
 
-&lt;h2&gt;オープニングにて&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;オープニングにて&lt;/h2&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/21894668&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-japan2013&quot; title=&quot;Agile Japan2013 四国・愛媛サテライトオープニング&quot; target=&quot;_blank&quot;&gt;Agile Japan2013 四国・愛媛サテライトオープニング&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
 &lt;p&gt;オープニングでは、最近個人的な関心事である地方におけるアジャイルのあり方について考えを話しました。地方においては、単に「開発をアジャイルに！」というのでは幸せになれないのではという問題提起です。理由としては、地方ではITの市場規模は限られているため、単に開発のやり方を変えるだけではインパクトが弱いこと、仮に今の受託の流れをアジャイルな契約にして実現しても、地場には仕事がなく、東京に仕事を探しにいかなければならないことが挙げられます。私の松山の知人も東京に長期出張に行っていたり、会社を変わってみたものの結局前の職場に常駐して仕事している、というような話を聞きます。&lt;/p&gt;
 
@@ -273,9 +278,10 @@
 
 &lt;p&gt;また「地方」と一括りにするのも無理があります。個々の地域がそれぞれの文脈の元に行動しなければなりません。私も愛媛という地域でその真っ只中で行動していきます。そんな思いをオープニングで話しました。&lt;/p&gt;
 
-&lt;h2&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;ワークショップ 「アジャイル開発をデザインする」&lt;/h2&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/22005644&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;http://www.slideshare.net/kkd/agile-development-design-by-pattern-language&quot; title=&quot;Agile Development Design By Pattern Language&quot; target=&quot;_blank&quot;&gt;Agile Development Design By Pattern Language&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/kkd&quot; target=&quot;_blank&quot;&gt;Takeshi Kakeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 
 &lt;p&gt;ワークショップでは、「アジャイル開発をデザインする」というタイトルで内容を組みました。更に「パタンランゲージを使って」という制約を設けていましたが、パタンとはなんぞや、という話をする時間もなかったのでそこは省略してワークだけ進めました。&lt;/p&gt;
 
@@ -292,7 +298,7 @@
 
 &lt;p&gt;このワークも改善して、別の機会に実施できるようにしておきたいですね。&lt;/p&gt;
 
-&lt;h2&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;私以外のサテライトコンテンツ&lt;/h2&gt;
 
 &lt;p&gt;今回、四国・愛媛サテライトでは、全コンテンツを独自で提供できた点がひっそりと嬉しいことでした。最初のサテライト開催では、東京から森田さんに助っ人にきてもらいました。昨年の開催では、岡山、広島からの発表がありました。今回はすべて愛媛にゆかりのある人たちの発表でした！ 内容については &lt;a href=&quot;http://d.hatena.ne.jp/ogin_s57/20130526/1369588527&quot;&gt;@ogin_s57さんのブログ&lt;/a&gt;に詳しいです。&lt;/p&gt;
 

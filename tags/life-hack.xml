@@ -3,7 +3,7 @@
  <title>Your Title - Life Hack</title>
  <link href="http://giantech.jp/tags/life-hack.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Life Hack.html"/>
- <updated>2015-08-28T10:29:05+09:00</updated>
+ <updated>2015-08-30T10:57:34+09:00</updated>
  <id>http://giantech.jp/tags/Life Hack.html</id>
  <author>
    <name>Author Here</name>
@@ -14,11 +14,11 @@
    <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year"/>
    <updated>2015-05-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot;&gt;{:.mid}&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;昨年(2014年)末の大掃除の頃に、自宅の作業環境をスタンディング環境（スタンディングデスク）にしてみた。実際に半年経ってどうなのかをまとめてみる。&lt;/p&gt;
 
-&lt;h2&gt;なぜスタンディング環境について興味を持ったか？&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;なぜスタンディング環境について興味を持ったか？&lt;/h2&gt;
 
 &lt;p&gt;ここ２年前くらいから、ネットの各所でワークスペースにおけるスタンディング環境が話題になっており、ずっと気になっていた。&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;しかし、昨年末(2014年末)に、作業スペースを一新しようと思い立ち、&lt;strong&gt;大掃除のタイミングを逃すと、チャンスは来年になってしまう！&lt;/strong&gt;という危機感もあり、昨年末に思い切って実現してみた。&lt;/p&gt;
 
-&lt;h2&gt;スタンディング環境の実現&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;スタンディング環境の実現&lt;/h2&gt;
 
 &lt;p&gt;一般的に、スタンディング環境を構築するには、専用デスクを購入する流れが多いように感じる。しかし今使っている机をムダにはしたくないので、専用デスクの購入ではなく、&lt;strong&gt;机の上に台を置いて、自分で高さを調整しての環境構築&lt;/strong&gt;を選択した。&lt;/p&gt;
 
@@ -36,7 +36,7 @@
 
 &lt;p&gt;逆に自分にフィットする高さがわかっている場合は、高さを決め打ちして足の長さを伸ばしてもいいかもしれない。&lt;/p&gt;
 
-&lt;h2&gt;重ねる台は何を？&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;重ねる台は何を？&lt;/h2&gt;
 
 &lt;p&gt;次は重ねる台をどうするかだ。当初はホームセンターで木材を購入してきて自分で台を組み立てようと思っていた（実際に木材も購入した）。しかし、ふと引っ越しの際に使わなくなった組み立て式のラックが納屋に眠っているのを思い出し、そちらを台として利用する実験を先にしてみることにした。&lt;/p&gt;
 
@@ -44,55 +44,55 @@
 
 &lt;p&gt;現在使っている机の幅は100cmなので、90cm幅の天板に相当する板を購入して棚の上に重ねている。&lt;/p&gt;
 
-&lt;h3&gt;高さ調整は試行錯誤を織り込む&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;高さ調整は試行錯誤を織り込む&lt;/h3&gt;
 
 &lt;p&gt;高さの調整は実際に使ってみないと決められない。ある程度の時間使ってみた上で、肩、腰、手などに負担がかからないかを見極めなければならない。&lt;/p&gt;
 
 &lt;p&gt;そのため自分の場合は３日くらい実際に試して体の負担を確かめて、結局高さを、ウッドポールの棚板一枚分上げた。結果的に現在の高さは以下のようになっている。特に肩こりなどの不満はないが、気持ちもう少し高さがあってもいい気はしている。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;元々の机の高さ： 70cm&lt;/li&gt;
-&lt;li&gt;重ねた台の高さ： 33.7cm&lt;/li&gt;
-&lt;li&gt;デスクの高さ： 103.7cm&lt;/li&gt;
+  &lt;li&gt;元々の机の高さ： 70cm&lt;/li&gt;
+  &lt;li&gt;重ねた台の高さ： 33.7cm&lt;/li&gt;
+  &lt;li&gt;デスクの高さ： 103.7cm&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;以下の写真では、下から２枚がウッドポール棚板(75cm)で、一番上が90cmの天板になる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/adjustment_of_height.JPG&quot; alt=&quot;天板を重ねて高さ調整&quot; title=&quot;天板を重ねて高さ調整&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/adjustment_of_height.JPG&quot; alt=&quot;天板を重ねて高さ調整&quot; title=&quot;天板を重ねて高さ調整&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;スタンディング環境にしてよかったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;スタンディング環境にしてよかったこと&lt;/h2&gt;
 
 &lt;p&gt;以下はスタンディング環境にしてよかったことを列挙してみる。&lt;/p&gt;
 
-&lt;h3&gt;立ちっぱなしでも疲れにくくなった&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;立ちっぱなしでも疲れにくくなった&lt;/h3&gt;
 
 &lt;p&gt;それまでは、一日研修を実施するとそれなりに疲労感があったが、スタンディングデスクを使用してから１月以上経過した時に実施した一日研修では、&lt;strong&gt;疲労感がほとんどなかった&lt;/strong&gt;。これには自分でも驚いた。&lt;/p&gt;
 
 &lt;p&gt;スタンディング環境で仕事をすることは、効率的な立ち方が自然と身につく、あるいは、立つための筋肉が鍛えられるのかもしれない。&lt;/p&gt;
 
-&lt;h3&gt;スペースが有効活用できる&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;スペースが有効活用できる&lt;/h3&gt;
 
 &lt;p&gt;スタンディング環境にしてから（あたりまえだが）椅子が不要になった。その結果、足元を含めてスペースが広くとれるようになった。(現在椅子は机の下に格納しておいてはある）&lt;/p&gt;
 
 &lt;p&gt;今の作業空間は居間の一角にあるため、専用の部屋ではなくスペースは限られている（２〜３畳分くらい？）。椅子をどけたことによる、省スペース効果は予想以上で、ストレッチや自重トレーニングくらいできる程度のスペースが確保できた。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk2.JPG&quot; alt=&quot;Standing Desk2&quot; title=&quot;スタンディングデスクとヨガマット&quot;&gt;{:.mid}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk2.JPG&quot; alt=&quot;Standing Desk2&quot; title=&quot;スタンディングデスクとヨガマット&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;椅子に関する動作が不要で機敏に動ける&lt;/h3&gt;
+&lt;h3 id=&quot;section-7&quot;&gt;椅子に関する動作が不要で機敏に動ける&lt;/h3&gt;
 
 &lt;p&gt;実際にスタンディング環境にしてわかったのは、様々な行動を行う際のステップが簡略化されたことだ。&lt;/p&gt;
 
 &lt;p&gt;たとえば椅子に座っている時に、本棚に行って本をとる、あるいはコーヒーを入れに居間に行く、などのデスクワーク以外のアクションをとろうとする時には&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;椅子から立つ&lt;/li&gt;
-&lt;li&gt;椅子の横に出る&lt;/li&gt;
-&lt;li&gt;椅子をしまう（あるいは横にどける）&lt;/li&gt;
+  &lt;li&gt;椅子から立つ&lt;/li&gt;
+  &lt;li&gt;椅子の横に出る&lt;/li&gt;
+  &lt;li&gt;椅子をしまう（あるいは横にどける）&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;という３つのアクションが必ず必要だったのだが、スタンディングにしてから不要になった。これは思った以上に&lt;strong&gt;ストレスレス&lt;/strong&gt;だった。&lt;/p&gt;
 
-&lt;h3&gt;運動の代わりになる&lt;/h3&gt;
+&lt;h3 id=&quot;section-8&quot;&gt;運動の代わりになる&lt;/h3&gt;
 
 &lt;p&gt;日常の消費カロリーベースで考えると、立ったままの作業は、椅子に座ったままの作業よりも多くのカロリーを消費する。&lt;/p&gt;
 
@@ -102,23 +102,23 @@
 
 &lt;p&gt;ちなみに、日本のいくつかのサイトで参照されているタニタの方が書いた記事&lt;a href=&quot;http://news.mynavi.jp/column/cal/003/&quot;&gt;「無理なく1カ月でウエスト1cm!　カロリーコントロールでダイエット」&lt;/a&gt;には「立つは座るの二倍の消費カロリー」とあるが、表では「横になる・ゆったり座る」と「乗り物の中で立つ」とでの比較が二倍ということなので、デスクワークとスタンディングワークの差が二倍ではないと考えたほうが自然だろう。&lt;/p&gt;
 
-&lt;h2&gt;困ったこと&lt;/h2&gt;
+&lt;h2 id=&quot;section-9&quot;&gt;困ったこと&lt;/h2&gt;
 
 &lt;p&gt;逆にスタンディング環境にしてから困ったこともいくつか挙げてみる。&lt;/p&gt;
 
-&lt;h3&gt;ディスプレイとの距離の調整が難しい&lt;/h3&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;ディスプレイとの距離の調整が難しい&lt;/h3&gt;
 
 &lt;p&gt;これは、スタンディング環境のせいというよりも、現在の作業スペースの制約によるものですが、座っての作業を前提とした空間設計になっているので、作り付けの棚がちょうどディスプレイに干渉してしまい、棚が邪魔でディスプレイを奥に置けなくなっている。&lt;/p&gt;
 
 &lt;p&gt;現在では通常の姿勢だと、ディスプレイと目の距離は約50cmになっている。&lt;/p&gt;
 
-&lt;p&gt;EIZOの&lt;a href=&quot;http://www.eizo.co.jp/eizolibrary/other/itmedia08/&quot;&gt;「【保存版】ディスプレイの疲れ目対策&amp;quot;10選&amp;quot;」&lt;/a&gt;によると、&lt;em&gt;ワイド画面では50cm以上&lt;/em&gt;（横に広いぶん距離を取らないと視野に画面全体が収まらないためだそう）とあるのでそれほど近いわけではない。&lt;/p&gt;
+&lt;p&gt;EIZOの&lt;a href=&quot;http://www.eizo.co.jp/eizolibrary/other/itmedia08/&quot;&gt;「【保存版】ディスプレイの疲れ目対策”10選”」&lt;/a&gt;によると、&lt;em&gt;ワイド画面では50cm以上&lt;/em&gt;（横に広いぶん距離を取らないと視野に画面全体が収まらないためだそう）とあるのでそれほど近いわけではない。&lt;/p&gt;
 
 &lt;p&gt;今使っているディスプレイサイズは27インチなので、全体を見渡すには後10cmは距離をあけたいところだが、机の奥行きが限られるので、これ以上距離を開けるのは難しいところだ。天板をもっと大きくしないといけない。&lt;/p&gt;
 
 &lt;p&gt;椅子の場合は、最悪キーボードは膝の上で、椅子を話して距離を調整できるが、スタンディングデスクではそれができない。&lt;/p&gt;
 
-&lt;h3&gt;微妙な高さ調整がしづらい&lt;/h3&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;微妙な高さ調整がしづらい&lt;/h3&gt;
 
 &lt;p&gt;これもスタンディングデスクに限った話ではないが高さ調整の必要だ。&lt;/p&gt;
 
@@ -130,7 +130,7 @@
 
 &lt;p&gt;なので厳密に言うとスタンディング環境の困りごとではないが、念のため。&lt;/p&gt;
 
-&lt;h3&gt;本を読むときには座りたい&lt;/h3&gt;
+&lt;h3 id=&quot;section-12&quot;&gt;本を読むときには座りたい&lt;/h3&gt;
 
 &lt;p&gt;作業中に書籍を参照しながらの場合は、立ちながら本を開いておくことで対応できるが、本だけを読みたい場合には椅子に座りながら読みたいという時がある。&lt;/p&gt;
 
@@ -138,7 +138,7 @@
 
 &lt;p&gt;本を読みたい時には、カフェに移動するという手もあるので、必ずしもスタンディング環境の困りごとではないが、事実としてあるので列挙しておく。&lt;/p&gt;
 
-&lt;h3&gt;長時間作業には向いていない&lt;/h3&gt;
+&lt;h3 id=&quot;section-13&quot;&gt;長時間作業には向いていない&lt;/h3&gt;
 
 &lt;p&gt;この歳（43歳）になると、夜を徹しての深夜作業はほとんどしないが、先日締切直前で提案書を明け方まで書いていたことがあった。&lt;/p&gt;
 
@@ -146,7 +146,7 @@
 
 &lt;p&gt;作業時間が長くなると、スタンディング環境だけでは難しいと感じた。&lt;/p&gt;
 
-&lt;h3&gt;本当に疲れている・体調の悪いときに作業できない&lt;/h3&gt;
+&lt;h3 id=&quot;section-14&quot;&gt;本当に疲れている・体調の悪いときに作業できない&lt;/h3&gt;
 
 &lt;p&gt;深夜作業に近いが、本当に疲労している時にはスタンディングでの作業は正直難しい。&lt;/p&gt;
 
@@ -154,7 +154,7 @@
 
 &lt;p&gt;ここまで「体が疲れるケース」というのは、日常生活をする上でそうそう無い気はするが、例えば風邪を引いて熱があってクラクラする時でも仕事をしなきゃいけない、という状況だとスタンディング環境では仕事はできないかもしれない。&lt;/p&gt;
 
-&lt;h2&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&quot;section-15&quot;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;スタンディング環境を構築・実践して約半年経ったが、椅子が恋しくなることは（皆無ではないが）殆ど無くなり、仕事環境としては定着したと思う。自分の場合は、自宅はスタンディング環境、外部の作業スペースでは椅子を使うという切り分けになるので、完全に椅子から離れたわけではない。椅子も状況や体力に応じて使い分けることは必要だが、メインとして「座り心地のよい椅子」を買うことは恐らくもうないだろう。&lt;/p&gt;
 
@@ -168,13 +168,13 @@
 
 &lt;p&gt;動機はなんであれ、一度は部分的でもよいので試してみることをオススメしたい。&lt;/p&gt;
 
-&lt;h2&gt;類似の記事たち(追記：2015/05/29)&lt;/h2&gt;
+&lt;h2 id=&quot;section-16&quot;&gt;類似の記事たち(追記：2015/05/29)&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2136816331150235201&quot;&gt;あなたの健康と生産性を向上させる！？【スタンディングデスク】まとめ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20141122-ikea-standing-desk/&quot;&gt;KEAの「スタンディングデスク」を1週間使ってみた&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://kechamayo.jp/news/archives/8679&quot;&gt;スタンディングデスクを自作した僕たちの方法～立ったままPC作業で効率アップ＆足腰の鍛錬にもなる！&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://hoxai.com/archives/2432&quot;&gt;スタンディングデスクを半年間続けて気がついた7つのこと。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2136816331150235201&quot;&gt;あなたの健康と生産性を向上させる！？【スタンディングデスク】まとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20141122-ikea-standing-desk/&quot;&gt;KEAの「スタンディングデスク」を1週間使ってみた&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kechamayo.jp/news/archives/8679&quot;&gt;スタンディングデスクを自作した僕たちの方法～立ったままPC作業で効率アップ＆足腰の鍛錬にもなる！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hoxai.com/archives/2432&quot;&gt;スタンディングデスクを半年間続けて気がついた7つのこと。&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
