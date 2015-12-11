@@ -61,7 +61,7 @@ tags: [愛媛,松山,移住,ライフスタイル]
 
 {% include blogcard.html site="angelcymeeke.web.fc2.com" url="http://angelcymeeke.web.fc2.com/" image="http://capture.heartrails.com/100x100/?http://angelcymeeke.web.fc2.com/" title="お山へ行こう！ トップページ" desc="" %}
 
-山が近いこともあり、最近トレイルランニングもはじめました。四国のみちのルートを走って回るのが最近の楽しみです。
+山が近いこともあり、最近**トレイルランニング**もはじめました。山の中を走るのって本当に楽しいです！**四国のみち**のルートを走って回るのが最近の楽しみです。
 
 {% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project" image="http://giantech.jp/assets/images/20150701/road459_whole.png" title="四国のみちを走って回るプロジェクトを始めた" desc="先日、四国のみちを走って回るというプロジェクト「R459M」(Running the Shikoku no Michi）開始した。「四国のみち」とはなにか、動機、進め方の予定についてまとめてみる。" %}
 
