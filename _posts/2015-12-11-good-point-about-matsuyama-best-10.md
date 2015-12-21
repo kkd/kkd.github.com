@@ -4,7 +4,7 @@ title: "松山にきてよかったことベスト10（2010-2015年度版）"
 description: "「愛媛・松山についての徒然 Advent Calendar 2015」にエントリーした勢いで、ざっと松山に移住してきてよかったなぁと感じることを１０個書いてみました。"
 category: Lively
 image: http://giantech.jp/assets/images/20151211/dougoheiya.png
-tags: [愛媛,松山,移住,ライフスタイル]
+tags: [愛媛,松山,地方,移住,ライフスタイル]
 ---
 <!-- MarkdownTOC -->
 
