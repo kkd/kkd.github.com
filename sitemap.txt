@@ -471,7 +471,10 @@ http://giantech.jp/tags/gruff
 http://giantech.jp/tags/gruff.xml
 http://giantech.jp/tags/%E7%A7%BB%E4%BD%8F
 http://giantech.jp/tags/%E7%A7%BB%E4%BD%8F.xml
+http://giantech.jp/tags/%E8%AA%B2%E9%A1%8C
+http://giantech.jp/tags/%E8%AA%B2%E9%A1%8C.xml
 
+http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10
 http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10
 http://giantech.jp/2015/08/26/healthy-programmer
 http://giantech.jp/2015/08/19/traffic-interchange-in-local-area
