@@ -166,6 +166,13 @@ tags: [愛媛,松山,地方,移住,ライフスタイル,課題]
 
 商店街と言えば、大街道・銀天街といった中心部の商店街、道後のような観光地の商店街以外は、軒並み衰退の一歩を辿っていると聞きます。そんな中でも、萱町、柳井町の商店街は積極的にイベントをやっていたりするのを見かけます。見たことはないですが、三津浜の商店街も最近活性化に力を入れているようです。
 
+{% include blogcard.html site="town.ehime-iinet.or.jp" url="http://town.ehime-iinet.or.jp/kayamachi/" image="http://town.ehime-iinet.or.jp/kayamachi/img/header/header_01.jpg" title="人情あふれる「かやまち商店街」" desc="" %}
+
+{% include blogcard.html site="takemoto1977.blog.fc2.com" url="http://takemoto1977.blog.fc2.com/blog-entry-88.html" image="http://static.fc2.com/image/headbar/sh_fc2blogheadbar_logo.png" title="誰得ストリートビュー！「一筋の光明！？柳井町商店街」 - たけやんvsルマンド" desc="" %}
+
+{% include blogcard.html site="www.mitsuhamaru.com" url="http://www.mitsuhamaru.com/map/" image="http://www.mitsuhamaru.com/map/images/logo.png" title="ミツハマップ｜〇ミツハマル〇愛媛県松山市三津浜地区にぎわい創出事務所-三津浜 町家バンク" desc="" %}
+
+
 「買い物はスーパーやショッピングモールがあれば十分」という考え方もあるでしょう。実際、我が家でも、普段はセブンスター・フジ・生協などの、帰り道あるいは近くにあるスーパーで買い物を済ませています。「食料品の買い物は自宅の近く・通勤経路で済ます」と考えると、実は商店街で買うのとあまり変わらないのかもしれません。
 
 ただそれでも、商店街の店の人たちとのふれあいは、**単なる商売を越えた体験**だったのだろうなと思います。
