@@ -3,7 +3,7 @@
  <title>Your Title - Visual Thinking</title>
  <link href="http://giantech.jp/tags/visual-thinking.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Visual Thinking.html"/>
- <updated>2015-12-22T00:06:12+09:00</updated>
+ <updated>2015-12-24T21:35:22+09:00</updated>
  <id>http://giantech.jp/tags/Visual Thinking.html</id>
  <author>
    <name>Author Here</name>
@@ -57,7 +57,11 @@ aspects of finding a job you’ll love: passion, mission, profession, and
 
 &lt;p&gt;Facebook上でAnaïs Bock氏が&lt;a href=&quot;https://www.facebook.com/MeetAnais/photos/pb.301256939904355.-2207520000.1418216820./830924323604278/?type=3&amp;amp;theater&quot;&gt;公開した画像&lt;/a&gt;を、別の方が&lt;a href=&quot;https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=1&amp;amp;hc_location=ufi&quot;&gt;Facebook上でシェアした&lt;/a&gt;所、２万６千シェアを獲得していたようだ。この画像は、文言も内容も現在出回っている画像の元ではないかと思われる。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p720x720/1011804_830924323604278_3703115877894543597_n.jpg?oh=29a580be48a240e71e0061ee71ef71ae&amp;amp;oe=5601008D&amp;amp;__gda__=1442596584_be3c91ca29476f10ba41693ab0083341&quot; alt=&quot;&quot; title=&quot;purpose diagram by Anaïs&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3&quot; data-width=&quot;500&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3&quot;&gt;&lt;p&gt;We&amp;#039;d like to profusely apologize for not making sure credit for this AMAZING graphic went where it was supposed to! ...&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/shantiuganda/&quot;&gt;Shanti Uganda&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3&quot;&gt;Tuesday, September 23, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- ![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p720x720/1011804_830924323604278_3703115877894543597_n.jpg?oh=29a580be48a240e71e0061ee71ef71ae&amp;oe=5601008D&amp;__gda__=1442596584_be3c91ca29476f10ba41693ab0083341 &quot;purpose diagram by Anaïs&quot;){:.mid} --&gt;
 
 &lt;p&gt;ちなみに、その後の&lt;a href=&quot;http://bullshitelimination.com/purpose-driven-career/&quot;&gt;改訂版&lt;/a&gt;では以下のような図に刷新しているようだ。&lt;/p&gt;
 
@@ -67,6 +71,8 @@ aspects of finding a job you’ll love: passion, mission, profession, and
 
 &lt;p&gt;2014/06/10付の&lt;a href=&quot;http://forshay.com/what-matters-in-doing-your-best-work/&quot;&gt;What matters in doing your best work&lt;/a&gt;という記事に非常によく似た画像(DOING YOUR BEST WORK)が掲載されている。意味するところは大体同じだが、重なりあいの部分の言葉が若干異なる。&lt;/p&gt;
 
+&lt;p&gt;（追記：2015/12/24時点で記事も画像もロストしてしまったようだ…）&lt;/p&gt;
+
 &lt;p&gt;具体的には&lt;/p&gt;
 
 &lt;ul&gt;
@@ -75,7 +81,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
   &lt;li&gt;すべての重なりあいの部分が、PURPOSE（生きがい）ではなく BLISS（至福）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://forshay.com/wp-content/uploads/2014/06/Forshay-Venn-Diagram-for-Blog1.png&quot; alt=&quot;&quot; title=&quot;Forshay Venn Diagram&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![](http://forshay.com/wp-content/uploads/2014/06/Forshay-Venn-Diagram-for-Blog1.png &quot;Forshay Venn Diagram&quot;){:.mid} --&gt;
 
 &lt;h2 id=&quot;reflecting-on-what-i-do&quot;&gt;2011/09/11 Reflecting on “What I do”&lt;/h2&gt;
 
