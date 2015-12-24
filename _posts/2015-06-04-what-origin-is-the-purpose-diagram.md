@@ -49,7 +49,9 @@ Quoraで、以下のようなエントリが上がっていた。
 
 Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/MeetAnais/photos/pb.301256939904355.-2207520000.1418216820./830924323604278/?type=3&theater)を、別の方が[Facebook上でシェアした](https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=1&hc_location=ufi)所、２万６千シェアを獲得していたようだ。この画像は、文言も内容も現在出回っている画像の元ではないかと思われる。
 
-![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p720x720/1011804_830924323604278_3703115877894543597_n.jpg?oh=29a580be48a240e71e0061ee71ef71ae&oe=5601008D&__gda__=1442596584_be3c91ca29476f10ba41693ab0083341 "purpose diagram by Anaïs"){:.mid}
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3"><p>We&#039;d like to profusely apologize for not making sure credit for this AMAZING graphic went where it was supposed to! ...</p>Posted by <a href="https://www.facebook.com/shantiuganda/">Shanti Uganda</a> on&nbsp;<a href="https://www.facebook.com/shantiuganda/photos/a.199417493447115.58543.191463754242489/733186486736877/?type=3">Tuesday, September 23, 2014</a></blockquote></div></div>
+
+<!-- ![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p720x720/1011804_830924323604278_3703115877894543597_n.jpg?oh=29a580be48a240e71e0061ee71ef71ae&oe=5601008D&__gda__=1442596584_be3c91ca29476f10ba41693ab0083341 "purpose diagram by Anaïs"){:.mid} -->
 
 ちなみに、その後の[改訂版](http://bullshitelimination.com/purpose-driven-career/)では以下のような図に刷新しているようだ。
 
@@ -60,13 +62,15 @@ Facebook上でAnaïs Bock氏が[公開した画像](https://www.facebook.com/Mee
 
 2014/06/10付の[What matters in doing your best work](http://forshay.com/what-matters-in-doing-your-best-work/)という記事に非常によく似た画像(DOING YOUR BEST WORK)が掲載されている。意味するところは大体同じだが、重なりあいの部分の言葉が若干異なる。
 
+（追記：2015/12/24時点で記事も画像もロストしてしまったようだ...）
+
 具体的には
 
 * LOVE & NEEDS が MISSION（使命）ではなく VOCATION（天職）
 * NEEDS & PAY FOR が VOCATION（天職）ではなく CHARITY（慈善）
 * すべての重なりあいの部分が、PURPOSE（生きがい）ではなく BLISS（至福）
 
-![](http://forshay.com/wp-content/uploads/2014/06/Forshay-Venn-Diagram-for-Blog1.png "Forshay Venn Diagram"){:.mid}
+<!-- ![](http://forshay.com/wp-content/uploads/2014/06/Forshay-Venn-Diagram-for-Blog1.png "Forshay Venn Diagram"){:.mid} -->
 
 ## 2011/09/11 Reflecting on “What I do”
 
