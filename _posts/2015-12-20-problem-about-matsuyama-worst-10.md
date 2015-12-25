@@ -6,25 +6,8 @@ category: Lively
 image: http://giantech.jp/assets/images/20151220/matsuyama_from_higashiyama.jpg
 tags: [愛媛,松山,地方,移住,ライフスタイル,課題]
 ---
-<!-- MarkdownTOC -->
-
-- はじめに
-- (1) 誰も自分のことを知らない
-- (2) 仕事がない
-- (3) 読書の時間が減った
-- (4) お気に入りの店がない
-- (5) 興味のある情報を知る場・教えてくれる場がない
-- (6) コミュニティに人が集まらない＆固定化しやすい
-- (7) 地方から地方への移動が大変
-- (8) 商店街のふれあいがない
-- (9) イベント情報の提供や申し込みがネットでできない
-- (10) 車を使う機会が増えた
-- (番外) 東京に行くと疲れる
-- まとめ
-
-<!-- /MarkdownTOC -->
-
 ## はじめに
+{:no_toc}
 
 この記事は「[愛媛・松山についての徒然 Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/1176)」の20日目の記事です。前日の記事は「[外から来た人には愛媛のここがわかりにくい](http://bit.ly/1RvWLga)」でした。次の日の記事の担当は [nekomimiTaicho](http://www.adventar.org/users/3727)さんです。
 
@@ -32,6 +15,8 @@ tags: [愛媛,松山,地方,移住,ライフスタイル,課題]
 
 {% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10" image="http://giantech.jp/assets/images/20151211/dougoheiya.png" title="松山にきてよかったことベスト10（2010-2015年度版）" desc="「愛媛・松山についての徒然 Advent Calendar 2015」にエントリーした勢いで、ざっと松山に移住してきてよかったなぁと感じることを１０個書いてみました。" %}
 
+* toc
+{:toc}
 
 ## (1) 誰も自分のことを知らない
 

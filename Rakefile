@@ -58,11 +58,11 @@ end
 desc "Begin a push static file to GitHub"
 task :deploy do
   puts "! Copy static file from _site to kkd.github.com.master"
-  sh "rsync -av _site/* ../kkd.github.com.master/"
+  sh "rsync -av --delete _site/* ../kkd.github.com.master/"
   puts "! Change directory master"
   cd "../kkd.github.com.master" do
     puts "! Push to master branch of GitHub"
-    sh "git add *"
+    sh "git add --all *"
     message = "deploy at #{Time.now}"
     begin
       sh "git commit -m \"#{message}\""
