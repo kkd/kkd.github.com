@@ -3,7 +3,7 @@
  <title>Your Title - web service</title>
  <link href="http://giantech.jp/tags/web-service.xml" rel="self"/>
  <link href="http://giantech.jp/tag/web service.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/web service.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>各種フィットネスサービスの自動同期サービスtapiriikが進化していた</title>
-   <link href="http://giantech.jp/2015/03/10/evolution-of-tapiriik"/>
+   <link href="http://giantech.jp/2015/03/10/evolution-of-tapiriik/"/>
    <updated>2015-03-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/10/evolution-of-tapiriik</id>
    <content type="html">
@@ -103,7 +103,7 @@
  
  <entry>
    <title>ランニングログサービス間の同期を行う Tapiriik</title>
-   <link href="http://giantech.jp/2014/05/24/tapiriik"/>
+   <link href="http://giantech.jp/2014/05/24/tapiriik/"/>
    <updated>2014-05-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/05/24/tapiriik</id>
    <content type="html">

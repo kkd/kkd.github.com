@@ -3,7 +3,7 @@
  <title>Your Title - ローカル</title>
  <link href="http://giantech.jp/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ローカル.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/ローカル.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>生活圏流動数の視覚化マップ（各地域版）</title>
-   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area"/>
+   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area/"/>
    <updated>2015-08-19T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/19/traffic-interchange-in-local-area</id>
    <content type="html">&lt;p&gt;四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。&lt;/p&gt;
@@ -197,7 +197,7 @@
  
  <entry>
    <title>四国内の相互交流量を分析してわかった３つのこと</title>
-   <link href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area"/>
+   <link href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area/"/>
    <updated>2015-08-17T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -452,7 +452,7 @@
  
  <entry>
    <title>四国は思ったよりもずっと広かった</title>
-   <link href="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought"/>
+   <link href="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought/"/>
    <updated>2015-08-13T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;四国を知らずに移住してきた&lt;/h2&gt;

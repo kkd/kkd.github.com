@@ -3,7 +3,7 @@
  <title>Your Title - Gviz</title>
  <link href="http://giantech.jp/tags/gviz.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Gviz.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/Gviz.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>生活圏流動数の視覚化マップ（各地域版）</title>
-   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area"/>
+   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area/"/>
    <updated>2015-08-19T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/19/traffic-interchange-in-local-area</id>
    <content type="html">&lt;p&gt;四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。&lt;/p&gt;

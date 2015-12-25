@@ -3,7 +3,7 @@
  <title>Your Title - Hack</title>
  <link href="http://giantech.jp/tags/hack.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Hack.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/Hack.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>自分のサイト上で外部リンクをFacebookの画像つきリンクっぽく表示する方法</title>
-   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll"/>
+   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll/"/>
    <updated>2015-06-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/10/use-blogcard-on-jekyll</id>
    <content type="html">&lt;h2 id=&quot;ogp&quot;&gt;自分のサイトでもOGPを取得してリンクを格好よく表示させたい！&lt;/h2&gt;
@@ -236,7 +236,7 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
  
  <entry>
    <title>スタンディング環境を半年続けてわかったこと</title>
-   <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year"/>
+   <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year/"/>
    <updated>2015-05-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;

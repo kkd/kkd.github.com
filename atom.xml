@@ -4,7 +4,7 @@
  <title>いきてま＠えひめ</title>
  <link href="http://giantech.jp/" rel="self"/>
  <link href="http://giantech.jp"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp</id>
  <author>
    <name>Takeshi Kakeda</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>ぼくのかんがえたさいきょうのまつやま</title>
-   <link href="http://giantech.jp/2015/12/24/the-strongest-matsuyama-i-thought"/>
+   <link href="http://giantech.jp/2015/12/24/the-strongest-matsuyama-i-thought/"/>
    <updated>2015-12-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/12/24/the-strongest-matsuyama-i-thought</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -176,7 +176,7 @@
  
  <entry>
    <title>松山にきてこまったことワースト10（2010-2015年度版）</title>
-   <link href="http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10"/>
+   <link href="http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10/"/>
    <updated>2015-12-20T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -501,7 +501,7 @@
  
  <entry>
    <title>松山にきてよかったことベスト10（2010-2015年度版）</title>
-   <link href="http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10"/>
+   <link href="http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10/"/>
    <updated>2015-12-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -1021,7 +1021,7 @@
  
  <entry>
    <title>「ヘルシープログラマ」はプログラマ自身のレガシーコード改善ガイドになるか？</title>
-   <link href="http://giantech.jp/2015/08/26/healthy-programmer"/>
+   <link href="http://giantech.jp/2015/08/26/healthy-programmer/"/>
    <updated>2015-08-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/26/healthy-programmer</id>
    <content type="html">&lt;!-- MarkdownTOC --&gt;
@@ -1236,7 +1236,7 @@
  
  <entry>
    <title>生活圏流動数の視覚化マップ（各地域版）</title>
-   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area"/>
+   <link href="http://giantech.jp/2015/08/19/traffic-interchange-in-local-area/"/>
    <updated>2015-08-19T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/19/traffic-interchange-in-local-area</id>
    <content type="html">&lt;p&gt;四国についてGraphviz+Gvizで視覚化したので、他エリアについても出力してみました。&lt;/p&gt;
@@ -1422,7 +1422,7 @@
  
  <entry>
    <title>四国内の相互交流量を分析してわかった３つのこと</title>
-   <link href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area"/>
+   <link href="http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area/"/>
    <updated>2015-08-17T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/17/traffic-interchange-in-shikoku-area</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -1677,7 +1677,7 @@
  
  <entry>
    <title>四国は思ったよりもずっと広かった</title>
-   <link href="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought"/>
+   <link href="http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought/"/>
    <updated>2015-08-13T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/13/shikoku-is-larger-than-i-thought</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;四国を知らずに移住してきた&lt;/h2&gt;
@@ -1946,7 +1946,7 @@
  
  <entry>
    <title>3年間のランニングと体重の変化をグラフ化してのふりかえり</title>
-   <link href="http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012"/>
+   <link href="http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012/"/>
    <updated>2015-08-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;ランニングを始めて３年経過のふりかえり&lt;/h2&gt;
@@ -2130,7 +2130,7 @@
  
  <entry>
    <title>ユーザーストーリーマッピング本出版に寄せて</title>
-   <link href="http://giantech.jp/2015/08/05/user-story-mapping-book"/>
+   <link href="http://giantech.jp/2015/08/05/user-story-mapping-book/"/>
    <updated>2015-08-05T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/08/05/user-story-mapping-book</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;祝！ユーザーストーリーマッピング出版！&lt;/h2&gt;
@@ -2258,7 +2258,7 @@
  
  <entry>
    <title>sozo -- 目的を持たない情報交換会が何をもたらすか？</title>
-   <link href="http://giantech.jp/2015/07/24/what-emerge-from-sozo"/>
+   <link href="http://giantech.jp/2015/07/24/what-emerge-from-sozo/"/>
    <updated>2015-07-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/24/what-emerge-from-sozo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150724/people-417979.jpg&quot; alt=&quot;立ち話&quot; title=&quot;立ち話&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
@@ -2380,7 +2380,7 @@
  
  <entry>
    <title>草が畑に生えているのは問題だ！？　具体例で理解する問題解決アプローチの違い</title>
-   <link href="http://giantech.jp/2015/07/24/are-weeds-problem-or-not"/>
+   <link href="http://giantech.jp/2015/07/24/are-weeds-problem-or-not/"/>
    <updated>2015-07-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/24/are-weeds-problem-or-not</id>
    <content type="html">
@@ -2507,7 +2507,7 @@
  
  <entry>
    <title>松山市のコワーキングスペース事情をふりかえってみた(2015年度版)</title>
-   <link href="http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012"/>
+   <link href="http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012/"/>
    <updated>2015-07-23T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/23/matsuyama-coworking-scene-from-2012</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;はじめに&lt;/h2&gt;
@@ -2833,7 +2833,7 @@
  
  <entry>
    <title>四国のみちを走ってきた（愛媛14番：高縄山探鳥のみち）</title>
-   <link href="http://giantech.jp/2015/07/15/run-the459nomichi-ehime-e14"/>
+   <link href="http://giantech.jp/2015/07/15/run-the459nomichi-ehime-e14/"/>
    <updated>2015-07-15T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/15/run-the459nomichi-ehime-e14</id>
    <content type="html">&lt;p&gt;R459Mプロジェクト(Run the shikoku no michi)の第一弾として、高縄山探鳥のみちを走ったレポートをまとめておくことにする。&lt;/p&gt;
@@ -3064,7 +3064,7 @@
  
  <entry>
    <title>Cusotomer Product Matrixでプロダクトの現在地を知り戦略を立てる</title>
-   <link href="http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are"/>
+   <link href="http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are/"/>
    <updated>2015-07-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/10/customer-product-matrix-shows-where-you-are</id>
    <content type="html">&lt;p&gt;今年になって、研修の中で使用している図を２月に公開していたのですが、解説を忘れていたので５ヶ月ぶりに更新して解説してみます。&lt;/p&gt;
@@ -3132,7 +3132,7 @@
  
  <entry>
    <title>あなたは「生」という漢字の秘密を知っているか？</title>
-   <link href="http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei"/>
+   <link href="http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei/"/>
    <updated>2015-07-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/09/what-is-a-secret-of-kanji-sei</id>
    <content type="html">&lt;p&gt;ふとしたきっかけで、「生」という漢字の読みや語源を知りたくなったので調べてみた。&lt;/p&gt;
@@ -3384,7 +3384,7 @@
  
  <entry>
    <title>四国のみちを走って回るプロジェクトを始めた</title>
-   <link href="http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project"/>
+   <link href="http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project/"/>
    <updated>2015-07-01T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/07/01/run-the-shikoku-no-michi-project</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;四国のみちを走る&lt;/h2&gt;
@@ -3473,7 +3473,7 @@
  
  <entry>
    <title>エクストリームプログラミング新訳刊行記念：第一世代からの推薦状</title>
-   <link href="http://giantech.jp/2015/06/25/xpe-2nd-renewal"/>
+   <link href="http://giantech.jp/2015/06/25/xpe-2nd-renewal/"/>
    <updated>2015-06-25T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/25/xpe-2nd-renewal</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;ついに新訳が刊行！！&lt;/h2&gt;
@@ -3648,7 +3648,7 @@
  
  <entry>
    <title>松山市への移住レポート：中心部への移動手段編</title>
-   <link href="http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama"/>
+   <link href="http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama/"/>
    <updated>2015-06-16T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/16/how-to-go-to-central-area-in-matsuyama</id>
    <content type="html">&lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -3976,7 +3976,7 @@
  
  <entry>
    <title>自分のサイト上で外部リンクをFacebookの画像つきリンクっぽく表示する方法</title>
-   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll"/>
+   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll/"/>
    <updated>2015-06-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/10/use-blogcard-on-jekyll</id>
    <content type="html">&lt;h2 id=&quot;ogp&quot;&gt;自分のサイトでもOGPを取得してリンクを格好よく表示させたい！&lt;/h2&gt;
@@ -4201,7 +4201,7 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
  
  <entry>
    <title>２年ぶりにブログの名前を変えてみた</title>
-   <link href="http://giantech.jp/2015/06/09/i-changed-the-blog-name"/>
+   <link href="http://giantech.jp/2015/06/09/i-changed-the-blog-name/"/>
    <updated>2015-06-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/09/i-changed-the-blog-name</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/logo_cghll.png&quot; alt=&quot;ロゴ&quot; title=&quot;新しいロゴ&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
@@ -4227,7 +4227,7 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
  
  <entry>
    <title>タンポポコーヒーを庭のタンポポから自作してみた</title>
-   <link href="http://giantech.jp/2015/06/08/i-made-dandelion-coffee-myself"/>
+   <link href="http://giantech.jp/2015/06/08/i-made-dandelion-coffee-myself/"/>
    <updated>2015-06-08T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/08/i-made-dandelion-coffee-myself</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;カフェインを控えよう…&lt;/h2&gt;
@@ -4427,7 +4427,7 @@ WordPressのピンバックはもちろん、Google Analyticsのトラックバ�
  
  <entry>
    <title>あの有名な「生きがいを見つけるためのベン図」はどこから来たのか？</title>
-   <link href="http://giantech.jp/2015/06/04/what-origin-is-the-purpose-diagram"/>
+   <link href="http://giantech.jp/2015/06/04/what-origin-is-the-purpose-diagram/"/>
    <updated>2015-06-04T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/04/what-origin-is-the-purpose-diagram</id>
    <content type="html">&lt;p&gt;今年の初め頃にSNSによく流れていたこんなベン図があった。&lt;/p&gt;
@@ -4543,7 +4543,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>生き物写真共有グループを一年運営して気づいた世界の魅力</title>
-   <link href="http://giantech.jp/2015/05/29/creatures-photo-group"/>
+   <link href="http://giantech.jp/2015/05/29/creatures-photo-group/"/>
    <updated>2015-05-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/29/creatures-photo-group</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150529/cover.jpg&quot; alt=&quot;カバー写真&quot; title=&quot;カバー写真&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
@@ -4625,7 +4625,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>スタンディング環境を半年続けてわかったこと</title>
-   <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year"/>
+   <link href="http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year/"/>
    <updated>2015-05-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/26/impression-of-working-at-standing-desk-for-a-half-year</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150526/standingdesk1.JPG&quot; alt=&quot;Standing Desk&quot; title=&quot;スタンディングデスクその１&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
@@ -4795,7 +4795,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>皆で作り上げた、オフグリッドカフェ@MYJ 第一回</title>
-   <link href="http://giantech.jp/2015/05/24/offgrid-cafe-at-myj"/>
+   <link href="http://giantech.jp/2015/05/24/offgrid-cafe-at-myj/"/>
    <updated>2015-05-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/24/offgrid-cafe-at-myj</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150524/stove_and_pot.jpg&quot; alt=&quot;what&#39;s offgrid cafe?&quot; title=&quot;オフグリッドカフェとは？&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
@@ -4923,7 +4923,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Jekyll on Github に OGP/TwitterCardを対応させた</title>
-   <link href="http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github"/>
+   <link href="http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github/"/>
    <updated>2015-05-21T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150521/sns.jpg&quot; alt=&quot;Eyecatch&quot; /&gt;&lt;/p&gt;
@@ -5023,7 +5023,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>ナチュラルランニングの講習に参加してわかった遥かなる道のり</title>
-   <link href="http://giantech.jp/2015/05/09/natural-running-in-ehime"/>
+   <link href="http://giantech.jp/2015/05/09/natural-running-in-ehime/"/>
    <updated>2015-05-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/09/natural-running-in-ehime</id>
    <content type="html">
@@ -5132,7 +5132,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>まさーるさん没後10年に思うこと</title>
-   <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident"/>
+   <link href="http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident/"/>
    <updated>2015-04-25T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/04/25/masarl-memories-in-decade-from-his-accident</id>
    <content type="html">
@@ -5229,7 +5229,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>各種フィットネスサービスの自動同期サービスtapiriikが進化していた</title>
-   <link href="http://giantech.jp/2015/03/10/evolution-of-tapiriik"/>
+   <link href="http://giantech.jp/2015/03/10/evolution-of-tapiriik/"/>
    <updated>2015-03-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/10/evolution-of-tapiriik</id>
    <content type="html">
@@ -5321,7 +5321,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験を晒してみよう（イントロダクション）</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss</id>
    <content type="html">
@@ -5373,7 +5373,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験から学んだこと</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro</id>
    <content type="html">
@@ -5444,7 +5444,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験を晒してみよう(4) １日２食で一気に痩せた！しかし…</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-4</id>
    <content type="html">
@@ -5488,7 +5488,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験を晒してみよう(3) 自転車通勤で健康的に痩せた！！しかし…</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-3</id>
    <content type="html">
@@ -5536,7 +5536,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験を晒してみよう(2) ９品目ダイエットで痩せた！しかし…</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-2</id>
    <content type="html">
@@ -5577,7 +5577,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>減量失敗体験を晒してみよう(1) 若気の至りで食事制限！しかし…</title>
-   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1"/>
+   <link href="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1/"/>
    <updated>2015-03-09T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1</id>
    <content type="html">
@@ -5615,7 +5615,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Agile459でデザインスプリントを体験するワークショップをやってみた</title>
-   <link href="http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459"/>
+   <link href="http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459/"/>
    <updated>2015-03-01T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/03/01/learn-design-sprint-in-agile459</id>
    <content type="html">
@@ -5717,7 +5717,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>東京マラソン2015ふりかえり</title>
-   <link href="http://giantech.jp/2015/02/24/tokyo-marathon-2015-retrospectives"/>
+   <link href="http://giantech.jp/2015/02/24/tokyo-marathon-2015-retrospectives/"/>
    <updated>2015-02-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/02/24/tokyo-marathon-2015-retrospectives</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;何をやったかふりかえろう。&lt;/h2&gt;
@@ -5826,7 +5826,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>東京マラソン2015に参加して東京観光と青春を回想してきた。</title>
-   <link href="http://giantech.jp/2015/02/23/tokyo-marathon-2015"/>
+   <link href="http://giantech.jp/2015/02/23/tokyo-marathon-2015/"/>
    <updated>2015-02-23T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/02/23/tokyo-marathon-2015</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;東京マラソンに参加してきた&lt;/h2&gt;
@@ -5952,7 +5952,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>第一回 神山.rbでXP祭り2014のXP白本話をする意味とは？</title>
-   <link href="http://giantech.jp/2014/11/08/kamiyama-rb-vol1"/>
+   <link href="http://giantech.jp/2014/11/08/kamiyama-rb-vol1/"/>
    <updated>2014-11-08T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/11/08/kamiyama-rb-vol1</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/kamiyama.rb/kkd_talk1_480x320.jpg&quot; alt=&quot;kkd_talk_vol1&quot; title=&quot;kkd talk&quot; /&gt;
@@ -6044,7 +6044,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>大阪マラソンで初の都市型マラソンを堪能した話（後編）</title>
-   <link href="http://giantech.jp/2014/10/26/osaka-marathon-part2"/>
+   <link href="http://giantech.jp/2014/10/26/osaka-marathon-part2/"/>
    <updated>2014-10-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/10/26/osaka-marathon-part2</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://giantech.jp/2014/10/26/osaka-marathon-part1/&quot;&gt;大阪マラソンで都市型マラソンを堪能した（前編）&lt;/a&gt;の後編。&lt;/p&gt;
@@ -6148,7 +6148,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>大阪マラソンで初の都市型マラソンを堪能した話（前編）</title>
-   <link href="http://giantech.jp/2014/10/26/osaka-marathon-part1"/>
+   <link href="http://giantech.jp/2014/10/26/osaka-marathon-part1/"/>
    <updated>2014-10-26T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/10/26/osaka-marathon-part1</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.osaka-marathon.com/common/img/logo.jpg&quot; alt=&quot;osakamarathonlogo&quot; title=&quot;Osaka Marathon Logo&quot; /&gt;&lt;/p&gt;
@@ -6232,7 +6232,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>【驚愕】バグレゴが試験問題になった話</title>
-   <link href="http://giantech.jp/2014/10/15/bug-lego-was-referred-in-the-exam-paper"/>
+   <link href="http://giantech.jp/2014/10/15/bug-lego-was-referred-in-the-exam-paper/"/>
    <updated>2014-10-15T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/10/15/bug-lego-was-referred-in-the-exam-paper</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/543145&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
@@ -6282,7 +6282,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Agile Tour Osaka 2014でパタン・ランゲージのワークショップを担当しました</title>
-   <link href="http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage"/>
+   <link href="http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage/"/>
    <updated>2014-10-11T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/10/11/agile-tour-osaka-2014-patternlanguage</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/40186961?rel=0&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
@@ -6358,7 +6358,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>XP祭り2014でXP厨ぶりをアピールしてきました</title>
-   <link href="http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014"/>
+   <link href="http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014/"/>
    <updated>2014-09-08T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/09/08/i-talked-about-xpe-in-xpfestival2014</id>
    <content type="html">&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/38768205&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
@@ -6389,7 +6389,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>やせる！KPTで気づかされたダイエットの秘訣</title>
-   <link href="http://giantech.jp/2014/08/29/yaseru-kpt"/>
+   <link href="http://giantech.jp/2014/08/29/yaseru-kpt/"/>
    <updated>2014-08-29T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/29/yaseru-kpt</id>
    <content type="html">&lt;h2 id=&quot;section&quot;&gt;リモートで基調講演（？）&lt;/h2&gt;
@@ -6582,7 +6582,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Ultimate Agile Stories - Iteration 4 に寄稿しました</title>
-   <link href="http://giantech.jp/2014/08/28/ultimate-agile-stories-iteration-4"/>
+   <link href="http://giantech.jp/2014/08/28/ultimate-agile-stories-iteration-4/"/>
    <updated>2014-08-28T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/28/ultimate-agile-stories-iteration-4</id>
    <content type="html">&lt;h2 id=&quot;uas4&quot;&gt;UAS4が販売開始！！&lt;/h2&gt;
@@ -6616,7 +6616,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>松山で行われたMA10のアイデアソンに参加してきた（ざっくり編）</title>
-   <link href="http://giantech.jp/2014/08/24/ma10-ideathon-in-ehime"/>
+   <link href="http://giantech.jp/2014/08/24/ma10-ideathon-in-ehime/"/>
    <updated>2014-08-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/24/ma10-ideathon-in-ehime</id>
    <content type="html">&lt;p&gt;8/20に松山で行われたMASHUP AWARDSの&lt;a href=&quot;http://mashupawards.doorkeeper.jp/events/13539&quot;&gt;アイデアソン&lt;/a&gt;に参加してきました。&lt;/p&gt;
@@ -6723,7 +6723,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>あなたがXP祭り2014でこのセッションを選ぶべき３つの理由</title>
-   <link href="http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014"/>
+   <link href="http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014/"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/three-reasons-why-you-should-choose-the-session-at-xpfestival-2014</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
@@ -6760,7 +6760,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>XP祭り2014で白本の参考文献について話してきます</title>
-   <link href="http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014"/>
+   <link href="http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014/"/>
    <updated>2014-08-22T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/08/22/i-am-going-to-talk-on-xpfestival-2014</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://xpjug.com/wp-content/uploads/2014/01/xp2014_top_02.png&quot; alt=&quot;xp2014 logo&quot; title=&quot;xp2014 logo&quot; /&gt;&lt;/p&gt;
@@ -6792,7 +6792,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>「「納品」をなくせばうまくいく」はアジャイルを生かした顧客志向のビジネスモデルの解説書</title>
-   <link href="http://giantech.jp/2014/07/24/entrusted-development-without-delivery"/>
+   <link href="http://giantech.jp/2014/07/24/entrusted-development-without-delivery/"/>
    <updated>2014-07-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/07/24/entrusted-development-without-delivery</id>
    <content type="html">&lt;p&gt;ソニックガーデンの倉貫さんに、「「納品」をなくせばうまくいく」を献本頂いた。&lt;/p&gt;
@@ -6866,7 +6866,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>神山町に行っていろいろ考えた「しごと」と「くらし」</title>
-   <link href="http://giantech.jp/2014/07/07/thinking-about-life-and-work-kamiyama"/>
+   <link href="http://giantech.jp/2014/07/07/thinking-about-life-and-work-kamiyama/"/>
    <updated>2014-07-07T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/07/07/thinking-about-life-and-work-kamiyama</id>
    <content type="html">
@@ -6894,7 +6894,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>AgileJapan2014 徳島サテライト感想(2)</title>
-   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-02"/>
+   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-02/"/>
    <updated>2014-07-04T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/07/04/agilejapan2014-tokushima-02</id>
    <content type="html">
@@ -6977,7 +6977,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>AgileJapan2014 徳島サテライト感想(1)</title>
-   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-01"/>
+   <link href="http://giantech.jp/2014/07/04/agilejapan2014-tokushima-01/"/>
    <updated>2014-07-04T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/07/04/agilejapan2014-tokushima-01</id>
    <content type="html">
@@ -7061,7 +7061,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>ランニングログサービス間の同期を行う Tapiriik</title>
-   <link href="http://giantech.jp/2014/05/24/tapiriik"/>
+   <link href="http://giantech.jp/2014/05/24/tapiriik/"/>
    <updated>2014-05-24T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/05/24/tapiriik</id>
    <content type="html">
@@ -7121,7 +7121,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>DevLOVE 「とあるアジャイル実践者の愛媛での話。」で登壇させて頂きました</title>
-   <link href="http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010"/>
+   <link href="http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010/"/>
    <updated>2014-04-18T00:00:00+09:00</updated>
    <id>http://giantech.jp/2014/04/18/i-talked-about-my-story-since-2010</id>
    <content type="html">
@@ -7177,7 +7177,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>パーマカルチャー関西のメルマガに寄稿しました</title>
-   <link href="http://giantech.jp/2014/04/11/pck-mailmagazine-vol1"/>
+   <link href="http://giantech.jp/2014/04/11/pck-mailmagazine-vol1/"/>
    <updated>2014-04-11T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/04/11/pck-mailmagazine-vol1</id>
    <content type="html">
@@ -7198,7 +7198,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>プロダクトオーナーステップアップセミナー開催</title>
-   <link href="http://giantech.jp/2014/03/27/po-stepup-seminar"/>
+   <link href="http://giantech.jp/2014/03/27/po-stepup-seminar/"/>
    <updated>2014-03-27T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/27/po-stepup-seminar</id>
    <content type="html">
@@ -7216,7 +7216,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>ロケットストーブワークショップ in 松山</title>
-   <link href="http://giantech.jp/2014/03/24/rocket-stove-workshop-vol0"/>
+   <link href="http://giantech.jp/2014/03/24/rocket-stove-workshop-vol0/"/>
    <updated>2014-03-24T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/24/rocket-stove-workshop-vol0</id>
    <content type="html">
@@ -7271,7 +7271,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>仙台でアジャイル型開発におけるプラクティス活用リファレンスガイドセミナー開催</title>
-   <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai"/>
+   <link href="http://giantech.jp/2014/03/20/ipa-seminar-sendai/"/>
    <updated>2014-03-20T08:59:59+09:00</updated>
    <id>http://giantech.jp/2014/03/20/ipa-seminar-sendai</id>
    <content type="html">
@@ -7311,7 +7311,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>2013年のふりかえり</title>
-   <link href="http://giantech.jp/2013/12/31/retrospective"/>
+   <link href="http://giantech.jp/2013/12/31/retrospective/"/>
    <updated>2013-12-31T00:00:00+09:00</updated>
    <id>http://giantech.jp/2013/12/31/retrospective</id>
    <content type="html">
@@ -7336,7 +7336,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Keynote Version 6をインストールして気づいた違い</title>
-   <link href="http://giantech.jp/2013/10/25/keynote_ver6"/>
+   <link href="http://giantech.jp/2013/10/25/keynote_ver6/"/>
    <updated>2013-10-25T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/10/25/keynote_ver6</id>
    <content type="html">
@@ -7392,7 +7392,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>DevLOVE 「システム思考を手に入れよう。」に向けて</title>
-   <link href="http://giantech.jp/2013/10/22/systems_thinking_in_devlove"/>
+   <link href="http://giantech.jp/2013/10/22/systems_thinking_in_devlove/"/>
    <updated>2013-10-22T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/10/22/systems_thinking_in_devlove</id>
    <content type="html">
@@ -7422,7 +7422,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>2013/06/26 PFP関東ワークショップを実施しました</title>
-   <link href="http://giantech.jp/2013/06/27/pfp-workshop"/>
+   <link href="http://giantech.jp/2013/06/27/pfp-workshop/"/>
    <updated>2013-06-27T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/06/27/pfp-workshop</id>
    <content type="html">
@@ -7466,7 +7466,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Agile Japan 2013 島根サテライト</title>
-   <link href="http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane"/>
+   <link href="http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane/"/>
    <updated>2013-05-31T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane</id>
    <content type="html">
@@ -7503,7 +7503,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>Agile Japan 2013 四国・愛媛サテライト開催</title>
-   <link href="http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime"/>
+   <link href="http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime/"/>
    <updated>2013-05-26T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime</id>
    <content type="html">
@@ -7566,7 +7566,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>パタン・ランゲージによる震災復興</title>
-   <link href="http://giantech.jp/2013/04/25/reconstruction-with-pattern-language"/>
+   <link href="http://giantech.jp/2013/04/25/reconstruction-with-pattern-language/"/>
    <updated>2013-04-25T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/25/reconstruction-with-pattern-language</id>
    <content type="html">
@@ -7584,7 +7584,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>DevLOVE四国 Vol.1を開催しました。</title>
-   <link href="http://giantech.jp/2013/04/23/devlove459-vol1"/>
+   <link href="http://giantech.jp/2013/04/23/devlove459-vol1/"/>
    <updated>2013-04-23T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/23/devlove459-vol1</id>
    <content type="html">
@@ -7642,7 +7642,7 @@ aspects of finding a job you’ll love: passion, mission, profession, and
  
  <entry>
    <title>価値提案駆動 -- TDDとの類似点</title>
-   <link href="http://giantech.jp/2013/04/05/value-proposition-driven"/>
+   <link href="http://giantech.jp/2013/04/05/value-proposition-driven/"/>
    <updated>2013-04-05T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/05/value-proposition-driven</id>
    <content type="html">
@@ -7676,7 +7676,7 @@ UVPを検証するという行為は、「正しい製品」を探索するこ�
  
  <entry>
    <title>sublime text 2を使いはじめた</title>
-   <link href="http://giantech.jp/2013/04/02/start-to-use-sublime-text"/>
+   <link href="http://giantech.jp/2013/04/02/start-to-use-sublime-text/"/>
    <updated>2013-04-02T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/02/start-to-use-sublime-text</id>
    <content type="html">
@@ -7693,7 +7693,7 @@ Vintage, VintageExを入れたら、Vimっぽくも使えている(完全では�
  
  <entry>
    <title>little by little</title>
-   <link href="http://giantech.jp/2013/04/01/little-by-little"/>
+   <link href="http://giantech.jp/2013/04/01/little-by-little/"/>
    <updated>2013-04-01T08:59:59+09:00</updated>
    <id>http://giantech.jp/2013/04/01/little-by-little</id>
    <content type="html">
@@ -7710,7 +7710,7 @@ Vintage, VintageExを入れたら、Vimっぽくも使えている(完全では�
  
  <entry>
    <title>日記を再開</title>
-   <link href="http://giantech.jp/2013/03/27/restart-blogging"/>
+   <link href="http://giantech.jp/2013/03/27/restart-blogging/"/>
    <updated>2013-03-27T09:00:00+09:00</updated>
    <id>http://giantech.jp/2013/03/27/restart-blogging</id>
    <content type="html">

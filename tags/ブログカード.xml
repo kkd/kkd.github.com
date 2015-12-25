@@ -3,7 +3,7 @@
  <title>Your Title - ブログカード</title>
  <link href="http://giantech.jp/tags/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%89.xml" rel="self"/>
  <link href="http://giantech.jp/tag/ブログカード.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/ブログカード.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>自分のサイト上で外部リンクをFacebookの画像つきリンクっぽく表示する方法</title>
-   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll"/>
+   <link href="http://giantech.jp/2015/06/10/use-blogcard-on-jekyll/"/>
    <updated>2015-06-10T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/06/10/use-blogcard-on-jekyll</id>
    <content type="html">&lt;h2 id=&quot;ogp&quot;&gt;自分のサイトでもOGPを取得してリンクを格好よく表示させたい！&lt;/h2&gt;

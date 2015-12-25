@@ -3,7 +3,7 @@
  <title>Your Title - Tool</title>
  <link href="http://giantech.jp/tags/tool.xml" rel="self"/>
  <link href="http://giantech.jp/tag/Tool.html"/>
- <updated>2015-12-25T11:02:11+09:00</updated>
+ <updated>2015-12-25T14:45:57+09:00</updated>
  <id>http://giantech.jp/tags/Tool.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Jekyll on Github に OGP/TwitterCardを対応させた</title>
-   <link href="http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github"/>
+   <link href="http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github/"/>
    <updated>2015-05-21T00:00:00+09:00</updated>
    <id>http://giantech.jp/2015/05/21/add-ogp-and-twittercard-to-jekyll-on-github</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/20150521/sns.jpg&quot; alt=&quot;Eyecatch&quot; /&gt;&lt;/p&gt;
