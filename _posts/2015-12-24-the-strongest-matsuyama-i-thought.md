@@ -3,7 +3,7 @@ layout: post
 title: "ぼくのかんがえたさいきょうのまつやま"
 description: "「さいきょうのまつやま」の妄想を書こうと思ったが挫折したので、「さいきょうのまつやま」を生み出すプロセスに着目しました。"
 category: Lively
-image: http://giantech.jp/assets/images/20151220/matsuyama_from_higashiyama.jpg
+image: http://giantech.jp/assets/images/20151224/route33.jpg
 tags: [愛媛,松山,地方,ビジョンづくり,パタン・ランゲージ,アジャイル,ポートランド]
 ---
 
