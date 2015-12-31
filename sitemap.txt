@@ -477,7 +477,12 @@ http://giantech.jp/tags/%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A5%E3%81%8F%E
 http://giantech.jp/tags/%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A5%E3%81%8F%E3%82%8A.xml
 http://giantech.jp/tags/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89/
 http://giantech.jp/tags/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89.xml
+http://giantech.jp/tags/2015%E5%B9%B4/
+http://giantech.jp/tags/2015%E5%B9%B4.xml
+http://giantech.jp/tags/%E7%94%9F%E6%B4%BB/
+http://giantech.jp/tags/%E7%94%9F%E6%B4%BB.xml
 
+http://giantech.jp/2015/12/31/retrospective-2015/
 http://giantech.jp/2015/12/24/the-strongest-matsuyama-i-thought/
 http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10/
 http://giantech.jp/2015/12/11/good-point-about-matsuyama-best-10/
