@@ -1,12 +1,12 @@
 
-http://giantech.jp/pages/ikitema2/BDDIntro/
-http://giantech.jp/pages/ikitema2/LTHistory/
-http://giantech.jp/pages/ikitema2/LTHistoryForEM/
-http://giantech.jp/pages/ikitema2/LightningTalksMindMap/
-http://giantech.jp/pages/ikitema2/SawamanForEmZero/
-http://giantech.jp/pages/ikitema2/WaistreelConference/
-http://giantech.jp/pages/ikitema2/WaistreelConference2/
-http://giantech.jp/pages/ikitema2/WaistreelMemo/
+http://giantech.jp/pages/ikitema2/BDDIntro.html/
+http://giantech.jp/pages/ikitema2/LTHistory.html/
+http://giantech.jp/pages/ikitema2/LTHistoryForEM.html/
+http://giantech.jp/pages/ikitema2/LightningTalksMindMap.html/
+http://giantech.jp/pages/ikitema2/SawamanForEmZero.html/
+http://giantech.jp/pages/ikitema2/WaistreelConference.html/
+http://giantech.jp/pages/ikitema2/WaistreelConference2.html/
+http://giantech.jp/pages/ikitema2/WaistreelMemo.html/
 http://giantech.jp/about/
 http://giantech.jp/archeological_pages/
 http://giantech.jp/archive/
@@ -26,7 +26,7 @@ http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/options.page
 http://giantech.jp/pages/
 http://giantech.jp/assets/posts.json
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/quickref.page
-http://giantech.jp/pages/agile/region_supported_agile_leanstartup_in_japan/
+http://giantech.jp/pages/agile/region_supported_agile_leanstartup_in_japan.html/
 http://giantech.jp/rss.xml
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/sitemap.sitemap
 http://giantech.jp/sitemap.txt
