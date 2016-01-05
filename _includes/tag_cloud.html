@@ -18,11 +18,11 @@ Usage:
 -->{% endcomment %}
 {% if tags_list.first[0] == null %}
   {% for tag in tags_list %} 
-    <li><a href="/{{ site.tag_page_dir }}/{{ tag | replace:' ','-' }}.html" style="font-size: {{ tag | size | times: 4 | plus: 80  }}%">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+    <li><a href="/{{ site.tag_page_dir }}/{{ tag | replace:' ','-' }}" style="font-size: {{ tag | size | times: 4 | plus: 80  }}%">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
   {% endfor %}
 {% else %}
   {% for tag in tags_list %} 
-    <li><a href="/{{ site.tag_page_dir }}/{{ tag[0] | replace:' ','-' }}.html" style="font-size: {{ tag[1].size |  times: 4 | plus: 80  }}%">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+    <li><a href="/{{ site.tag_page_dir }}/{{ tag[0] | replace:' ','-' }}" style="font-size: {{ tag[1].size |  times: 4 | plus: 80  }}%">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
   {% endfor %}
 {% endif %}
 {% assign tags_list = nil %}
