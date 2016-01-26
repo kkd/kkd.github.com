@@ -27,6 +27,10 @@ tags: [移住,地方,移住スタイル]
 
 一応メールアドレスを登録してくれると、メールで結果とどんな回答をしたのかを送信するようになっています。気が向いた方は登録してみてください。
 
+ブラウザの方は、下に埋め込んであるiframeで、スマフォの方はリンクを辿って試してもらえるとよいと思います。テストはほとんどしていません。自己責任でおねがいします。
+
+予期せぬ結果になった場合は、お知らせ頂ければできるだけ対処します。
+
 {% include blogcard.html site="docs.google.com" url="https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&w=1" image="http://capture.heartrails.com/100x100/?https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&w=1" title="オススメ地方移住スタイル" desc="" %}
 
 <iframe src="https://docs.google.com/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?embedded=true" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます...</iframe>
