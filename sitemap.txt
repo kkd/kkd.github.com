@@ -20,6 +20,7 @@ http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/documentation.page
 http://giantech.jp/
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/index.page
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/installation.page
+http://giantech.jp/pages/migration/migrationstyle/
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/news.feed
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/news.page
 http://giantech.jp/vendor/bundle/gems/kramdown-1.9.0/doc/options.page
@@ -481,7 +482,10 @@ http://giantech.jp/tags/2015%E5%B9%B4/
 http://giantech.jp/tags/2015%E5%B9%B4.xml
 http://giantech.jp/tags/%E7%94%9F%E6%B4%BB/
 http://giantech.jp/tags/%E7%94%9F%E6%B4%BB.xml
+http://giantech.jp/tags/%E7%A7%BB%E4%BD%8F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/
+http://giantech.jp/tags/%E7%A7%BB%E4%BD%8F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB.xml
 
+http://giantech.jp/2016/01/26/migration-to-rural/
 http://giantech.jp/2015/12/31/retrospective-2015/
 http://giantech.jp/2015/12/24/the-strongest-matsuyama-i-thought/
 http://giantech.jp/2015/12/20/problem-about-matsuyama-worst-10/

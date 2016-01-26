@@ -3,11 +3,60 @@
  <title>Your Title - 移住</title>
  <link href="http://giantech.jp/tags/%E7%A7%BB%E4%BD%8F.xml" rel="self"/>
  <link href="http://giantech.jp/tag/移住.html"/>
- <updated>2016-01-14T08:14:38+09:00</updated>
+ <updated>2016-01-26T20:07:56+09:00</updated>
  <id>http://giantech.jp/tags/移住.html</id>
  <author>
    <name>Author Here</name>
  </author>
+ 
+ <entry>
+   <title>オススメ地方移住スタイルを探せ！！</title>
+   <link href="http://giantech.jp/2016/01/26/migration-to-rural/"/>
+   <updated>2016-01-26T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2016/01/26/migration-to-rural</id>
+   <content type="html">&lt;p&gt;地方移住について調べものをしていたらこんな資料を見つけました。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://www.kantei.go.jp/jp/singi/sousei/info/pdf/panf_iju.pdf&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://www.kantei.go.jp/jp/singi/sousei/info/pdf/panf_iju.pdf&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://www.kantei.go.jp/jp/singi/sousei/info/pdf/panf_iju.pdf&quot; class=&quot;bc-5&quot;&gt;地方移住ガイドブック　いなか暮らしはじめませんか&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://www.kantei.go.jp/jp/singi/sousei/info/pdf/panf_iju.pdf&quot; class=&quot;bc-favicon&quot; /&gt;www.kantei.go.jp&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://www.kantei.go.jp/jp/singi/sousei/info/pdf/panf_iju.pdf&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;内閣官房まち・ひと・しごと創生本部事務局&lt;/strong&gt;が公開している地方移住のガイドブックです。&lt;/p&gt;
+
+&lt;p&gt;この中のP10-13ページに、「おすすめの地方移住スタイルを判定するチャート」が書いてありました。&lt;/p&gt;
+
+&lt;p&gt;昨年、似たようなことを考えていたり、最近は移住者支援も手伝っているので、このチャートをGoogle Formなら簡単にシステム化できると思い試してみて、一部をGoogle App Scriptでカスタマイズしつつシステム化してみました。&lt;/p&gt;
+
+&lt;p&gt;このサイトは、出てくる質問に答えていくと、オススメの地方移住スタイルを提案してくれるという代物。&lt;/p&gt;
+
+&lt;p&gt;正直、その内容自体はそれほど意味があるとは思えないのですが、少しでも役に立てばと思い公開します。&lt;/p&gt;
+
+&lt;p&gt;注意すべきは、このフォームが提案してくれるのは「体験移住してみよう」とか「二拠点移住しよう」といった&lt;em&gt;地方移住のスタイル&lt;/em&gt;であって、&lt;strong&gt;あなたに向いている移住先ではありません&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;なので、あまり期待しないで試してもらい、感想・要望などのフィードバック貰えると嬉しいです。&lt;/p&gt;
+
+&lt;p&gt;一応メールアドレスを登録してくれると、メールで結果とどんな回答をしたのかを送信するようになっています。気が向いた方は登録してみてください。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&amp;amp;w=1&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://capture.heartrails.com/100x100/?https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&amp;amp;w=1&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&amp;amp;w=1&quot; class=&quot;bc-5&quot;&gt;オススメ地方移住スタイル&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&amp;amp;w=1&quot; class=&quot;bc-favicon&quot; /&gt;docs.google.com&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/https://docs.google.com/a/giantech.jp/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?c=0&amp;amp;w=1&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/forms/d/1FeZmTPsuYZK8Suq4FjdyZSY3aGULaaF17rvvqmy_DKU/viewform?embedded=true&quot; width=&quot;760&quot; height=&quot;800&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;読み込んでいます...&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>松山にきてこまったことワースト10（2010-2015年度版）</title>
