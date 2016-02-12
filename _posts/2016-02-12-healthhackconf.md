@@ -40,6 +40,11 @@ tags: [ヘルシープログラマ,ヘルスハックカンファレンス,松�
 ブログにもいくつかエントリがありますが、2012年から走り始めてから、身体の変化（マイナス
 15kg、ウェスト84cm->78cm以下)もそうですが、**心の変化** が大きかったのです。
 
+{% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss/" image="https://www.flickr.com/photos/53372763@N00/81255795/" title="減量失敗体験を晒してみよう（イントロダクション）" desc="これまでのいろいろな減量の失敗体験を整理する機会があったので、いろいろまとめてみた。" %}
+
+{% include blogcard.html site="giantech.jp" url="http://giantech.jp/2015/08/11/weight-and-distance-chart-since-2012/" image="http://giantech.jp/assets/images/20150811/weight-running-distance.png" title="3年間のランニングと体重の変化をグラフ化してのふりかえり" desc="2012年5月から突然走りだして３年が経過しました。これまで手動・自動を含めて体重やランニングのログをとり続けてきたので試しに集計・統合してみたところ、これまで気づかないことが見えてきました。3年をふりかえりながら、視覚化してみてのフィードバックをまとめてみます。" %}
+
+
 人はなんのために生きているのか、人生で大事なものはなにか、生きるということはどういうことか、多くの時間を仕事を中心に考え・過ごしてきた自分としては、それこそ生き方が変わりました。
 
 ### 情報が混乱している時代だからこそ
