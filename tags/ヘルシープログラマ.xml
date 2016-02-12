@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - ヘルシープログラマ</title>
+ <link href="http://giantech.jp/tags/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E.xml" rel="self"/>
+ <link href="http://giantech.jp/tag/ヘルシープログラマ.html"/>
+ <updated>2016-02-12T18:44:03+09:00</updated>
+ <id>http://giantech.jp/tags/ヘルシープログラマ.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>ヘルスハックカンファレンスを松山でやる意味・その理由</title>
+   <link href="http://giantech.jp/2016/02/12/healthhackconf/"/>
+   <updated>2016-02-12T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2016/02/12/healthhackconf</id>
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;ヘルスハックカンファレンスをやります&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20160212/healthhackconf.jpg&quot; alt=&quot;ヘルスハックカンファレンス&quot; title=&quot;ヘルスハックカンファレンス&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;３月５〜６日に松山で&lt;strong&gt;ヘルスハックカンファレンス&lt;/strong&gt;というイベントを開催します。&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://healthhackconf.github.io&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://healthhackconf.github.io/img/intro-bg-3.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://healthhackconf.github.io&quot; class=&quot;bc-5&quot;&gt;ヘルスハックカンファレンス&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;3/5-6日に松山市で開催される健康ハックに関するイベント。本カンファレンスは、ヘルスハックの実践を共有し、身体を動かし、美味しい食事を味わい、緑や潮風を感じる、全身で健康を楽しみながらヘルスハッカーに生まれ変わるためのイベントです。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://healthhackconf.github.io&quot; class=&quot;bc-favicon&quot; /&gt;healthhackconf.github.io&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://healthhackconf.github.io&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;初日は、&lt;a href=&quot;http://connpass.com/event/18312/&quot;&gt;ヘルシープログラマの出版記念イベント&lt;/a&gt;でも登壇頂いた、&lt;strong&gt;翻訳者の玉川さん&lt;/strong&gt; 、&lt;strong&gt;ビットジャーニーの井原さん&lt;/strong&gt; をゲストにお呼びして講演いただきます。&lt;/p&gt;
+
+&lt;p&gt;更には、&lt;a href=&quot;https://www.amazon.co.jp/dp/4534053428?tag=giantech-22&amp;amp;camp=1027&amp;amp;creative=7407&amp;amp;linkCode=as4&amp;amp;creativeASIN=4534053428&amp;amp;adid=09AFBRSVQWBH2AP2G971&amp;amp;&quot;&gt;リモートチームでうまくいく&lt;/a&gt;のイベントで松山にいらしている &lt;strong&gt;ソニックガーデンの倉貫さん&lt;/strong&gt; 、大阪からは&lt;strong&gt;楽天の宿里さん&lt;/strong&gt; にもお話いただきます。&lt;/p&gt;
+
+&lt;p&gt;途中、会場近くの松山城の山道をトレッキングしたり、会場でシェフが作ってくれる地元食材の食事をいただきながらの懇親会を予定しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20160212/IMG_2757.JPG&quot; alt=&quot;松山城裏&quot; title=&quot;松山城&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;２日目は松山市から30分ほどで行ける離島であるみかんの島、&lt;strong&gt;興居島&lt;/strong&gt; で、潮風とみかんの匂いを感じながらのアクティビティを行います。&lt;/p&gt;
+
+&lt;p&gt;絶景のサイクリング、トレッキングなど体力に応じたアクティビティを体験できます。運動の後は、廃校を利用してできたカフェで休憩し、その後の昼食は地元名物の郷土料理の&lt;strong&gt;鯛めし&lt;/strong&gt;を頂く予定です。希望者と一緒に温泉にもいっちゃいます！！&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;なんで開催するのか？&lt;/h2&gt;
+
+&lt;p&gt;なぜ、このようなイベントを開催するのかを、少し書いておきます。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;人は変われる！！&lt;/h3&gt;
+
+&lt;p&gt;ブログにもいくつかエントリがありますが、2012年から走り始めてから、身体の変化（マイナス
+15kg、ウェスト84cm-&amp;gt;78cm以下)もそうですが、&lt;strong&gt;心の変化&lt;/strong&gt; が大きかったのです。&lt;/p&gt;
+
+&lt;p&gt;人はなんのために生きているのか、人生で大事なものはなにか、生きるということはどういうことか、多くの時間を仕事を中心に考え・過ごしてきた自分としては、それこそ生き方が変わりました。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;情報が混乱している時代だからこそ&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20160212/IMG_2807.JPG&quot; alt=&quot;海岸&quot; title=&quot;海岸&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;自分が健康に目を向けるようになり、運動、食生活、医療など様々な分野を調べていくと、多くは情報が錯綜し、主張が対立し、何が正しいのかはわかりません。&lt;/p&gt;
+
+&lt;p&gt;「科学的であるか、そうでないか」はそこでは問題になりません。科学的な研究成果においても、対立した意見はいくらでもありますし、主張もどんどん変わってきます。&lt;/p&gt;
+
+&lt;p&gt;また個々人の状況はそれぞれ異なります。ネットの情報、専門家の意見を鵜呑みにするだけでなく、 &lt;strong&gt;自分で試してみて、検証し、より自分にあったやり方を探すというプロセスが必要不可欠&lt;/strong&gt; だと感じました。実際これまで私自身もそのようなプロセスで色々試行錯誤してきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;何が科学的に正しいか、誰の意見なのかよりも、何が自分にとって相応しいか&lt;/strong&gt; で物事を判断しないといけないのです。&lt;/p&gt;
+
+&lt;p&gt;そんな情報共有をする機会が必要なのではないかと考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで、ヘルシープログラマの書籍に出会います。&lt;strong&gt;小さくフィードバックサイクルを回すアジャイルの仕事のやり方を健康改善にも使う&lt;/strong&gt; この書籍は、私が考えてきたものと非常に符号しました。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;健康を取り巻くシステムを考える&lt;/h3&gt;
+
+&lt;p&gt;また、それらを取り巻く社会システムにも目が向きます。&lt;/p&gt;
+
+&lt;p&gt;食事に目を向けると、その食べ物がどのように作られているのかにも当然関心が及びます。食べ物がどのように作られ、どのように行き届き、そこで生み出さされた結果の食べ物が、人にどんな影響を与えているのか、取り巻く社会システムが現在どうなっているのか、望ましい姿はなにか？&lt;/p&gt;
+
+&lt;p&gt;運動に目を向けると、日常的に身体を動かさなくてもよいシステムが整備され、人はどのように進化し退化していくのか、人が便利に・快適にと思い整備していたシステム・改善が、人間の身体に対してどんな影響を与えているのか。個々人の健康だけでなく社会システムの望ましい姿はなにか？&lt;/p&gt;
+
+&lt;p&gt;これらが、密接に結びつき、&lt;strong&gt;人が人らしく生きられる社会とは乖離している&lt;/strong&gt; のではないか？&lt;/p&gt;
+
+&lt;p&gt;これらは、誰になんとかしてもらうのではなく、&lt;strong&gt;自らでなんとかしないと&lt;/strong&gt;　ならないと思うのです。まずは自分から、そして家族、友人、周囲の人達へ。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;松山に来てもらう意味&lt;/h3&gt;
+
+&lt;p&gt;もうひとつ、わざわざ松山でやる理由があります。もちろん私が住んでいるからというのもありますが、 &lt;strong&gt;松山が自然と都市の調和がとれている、住みやすい場所を五感で体験してもらいたい&lt;/strong&gt; ということでした。&lt;/p&gt;
+
+&lt;p&gt;今回は、松山市内から30分で行ける &lt;strong&gt;興居島&lt;/strong&gt; にてアクティビティを行います。瀬戸内海のアーキペラゴ(多島海)を手短に体験できる素晴らしい場所です。サイクルトレインで、自転車ごと電車に乗れたりもします。↓の写真は、興居島にある &lt;strong&gt;小富士&lt;/strong&gt; という山から瀬戸内海をみわたす絶景です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20160212/IMG_2854.JPG&quot; alt=&quot;釣島&quot; title=&quot;釣島&quot; class=&quot;mid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;島のゆったりとした雰囲気、サイクリング、ランニング、トレッキングで巡るのにちょうどよいスケール、こういった素晴らしい場所を多くの人に知ってもらいたい、きっと感動してもらえると確信しています。&lt;/p&gt;
+
+&lt;p&gt;他にも、松山の名物でもある温泉、地のもので作った食事、有名な松山城のちょっと秘密のトレイル（山道）を散策する時間も設けています。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jetstar.com/jp/ja/home?origin=NRT&amp;amp;destination=MYJ&amp;amp;adult=1&amp;amp;children=0&amp;amp;infants=0&amp;amp;flexible=1&amp;amp;departure-date=05-03-2016&amp;amp;return-date=06-03-2016&quot;&gt;Jetstar&lt;/a&gt;だと、片道6000〜9000円で成田から松山まで移動できます。宿泊をゲストハウスでまかなえるので安く泊まることもできます。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;ピンときたらお越しください！！&lt;/h3&gt;
+
+&lt;p&gt;ライトニングトークも募集しています。&lt;strong&gt;筋トレ自慢、ダイエット自慢、古武道自慢、自転車自慢&lt;/strong&gt;、なんでも健康に関する工夫を共有してくれる・興味ある方の参加をお待ちしています！！&lt;/p&gt;
+
+&lt;div class=&quot;bc-1&quot;&gt;
+	&lt;div class=&quot;bc-2&quot;&gt;
+		&lt;a href=&quot;http://healthhackconf.github.io&quot; class=&quot;bc-3&quot;&gt;&lt;img src=&quot;http://healthhackconf.github.io/img/intro-bg-3.jpg&quot; class=&quot;bc-4&quot; /&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p style=&quot;margin:0;&quot;&gt;&lt;a href=&quot;http://healthhackconf.github.io&quot; class=&quot;bc-5&quot;&gt;ヘルスハックカンファレンス&lt;/a&gt;&lt;/p&gt;
+	&lt;p class=&quot;bc-6&quot;&gt;3/5-6日に松山市で開催される健康ハックに関するイベント。本カンファレンスは、ヘルスハックの実践を共有し、身体を動かし、美味しい食事を味わい、緑や潮風を感じる、全身で健康を楽しみながらヘルスハッカーに生まれ変わるためのイベントです。&lt;/p&gt;
+	&lt;div class=&quot;bc-7&quot;&gt;
+		&lt;p class=&quot;bc-8&quot;&gt;&lt;img src=&quot;http://favicon.hatena.ne.jp/?url=http://healthhackconf.github.io&quot; class=&quot;bc-favicon&quot; /&gt;healthhackconf.github.io&lt;img src=&quot;http://b.hatena.ne.jp/entry/image/http://healthhackconf.github.io&quot; class=&quot;bc-hatebu&quot; /&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+</feed>
