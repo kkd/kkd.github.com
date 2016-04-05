@@ -13,8 +13,8 @@ description: ""
 
 ### 所属組織・団体/Company, Organization
 
-- [合同会社カルチャーワークス](http://www.cultureworks.jp/)  共同代表
-  - CultureWorks, LLC Co-Founder
+-[ゼンソー／Zensow](http://zensow.jp) 代表
+　- Zensow Representative
 - [アジャイルプロセス協議会 四国エリア "Agile459"](https://sites.google.com/site/agile459/) 代表
   - Japan Agile Process Association, Shikoku Branch, "Agile459" Representative
 - [プロジェクト・ファシリテーター協会](http://www.pf-i.org/) 理事
@@ -33,13 +33,17 @@ description: ""
 
 - カルチャーカルティベータ/Culture Cultivator
 - アジャイルコーチ / Agile Coach
+- ヘルスハッカー / Health Hacker
 - パーマカルチャーデザイナー (パーマカルチャーデザインコース(PDC)修了)/ Permaculture Designer (Permaculture Design Certificate Course )
-- ファンランナー / Fun-Runner
+- トレイル・マラソンランナー / Trail and Marathon Runner
+- ベアフットランナー見習い / Barefoot Runner Apprentice
+- ウルトララナー見習い / Ultra Runner Apprentice
 - 三児の父親 / Father of three kids
 - よき(?)夫 / Good(?) Husband
 
 ### パーソナリティ/Personality
 
+- 夢はおっきく
 - 思いたったら、試したい！
 - 整理が下手
 
@@ -63,6 +67,12 @@ description: ""
   - パタン・ランゲージ/Pattern Language
   - コミュニティデザイン / Community Design
   - Non-Violent Communication(NVC, 非暴力コミュニケーション)
+- ウェルネス（よい健康状態）の生成維持
+  - 地球のウェルネス
+  - 組織のウェルネス
+  - チームのウェルネス
+  - システムのウェルネス
+  - 個人のウェルネス
 - 文具
   - 万年筆、ノート
 - 幸せな生き方
