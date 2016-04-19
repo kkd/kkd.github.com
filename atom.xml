@@ -4,13 +4,108 @@
  <title>いきてま＠えひめ</title>
  <link href="http://giantech.jp/" rel="self"/>
  <link href="http://giantech.jp"/>
- <updated>2016-04-05T16:55:23+09:00</updated>
+ <updated>2016-04-19T13:29:47+09:00</updated>
  <id>http://giantech.jp</id>
  <author>
    <name>Takeshi Kakeda</name>
    <email>takeshi@giantech.jp</email>
  </author>
 
+ 
+ <entry>
+   <title>ウェルネスとは状態ではなくプロセスである</title>
+   <link href="http://giantech.jp/2016/04/17/concept-of-wellness/"/>
+   <updated>2016-04-17T00:00:00+09:00</updated>
+   <id>http://giantech.jp/2016/04/17/concept-of-wellness</id>
+   <content type="html">&lt;h2 id=&quot;section&quot;&gt;ウェルネスという概念&lt;/h2&gt;
+
+&lt;p&gt;３月に&lt;a href=&quot;http://healthhackconf.github.io&quot;&gt;ヘルスハックカンファレンス&lt;/a&gt;を開催したこともあり、最近は健康について見聞きする機会が増えた。その中で&lt;strong&gt;ウェルネス&lt;/strong&gt;というコンセプト・単語を見る機会が多いことに気づいた。&lt;/p&gt;
+
+&lt;p&gt;ウェルネスとは、&lt;a href=&quot;http://www.who.int/healthpromotion/about/HPR%20Glossary_New%20Terms.pdf&quot;&gt;WHOの定義&lt;/a&gt;によると次のようにある。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ウェルネスは、個人やグループの健康の最適な状態で、二つの注目する感心事があります。
+１つは物理的、心理的、社会的、精神的、経済的に個々の最大限の可能性の実現、
+もう１つは家族、地域社会、礼拝所、職場やその他の場所で自分の役割に期待にたいしての充実感です。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ウェルネスの起源については、&lt;a href=&quot;https://www.fh-joanneum.at/global/show_document.asp?id=aaaaaaaaaabdjus&amp;amp;&quot;&gt;James William Miller氏の論文&lt;/a&gt;が詳しい。&lt;/p&gt;
+
+&lt;p&gt;いろいろ調べていくと、&lt;strong&gt;Wellness Wheel&lt;/strong&gt; や、&lt;strong&gt;Wellness Dimension&lt;/strong&gt; というキーワードで、円グラフやベン図のような画像がいくつもあるのを見つけた。&lt;/p&gt;
+
+&lt;p&gt;ウェルネスの次元・カテゴリにはいろいろなパターンがあるが、例えば、&lt;a href=&quot;https://www.middlesex.mass.edu/chw/wellneswheel.aspx&quot;&gt;MIDDLESEX Community College&lt;/a&gt;や、&lt;a href=&quot;http://unh.edu/health-services/ohep/wellness&quot;&gt;Office of Health Education and Promotion&lt;/a&gt;のWellnessについての説明をみると、Wellnessを８つのカテゴリに分けている。&lt;/p&gt;
+
+&lt;p&gt;画像はMIDDLESEX Community College版の邦訳だ。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/20160419/wellness_wheel.png&quot; alt=&quot;ウェルネスの車輪&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Emotional Wellness（感情的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Enviromnental Wellness（環境的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Financial Wellness（財務的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Intellectual Wellness（知的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Occupational Wellness（職業的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Physical Wellness（肉体的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Social Wellness（社会的ウェルネス）&lt;/li&gt;
+  &lt;li&gt;Spiritual Wellness（精神的ウェルネス）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;このカテゴリ・次元の数・内容はサイトによって異なる場合もあるが、&lt;a href=&quot;http://www.who.int/healthpromotion/about/HPR%20Glossary_New%20Terms.pdf&quot;&gt;WHOの定義&lt;/a&gt;にもあるように、ウェルネスとは単に「こころとからだ」といった心理的、身体的なよい状態を示すだけでなく、社会的な繋がりや、職業的なやりがい、知的・創造的な取り組み、精神的つまり人生の目的や意味の探求、周辺の環境、そして財務的・経済的側面が、相互作用を起こして、我々の&lt;strong&gt;いい感じ&lt;/strong&gt;を作り上げていると捉えた。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;ウェルネスは静的な状態「ではない」&lt;/h2&gt;
+
+&lt;p&gt;先に挙げた&lt;a href=&quot;https://www.fh-joanneum.at/global/show_document.asp?id=aaaaaaaaaabdjus&amp;amp;&quot;&gt;James William Miller氏の論文&lt;/a&gt;では、ウェルネスの定義について次のような記載があった。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ウェルネスは、特定の固定された状態ではなく、むしろ連続性である。すべての個人は、それぞれの特定の環境に依存しつつ、死とウェルネスの間の連続性のどこかに位置する&lt;/li&gt;
+  &lt;li&gt;ウェルネスは、身体的、心理的、社会的、文化的、精神的な次元を包含した健康に対する全体論的アプローチだ&lt;/li&gt;
+  &lt;li&gt;心理的ウェルネスは、他人に任せられない個人の責務である&lt;/li&gt;
+  &lt;li&gt;ウェルネスとは、可能性 ーー 個人ができうる最高のよい状態に向かう助けになることを含むものである&lt;/li&gt;
+  &lt;li&gt;自己理解と自己統合は、高次のウェルネスへ向かう鍵である&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;訳がこなれてないからかもしれないが、少し文が難解な気がする。&lt;/p&gt;
+
+&lt;p&gt;先の&lt;a href=&quot;http://unh.edu/health-services/ohep/wellness&quot;&gt;Office of Health Education and Promotion&lt;/a&gt;にある「ウェルネスとは」の解説には次のような説明があったので併せて掲載してみる。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;あなたが気づき、より調和の取れた人生に向けた選択肢を作ることを通じた活動的プロセス&lt;/li&gt;
+  &lt;li&gt;すべての可能性を手にする、意識的、自己決定的、進化的なプロセス&lt;/li&gt;
+  &lt;li&gt;多次元・自己全体性のライフスタイル&lt;/li&gt;
+  &lt;li&gt;前向きで自己肯定的&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;より簡潔に言ってしまうと&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;状態ではなくプロセス&lt;/li&gt;
+  &lt;li&gt;意識的・自己決定的&lt;/li&gt;
+  &lt;li&gt;多次元・全体的&lt;/li&gt;
+  &lt;li&gt;前向き・自己肯定的&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ということになるだろう。両者は文章は違えど、ほぼ同じ内容を指していると感じた。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;ウェルネスとは「全体としていい感じであり続ける」こと&lt;/h2&gt;
+
+&lt;p&gt;つまるところ、ウェルネスとは&lt;strong&gt;様々な次元が相互作用した結果として、全体がいい感じであり続けることを、個人が意識的に行う&lt;/strong&gt;という概念なのだと理解した。&lt;/p&gt;
+
+&lt;p&gt;時には仕事に注力することもあるだろうし、逆に身体的な部分に着目することもあるだろう。いずれにしても前向きな姿勢で、意識的に、全体性として、いい感じにあり続けようとする姿勢・過程が大事だ、とういことだ。&lt;/p&gt;
+
+&lt;p&gt;それぞれの次元は分かつことなく結びついている。仕事が忙しくて、睡眠不足であったら、よい仕事はできないし、感情的にもイライラしてしまいがちだ。&lt;/p&gt;
+
+&lt;p&gt;逆に仕事しやすい・リラックスできる環境が整っていれば、自ずと仕事の効率もよくなるし、その結果としてストレスもなくなって感情的・精神的にも安定する。&lt;/p&gt;
+
+&lt;p&gt;「仕事が楽しい・チャレンジしがいがある」という状態であれば、自ずと仕事に積極的に関わることができる。&lt;/p&gt;
+
+&lt;p&gt;ウェルネスというと、つい「肉体的・心理的」なものに捉えがちであるが、そこにとどまらないということを、このウェルネスの車輪は気づかせてくれる。&lt;/p&gt;
+
+&lt;p&gt;また、これらの定義には含まれていないが、&lt;strong&gt;ウェルネスは他人が決めるものではない&lt;/strong&gt; ということだ。&lt;/p&gt;
+
+&lt;p&gt;あくまでも自分自身がいい感じかどうかを、自分に問いかけ続け、意識的に日々の生活のなかで選択し続けるのだ。それは自分の責任であり、他人には任せられないのだから。&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>ヘルスハックカンファレンスを松山でやる意味・その理由</title>
