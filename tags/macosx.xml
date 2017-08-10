@@ -3,7 +3,7 @@
  <title>Your Title - MacOSX</title>
  <link href="http://giantech.jp/tags/macosx.xml" rel="self"/>
  <link href="http://giantech.jp/tag/MacOSX.html"/>
- <updated>2016-04-21T13:26:30+09:00</updated>
+ <updated>2017-08-11T04:50:55+09:00</updated>
  <id>http://giantech.jp/tags/MacOSX.html</id>
  <author>
    <name>Author Here</name>
@@ -11,9 +11,9 @@
  
  <entry>
    <title>Keynote Version 6をインストールして気づいた違い</title>
-   <link href="http://giantech.jp/2013/10/25/keynote_ver6/"/>
-   <updated>2013-10-25T08:59:59+09:00</updated>
-   <id>http://giantech.jp/2013/10/25/keynote_ver6</id>
+   <link href="http://giantech.jp/2013/10/24/keynote_ver6/"/>
+   <updated>2013-10-24T23:59:59+00:00</updated>
+   <id>http://giantech.jp/2013/10/24/keynote_ver6</id>
    <content type="html">
 &lt;h3 id=&quot;section&quot;&gt;はじめに&lt;/h3&gt;
 &lt;p&gt;自分としては珍しく、早々にMacOSXをアップデートした。その際に、合わせて最新バージョンが公開されているKeynoteもアップデートしようか迷ったのだけど、インスペクションがウィンドウに組込まれた、という事前情報があり購入に踏み切った。&lt;/p&gt;

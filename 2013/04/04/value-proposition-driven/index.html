@@ -1,0 +1,376 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>価値提案駆動 -- TDDとの類似点</title>
+	<meta name="author" content="Takeshi Kakeda">
+	<meta property="fb:app_id" content="1454999371428349" />
+	<meta property="fb:admins" content="566704592" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://giantech.jp/2013/04/04/value-proposition-driven/" />
+	<meta property="og:description" content="" />
+ 	<meta property="og:site_name" content="いきてま＠えひめ" />
+	<meta property="og:title" content="価値提案駆動 -- TDDとの類似点" />
+	<meta property="og:image" content="http://giantech.jp/assets/logo_cghll.png"" />
+	<meta property="article:published_time" content="2013-04-04T23:59:59+00:00" />
+	<meta property="article:author" content="http://www.facebook.com/takeshi.kakeda" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@kkd">
+	<meta name="twitter:title" content="価値提案駆動 -- TDDとの類似点">
+	<meta name="twitter:url" content="http://giantech.jp/2013/04/04/value-proposition-driven/">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="http://giantech.jp/assets/logo_cghll.png"">
+
+<meta name="google-site-verification" content="Am_ao4FaUfs7YpAkkquVq41K-oOKzWOfTC266beXCOw" />
+	<link href='/assets/themes/the-minimum/css/style.css' rel="stylesheet" media="all">
+	<!-- custom css -->
+	<link rel="stylesheet" type="text/css" href="/assets/kkd.css">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="価値提案駆動 -- TDDとの類似点" type="application/atom+xml">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+	window._pt_sp_2 = [];
+	_pt_sp_2.push('setAccount,1e98b194');
+	var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	(function() {
+		var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+		atag.src = _protocol + 'js.ptengine.jp/pta.js';
+		var stag = document.createElement('script'); stag.type = 'text/javascript'; stag.async = true;
+		stag.src = _protocol + 'js.ptengine.jp/pts.js';
+		var s = document.getElementsByTagName('script')[0]; 
+		s.parentNode.insertBefore(atag, s);s.parentNode.insertBefore(stag, s);
+	})();
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.3&appId=1454999371428349";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+       
+<div id="page" class="hentry">
+		<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<p class="logo small"><a href="/"><img class="site_logo" src="/assets/logo_cghll.png" /></a></p>
+				<nav class="nav-global">
+					<ul>
+						<li class="page"><a href="/about">about</a></li>
+						<li class="archive"><a href="/archive">過去のエントリ</a></li>
+						<li class="page"><a href="/archeological_pages">考古学的記事</a></li>
+						<li class="page"><a href="/pages">全記事</a></li>
+						<li class="category"><a href="/categories">カテゴリ</a></li>
+						<li class="tag"><a href="/tags">タグ</a></li>
+						<!-- google custom search -->
+						<li class="page"><form action="http://www.google.co.jp/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-9613785634594580:8109281756" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="40" />
+    <input type="submit" name="sa" value="サイト検索" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+<script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&t13n_langs=en"></script>
+
+<script type="text/javascript" src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script></li>
+						<li class="page"><div class="fb-follow fb_iframe_widget" data-href="https://www.facebook.com/takeshi.kakeda" data-colorscheme="light" data-layout="button" data-show-faces="true"></div></li>
+						<li class="page"><span class="feedly-btn-horizontal">
+	<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fgiantech.jp%2Frss.xml' target='blank'>
+		<img id='feedly-follow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-small_2x.png'alt='follow us in feedly'></a>
+</span></li>
+						<li class="page"><style>
+.strava-badge- { 
+	display: inline-block; height: 20px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge- img {
+	visibility: hidden; height: 20px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge-:hover {
+	background-position: 0 -31px; 
+	margin-bottom: 0;
+	vertical-align: middle;
+} 
+.strava-badge-follow { 
+	margin-bottom: 0;
+	height: 20px; 
+	width: 20px; 
+	background: url(/assets/images/blogparts/echelon-sprite-20.png) no-repeat 0 0; 
+	vertical-align: middle;
+} 
+</style>
+<a href="http://strava.com/athletes/3772130/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="/assets/images/blogparts/echelon-sprite-20.png" alt="Strava" /></a></li>
+
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+<article class="unit-article layout-post">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">価値提案駆動 -- TDDとの類似点</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					<div class="misc-content">
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+					</div>
+					<br/>
+					
+<h3 id="section">概要</h3>
+
+<p>Lean Startupで知られるようになってきたMVP(Minimum Viable Product: 最小限の実用可能な製品)と、Running Leanで提唱されている独自の価値提案(Unique Value Proposition: UVP)について、ソリューション(どう実現するか)よりも先にUVPを先に考えMVPによって早期から検証を繰り返しながらプロダクトを構築していくプロセスが、ソフトウェア開発におけるTDD(Test Driven Development : テスト駆動開発)におけるテストを先に書いて、実装して、リファクタリングするというプロセスに似ているのではないかと考えた。</p>
+
+<h3 id="section-1">本文</h3>
+
+<p>最近、Running Leanのワークショップを@kdmsnrさんと一緒に開催したり、実際に自分でリーンキャンバスを書く機会が増えたため、ソリューションより先に独自の価値提案(UVP)を先に考えることに慣れてきた。これまでにも「プロダクトのビジョン、コンセプト」を先に考えるということはしてきたが、今考えてみると、ソリューションを先に思いつき、それに合わせて価値提案を作っていたのでは？という気がしてならない。</p>
+
+<p>先にUVPを考えるということは ，はじめにゴールを達成した後の状態である「誰にどのような素晴しい未来が待っているのか」を考えることだ。
+UVPを考えその後にUVPを満たすソリューションを作りあげていくプロセスは、TDDと同様に，ゴールを設定してからそこに向う道を進んでいくという点で似ている。逆に言うと「はじめにソリューションありきのプロダクトづくり」は<strong>プロダクトコードありきのテストと同じ</strong>ということだ。</p>
+
+<p>またゴール設定という意味で考えても、仕様的ゴール(=XXX という機能があって、このような条件を満たしている)ではなく、プロダクトを受け取った人がどのように感じ、どのように利益を得るのかという、<strong>ユーザー体験的ゴール</strong>という点が重要だ。</p>
+
+<p>UVPとTDDと比較して異なる点は、あくまでもUVPそのものが仮説であるという点だ。いくらUVPを満たすソリューションをもつ製品を作ったとしても、それが顧客にとって正しいプロダクトかどうかは作る段階ではわからない。もちろんTDDが満たそうとするゴール(=テスト)もその後のプロダクトへのフィードバックの結果によって変わりうる。結局ある時点でのゴールと考えるものは、どれもこれも「いずれ変更される可能性はある当面のゴール」でしかないということに気づく。</p>
+
+<p>ここで「Validation(正しく製品を作っているか）」と「Verification(正しい製品を作っているか)」の違いについて思い出した。(参考:<a href="http://lise.me.sophia.ac.jp/kktm/Essay/validation_verification.htm">validation and verification: 確認と検証</a>)
+UVPを検証するという行為は、「正しい製品」を探索することに等しい。「「正しい製品」が正しいか」を最初から定義することはできない。だから、早くUVP(を含めたビジネスモデル)が対象顧客にとって正しいものか(=価値のあるものか)という仮説を、MVPを使って検証しないといけない。そのためUVPが価値があるものらしいという手応えを感じるまでは、作り込んではいけない。なぜなら<strong>UVPが正しくなければ作ったものがムダになる</strong>ためだ。TDDにおいても、まずはテストを満たすシンプルなコードを書き、テストをパスさせた上でリファクタリングする。テストを満たす最小限のコード(仮にMinimum Viable Codeと呼ぶ)は、最初にUVPを実現し検証するMVPに類似しているのではないか。</p>
+
+<p>MVPについて考えた時には<a href="https://sites.google.com/site/techdmba/kanomodel">狩野モデル</a>における当たり前品質(あっても魅力にはならないが、なければ困る機能)はどうなるのか、という疑問が生じる。言い換えると「MVPに当たり前品質のフィーチャが必要か？」という疑問である。これはMVPの種類にもよるが、できるだけ「作らないようにする」のがよいだろう。MVPで検証したいのは、<strong>魅力品質を満たす(であろうという未踏の仮説)</strong>フィーチャであるからだ。MVPを構築する上で、当たり前品質の機能を作らないといけない、という状況もあるかもしれない。その場合は「できるだけ作らないで検証できるMVPはどのようなものか？」という問いに変えたほうがよい。</p>
+
+<p>TDDにおいても、コードの当たり前品質をプログラマーにとっての当たり前品質として考えるとクリーンコード(リーダブル、DRY、etc)やカバレッジのようなものになるのではないか。TDDでまず検証したいのはクリーンコードではなくテストを満たしているかどうかだ。(これをプログラマー的な魅力的品質と呼ぶのはちょっと抵抗があるが,…)</p>
+
+<p>まとめると、まず最優先で検証したい事柄(仮説)を設定し、それを検証するために最低限の実現方法を用いて実現し、その成果の結果を測定して、実現内容をブラッシュアップしていくか、次の仮説検証に取り組むかの判断を行うという仮説検証プロセスモデルは、コードレベルからプロダクト/サービスレベルにまで通じるプロセスモデルである、という話でした。</p>
+
+<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=giantech-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4873115914" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+					<div class="meta">
+						<p class="date-publish">
+							Published: 
+							<date class="date-pub" title="2013-04-04T23:59:59+00:00" datetime="2013-04-04T23:59:59+00:00" pubdate>
+							<span class="month"><abbr>2013</abbr></span>/
+							<span class="day">04</span>/
+							<span class="year">04</span>
+							</date>
+						</p>
+						<p>Source on Github: <span><a href="http://github.com/kkd/kkd.github.com/blob/master/_posts/2013/2013-04-04-value-proposition-driven.md">価値提案駆動 -- TDDとの類似点</a></span></p>
+						<ul class="list-category list-linear">
+							<li class="list-head">category: </li>
+							
+							
+
+
+  
+     
+    	<li><a href="/categories.html#creative-ref">
+    		creative <span>14</span>
+    	</a></li>
+    
+  
+
+
+						</ul>
+						<ul class="list-tag list-linear">
+							<li class="list-head">tags: </li>
+							
+							
+
+   
+    <li><a href="/tags/software-development" style="font-size: 160%">software development <span>3</span></a></li>
+   
+    <li><a href="/tags/ソフトウェア開発" style="font-size: 112%">ソフトウェア開発 <span>4</span></a></li>
+   
+    <li><a href="/tags/essay" style="font-size: 100%">essay <span>2</span></a></li>
+   
+    <li><a href="/tags/エッセイ" style="font-size: 96%">エッセイ <span>2</span></a></li>
+   
+    <li><a href="/tags/Running-Lean" style="font-size: 128%">Running Lean <span>1</span></a></li>
+   
+    <li><a href="/tags/TDD" style="font-size: 92%">TDD <span>1</span></a></li>
+  
+
+
+						</ul>
+					</div><!-- meta -->
+					<div class="misc-content">
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+						<h3>[関連する記事]</h3>
+
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2017/08/07/which-standingdesk-should-you-choose/"><img src="/assets/images/20170811/standingdesk.png" width="142" height="100"/>2017/08/07<br/>2017年のスタンディングデスク事情を調べてみたらバリエーションが増えていて驚いた件</a></li>
+
+	
+		
+	
+  <li><a href="/2016/04/21/only-one-thing-for-earthquake/"><img src="/assets/images/2016/japan-970705_640.jpg" width="142" height="100"/>2016/04/21<br/>大地震に備えるために必要なたったひとつのこと</a></li>
+
+</ul>
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2016/02/12/healthhackconf/"><img src="/assets/images/20160212/healthhackconf.jpg" width="142" height="100"/>2016/02/12<br/>ヘルスハックカンファレンスを松山でやる意味・その理由</a></li>
+
+	
+		
+	
+  <li><a href="/2016/01/26/migration-to-rural/"><img src="http://giantech.jp/assets/images/20160126/migration_to_rural.png" width="142" height="100"/>2016/01/26<br/>オススメ地方移住スタイルを探せ！！</a></li>
+
+</ul>
+<ul class="related_post">
+
+	
+		
+	
+  <li><a href="/2015/12/31/retrospective-2015/"><img src="http://giantech.jp/assets/images/20151231/IMG_1874.jpg" width="142" height="100"/>2015/12/31<br/>2015年ざっくりふりかえり</a></li>
+
+	
+		
+	
+  <li><a href="/2015/12/24/the-strongest-matsuyama-i-thought/"><img src="http://giantech.jp/assets/images/20151224/route33.jpg" width="142" height="100"/>2015/12/24<br/>ぼくのかんがえたさいきょうのまつやま</a></li>
+
+</ul>
+</p>
+						   <!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//giantech.jp&nsid=93895154733182801%3A%3A123600333694852915&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+						<div class="adsense">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- いきてまG -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-9613785634594580"
+	     data-ad-slot="9882222952"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>						
+					</div>
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<nav class="pagination">
+						<ul>
+							
+							<li class="prev"><a class="internal" rel="prev"  href="/2013/04/01/start-to-use-sublime-text/" title="View sublime text 2を使いはじめた">&laquo; sublime text 2を使いはじめた</a></li>
+							
+							
+							<li class="pipe"> | </li>
+							
+							
+							<li class="next"><a class="internal" rel="next"  href="/2013/04/22/devlove459-vol1/" title="View DevLOVE四国 Vol.1を開催しました。">DevLOVE四国 Vol.1を開催しました。 &raquo;</a></li>
+							
+						</ul>
+					</nav>
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<!-- <li class="contact"><address><span class="author fn n">Takeshi Kakeda</span> - <span class="fn email">takeshi@giantech.jp</span></address></li> -->
+						<li class="github"><a href="http://github.com/kkd/" rel="me">github.com/kkd</a></li>
+						<li class="twitter"><a href="http://twitter.com/kkd/" rel="me">twitter.com/kkd</a></li>
+						<li class="facebook"><a href="http://facebook.com/takeshi.kakeda/" rel="me">Facebook</a></li>
+						<li class="linkedin"><a href="http://linkedin.com/in/takeshikakeda/" rel="me">LinkedIn</a></li>										
+						<li class="slideshare"><a href="http://slideshare.net/kkd/" rel="me">SlideShare(presentation</a></li>										
+						<li class="rss"><a href="http://giantech.jp/rss.xml">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+
+  <!-- { include ads/ads.html } -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53571303-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+

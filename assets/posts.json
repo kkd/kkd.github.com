@@ -2,6 +2,12 @@
     "posts": [
         
         {
+            "title": "2017年のスタンディングデスク事情を調べてみたらバリエーションが増えていて驚いた件",
+            "url": "http://giantech.jp/2017/08/07/which-standingdesk-should-you-choose/",
+            "date": "2017-08-07T00:00:00+09:00"
+        },
+        
+        {
             "title": "大地震に備えるために必要なたったひとつのこと",
             "url": "http://giantech.jp/2016/04/21/only-one-thing-for-earthquake/",
             "date": "2016-04-21T00:00:00+09:00"
@@ -206,12 +212,6 @@
         },
         
         {
-            "title": "減量失敗体験を晒してみよう（イントロダクション）",
-            "url": "http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss/",
-            "date": "2015-03-09T00:00:00+09:00"
-        },
-        
-        {
             "title": "減量失敗体験から学んだこと",
             "url": "http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-retro/",
             "date": "2015-03-09T00:00:00+09:00"
@@ -238,6 +238,12 @@
         {
             "title": "減量失敗体験を晒してみよう(1) 若気の至りで食事制限！しかし…",
             "url": "http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss-1/",
+            "date": "2015-03-09T00:00:00+09:00"
+        },
+        
+        {
+            "title": "減量失敗体験を晒してみよう（イントロダクション）",
+            "url": "http://giantech.jp/2015/03/09/failure-experiences-of-weight-loss/",
             "date": "2015-03-09T00:00:00+09:00"
         },
         
@@ -363,26 +369,26 @@
         
         {
             "title": "パーマカルチャー関西のメルマガに寄稿しました",
-            "url": "http://giantech.jp/2014/04/11/pck-mailmagazine-vol1/",
-            "date": "2014-04-11T08:59:59+09:00"
+            "url": "http://giantech.jp/2014/04/10/pck-mailmagazine-vol1/",
+            "date": "2014-04-10T23:59:59+00:00"
         },
         
         {
             "title": "プロダクトオーナーステップアップセミナー開催",
-            "url": "http://giantech.jp/2014/03/27/po-stepup-seminar/",
-            "date": "2014-03-27T08:59:59+09:00"
+            "url": "http://giantech.jp/2014/03/26/po-stepup-seminar/",
+            "date": "2014-03-26T23:59:59+00:00"
         },
         
         {
             "title": "ロケットストーブワークショップ in 松山",
-            "url": "http://giantech.jp/2014/03/24/rocket-stove-workshop-vol0/",
-            "date": "2014-03-24T08:59:59+09:00"
+            "url": "http://giantech.jp/2014/03/23/rocket-stove-workshop-vol0/",
+            "date": "2014-03-23T23:59:59+00:00"
         },
         
         {
             "title": "仙台でアジャイル型開発におけるプラクティス活用リファレンスガイドセミナー開催",
-            "url": "http://giantech.jp/2014/03/20/ipa-seminar-sendai/",
-            "date": "2014-03-20T08:59:59+09:00"
+            "url": "http://giantech.jp/2014/03/19/ipa-seminar-sendai/",
+            "date": "2014-03-19T23:59:59+00:00"
         },
         
         {
@@ -393,68 +399,68 @@
         
         {
             "title": "Keynote Version 6をインストールして気づいた違い",
-            "url": "http://giantech.jp/2013/10/25/keynote_ver6/",
-            "date": "2013-10-25T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/10/24/keynote_ver6/",
+            "date": "2013-10-24T23:59:59+00:00"
         },
         
         {
             "title": "DevLOVE 「システム思考を手に入れよう。」に向けて",
-            "url": "http://giantech.jp/2013/10/22/systems_thinking_in_devlove/",
-            "date": "2013-10-22T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/10/21/systems_thinking_in_devlove/",
+            "date": "2013-10-21T23:59:59+00:00"
         },
         
         {
             "title": "2013/06/26 PFP関東ワークショップを実施しました",
-            "url": "http://giantech.jp/2013/06/27/pfp-workshop/",
-            "date": "2013-06-27T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/06/26/pfp-workshop/",
+            "date": "2013-06-26T23:59:59+00:00"
         },
         
         {
             "title": "Agile Japan 2013 島根サテライト",
-            "url": "http://giantech.jp/2013/05/31/agile-japan-2013-in-shimane/",
-            "date": "2013-05-31T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/05/30/agile-japan-2013-in-shimane/",
+            "date": "2013-05-30T23:59:59+00:00"
         },
         
         {
             "title": "Agile Japan 2013 四国・愛媛サテライト開催",
-            "url": "http://giantech.jp/2013/05/26/agile-japan-2013-in-ehime/",
-            "date": "2013-05-26T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/05/25/agile-japan-2013-in-ehime/",
+            "date": "2013-05-25T23:59:59+00:00"
         },
         
         {
             "title": "パタン・ランゲージによる震災復興",
-            "url": "http://giantech.jp/2013/04/25/reconstruction-with-pattern-language/",
-            "date": "2013-04-25T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/04/24/reconstruction-with-pattern-language/",
+            "date": "2013-04-24T23:59:59+00:00"
         },
         
         {
             "title": "DevLOVE四国 Vol.1を開催しました。",
-            "url": "http://giantech.jp/2013/04/23/devlove459-vol1/",
-            "date": "2013-04-23T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/04/22/devlove459-vol1/",
+            "date": "2013-04-22T23:59:59+00:00"
         },
         
         {
             "title": "価値提案駆動 -- TDDとの類似点",
-            "url": "http://giantech.jp/2013/04/05/value-proposition-driven/",
-            "date": "2013-04-05T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/04/04/value-proposition-driven/",
+            "date": "2013-04-04T23:59:59+00:00"
         },
         
         {
             "title": "sublime text 2を使いはじめた",
-            "url": "http://giantech.jp/2013/04/02/start-to-use-sublime-text/",
-            "date": "2013-04-02T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/04/01/start-to-use-sublime-text/",
+            "date": "2013-04-01T23:59:59+00:00"
         },
         
         {
             "title": "little by little",
-            "url": "http://giantech.jp/2013/04/01/little-by-little/",
-            "date": "2013-04-01T08:59:59+09:00"
+            "url": "http://giantech.jp/2013/03/31/little-by-little/",
+            "date": "2013-03-31T23:59:59+00:00"
         },
         
         {
             "title": "日記を再開",
             "url": "http://giantech.jp/2013/03/27/restart-blogging/",
-            "date": "2013-03-27T09:00:00+09:00"
+            "date": "2013-03-27T00:00:00+00:00"
         }
         
     ]

@@ -3,7 +3,7 @@
  <title>Your Title - sublime text</title>
  <link href="http://giantech.jp/tags/sublime-text.xml" rel="self"/>
  <link href="http://giantech.jp/tag/sublime text.html"/>
- <updated>2016-04-21T13:26:30+09:00</updated>
+ <updated>2017-08-11T04:50:55+09:00</updated>
  <id>http://giantech.jp/tags/sublime text.html</id>
  <author>
    <name>Author Here</name>
@@ -11,9 +11,9 @@
  
  <entry>
    <title>sublime text 2を使いはじめた</title>
-   <link href="http://giantech.jp/2013/04/02/start-to-use-sublime-text/"/>
-   <updated>2013-04-02T08:59:59+09:00</updated>
-   <id>http://giantech.jp/2013/04/02/start-to-use-sublime-text</id>
+   <link href="http://giantech.jp/2013/04/01/start-to-use-sublime-text/"/>
+   <updated>2013-04-01T23:59:59+00:00</updated>
+   <id>http://giantech.jp/2013/04/01/start-to-use-sublime-text</id>
    <content type="html">
 &lt;p&gt;最近は、保存する必要があるちょっとしたテキスト編集は、&lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvAlt&lt;/a&gt;一択だった。ファイル保存先を考えるのは面倒だし、Evernoteは重いのでSimplenote連携のあるnvAltは、自分のユースケースにぴったりだった。ファイルシステム上に保存するテキストを書く頻度がめっきり減り、結果的にMacVimの出番も減っていた。(Emacsも当然のこと…)&lt;/p&gt;
 
