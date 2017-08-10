@@ -46,7 +46,7 @@ task :alldeploy => [:push_src, :clean, :build, :deploy]
 
 desc "Build all posts and pages."
 task :build do
-  sh "jekyll build -t"
+  sh "bundle exec jekyll build -t"
 end
 
 desc "Clean _site"
